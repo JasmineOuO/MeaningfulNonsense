@@ -20,7 +20,7 @@ module.exports = {
       options: {
         name: `Meaningful Nonsense`,
         short_name: `Meaningful Nonsense`,
-        start_url: `/`,
+        start_url: `/MeaningfulNonsense`,
         background_color: `#f7d1d3`,
         theme_color: `#f7d1d3`,
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
@@ -30,7 +30,7 @@ module.exports = {
         include_favicon: true, // Include favicon
       },
     },
-   'gatsby-plugin-offline',
+   'gatsby-plugin-offline'
   ],
   pathPrefix: "/MeaningfulNonsense",
 }
