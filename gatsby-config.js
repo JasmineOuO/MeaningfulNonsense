@@ -30,8 +30,6 @@ module.exports = {
         include_favicon: true, // Include favicon
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
    'gatsby-plugin-offline',
   ],
   pathPrefix: "/MeaningfulNonsense",
