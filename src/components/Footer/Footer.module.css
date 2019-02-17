@@ -15,6 +15,36 @@
   letter-spacing: 0.1em;
 }
 
+.Bench {
+  position: absolute;
+  right: 100px;
+  bottom: 200px;
+  fill: #A7A3A7;
+  width: 70px;
+}
+
+.Lamp {
+  position: absolute;
+  right: 180px;
+  bottom: 200px;
+  width: 20px;
+  fill: #A7A3A7;
+}
+
+.RightTrees, .LeftTrees {
+  position: absolute;
+  bottom: 195px;
+  z-index: -1;
+}
+
+.RightTrees {
+  right: 0;
+}
+
+.LeftTrees {
+  left: 0;
+}
+
 .Copyright {
   margin-top:70px;
 }
