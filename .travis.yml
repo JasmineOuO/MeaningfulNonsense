@@ -1,0 +1,26 @@
+name: "JasmineOuO"
+project-name: "MeaningfulNonsense"
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
+git:
+  depth: 3
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local_dir: public
+  keep-history: true
+  on:
+    branch: master
+script:
+  - "yarn build"
+notifications:
+  email:
+    recipients:
+      - icecreamdreaming@gmail.com
+    on_success: always
+    on_failure: always
