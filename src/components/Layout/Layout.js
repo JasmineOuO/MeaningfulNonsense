@@ -6,14 +6,14 @@ import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import "./Layout.css";
 
- // We use dynamic import to prevent "window is not defined" error
- import('webfontloader').then(WebFontLoader => {
-    WebFontLoader.load({
-      google: {
-        families: ['Dancing+Script:700', 'Montserrat:500']
-      }
-    })
+// We use dynamic import to prevent "window is not defined" error
+import('webfontloader').then(WebFontLoader => {
+  WebFontLoader.load({
+    google: {
+      families: ['Dancing+Script:700', 'Montserrat:500']
+    }
   })
+})
 
 const Layout = ({ children }) => (
   <StaticQuery
