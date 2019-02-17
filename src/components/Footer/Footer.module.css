@@ -1,5 +1,6 @@
 .Footer {
-  position: relative;
+  position: absolute;
+  bottom: 0;
   background-color: #A7A3A7;
   color: #FFFFFF;
   margin-top: 300px;
@@ -47,4 +48,10 @@
 
 .Copyright {
   margin-top:70px;
+}
+
+@media (max-width: 600px) {
+  .Lamp {
+    display: none;
+  }
 }

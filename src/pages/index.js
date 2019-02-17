@@ -15,7 +15,6 @@ WebFont.load({
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`meaningful`, `nonsense`, `blog`]} />
-    
   </Layout>
 );
 
