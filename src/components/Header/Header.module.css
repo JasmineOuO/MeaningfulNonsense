@@ -1,0 +1,32 @@
+.Header {
+  position: relative;
+}
+
+.Title {
+  display: flex;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bolder;
+  font-size: 60px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 7vw;
+}
+
+.Link {
+  text-decoration: none;
+  color:#404040;
+}
+
+.Branches {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top:-4vw;
+  z-index:-1;
+  fill: #676768;
+}
+
+.BranchesGap {
+  fill: #fff;
+}
