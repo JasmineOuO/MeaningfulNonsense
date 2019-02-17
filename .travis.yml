@@ -6,8 +6,6 @@ node_js:
 cache:
   directories:
   - node_modules
-git:
-  depth: 3
 deploy:
   provider: pages
   skip-cleanup: true
@@ -17,10 +15,4 @@ deploy:
   on:
     branch: master
 script:
-  - "yarn deploy"
-notifications:
-  email:
-    recipients:
-      - icecreamdreaming@gmail.com
-    on_success: always
-    on_failure: always
+  - "yarn build"
