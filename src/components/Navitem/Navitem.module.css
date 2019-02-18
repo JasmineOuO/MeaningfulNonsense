@@ -1,10 +1,22 @@
 .Navitem {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+
   display: inline-block;
+  color: #544a4e;
   text-align: left;
+  text-decoration: none;
+  padding: 14px 40px;
 }
 
 .Dropbtn {
-
+  display: inline-block;
+  color: #544a4e;
+  text-align: left;
+  text-decoration: none;
+  padding: 14px 40px;
 }
 
 .Dropdown {

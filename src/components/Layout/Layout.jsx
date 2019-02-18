@@ -1,10 +1,11 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { StaticQuery, graphql } from "gatsby";
+import React from 'react';
+import PropTypes from 'prop-types';
+import { StaticQuery, graphql } from 'gatsby';
 
-import Header from "../Header/Header";
-import Footer from "../Footer/Footer";
-import "./Layout.css";
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
+import Navbar from '../Navbar/Navbar';
+import './Layout.css';
 
 // We use dynamic import to prevent "window is not defined" error
 import('webfontloader').then(WebFontLoader => {
@@ -21,7 +22,14 @@ const Layout = ({ children }) => (
       query SiteTitleQuery {
         site {
           siteMetadata {
-            title
+            navLinks {
+              name
+              link
+              navLinks {
+                name
+                link
+              }
+            }
           }
         }
       }
@@ -29,6 +37,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header />
+        <Navbar navLinks={data.site.siteMetadata.navLinks} />
           <main>{children}</main>
         <Footer />
       </>
