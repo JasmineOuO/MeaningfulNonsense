@@ -48,6 +48,7 @@
 
 .Copyright {
   margin-top:70px;
+  fill: black;
 }
 
 @media (max-width: 600px) {
