@@ -1,0 +1,17 @@
+.Navbar {
+  text-align: left;
+  margin-top: 5vw;
+  margin-bottom: 0;
+  width: 100%;
+  background-color: #e8c5d6;
+  position: sticky;
+  position: -webkit-sticky;
+  top: -2px; /*makes up for tiny gap between top of screen and top of navbar*/
+  z-index: 3;
+  max-height: 1000px; /*quick fix for mobile navbar bug*/
+
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
