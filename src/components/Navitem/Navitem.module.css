@@ -9,22 +9,12 @@
 }
 
 .Navitem:hover > .Dropbtn:after {
-  -webkit-transition: opacity 0.2s;
-  -moz-transition:  opacity 0.2s;
-  -ms-transition:  opacity 0.2s;
-  -o-transition: opacity 0.2s;
   transition: opacity 0.2s;
-
-  -webkit-transition-delay: .5s;
-  -moz-transition-delay: .5s;
-  -ms-transition-delay: .5s;
-  -o-transition-delay: .5s;
   transition-delay:.5s;
-
   opacity:1;
 }
 
-.Dropbtn {
+.Dropbtn, .Btn {
   display: inline-block;
   color: #544a4e;
   text-align: left;
@@ -36,7 +26,7 @@
   content: '';
   position: relative;
   left: 0;
-  bottom: -6px;
+  bottom: -7px;
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
@@ -44,26 +34,4 @@
   border-bottom: 8px solid transparent;
   border-bottom-color: #f9f9f9;
   opacity:0;
-}
-
-.Dropdown {
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  width: 100%;
-  left: 0;
-  z-index: 5;
-
-  -webkit-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -moz-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -ms-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -o-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-
-  display: block;
-  opacity: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }

@@ -1,19 +1,20 @@
 .Navbar {
-  margin-top: 15.5vw;
-  margin-bottom: 0;
   position: sticky;
   position: -webkit-sticky;
+  top: -2px; /*makes up for tiny gap between top of screen and top of navbar*/
+  margin: 15.5vw 0 0 0;
+  max-height: 1000px; /*quick fix for mobile navbar bug*/
+  z-index: 3;
   background-color: #e8c5d6;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 19px;
   text-transform: uppercase;
   text-align: left;
   letter-spacing: 0.3em;
-  z-index: 3;
 }
 
 @media (max-width: 600px) {
   .Navbar {
-    margin-top: -19.7vw;
+    margin: -19.7vw 0 0 0;
   }
 }

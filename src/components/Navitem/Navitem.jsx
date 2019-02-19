@@ -1,26 +1,46 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Link } from 'gatsby';
 
 import classes from './Navitem.module.css';
-import Dropitem from '../Dropitem/Dropitem';
+import Dropdown from '../Dropdown/Dropdown';
 
-const Navitem = ({ name, link, navLinks }) => (
-  <div key={name} className={classes.Navitem}>
-    <Link
-      to={link}
-      className={classes.Dropbtn}
-      activeStyle={{ backgroundColor: '#e8b4cd' }}
-      title={name}
-      key={name}
-    >
-      {name}
-    </Link>
-    <div className={classes.Dropdown}>
-      {
-        navLinks.map(navLink => <Dropitem name={navLink.name} link={navLink.link} />)
-      }
-    </div>
-  </div>
-);
+class Navitem extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { isHovered: false };
+  }
+
+  handleMouseEnter = () => {
+    this.setState({ isHovered: true });
+  }
+
+  handleMouseLeave = () => {
+    this.setState({ isHovered: false });
+  }
+
+  render() {
+    const { isHovered } = this.state;
+    const { name, link, navLinks } = this.props;
+    return (
+      <div
+        key={name}
+        className={classes.Navitem}
+        onMouseEnter={this.handleMouseEnter}
+        onMouseLeave={this.handleMouseLeave}
+      >
+        <Link
+          to={link}
+          className={navLinks.length === 0 ? classes.Btn : classes.Dropbtn}
+          activeStyle={{ backgroundColor: '#e8b4cd' }}
+          title={name}
+          key={name}
+        >
+          {name}
+        </Link>
+        <Dropdown navLinks={navLinks} isHovered={isHovered} />
+      </div>
+    );
+  }
+}
 
 export default Navitem;

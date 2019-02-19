@@ -28,6 +28,38 @@ module.exports = {
           },
         ],
       },
+      {
+        name: 'stories',
+        link: '/stories',
+        navLinks: [
+          {
+            name: 'all stories',
+            link: '/allstories',
+          },
+          {
+            name: 'serendipity',
+            link: '/serendipity',
+          },
+        ],
+      },
+      {
+        name: 'life',
+        link: '/life',
+        navLinks: [
+          {
+            name: 'all life entries',
+            link: '/alllife',
+          },
+          {
+            name: 'everyday thoughts',
+            link: '/everydaythoughts',
+          },
+          {
+            name: 'life lessons',
+            link: '/lifelessons',
+          },
+        ],
+      },
     ],
   },
   plugins: [

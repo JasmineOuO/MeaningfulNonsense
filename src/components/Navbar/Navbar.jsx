@@ -7,7 +7,12 @@ const Navbar = ({ navLinks }) => (
   <nav className={classes.Navbar}>
     {
       navLinks.map(navLink => (
-        <Navitem name={navLink.name} link={navLink.link} navLinks={navLink.navLinks} />
+        <Navitem
+          key={navLink.name}
+          name={navLink.name}
+          link={navLink.link}
+          navLinks={navLink.navLinks}
+        />
       ))
     }
   </nav>
