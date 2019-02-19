@@ -52,7 +52,6 @@
   }
 
   .Navitem.Responsive .Dropbtn, .Navitem.Responsive .Btn {
-    display: block;
     width: 100%;
     float: none;
     display: block;

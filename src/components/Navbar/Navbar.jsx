@@ -30,13 +30,11 @@ class Navbar extends Component {
             />
           ))
         }
-        <div className={classes.HamburgerIcon}>
-          <button className={hamburgerOpened ? `${classes.Hamburger} ${classes.HamburgerSlider} ${classes.Active}` : `${classes.Hamburger} ${classes.HamburgerSlider}`} type="button" onClick={this.handleClick}>
-            <span className={classes.HamburgerBox}>
-              <span className={classes.HamburgerInner} />
-            </span>
-          </button>
-        </div>
+        <button aria-label="Expand navigation bar" type="button" className={hamburgerOpened ? `${classes.HamburgerIcon} ${classes.Hamburger} ${classes.HamburgerSlider} ${classes.Active}` : `${classes.HamburgerIcon} ${classes.Hamburger} ${classes.HamburgerSlider}`} onClick={this.handleClick}>
+          <div className={classes.HamburgerBox}>
+            <div className={classes.HamburgerInner} />
+          </div>
+        </button>
       </nav>
     );
   }

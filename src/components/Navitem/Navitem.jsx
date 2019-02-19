@@ -23,10 +23,14 @@ class Navitem extends Component {
     const {
       name, link, navLinks, hamburgerOpened,
     } = this.props;
+    const navitemClasses = [classes.Navitem];
+    if (hamburgerOpened) {
+      navitemClasses.push(classes.Responsive);
+    }
     return (
       <div
         key={name}
-        className={hamburgerOpened ? `${classes.Navitem} ${classes.Responsive}` : classes.Navitem}
+        className={navitemClasses.join(' ')}
         onMouseEnter={this.handleMouseEnter}
         onMouseLeave={this.handleMouseLeave}
       >
