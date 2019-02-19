@@ -3,10 +3,10 @@ import React from 'react';
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/Seo/Seo';
 
-const AboutPage = () => (
+const TravelPage = () => (
   <Layout>
-    <SEO title="About" keywords={['meaningful', 'nonsense', 'blog']} />
+    <SEO title="Travel" keywords={['meaningful', 'nonsense', 'blog']} />
   </Layout>
 );
 
-export default AboutPage;
+export default TravelPage;

@@ -35,3 +35,28 @@
   border-bottom-color: #f9f9f9;
   opacity:0;
 }
+
+@media (max-width: 1000px) {
+  .Dropbtn, .Btn {
+    display: none;
+  }
+
+  .Navitem {
+    float: none;
+    display: block;
+  }
+
+  .Dropdown {
+    position: relative;
+    box-shadow: none;
+  }
+
+  .Navitem.Responsive .Dropbtn, .Navitem.Responsive .Btn {
+    display: block;
+    width: 100%;
+    float: none;
+    display: block;
+    text-align: left;
+    padding: 12px 40px;
+  }
+}

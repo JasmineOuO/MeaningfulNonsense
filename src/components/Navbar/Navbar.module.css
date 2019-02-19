@@ -13,8 +13,111 @@
   letter-spacing: 0.3em;
 }
 
+.Hamburger {
+  padding: 0;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  color: #917986;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible;
+}
+
+.Hamburger:focus {
+  outline:0;
+}
+
+.HamburgerBox {
+  width: 30px;
+  height: 24px;
+  display: inline-block;
+  position: relative;
+}
+
+.HamburgerInner {
+  display: block;
+  top: 50%;
+  margin-top: -2px; 
+}
+
+.HamburgerInner, .HamburgerInner::before, .HamburgerInner::after {
+  width: 30px;
+  height: 2px;
+  background-color: #917986;
+  border-radius: 4px;
+  position: absolute;
+  transition-property: transform;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+
+.HamburgerInner::before, .HamburgerInner::after {
+  content: "";
+  display: block; 
+}
+
+.HamburgerInner::before {
+  top: -10px; 
+}
+
+.HamburgerInner::after {
+  bottom: -10px; 
+}
+
+.HamburgerSlider .HamburgerInner {
+  top: 2px; 
+}
+
+.HamburgerSlider .HamburgerInner::before {
+  top: 10px;
+  transition-property: transform, opacity;
+  transition-timing-function: ease;
+  transition-duration: 0.15s; 
+}
+
+.HamburgerSlider .HamburgerInner::after {
+  top: 20px; 
+}
+
+.HamburgerSlider.Active .HamburgerInner {
+  transform: translate3d(0, 10px, 0) rotate(45deg); 
+}
+
+.HamburgerSlider.Active .HamburgerInner::before {
+  transform: rotate(-45deg) translate3d(-5.71429px, -6px, 0);
+  opacity: 0; 
+}
+
+.HamburgerSlider.Active .HamburgerInner::after {
+  transform: translate3d(0, -20px, 0) rotate(-90deg); 
+}
+
+.HamburgerIcon {
+  display: none;
+}
+
 @media (max-width: 600px) {
   .Navbar {
     margin: -19.7vw 0 0 0;
+  }
+}
+
+@media (max-width: 1000px) {
+  .Navbar, .Navbar.Responsive {
+      position: relative;
+  }
+  
+  .HamburgerIcon {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 12.5px 30px 9px 30px;
+    color: #917986;
   }
 }

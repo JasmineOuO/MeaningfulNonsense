@@ -22,7 +22,7 @@
   text-overflow: ellipsis;
 }
 
-.Open {
+.Dropdown.Open {
   -webkit-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
   -moz-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
   -ms-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
@@ -60,3 +60,16 @@
   background-color: #BEBEBE;
 }
 
+@media (max-width: 1000px) {
+  .Dropitem {
+    float: none;
+    display: block;
+    text-align: left;
+    padding: 12px 40px;
+  }
+
+  .Dropdown {
+    position: relative;
+    box-shadow: none;
+  }
+}

@@ -16,7 +16,7 @@ module.exports = {
       },
       {
         name: 'photography',
-        link: '/photography',
+        link: '',
         navLinks: [
           {
             name: 'food',
@@ -30,11 +30,11 @@ module.exports = {
       },
       {
         name: 'stories',
-        link: '/stories',
+        link: '',
         navLinks: [
           {
             name: 'all stories',
-            link: '/allstories',
+            link: '/stories',
           },
           {
             name: 'serendipity',
@@ -44,11 +44,11 @@ module.exports = {
       },
       {
         name: 'life',
-        link: '/life',
+        link: '',
         navLinks: [
           {
             name: 'all life entries',
-            link: '/alllife',
+            link: '/life',
           },
           {
             name: 'everyday thoughts',
