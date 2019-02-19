@@ -41,7 +41,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "devDependencies": {
-    "eslint": "^5.14.1",
+    "babel-eslint": "8",
+    "eslint": "4.x",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-loader": "^2.1.2",
     "eslint-plugin-import": "^2.16.0",

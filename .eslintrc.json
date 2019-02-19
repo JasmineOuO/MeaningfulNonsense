@@ -4,6 +4,7 @@
         "es6": true
     },
     "extends": "airbnb",
+    "parser": "babel-eslint",
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
@@ -19,6 +20,9 @@
         "react"
     ],
     "rules": {
-        "react/prop-types": 0
+        "strict": 0,
+        "react/prop-types": 0,
+        "react/forbid-prop-types": 0,
+        "import/no-named-as-default": 0
     }
 }

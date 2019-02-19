@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import PropTypes from 'prop-types';
 import { StaticQuery, graphql } from 'gatsby';
@@ -8,13 +9,11 @@ import Navbar from '../Navbar/Navbar';
 import './Layout.css';
 
 // We use dynamic import to prevent "window is not defined" error
-import('webfontloader').then(WebFontLoader => {
-  WebFontLoader.load({
-    google: {
-      families: ['Dancing+Script:700', 'Montserrat:500']
-    }
-  })
-})
+import('webfontloader').then(WebFontLoader => WebFontLoader.load({
+  google: {
+    families: ['Dancing+Script:700', 'Montserrat:500', 'Open+Sans+Condensed:300,700'],
+  },
+}));
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -38,7 +37,7 @@ const Layout = ({ children }) => (
       <>
         <Header />
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
-          <main>{children}</main>
+        <main>{children}</main>
         <Footer />
       </>
     )}

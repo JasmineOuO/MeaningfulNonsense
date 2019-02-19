@@ -1,5 +1,4 @@
 .Footer {
-  position: absolute;
   bottom: 0;
   background-color: #A7A3A7;
   color: #FFFFFF;
@@ -19,7 +18,7 @@
 .Bench {
   position: absolute;
   right: 100px;
-  bottom: 200px;
+  bottom: -15px;
   fill: #A7A3A7;
   width: 70px;
 }
@@ -27,14 +26,14 @@
 .Lamp {
   position: absolute;
   right: 180px;
-  bottom: 200px;
+  bottom: -15px;
   width: 20px;
   fill: #A7A3A7;
 }
 
 .RightTrees, .LeftTrees {
   position: absolute;
-  bottom: 195px;
+  bottom: -20px;
   z-index: -1;
 }
 
