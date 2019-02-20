@@ -96,13 +96,13 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-csp', // https://github.com/bejamas/gatsby-plugin-csp
       options: {
-        disableOnDev: false,
+        disableOnDev: true,
         mergeScriptHashes: true, // you can disable scripts sha256 hashes
         mergeStyleHashes: true, // you can disable styles sha256 hashes
         mergeDefaultDirectives: true,
         directives: {
-          'script-src': "'self' https://identity.netlify.com/",
-          'style-src': "'self' blob: http://localhost:8000/ https://meaningfulnonsense.ca/ https://fonts.googleapis.com",
+          'script-src': "'self' 'sha256-0dkc3ppMKbkq8Y9rjBRXojfW6dwWmbCfvK7D3JYJAUM='",
+          'style-src': "'self' blob: https://fonts.googleapis.com 'sha256-MtxTLcyxVEJFNLEIqbVTaqR4WWr0+lYSZ78AzGmNsuA=' 'sha256-jILZY2UBo/ux6K6qGHntQonoJYNQZfxdLrszRmDpc/o=' 'sha256-v40OvYf1mF3VQM75141gVEb6xZk97Wd9tDERTFg3N38='",
           'font-src': "'self' https://fonts.gstatic.com",
         },
       },
