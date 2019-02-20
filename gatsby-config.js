@@ -101,8 +101,8 @@ module.exports = {
         mergeStyleHashes: true, // you can disable styles sha256 hashes
         mergeDefaultDirectives: true,
         directives: {
-          'script-src': "'self' https://identity.netlify.com/",
-          'style-src': "'self' blob: https://fonts.googleapis.com https://identity.netlify.com/",
+          'script-src': "'self' 'unsafe-inline'",
+          'style-src': "'self' blob: https://fonts.googleapis.com 'unsafe-inline'",
           'font-src': "'self' https://fonts.gstatic.com",
         },
       },
