@@ -1,28 +1,39 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "MeaningfulNonsense",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A personal blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jasmine Ou <jasmineou99@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.1.9",
+    "gatsby": "^2.1.13",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-csp": "^1.0.1",
     "gatsby-plugin-manifest": "^2.0.18",
     "gatsby-plugin-netlify": "^2.0.11",
+    "gatsby-plugin-netlify-cms": "^3.0.12",
     "gatsby-plugin-offline": "^2.0.24",
     "gatsby-plugin-react-helmet": "^3.0.6",
     "gatsby-plugin-sass": "^2.0.10",
     "gatsby-plugin-sharp": "^2.0.21",
-    "gatsby-source-filesystem": "^2.0.20",
+    "gatsby-remark-copy-linked-files": "^2.0.9",
+    "gatsby-remark-images": "^3.0.4",
+    "gatsby-remark-relative-images": "^0.2.1",
+    "gatsby-source-filesystem": "^2.0.21",
+    "gatsby-transformer-remark": "^2.2.5",
     "gatsby-transformer-sharp": "^2.1.14",
+    "lodash": "^4.17.11",
+    "lodash-webpack-plugin": "^0.11.5",
+    "netlify-cms": "^2.4.2",
     "node-sass": "^4.11.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.4.0",
+    "renovate": "^14.24.0",
+    "rimraf": "^2.6.3",
     "sharp": "^0.21.3",
+    "uuid": "^3.3.2",
     "webfontloader": "^1.6.28"
   },
   "keywords": [
@@ -30,19 +41,19 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
     "start": "npm run develop",
+    "clean": "rimraf .cache public",
+    "build": "npm run clean && gatsby build",
+    "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/JasmineOuO/MeaningfulNonsense"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/JasmineOuO/MeaningfulNonsense/issues"
   },
   "devDependencies": {
     "babel-eslint": "10",
@@ -52,8 +63,6 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
-    "gatsby-plugin-eslint": "^2.0.4",
-    "gh-pages": "^2.0.1",
-    "sass": "^1.17.0"
+    "gatsby-plugin-eslint": "^2.0.4"
   }
 }

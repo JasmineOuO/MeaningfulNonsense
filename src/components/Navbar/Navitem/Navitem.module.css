@@ -1,0 +1,61 @@
+.Navitem {
+  display: inline-block;
+  text-align: left;
+}
+
+.Navitem:hover {
+  background-color: #e8b4cd;
+  cursor: pointer;
+}
+
+.Navitem:hover > .Dropbtn:after {
+  transition: opacity 0.2s;
+  transition-delay:.5s;
+  opacity:1;
+}
+
+.Dropbtn, .Btn {
+  display: inline-block;
+  color: #544a4e;
+  text-align: left;
+  text-decoration: none;
+  padding: 14px 40px;
+}
+
+.Dropbtn:after {
+  content: '';
+  position: relative;
+  left: 0;
+  bottom: -7px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 8px solid transparent;
+  border-bottom-color: #f9f9f9;
+  opacity:0;
+}
+
+@media (max-width: 1000px) {
+  .Dropbtn, .Btn {
+    display: none;
+  }
+
+  .Navitem {
+    float: none;
+    display: block;
+  }
+
+  .Dropdown {
+    position: relative;
+    box-shadow: none;
+  }
+
+  .Navitem.Responsive .Dropbtn, .Navitem.Responsive .Btn {
+    width: 100%;
+    float: none;
+    display: block;
+    text-align: left;
+    padding: 12px 40px;
+  }
+}

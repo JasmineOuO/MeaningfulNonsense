@@ -2,7 +2,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Meaningful Nonsense',
-    description: 'Blog 2.0',
+    description: 'A personal blog',
     author: 'JasmineOuO',
     navLinks: [
       {
@@ -65,6 +65,22 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sass',
+    {
+      // keep as first gatsby-source-filesystem plugin for gatsby image support
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'uploads',
+        path: `${__dirname}/static/images`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'pages',
+        path: `${__dirname}/src/pages`,
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -72,8 +88,36 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 2048,
+            },
+          },
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: 'static',
+            },
+          },
+        ],
+      },
+    },
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
@@ -88,23 +132,23 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-sass',
-      options: {
-        implementation: require('sass'),
-      },
-    },
-    {
       resolve: 'gatsby-plugin-csp', // https://github.com/bejamas/gatsby-plugin-csp
       options: {
         disableOnDev: false,
-        mergeScriptHashes: true, // you can disable scripts sha256 hashes
-        mergeStyleHashes: true, // you can disable styles sha256 hashes
+        mergeScriptHashes: true,
+        mergeStyleHashes: true,
         mergeDefaultDirectives: true,
         directives: {
-          'script-src': "'self' 'unsafe-inline'",
-          'style-src': "'self' blob: https://fonts.googleapis.com 'unsafe-inline'",
+          'script-src': "'self'",
+          'style-src': "'self' blob: https://fonts.googleapis.com",
           'font-src': "'self' https://fonts.gstatic.com",
         },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     'gatsby-plugin-offline',
