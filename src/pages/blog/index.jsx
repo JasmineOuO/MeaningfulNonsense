@@ -1,16 +1,18 @@
 import React from 'react';
 
 import Layout from '../../components/Layout/Layout';
+import SEO from '../components/Seo';
 
 const BlogIndexPage = () => (
   <Layout>
+    <SEO title="Home" keywords={['meaningful', 'nonsense', 'blog']} />
     <section className="section">
       <div className="container">
         <div className="content">
           <div
             className="full-width-image-container margin-top-0"
             style={{
-              backgroundImage: 'url(\'/img/blog-index.jpg\')',
+              backgroundImage: 'url(\'/images/gatsby-astronaut.png\')',
             }}
           >
             <h1
