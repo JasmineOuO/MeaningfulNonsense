@@ -146,6 +146,38 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-prefetch-google-fonts',
+      options: {
+        fonts: [
+          {
+            family: 'Dancing Script',
+            variants: ['700'],
+          },
+          {
+            family: 'Montserrat',
+            variants: ['400', '500', '600'],
+          },
+          {
+            family: 'Open Sans Condensed',
+            variants: ['300', '700'],
+          },
+          {
+            family: 'IBM Plex Serif',
+            variants: ['300'],
+          },
+          {
+            family: 'Cutive Mono',
+          },
+          {
+            family: 'Rock Salt',
+          },
+          {
+            family: 'Bentham',
+          },
+        ],
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,

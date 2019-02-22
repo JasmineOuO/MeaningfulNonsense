@@ -8,13 +8,6 @@ import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import './Layout.css';
 
-// We use dynamic import to prevent "window is not defined" error
-import('webfontloader').then(WebFontLoader => WebFontLoader.load({
-  google: {
-    families: ['Dancing+Script:700', 'Montserrat:500', 'Open+Sans+Condensed:300,700'],
-  },
-}));
-
 const Layout = ({ children }) => (
   <StaticQuery
     query={graphql`

@@ -2,30 +2,60 @@ import React from 'react';
 import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
+import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
+
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import classes from './blog-post.module.css';
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   title,
   helmet,
+  date,
+  prev,
+  next,
 }) => {
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className={classes.Post}>
       {helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
+            <div className={classes.Header}>
+              <div className={classes.Title}>{title}</div>
+              <time className={classes.Time}>{date}</time>
+              <div className={classes.Author}>By Jessica Ou</div>
+            </div>
+            <article className={classes.Content}>
+              <PostContent content={content} />
+            </article>
+            <div className={classes.Nav}>
+              {prev && (
+                <Link to={prev.frontmatter.path} style={{ float: 'left', textAlign: 'left' }}>
+                  <div style={{ height: '10em', margin: '-8px 12px 0 0', float: 'left' }}>
+                    <FaAngleLeft className={classes.NavIcon} />
+                  </div>
+                  PREVIOUS POST
+                  <br />
+                  <p>{prev.frontmatter.title}</p>
+                </Link>
+              )}
+              {next && (
+                <Link to={next.frontmatter.path} style={{ float: 'right', textAlign: 'right' }}>
+                  <div style={{ height: '10em', margin: '-8px 0 0 12px', float: 'right' }}>
+                    <FaAngleRight className={classes.NavIcon} />
+                  </div>
+                  NEXT POST
+                  <br />
+                  <p>{next.frontmatter.title}</p>
+                </Link>
+              )}
+            </div>
             {tags && tags.length ? (
               <div style={{ marginTop: '4rem' }}>
                 <h4>Tags</h4>
@@ -45,26 +75,33 @@ export const BlogPostTemplate = ({
   );
 };
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, pathContext }) => {
   const { markdownRemark: post } = data;
+  const { frontmatter, html } = post;
+  const {
+    title, date, tags, description,
+  } = frontmatter;
+  const { next, prev } = pathContext;
 
   return (
     <Layout>
       <BlogPostTemplate
-        content={post.html}
+        content={html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
         helmet={(
           <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{`${title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${description}`}
             />
           </Helmet>
-)}
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+        )}
+        tags={tags}
+        title={title}
+        date={date}
+        prev={prev}
+        next={next}
       />
     </Layout>
   );
@@ -75,7 +112,6 @@ export default BlogPost;
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      id
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
