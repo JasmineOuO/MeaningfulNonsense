@@ -1,5 +1,5 @@
 ---
-templateKey: 'index-page'
+templateKey: 'index'
 title: 'Great coffee with a conscience'
 image: /images/gatsby-astronaut.png
 heading: Great coffee with a conscience
