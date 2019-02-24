@@ -32,6 +32,7 @@
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.4.0",
+    "react-masonry-css": "^1.0.12",
     "renovate": "^14.26.2",
     "rimraf": "^2.6.3",
     "sharp": "^0.21.3",

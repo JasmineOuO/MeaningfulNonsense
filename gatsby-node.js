@@ -1,12 +1,3 @@
-/* eslint-disable */
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
-
-// You can delete this file if you're not using it
-
 const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
@@ -29,6 +20,7 @@ exports.createPages = ({ actions, graphql }) => {
               }
               frontmatter {
                 date
+                title
                 tags
                 templateKey
               }
@@ -44,11 +36,10 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
-    for (var i = 0, len = posts.length; i < len; i++) {
-      const edge = posts[i];
+    _.each(posts, (edge, index) => {
       const { id } = edge.node;
-      const prev = i === 0 ? null : posts[i - 1].node;
-      const next = i === posts.length - 1 ? null : posts[i + 1].node;
+      const prev = index === 0 ? null : posts[index - 1].node;
+      const next = index === posts.length - 1 ? null : posts[index + 1].node;
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -62,7 +53,7 @@ exports.createPages = ({ actions, graphql }) => {
           next,
         },
       });
-    }
+    });
 
     // Tag pages:
     let tags = [];

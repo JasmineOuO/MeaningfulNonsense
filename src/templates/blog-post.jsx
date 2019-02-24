@@ -1,5 +1,5 @@
+
 import React from 'react';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
@@ -11,7 +11,6 @@ import classes from './blog-post.module.css';
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  tags,
   title,
   helmet,
   date,
@@ -36,8 +35,8 @@ export const BlogPostTemplate = ({
             </article>
             <div className={classes.Nav}>
               {prev && (
-                <Link to={prev.frontmatter.path} style={{ float: 'left', textAlign: 'left' }}>
-                  <div style={{ height: '10em', margin: '-8px 12px 0 0', float: 'left' }}>
+                <Link to={prev.fields.slug} style={{ float: 'left', textAlign: 'left' }}>
+                  <div style={{ height: '10em', margin: '-3px 12px 0 0', float: 'left' }}>
                     <FaAngleLeft className={classes.NavIcon} />
                   </div>
                   PREVIOUS POST
@@ -46,8 +45,8 @@ export const BlogPostTemplate = ({
                 </Link>
               )}
               {next && (
-                <Link to={next.frontmatter.path} style={{ float: 'right', textAlign: 'right' }}>
-                  <div style={{ height: '10em', margin: '-8px 0 0 12px', float: 'right' }}>
+                <Link to={next.fields.slug} style={{ float: 'right', textAlign: 'right' }}>
+                  <div style={{ height: '10em', margin: '-3px 0 0 12px', float: 'right' }}>
                     <FaAngleRight className={classes.NavIcon} />
                   </div>
                   NEXT POST
@@ -56,18 +55,6 @@ export const BlogPostTemplate = ({
                 </Link>
               )}
             </div>
-            {tags && tags.length ? (
-              <div style={{ marginTop: '4rem' }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={`${tag}tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
           </div>
         </div>
       </div>
@@ -75,13 +62,16 @@ export const BlogPostTemplate = ({
   );
 };
 
-const BlogPost = ({ data, pathContext }) => {
-  const { markdownRemark: post } = data;
-  const { frontmatter, html } = post;
+const BlogPost = ({ data, pageContext }) => {
   const {
-    title, date, tags, description,
-  } = frontmatter;
-  const { next, prev } = pathContext;
+    post: {
+      html,
+      frontmatter: {
+        title, date, tags, description,
+      },
+    },
+  } = data;
+  const { prev, next } = pageContext;
 
   return (
     <Layout>
@@ -111,7 +101,7 @@ export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    post: markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")

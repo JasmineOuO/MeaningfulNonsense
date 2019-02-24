@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Being Beautiful
 date: 2018-08-08T15:04:10.000Z
 description: Beauty
+thumbnail: /images/sakura.jpeg
 tags:
   - everydaythoughts
   - learn
