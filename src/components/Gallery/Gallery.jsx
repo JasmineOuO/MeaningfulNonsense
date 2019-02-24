@@ -26,7 +26,7 @@ export default () => (
     query GalleryQuery {
       allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+        filter: { frontmatter: { templateKey: { eq: "post" } }}
       ) {
         edges {
           node {

@@ -6,7 +6,7 @@ import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
-import classes from './BlogPostTemplate.module.css';
+import classes from './post.module.css';
 
 export const BlogPostTemplate = ({
   content,

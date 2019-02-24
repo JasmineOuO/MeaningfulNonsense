@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 title: Being Beautiful
 date: 2018-08-08T15:04:10.000Z
 description: Beauty
