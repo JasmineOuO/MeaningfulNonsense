@@ -119,44 +119,6 @@
   color: #777;
   text-align: center;
 }
-
-.Blockquote {
-  position: relative;
-  margin-top: 2em;
-  padding: .5rem;
-  text-align: center;
-  font-family: "Monteserrat", sans-serif;
-  font-size: 1.5em;
-  font-weight: 500;
-  line-height: 1.4;
-  color: #747474;
-width: 70%;
-margin-left: auto;
-margin-right: auto;
-}
-  
-  .Blockquote:before, .Blockquote:after {
-      font-family: 'Bentham', serif;
-      font-weight: 400;
-      font-style: normal;
-      position: absolute;
-      color: #858282;
-      font-size: 8rem;
-      width: 4rem;
-      height: 4rem;
-  }
-  
-  .Blockquote:before {
-      content: '“';
-      left: -5rem;
-      top: -3rem;
-  }
-  
-  .Blockquote:after {
-      content: '”';
-      right: -5rem;
-      bottom: 0rem;
-  }
   
 .Cite {
   display: flex;
