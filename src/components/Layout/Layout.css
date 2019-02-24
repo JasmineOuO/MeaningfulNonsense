@@ -442,8 +442,7 @@ blockquote {
   line-height: 1.4;
   color: #747474;
   width: 70%;
-  margin-left: auto;
-  margin: auto;
+  margin: 5rem auto;
 }
 blockquote:before, blockquote:after {
   font-family: 'Bentham', serif;

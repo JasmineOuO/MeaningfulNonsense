@@ -177,14 +177,14 @@ module.exports = {
         ],
       },
     },
+    'gatsby-plugin-offline',
+    'gatsby-plugin-eslint',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    'gatsby-plugin-offline',
-    'gatsby-plugin-eslint',
     'gatsby-plugin-netlify', // make sure to put last in the array
   ],
   pathPrefix: '/',
