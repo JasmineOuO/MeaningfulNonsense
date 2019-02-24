@@ -340,3 +340,13 @@
       width: 30%;
   }
 }
+
+@media (max-width: 1000px) {
+  .Post {
+      margin: 10vw 7vw 0 7vw;
+  }
+
+  .Title {
+    font-size: 7vw;
+  }
+}
