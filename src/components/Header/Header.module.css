@@ -2,11 +2,6 @@
   position: relative;
 }
 
-.Link {
-  text-decoration: none;
-  color:#404040;
-}
-
 .Branches, .Title {
   position: absolute;
   height: auto;
