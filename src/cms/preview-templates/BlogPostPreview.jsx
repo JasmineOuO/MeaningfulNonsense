@@ -1,8 +1,8 @@
 import React from 'react';
-import { BlogPostTemplate } from '../../templates/post';
+import { BlogPostLayout } from '../../templates/post';
 
 const BlogPostPreview = ({ entry, widgetFor }) => (
-  <BlogPostTemplate
+  <BlogPostLayout
     content={widgetFor('body')}
     description={entry.getIn(['data', 'description'])}
     tags={entry.getIn(['data', 'tags'])}

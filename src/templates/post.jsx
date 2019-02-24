@@ -8,7 +8,7 @@ import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import classes from './post.module.css';
 
-export const BlogPostTemplate = ({
+export const BlogPostLayout = ({
   content,
   contentComponent,
   title,
@@ -69,7 +69,7 @@ const BlogPost = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <BlogPostTemplate
+      <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}
         helmet={(
