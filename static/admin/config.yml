@@ -2,6 +2,12 @@ backend:
   name: git-gateway
   branch: master
 
+publish_mode: editorial_workflow
+
+logo_url: https://meaningfulnonsense.ca/icons/icon-512x512.png
+
+site_url: https://meaningfulnonsense.ca
+
 media_folder: static/images
 public_folder: /images
 
@@ -11,6 +17,7 @@ collections:
     folder: "src/pages/blog"
     create: true
     slug: "{{day}}-{{month}}-{{year}}-{{slug}}"
+    preview_path: "blog/{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
