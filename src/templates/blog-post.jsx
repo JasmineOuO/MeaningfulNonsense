@@ -22,41 +22,35 @@ export const BlogPostTemplate = ({
   return (
     <section className={classes.Post}>
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className={classes.Header}>
-              <div className={classes.Title}>{title}</div>
-              <time className={classes.Time}>{date}</time>
-              <div className={classes.Author}>By Jessica Ou</div>
+      <div className={classes.Header}>
+        <div className={classes.Title}>{title}</div>
+        <time className={classes.Time}>{date}</time>
+        <div className={classes.Author}>By Jessica Ou</div>
+      </div>
+      <article className={classes.Content}>
+        <PostContent content={content} />
+      </article>
+      <div className={classes.Nav}>
+        {prev && (
+          <Link to={prev.fields.slug} style={{ float: 'left', textAlign: 'left' }}>
+            <div style={{ height: '10em', margin: '-3px 12px 0 0', float: 'left' }}>
+              <FaAngleLeft className={classes.NavIcon} />
             </div>
-            <article className={classes.Content}>
-              <PostContent content={content} />
-            </article>
-            <div className={classes.Nav}>
-              {prev && (
-                <Link to={prev.fields.slug} style={{ float: 'left', textAlign: 'left' }}>
-                  <div style={{ height: '10em', margin: '-3px 12px 0 0', float: 'left' }}>
-                    <FaAngleLeft className={classes.NavIcon} />
-                  </div>
-                  PREVIOUS POST
-                  <br />
-                  <p>{prev.frontmatter.title}</p>
-                </Link>
-              )}
-              {next && (
-                <Link to={next.fields.slug} style={{ float: 'right', textAlign: 'right' }}>
-                  <div style={{ height: '10em', margin: '-3px 0 0 12px', float: 'right' }}>
-                    <FaAngleRight className={classes.NavIcon} />
-                  </div>
-                  NEXT POST
-                  <br />
-                  <p>{next.frontmatter.title}</p>
-                </Link>
-              )}
+            PREVIOUS POST
+            <br />
+            <p>{prev.frontmatter.title}</p>
+          </Link>
+        )}
+        {next && (
+          <Link to={next.fields.slug} style={{ float: 'right', textAlign: 'right' }}>
+            <div style={{ height: '10em', margin: '-3px 0 0 12px', float: 'right' }}>
+              <FaAngleRight className={classes.NavIcon} />
             </div>
-          </div>
-        </div>
+            NEXT POST
+            <br />
+            <p>{next.frontmatter.title}</p>
+          </Link>
+        )}
       </div>
     </section>
   );
@@ -64,7 +58,7 @@ export const BlogPostTemplate = ({
 
 const BlogPost = ({ data, pageContext }) => {
   const {
-    post: {
+    markdownRemark: {
       html,
       frontmatter: {
         title, date, tags, description,
@@ -101,7 +95,8 @@ export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    post: markdownRemark(id: { eq: $id }) {
+    markdownRemark(id: { eq: $id }) {
+      id
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
