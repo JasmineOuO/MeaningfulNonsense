@@ -65,10 +65,6 @@ function SEO(
                 name: 'twitter:description',
                 content: metaDescription,
               },
-              {
-                name: 'msapplication-TileColor',
-                content: '#f99599',
-              },
             ]
               .concat(
                 keywords.length > 0
@@ -79,13 +75,6 @@ function SEO(
                   : [],
               )
               .concat(meta)}
-            link={[
-              {
-                rel: 'mask-icon',
-                color: '#f99599',
-                href: '/favicons/safari-pinned-tab.svg',
-              },
-            ]}
           />
         );
       }}

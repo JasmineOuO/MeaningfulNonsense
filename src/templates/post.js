@@ -6,6 +6,7 @@ import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import SEO from '../components/Seo';
 import classes from './post.module.css';
 
 export const BlogPostLayout = ({
@@ -73,6 +74,7 @@ const BlogPost = ({ data, pageContext }) => {
 
   return (
     <Layout>
+      <SEO keywords={['meaningful', 'nonsense', 'blog']} />
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}

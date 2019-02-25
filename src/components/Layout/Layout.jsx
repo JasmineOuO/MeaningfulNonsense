@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React from 'react';
+import { Helmet } from 'react-helmet'
 import PropTypes from 'prop-types';
 import { StaticQuery, graphql, Link } from 'gatsby';
 
@@ -28,6 +29,11 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <meta name="msapplication-TileColor" content="#f99599" />
+          <link rel="mask-icon" color="#f99599" href="/favicons/safari-pinned-tab.svg" />
+        </Helmet>
         <Link to="/" title="Go to homepage">
           <Header />
         </Link>

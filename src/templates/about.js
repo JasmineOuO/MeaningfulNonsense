@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import SEO from '../components/Seo';
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -29,6 +30,7 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
+      <SEO title="Meaningful Nonsense About" keywords={['meaningful', 'nonsense', 'blog']} description="The about page" />
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
