@@ -48,7 +48,10 @@
     "build": "npm run clean && gatsby build",
     "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "no cache": "rm -r ./.cache/*",
+    "build no cache": "npm run no cache && npm run build",
+    "start no cache": "npm run no cache && npm run start"
   },
   "repository": {
     "type": "git",

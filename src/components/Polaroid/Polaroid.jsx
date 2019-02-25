@@ -47,12 +47,12 @@ class Polaroid extends Component {
         >
           <div className={classes.Flipper}>
             <div className={classes.Front}>
-              <a className={classes.Polaroid} title={post.frontmatter.title} style={{ display: 'block', paddingTop: `${100/post.frontmatter.thumbnail.childImageSharp.fluid.aspectRatio}%` }}>
-                <Image style={imgStyles} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
+              <a className={classes.Polaroid} title={post.frontmatter.title} style={{ display: 'block' }}>
+                  <Image style={imgStyles} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
               </a>
             </div>
-            <div className={classes.Back}>
-              <h1>{post.excerpt}</h1>
+            <div className={classes.Back} style={{paddingTop: `${100/post.frontmatter.thumbnail.childImageSharp.fluid.aspectRatio}%`}}>
+              <h1 style={{ position: 'absolute', top:0, left:0 }}>{post.excerpt}</h1>
               <a 
                 style={dateStyles}
                 className={classes.Polaroid} 

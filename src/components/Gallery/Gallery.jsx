@@ -43,7 +43,7 @@ export default () => (
                 childImageSharp {
                   fluid(maxWidth: 240, quality: 64) {
                     aspectRatio
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                   }
                 }
               }
