@@ -7,48 +7,14 @@
   margin: 0;
 }
 
-.Polaroid a {
-  background: #f7f7f7;
-  display: inline;
-  text-align: center;
-  text-decoration: none;
-  border: 0.5px solid rgba(0,0,0,0.2);
-  border-radius: 3px;
-  padding: 10px 10px 15px 10px;
-  vertical-align: middle;
-  z-index: 0;
-  position: relative;
-  transition: transform .15s linear;
-  -webkit-transition: -webkit-transform .15s linear;
-  -moz-transition: -moz-transform .15s linear;
-  -o-transition: -o-transform .15s linear;
-  -ms-transition: -ms-transform .15s linear;
-  box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  -webkit-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  -moz-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  -o-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  -ms-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-}
-
-.Polaroid a:after {
-  content: attr(title);
-  color: #333;
-  letter-spacing: 0.5em;
-  font-weight: bold;
-  font-size: 18px;
-  font-family: 'Rock Salt', cursive;
-  position: relative;
-  top: 7px;
-}
-
-.PolaroidFlex2{
+.Flex2{
   -ms-flex: 50%;
   flex: 50%;
   max-width: 50%;
   padding: 0 5px;
 }
 
-.PolaroidFlex3{
+.Flex3{
   -ms-flex: 25%;
   flex: 25%;
   max-width: 25%;
@@ -56,7 +22,7 @@
 }
 
 @media (max-width: 1100px) {
-  .Polaroid {
+  .Col {
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
@@ -64,7 +30,7 @@
 }
 
 @media (max-width: 600px) {
-  .Polaroid {
+  .Col {
     -ms-flex: 100%;
     flex: 100%;
     max-width: 100%;

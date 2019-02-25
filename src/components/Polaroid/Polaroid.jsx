@@ -35,6 +35,10 @@ class Polaroid extends Component {
       opacity: '0',
       filter: 'alpha(opacity=1)',
     }
+    const imgStyles= {
+      boxShadow: '0 0 0.5px 0.1px rgba(0,0,0,0.5)',
+      width: '100%',
+    }
     const { post } = this.props;
     return (
         <div
@@ -43,15 +47,15 @@ class Polaroid extends Component {
         >
           <div className={classes.Flipper}>
             <div className={classes.Front}>
-              <a title={post.frontmatter.title} style={{ display: 'block' }}>
-                <Image ref={this.image} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
+              <a className={classes.Polaroid} title={post.frontmatter.title} style={{ display: 'block' }}>
+                <Image style={imgStyles} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
               </a>
             </div>
             <div className={classes.Back}>
               <h1>{post.excerpt}</h1>
               <a 
                 style={dateStyles}
-                className={classes.Date} 
+                className={classes.Polaroid} 
                 title={post.frontmatter.date}
               ></a>
               <Link style={linkStyles} to={post.fields.slug} />

@@ -10,7 +10,7 @@ const Gallery = ({ data }) => {
     <div className={classes.Gallery}>
       {posts && (posts
         .map(({ node: post }) => (
-          <div className={`${classes.Polaroid} ${classes.PolaroidFlex3}`} style={{ marginTop: 7 }}>
+          <div className={`${classes.Col} ${classes.Flex3}`} style={{ marginTop: 7 }}>
             <Polaroid
               post={post}
             />

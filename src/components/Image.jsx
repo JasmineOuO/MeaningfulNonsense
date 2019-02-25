@@ -3,16 +3,15 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
 const Image = ({
-  imageInfo, style, className, ref,
+  imageInfo, style, className,
 }) => {
   const { alt = '', childImageSharp, image } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {
     return (
       <Img
-        ref={ref}
         className={className}
-        imgStyle={style}
+        style={style}
         fluid={image.childImageSharp.fluid}
         alt={alt}
       />
@@ -22,16 +21,15 @@ const Image = ({
   if (childImageSharp) {
     return (
       <Img
-        ref={ref}
         className={className}
-        imgStyle={style}
+        style={style}
         fluid={childImageSharp.fluid}
         alt={alt}
       />
     );
   }
 
-  if (!!image && typeof image === 'string') { return <img ref={ref} className={className} style={style} src={image} alt={alt} />; }
+  if (!!image && typeof image === 'string') { return <img className={className} style={style} src={image} alt={alt} />; }
 
   return null;
 };
