@@ -32,16 +32,6 @@
   top: 7px;
 }
 
-.Image {
-  position: relative;
-  overflow: hidden;
-}
-
-.Image > div {
-  width: 100%;
-  padding-bottom: 100%;
-}
-
 .Image img {
   box-shadow: 0 0 0.5px 0.1px rgba(0,0,0,0.5);
   width: '100%';

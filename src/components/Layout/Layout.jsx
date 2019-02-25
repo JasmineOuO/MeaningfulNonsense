@@ -32,7 +32,7 @@ const Layout = ({ children }) => (
         <Helmet>
           <meta charSet="utf-8" />
           <meta name="msapplication-TileColor" content="#f99599" />
-          <link rel="mask-icon" color="#f99599" href="/favicons/safari-pinned-tab.svg" />
+          <link rel="mask-icon" color="#f99599" href="/icons/safari-pinned-tab.svg" />
         </Helmet>
         <Link to="/" title="Go to homepage">
           <Header />
