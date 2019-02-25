@@ -11,18 +11,6 @@ class Polaroid extends Component {
   }
 
   render () {
-    const dateStyles = {
-      width: 'calc(100% - 16px)',
-      position: 'absolute',
-      bottom: 10,
-      left: 8,
-      background: '#efefef',
-      borderRadius: 3,
-      boxShadow: 'none',
-      border: 'none',
-      padding: '0px 10px 7px 10px',
-      marginTop: 10,
-    }
     const linkStyles = {
       position: 'absolute',
       width: '100%',
@@ -47,18 +35,16 @@ class Polaroid extends Component {
         >
           <div className={classes.Flipper}>
             <div className={classes.Front}>
-              <a className={classes.Polaroid} title={post.frontmatter.title} style={{ display: 'block' }}>
+              <a className={classes.Polaroid} title={post.frontmatter.title}>
                   <Image style={imgStyles} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
               </a>
             </div>
-            <div className={classes.Back} style={{paddingTop: `${100/post.frontmatter.thumbnail.childImageSharp.fluid.aspectRatio}%`}}>
+            <div className={classes.Back}>
               <h1 style={{ position: 'absolute', top:0, left:0 }}>{post.excerpt}</h1>
-              <a 
-                style={dateStyles}
-                className={classes.Polaroid} 
-                title={post.frontmatter.date}
-              ></a>
-              <Link style={linkStyles} to={post.fields.slug} />
+              <a className={classes.Polaroid} title={post.frontmatter.date}></a>
+              <div className={classes.Link}>
+                <Link to={post.fields.slug} />
+              </div>
             </div>
           </div>
         </div>
