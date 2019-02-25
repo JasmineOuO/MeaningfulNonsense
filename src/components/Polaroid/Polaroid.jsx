@@ -11,22 +11,6 @@ class Polaroid extends Component {
   }
 
   render () {
-    const linkStyles = {
-      position: 'absolute',
-      width: '100%',
-      height: '100%',
-      top: 0,
-      left: 0,
-      textDecoration: 'none',
-      zIndex: '3',
-      backgroundColor: '#FFF',
-      opacity: '0',
-      filter: 'alpha(opacity=1)',
-    }
-    const imgStyles= {
-      boxShadow: '0 0 0.5px 0.1px rgba(0,0,0,0.5)',
-      width: '100%',
-    }
     const { post } = this.props;
     return (
         <div
@@ -36,7 +20,7 @@ class Polaroid extends Component {
           <div className={classes.Flipper}>
             <div className={classes.Front}>
               <a className={classes.Polaroid} title={post.frontmatter.title}>
-                  <Image style={imgStyles} className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
+                  <Image className={classes.Image} imageInfo={{image: post.frontmatter.thumbnail}}/>
               </a>
             </div>
             <div className={classes.Back}>

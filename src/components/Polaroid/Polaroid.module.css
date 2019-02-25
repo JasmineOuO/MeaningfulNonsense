@@ -32,6 +32,11 @@
   top: 7px;
 }
 
+.Image img {
+  box-shadow: 0 0 0.5px 0.1px rgba(0,0,0,0.5);
+  width: '100%';
+}
+
 .FlipContainer, .Back {
   margin-top: 10px;
 }
