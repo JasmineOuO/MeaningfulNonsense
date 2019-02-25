@@ -39,6 +39,7 @@
 
 .Image > div {
   width: 100%;
+  padding-bottom: 100%;
 }
 
 .Image img {
