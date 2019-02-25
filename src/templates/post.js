@@ -31,26 +31,30 @@ export const BlogPostLayout = ({
         <PostContent content={content} />
       </article>
       <div className={classes.Nav}>
-        {prev && (
-          <Link to={prev.fields.slug} style={{ float: 'left', textAlign: 'left' }}>
-            <div style={{ height: '10em', margin: '-3px 12px 0 0', float: 'left' }}>
-              <FaAngleLeft className={classes.NavIcon} />
-            </div>
-            PREVIOUS POST
-            <br />
-            <p>{prev.frontmatter.title}</p>
-          </Link>
-        )}
-        {next && (
-          <Link to={next.fields.slug} style={{ float: 'right', textAlign: 'right' }}>
-            <div style={{ height: '10em', margin: '-3px 0 0 12px', float: 'right' }}>
-              <FaAngleRight className={classes.NavIcon} />
-            </div>
-            NEXT POST
-            <br />
-            <p>{next.frontmatter.title}</p>
-          </Link>
-        )}
+        <div className={classes.Prev}>
+          {prev && (
+            <Link to={prev.fields.slug}>
+              <span>
+                <FaAngleLeft className={classes.NavIcon} />
+              </span>
+              PREVIOUS POST
+              <br />
+              <p>{prev.frontmatter.title}</p>
+            </Link>
+          )}
+        </div>
+        <div className={classes.Next}>
+          {next && (
+            <Link to={next.fields.slug}>
+              <span>
+                <FaAngleRight className={classes.NavIcon} />
+              </span>
+              NEXT POST
+              <br />
+              <p>{next.frontmatter.title}</p>
+            </Link>
+          )}
+        </div>
       </div>
     </section>
   );

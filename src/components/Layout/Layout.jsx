@@ -28,7 +28,7 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
-        <Link style={{ display:'block', width: '100%', height: '17.5vw' }} to="/" title="Go to homepage">
+        <Link to="/" title="Go to homepage">
           <Header />
         </Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />

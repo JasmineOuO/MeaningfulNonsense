@@ -40,7 +40,7 @@ class Polaroid extends Component {
               </a>
             </div>
             <div className={classes.Back}>
-              <h1 style={{ position: 'absolute', top:0, left:0 }}>{post.excerpt}</h1>
+              <h1>{post.excerpt}</h1>
               <a className={classes.Polaroid} title={post.frontmatter.date}></a>
               <div className={classes.Link}>
                 <Link to={post.fields.slug} />

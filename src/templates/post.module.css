@@ -163,6 +163,31 @@
   font-size: 1em;
 }
 
+.Prev a {
+  float: left;
+  text-align: left;
+}
+
+.Next a {
+  float: right;
+  text-align: right;
+}
+
+.Prev span, .Next span {
+  height: 10em;
+  margin: -3px 0 0 0;
+}
+
+.Prev span{
+  margin-right: 12px;
+  float: left;
+}
+
+.Next span{
+  margin-left: 12px;
+  float: right;
+}
+
 /* Sliding up animation for post header */
 @keyframes slide-up {
   0% {
