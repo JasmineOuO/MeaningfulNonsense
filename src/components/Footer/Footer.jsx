@@ -32,7 +32,7 @@ const Footer = () => (
     <SocialButton link="https://www.instagram.com/yumluv_214/" icon={<FaInstagram />} title="Go to my Instagram page" />
     <SocialButton link="https://ca.linkedin.com/in/jasmine-ou" icon={<FaLinkedin />} title="Go to my Linkedin page" />
     <SocialButton link="https://www.facebook.com/jasmine.ou2" icon={<FaFacebook />} title="Go to my Facebook page" />
-    <div className={classes.Copyright}>&copy; 2018 Jasmine Ou</div>
+    {/* <div className={classes.Copyright}>&copy; 2018 Jasmine Ou</div> */}
   </footer>
 );
 

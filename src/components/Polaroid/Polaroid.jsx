@@ -27,7 +27,7 @@ class Polaroid extends Component {
               <h1>{post.excerpt}</h1>
               <a className={classes.Polaroid} title={post.frontmatter.date}></a>
               <div className={classes.Link}>
-                <Link to={post.fields.slug} />
+                <Link to={post.fields.slug} title={post.frontmatter.title} />
               </div>
             </div>
           </div>

@@ -131,20 +131,20 @@ module.exports = {
         include_favicon: true,
       },
     },
-    {
-      resolve: 'gatsby-plugin-csp', // https://github.com/bejamas/gatsby-plugin-csp
-      options: {
-        disableOnDev: false,
-        mergeScriptHashes: true,
-        mergeStyleHashes: true,
-        mergeDefaultDirectives: true,
-        directives: {
-          'script-src': "'self'",
-          'style-src': "'self' blob: https://fonts.googleapis.com",
-          'font-src': "'self' https://fonts.gstatic.com",
-        },
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-csp', // https://github.com/bejamas/gatsby-plugin-csp
+    //   options: {
+    //     disableOnDev: false,
+    //     mergeScriptHashes: true,
+    //     mergeStyleHashes: true,
+    //     mergeDefaultDirectives: true,
+    //     directives: {
+    //       'script-src': "'self'",
+    //       'style-src': "'self' blob: https://fonts.googleapis.com",
+    //       'font-src': "'self' https://fonts.gstatic.com",
+    //     },
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {
