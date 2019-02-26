@@ -28,6 +28,8 @@
         "import/named": 0,
         "import/no-unresolved": 0,
         "import/extensions": 0,
-        "react/jsx-filename-extension": 0
+        "react/jsx-filename-extension": 0,
+        "consistent-return": 0,
+        "func-names": 0
     }
 }

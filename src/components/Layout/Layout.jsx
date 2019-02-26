@@ -7,6 +7,7 @@ import { StaticQuery, graphql, Link } from 'gatsby';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
+import Animation from '../Animation/Animation';
 import './Layout.css';
 
 const Layout = ({ children }) => (
@@ -34,6 +35,7 @@ const Layout = ({ children }) => (
           <meta name="msapplication-TileColor" content="#f99599" />
           <link rel="mask-icon" color="#f99599" href="/icons/safari-pinned-tab.svg" />
         </Helmet>
+        <Animation />
         <Link to="/" title="Go to homepage">
           <Header />
         </Link>
