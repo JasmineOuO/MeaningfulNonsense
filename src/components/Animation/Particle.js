@@ -2,11 +2,6 @@
 import './Particle.css';
 
 export default function Particle(userOptions) {
-  // Throw SSR error
-  if(typeof window === "undefined"){
-    throw new Error("This library doesn't work on server side.");
-  }
-
   const particle = {
     blowAnimations: ['blow-soft-left', 'blow-medium-left', 'blow-hard-left', 'blow-soft-right', 'blow-medium-right', 'blow-hard-right'],
     className: 'spring',
