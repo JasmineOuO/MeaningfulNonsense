@@ -1,65 +1,89 @@
-/*eslint-disable*/
+/* eslint-disable */
 import './Particle.css';
 
-export default function Particle(userOptions) {
-  const particle = {
-    blowAnimations: ['blow-soft-left', 'blow-medium-left', 'blow-hard-left', 'blow-soft-right', 'blow-medium-right', 'blow-hard-right'],
+export default function Particle(userConfig) {
+  const config = {
     className: 'spring',
     fallSpeed: 1,
-    maxSize: 14,
     minSize: 9,
+    maxSize: 14,
     newOn: 300,
-    swayAnimations: ['sway-0', 'sway-1', 'sway-2', 'sway-3', 'sway-4', 'sway-5', 'sway-6', 'sway-7', 'sway-8']
+    blowAnimations: ['blow-soft-left', 'blow-medium-left', 'blow-hard-left', 'blow-soft-right', 'blow-medium-right', 'blow-hard-right'],
+    swayAnimations: ['sway-0', 'sway-1', 'sway-2', 'sway-3', 'sway-4', 'sway-5', 'sway-6', 'sway-7', 'sway-8'],
+  };
+  Object.assign(config, userConfig);
+
+  function timeoutShim(callback) {
+    setTimeout(callback, config.newOn);
   }
 
-  const windowHeight= document.documentElement.clientHeight || document.body.clientHeight || document.body.scrollHeight;
-  const windowWidth= document.documentElement.clientWidth || document.body.clientWidth || document.body.scrollWidth;
+  const animationFrame = window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame || timeoutShim;
 
-  if (!window.requestAnimationFrame) {
-    window.requestAnimationFrame = callback => {
-      var currTime = new Date().getTime();
-      var timeToCall = Math.max(0, 16 - (currTime - lastTime));
-      var id = window.setTimeout(() => {
-              callback(currTime + timeToCall);
-          },
-          timeToCall);
-      lastTime = currTime + timeToCall;
+  const getAnimationFrame = animationFrame ? function () {
+    return animationFrame.apply(window, arguments);
+  } : null;
 
-      return id;
-    };
-  }
+  let windowHeight = document.documentElement.clientHeight || document.body.clientHeight || document.body.scrollHeight;
+  let windowWidth = document.documentElement.clientWidth || document.body.clientWidth || document.body.scrollWidth;
 
+  window.addEventListener('resize', () => {
+    windowHeight = document.documentElement.clientHeight || document.body.clientHeight || document.body.scrollHeight;
+    windowWidth = document.documentElement.clientWidth || document.body.clientWidth || document.body.scrollWidth;
+  });
 
-  const getRandomInt = (min, max) => {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-  }
+  const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+
+  const remove = (obj) => {
+    if (obj.hasOwnProperty('remove')) {
+      obj.remove();
+    } else if (obj.parentNode !== null) {
+      obj.parentNode.removeChild(obj);
+    }
+  };
 
   const createParticles = () => {
-    window.setTimeout(() => {
-      window.requestAnimationFrame(createParticles);
-    }, particle.newOn);
-    const o = document.createElement('div');
-    const blowAnimation = particle.blowAnimations[Math.floor(Math.random() * particle.blowAnimations.length)];
-    const swayAnimation = particle.swayAnimations[Math.floor(Math.random() * particle.swayAnimations.length)];
-    const fallTime = (Math.round(windowHeight * 0.007) + Math.random() * 5) * particle.fallSpeed;
-    const animation = 'fall ' + fallTime + 's linear 0s 1' + ', ' +
-      blowAnimation + ' ' + (((fallTime > 30 ? fallTime : 30) - 20) + getRandomInt(0, 20)) + 's linear 0s infinite' + ', ' +
-      swayAnimation + ' ' + getRandomInt(2, 4) + 's linear 0s infinite';
-    o.style.animation = animation;
-    o.style.WebkitAnimation = animation;
-    const size = getRandomInt(particle.minSize, particle.maxSize) + "px";
-    o.style.height = size;
-    o.style.width = size;
-    o.style.left = Math.random() * windowWidth - 100 + "px";
-    o.style.marginTop = -((Math.random() * 20) + 15) + "px";
-    o.setAttribute('class', 'spring');
+    setTimeout(() => { getAnimationFrame(createParticles); }, config.newOn);
 
-    document.body.appendChild(o);
-  }
+    const particle = document.createElement('div');
+    particle.setAttribute('class', config.className);
 
-  this.doStart = function() {
+    const blowAnimation = config.blowAnimations[Math.floor(Math.random() * config.blowAnimations.length)];
+    const swayAnimation = config.swayAnimations[Math.floor(Math.random() * config.swayAnimations.length)];
+    const fallTime = (Math.round(windowHeight * 0.007) + Math.random() * 5) * config.fallSpeed;
+    const animation = `fall ${fallTime}s linear 0s 1, ${blowAnimation} ${((fallTime > 30 ? fallTime : 30) - 20) + getRandomInt(0, 20)}s linear 0s infinite, ${swayAnimation} ${getRandomInt(2, 4)}s linear 0s infinite`;
+    particle.style.animation = animation;
+    particle.style.WebkitAnimation = animation;
+
+    const size = `${getRandomInt(config.minSize, config.maxSize)}px`;
+    particle.style.height = size;
+    particle.style.width = size;
+    particle.style.left = `${Math.random() * windowWidth - 100}px`;
+    particle.style.marginTop = `${-((Math.random() * 20) + 15)}px`;
+
+    document.body.appendChild(particle);
+
+    particle.addEventListener('animationend', () => {
+      remove(particle);
+    });
+    particle.addEventListener('webkitAnimationEnd', () => {
+      remove(particle);
+    });
+
+    particle.addEventListener('animationiteration', (event) => {
+      if (config.blowAnimations.indexOf(event.animationName) !== -1) {
+        remove(particle);
+      }
+    });
+    particle.addEventListener('webkitAnimationIteration', (event) => {
+      if (config.blowAnimations.indexOf(event.animationName) !== -1) {
+        remove(particle);
+      }
+    });
+  };
+
+  this.doStart = function () {
     createParticles();
-  }
+  };
 
   return this;
 }

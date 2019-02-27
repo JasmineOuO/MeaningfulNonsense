@@ -12,8 +12,8 @@ export default class Animation extends Component {
   }
 
   componentWillUnmount() {
-    this.animation.stop();
-    Array.from(document.getElementsByClassName('spring')).forEach((element) => {
+    const { className } = this.props;
+    Array.from(document.getElementsByClassName(className)).forEach((element) => {
       element.parentNode.removeChild(element);
     });
   }
