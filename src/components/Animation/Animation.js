@@ -2,13 +2,8 @@ import { Component } from 'react';
 import Particle from './Particle.js';
 
 export default class Animation extends Component {
-  constructor(props, context) {
-    super(props, context);
-    this.animation = new Particle(props);
-  }
-
   componentDidMount() {
-    this.animation.doStart();
+    new Particle(this.props).doStart();
   }
 
   componentWillUnmount() {
