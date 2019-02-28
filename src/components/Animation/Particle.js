@@ -88,7 +88,7 @@ export default function Particle(userConfig) {
   };
 
   this.doStart = function () {
-    createParticles();
+    getAnimationFrame(createParticles);
   };
 
   return this;
