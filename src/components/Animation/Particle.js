@@ -33,20 +33,26 @@ export default function Particle(userConfig) {
 
   const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
-  const remove = (obj) => {
-    if (obj.hasOwnProperty('remove')) {
-      obj.remove();
-    } else if (obj.parentNode !== null) {
-      obj.parentNode.removeChild(obj);
+  // Remove a particle
+  const remove = (p) => {
+    if (p.hasOwnProperty('remove')) {
+      p.remove();
+    } else if (p.parentNode !== null) {
+      p.parentNode.removeChild(p);
     }
   };
 
   const createParticles = () => {
-    setTimeout(() => { getAnimationFrame(createParticles); }, config.newOn);
+    // Disable animation on smaller screens 
+    if(windowWidth >= 400) {
+      setTimeout(() => getAnimationFrame(createParticles), config.newOn);
+    }
 
+    // Create the particle with the desired class
     const particle = document.createElement('div');
     particle.setAttribute('class', config.className);
 
+    // Randomize animation and fall time of the particle
     const blowAnimation = config.blowAnimations[Math.floor(Math.random() * config.blowAnimations.length)];
     const swayAnimation = config.swayAnimations[Math.floor(Math.random() * config.swayAnimations.length)];
     const fallTime = (Math.round(windowHeight * 0.007) + Math.random() * 5) * config.fallSpeed;
@@ -54,21 +60,21 @@ export default function Particle(userConfig) {
     particle.style.animation = animation;
     particle.style.WebkitAnimation = animation;
 
+    // Randomize particle size and positioning
     const size = `${getRandomInt(config.minSize, config.maxSize)}px`;
     particle.style.height = size;
     particle.style.width = size;
     particle.style.left = `${Math.random() * windowWidth - 100}px`;
     particle.style.marginTop = `${-((Math.random() * 20) + 15)}px`;
 
+    // Append the particle to the body
     document.body.appendChild(particle);
 
-    particle.addEventListener('animationend', () => {
-      remove(particle);
-    });
-    particle.addEventListener('webkitAnimationEnd', () => {
-      remove(particle);
-    });
+    // Remove particles that reach the bottom of the page
+    particle.addEventListener('animationend', () => remove(particle));
+    particle.addEventListener('webkitAnimationEnd', () => remove(particle));
 
+    // Remove particles that finish their horizontal float animation
     particle.addEventListener('animationiteration', (event) => {
       if (config.blowAnimations.indexOf(event.animationName) !== -1) {
         remove(particle);

@@ -7,6 +7,7 @@ import { StaticQuery, graphql, Link } from 'gatsby';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
+import Archive from '../Archive/Archive';
 import Animation from '../Animation/Animation';
 import './Layout.css';
 
@@ -41,6 +42,7 @@ const Layout = ({ children }) => (
         <Animation className="spring" fallSpeed={1} minSize={9} maxSize={14} newOn={700} />
         <Link to="/" title="Go to homepage"><Header /></Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
+        {/* <Archive /> */}
         <main>{children}</main>
         <Footer />
       </>

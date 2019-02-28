@@ -10,8 +10,9 @@ class Navbar extends Component {
   }
 
   handleClick = () => {
-    const { hamburgerOpened } = this.state;
-    this.setState({ hamburgerOpened: !hamburgerOpened });
+    this.setState(prevState => ({
+      hamburgerOpened: !prevState.hamburgerOpened,
+    }));
   }
 
   render() {
