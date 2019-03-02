@@ -7,7 +7,6 @@ import { StaticQuery, graphql, Link } from 'gatsby';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
-import Archive from '../Archive/Archive';
 import './Layout.css';
 
 const Layout = ({ children }) => (
@@ -37,7 +36,6 @@ const Layout = ({ children }) => (
         </Helmet>
         <Link to="/" title="Go to homepage"><Header /></Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
-        <Archive />
         <main>{children}</main>
         <Footer />
       </>

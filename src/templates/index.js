@@ -2,11 +2,15 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout/Layout';
-import Gallery from '../components/Gallery/Gallery';
 import SEO from '../components/Seo';
+import Gallery from '../components/Gallery/Gallery';
+import Archive from '../components/Archive/Archive';
 
 export const IndexPageTemplate = () => (
-  <Gallery />
+  <>
+    <Archive />
+    <Gallery />
+  </>
 );
 
 const IndexPage = ({ data }) => {

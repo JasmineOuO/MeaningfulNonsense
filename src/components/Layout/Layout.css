@@ -747,10 +747,8 @@ pre tt:after {
   color: #b2b2b2;
 }
 .slider .rc-slider-mark-text-active {
-  color: #7F7F7F;
   font-weight: 700;
 }
-
 .slider .rc-slider-step {
   position: absolute;
   width: 100%;

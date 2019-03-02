@@ -1,31 +1,35 @@
 /*eslint-disable*/
 import React, { Component } from 'react';
 import Slider from 'rc-slider/lib/Slider';
-import { FaAngleUp, FaAngleDown } from 'react-icons/fa';
 
 import Animation from '../Animation/Animation';
 import 'rc-slider/assets/index.css';
 import classes from './Archive.module.css';
+
+const defaultSliderProps = {
+  className: 'slider',
+  trackStyle: {
+    backgroundColor: '#e8c5d6',
+    height: 4
+  },
+  dotStyle: {
+    borderColor: '#e9e9e9',
+    backgroundColor: '#e9e9e9'
+  },
+  activeDotStyle: {
+    borderColor: '#e8c5d6',
+    backgroundColor: '#e8c5d6'
+  }
+}
 
 class Archive extends Component {
   constructor(props) {
     super(props);
     this.state = {
       year: 2018,
-      season: 'all'
+      season: 'all',
+      selectYear: false
     };
-  }
-
-  increaseYear = () => {
-    this.setState(prevState => ({
-      year: prevState.year + 1, ...prevState.season
-    }));
-  }
-
-  decreaseYear = () => {
-    this.setState(prevState => ({
-      year: prevState.year - 1, ...prevState.season
-    }));
   }
 
   mapValueToSeason = (value) => {
@@ -40,6 +44,21 @@ class Archive extends Component {
         return 'summer';
       case 100:
         return 'autumn';
+    }
+  }
+
+  mapSeasonToValue = (season) => {
+    switch (season) {
+      case 'all':
+        return 0;
+      case 'winter':
+        return 25;
+      case 'spring':
+        return 50;
+      case 'summer':
+        return 75;
+      case 'autumn':
+        return 100;
     }
   }
 
@@ -81,35 +100,54 @@ class Archive extends Component {
     }  
   }
 
-  onSliderChange = (value) => {
-    const season = this.mapValueToSeason(value);
-    this.setState(prevState => ({
-       ...prevState.year, season 
-    }));
+  customSliderProps = (year, season, selectYear) => (
+    selectYear ? ({
+      min: 2016,
+      max: 2022,
+      step: 1,
+      defaultValue: 2018,
+      value: year,
+      onChange: this.handleYearChange
+    }) : ({
+      min: 0,
+      step: null,
+      defaultValue: 0,
+      value: this.mapSeasonToValue(season),
+      marks: {
+        0: 'all',
+        25: 'winter',
+        50: 'spring',
+        75: 'summer',
+        100: 'autumn'
+      },
+      onChange: this.handleSeasonChange
+    })
+  )
+
+  handleSeasonChange = (value) => {
+    const season = this.mapValueToSeason (value);
+    this.setState({ season });
+  }
+
+  handleYearChange =  (year) => {
+    console.log('yay');
+    this.setState({ year });
+  }
+
+  handleClick = () => {
+    this.setState(prevState => ({ selectYear: !prevState.selectYear }));
   }
 
   render() {
-    const { year, season } = this.state;
+    const { year, season, selectYear } = this.state;
+    const sliderProps = Object.assign({}, defaultSliderProps, this.customSliderProps(year, season, selectYear));
     const animationProps = this.mapSeasonToProps(season);
     return (
       <div className={classes.Archive}>
         <Animation {...animationProps} />
-        <div className={classes.Year}>
-          <div className={classes.YearUp} onClick={this.increaseYear}><FaAngleUp /></div>
-          <div className={classes.YearDown} onClick={this.decreaseYear}><FaAngleDown /></div>
-        </div>
         <div className={classes.Slider}>
-          <Slider
-            className='slider'
-            min={0}
-            defaultValue={0}
-            marks={{ 0: `${year}`, 25: 'winter', 50: 'spring', 75: 'summer', 100: 'autumn' }}
-            step={null}
-            trackStyle={{ backgroundColor: '#e8c5d6', height: 4 }}
-            dotStyle={{ borderColor: '#e9e9e9', backgroundColor: '#e9e9e9' }}
-            activeDotStyle={{ borderColor: '#e8c5d6', backgroundColor: '#e8c5d6' }}
-            onChange={this.onSliderChange}
-          />
+          <Slider {...sliderProps} />
+          <div class={classes.Label} onClick={this.handleClick}>{year}</div>
         </div>
         <div className={classes.Message} />
       </div>

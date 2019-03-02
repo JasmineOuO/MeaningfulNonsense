@@ -7,7 +7,7 @@ export default function Particle(userConfig) {
     fallSpeed: 1,
     minSize: 9,
     maxSize: 14,
-    newOn: 300,
+    newOn: 1200,
     blowAnimations: ['blow-soft-left', 'blow-medium-left', 'blow-hard-left', 'blow-soft-right', 'blow-medium-right', 'blow-hard-right'],
     swayAnimations: ['sway-0', 'sway-1', 'sway-2', 'sway-3', 'sway-4', 'sway-5', 'sway-6', 'sway-7', 'sway-8'],
   };
