@@ -1,5 +1,8 @@
 
-.Archive {
+.Archive {    
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 10px;
   font-weight:300;
@@ -9,23 +12,46 @@
   padding-top: 2em;
 }
 
-.Archive:hover #select-year {
-  visibility: visible;
-  opacity: 1;
-  transition: visibility 0s, opacity 0.1s linear;
+.Slider {
+  position: relative;
+  padding: 10px;
+  margin: 3em auto 2em auto;
+  width: 400px;
 }
 
-.Select {
-  margin: 20px auto;
-  padding: 15px;
-  outline: none;
-  border: none;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 120px;
-  border-radius: 10px;
-  background-color: rgb(221, 221, 221);
-  color: #544a4e;
-  display: none;
+.Year {
+  position: absolute;
+  top: -1px;
+  left: -60px;
+  font-size: 20px;
+  font-weight:700;
+  color: #B2B2B2;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 1s, opacity 0.3s linear;
+}
+
+.Archive:hover .Year {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 0.3s linear;
+}
+
+.YearUp, .YearDown {
+  font-size: 24px;
+}
+
+.YearUp:hover, .YearDown:hover {
+  color: #4F4F4F;
+  cursor: pointer;
+}
+
+.YearUp:active, .YearDown:active {
+  color: rgb(51, 51, 51);
+}
+
+.YearUp {
+  padding-bottom: 5px;
 }
 
 .Message {

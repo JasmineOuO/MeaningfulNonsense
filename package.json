@@ -28,6 +28,7 @@
     "netlify-cms": "^2.4.2",
     "node-sass": "^4.11.0",
     "prop-types": "^15.7.2",
+    "rc-slider": "^8.6.6",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0",

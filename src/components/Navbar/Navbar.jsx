@@ -18,6 +18,10 @@ class Navbar extends Component {
   render() {
     const { navLinks } = this.props;
     const { hamburgerOpened } = this.state;
+    const HamburgerClasses = [classes.Hamburger, classes.HamburgerIcon, classes.HamburgerSlider];
+    if (hamburgerOpened) {
+      HamburgerClasses.push(classes.Active);
+    }
     return (
       <nav className={classes.Navbar}>
         {
@@ -31,7 +35,7 @@ class Navbar extends Component {
             />
           ))
         }
-        <button aria-label="Expand navigation bar" type="button" className={hamburgerOpened ? `${classes.HamburgerIcon} ${classes.Hamburger} ${classes.HamburgerSlider} ${classes.Active}` : `${classes.HamburgerIcon} ${classes.Hamburger} ${classes.HamburgerSlider}`} onClick={this.handleClick}>
+        <button aria-label="Expand navigation bar" type="button" className={HamburgerClasses.join(' ')} onClick={this.handleClick}>
           <div className={classes.HamburgerBox}>
             <div className={classes.HamburgerInner} />
           </div>

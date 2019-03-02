@@ -8,7 +8,6 @@ import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import Archive from '../Archive/Archive';
-import Animation from '../Animation/Animation';
 import './Layout.css';
 
 const Layout = ({ children }) => (
@@ -36,13 +35,9 @@ const Layout = ({ children }) => (
           <meta name="msapplication-TileColor" content="#f99599" />
           <link rel="mask-icon" color="#f99599" href="/icons/safari-pinned-tab.svg" />
         </Helmet>
-        {/* <Animation className="winter" fallSpeed={1.5} minSize={7} maxSize={12} newOn={1000} /> */}
-        {/* <Animation className="summer" fallSpeed={1} minSize={12} maxSize={18} newOn={1200} /> */}
-        {/* <Animation className="autumn" fallSpeed={1.5} minSize={12} maxSize={18} newOn={1100} /> */}
-        <Animation className="spring" fallSpeed={1} minSize={9} maxSize={14} newOn={1200} />
         <Link to="/" title="Go to homepage"><Header /></Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
-        {/* <Archive /> */}
+        <Archive />
         <main>{children}</main>
         <Footer />
       </>
