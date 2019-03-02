@@ -1,24 +1,34 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/Seo';
 import Content, { HTMLContent } from '../components/Content';
+import Polaroid from '../components/Polaroid/Polaroid';
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+import classes from './post.module.css';
+import galleryClasses from '../components/Gallery/Gallery.module.css';
+
+
+export const AboutPageTemplate = ({
+  title, content, contentComponent, post,
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
-            </div>
-          </div>
+    <section className={classes.Post}>
+      <div className={classes.Header}>
+        <div className={classes.Title}>{title}</div>
+      </div>
+      <article className={classes.Content}>
+        <PageContent className="content" content={content} />
+      </article>
+      <div className={galleryClasses.Gallery}>
+        <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
+          <Polaroid post={post} type="about" caption="Jasmine Ou" description="Hi there" image={post.frontmatter.profile1} />
+        </div>
+        <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
+          <Polaroid post={post} type="about" caption="Jessica Ou" description="Hi there!!" image={post.frontmatter.profile2} />
         </div>
       </div>
     </section>
@@ -35,6 +45,7 @@ const AboutPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        post={post}
       />
     </Layout>
   );
@@ -45,9 +56,27 @@ export default AboutPage;
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
+      id
       html
       frontmatter {
         title
+        date(formatString: "DD/MM/YY")
+        profile1 {
+          childImageSharp {
+            fluid(maxWidth: 240, quality: 100) {
+              aspectRatio
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+        profile2 {
+          childImageSharp {
+            fluid(maxWidth: 240, quality: 100) {
+              aspectRatio
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
       }
     }
   }

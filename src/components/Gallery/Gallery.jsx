@@ -11,9 +11,7 @@ const Gallery = ({ data }) => {
       {posts && (posts
         .map(({ node: post }) => (
           <div key={post.id} className={`${classes.Col} ${classes.Flex3}`}>
-            <Polaroid
-              post={post}
-            />
+            <Polaroid post={post} type="post" />
           </div>
         )))}
     </div>
