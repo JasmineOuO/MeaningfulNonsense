@@ -67,15 +67,15 @@ class Archive extends Component {
           className: 'summer',
           fallSpeed: 1,
           minSize: 12,
-          maxSize: 18,
+          maxSize: 16,
           newOn: 1200
         };
       case 'autumn':
         return {
           className: 'autumn',
-          fallSpeed: 1.5,
+          fallSpeed: 1.3,
           minSize: 12,
-          maxSize: 17,
+          maxSize: 16,
           newOn: 1100
         };
     }  
@@ -90,9 +90,7 @@ class Archive extends Component {
 
   render() {
     const { year, season } = this.state;
-    console.log(season);
     const animationProps = this.mapSeasonToProps(season);
-    console.log(animationProps);
     return (
       <div className={classes.Archive}>
         <Animation {...animationProps} />
