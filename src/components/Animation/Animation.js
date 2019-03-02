@@ -4,11 +4,12 @@ import Particle from './Particle.js';
 export default class Animation extends Component {
   constructor(props) {
     super(props);
-    this.state = { particle: new Particle(props) };
+    this.state = { particle: null };
   }
 
   componentDidMount = () => {
-    const { particle } = this.state;
+    const particle = new Particle(this.props);
+    this.setState({ particle });
     particle.doStart();
   }
 
