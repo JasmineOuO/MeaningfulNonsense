@@ -87,6 +87,10 @@ export default function Particle(userConfig) {
     });
   };
 
+  this.morph = function (newConfig) {
+    Object.assign(config, newConfig);
+  }
+
   this.doStart = function () {
     getAnimationFrame(createParticles);
   };

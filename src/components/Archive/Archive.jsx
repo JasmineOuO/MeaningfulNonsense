@@ -43,6 +43,44 @@ class Archive extends Component {
     }
   }
 
+  mapSeasonToProps = (season) => {
+    switch (season) {
+      case 'winter':
+        return {
+          className: 'winter',
+          fallSpeed: 1.5,
+          minSize: 7,
+          maxSize: 12,
+          newOn: 1000
+        };
+      case 'all':
+      case 'spring':
+        return {
+          className: 'spring',
+          fallSpeed: 1,
+          minSize: 9,
+          maxSize: 14,
+          newOn: 1200
+        };
+      case 'summer':
+        return {
+          className: 'summer',
+          fallSpeed: 1,
+          minSize: 12,
+          maxSize: 18,
+          newOn: 1200
+        };
+      case 'autumn':
+        return {
+          className: 'autumn',
+          fallSpeed: 1.5,
+          minSize: 12,
+          maxSize: 17,
+          newOn: 1100
+        };
+    }  
+  }
+
   onSliderChange = (value) => {
     const season = this.mapValueToSeason(value);
     this.setState(prevState => ({
@@ -53,12 +91,11 @@ class Archive extends Component {
   render() {
     const { year, season } = this.state;
     console.log(season);
+    const animationProps = this.mapSeasonToProps(season);
+    console.log(animationProps);
     return (
       <div className={classes.Archive}>
-        {/* <Animation className="winter" fallSpeed={1.5} minSize={7} maxSize={12} newOn={1000} /> */}
-        {/* <Animation className="summer" fallSpeed={1} minSize={12} maxSize={18} newOn={1200} /> */}
-        {/* <Animation className="autumn" fallSpeed={1.5} minSize={12} maxSize={18} newOn={1100} /> */}
-        <Animation className="spring" fallSpeed={1} minSize={9} maxSize={14} newOn={1200} />
+        <Animation {...animationProps} />
         <div className={classes.Year}>
           <div className={classes.YearUp} onClick={this.increaseYear}><FaAngleUp /></div>
           <div className={classes.YearDown} onClick={this.decreaseYear}><FaAngleDown /></div>
