@@ -66,7 +66,8 @@ class Archive extends Component {
     switch (season) {
       case 'winter':
         return {
-          className: 'winter',
+          className: 'snowflake',
+          custom: true,
           fallSpeed: 1.5,
           minSize: 7,
           maxSize: 12,
@@ -147,7 +148,7 @@ class Archive extends Component {
         <Animation {...animationProps} />
         <div className={classes.Slider}>
           <Slider {...sliderProps} />
-          <div class={classes.Label} onClick={this.handleClick}>{year}</div>
+          <div className={classes.Label} onClick={this.handleClick}>{year}</div>
         </div>
         <div className={classes.Message} />
       </div>

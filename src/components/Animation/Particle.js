@@ -4,6 +4,7 @@ import './Particle.css';
 export default function Particle(userConfig) {
   const config = {
     className: 'spring',
+    custom: false,
     fallSpeed: 1,
     minSize: 9,
     maxSize: 14,
@@ -50,7 +51,13 @@ export default function Particle(userConfig) {
 
     // Create the particle with the desired class
     const particle = document.createElement('div');
-    particle.setAttribute('class', config.className);
+    particle.setAttribute('class', `particle ${config.className}`);
+
+    // Apply custom styles for special particles
+    if (config.custom) {
+      particle.style.opacity = Math.random();
+      particle.style.fontSize = `${getRandomInt(10, 24)}px`;
+    }
 
     // Randomize animation and fall time of the particle
     const blowAnimation = config.blowAnimations[Math.floor(Math.random() * config.blowAnimations.length)];

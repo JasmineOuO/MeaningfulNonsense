@@ -1,3 +1,13 @@
+.particle {
+    -webkit-pointer-events: none;
+    -moz-pointer-events: none;
+    -ms-pointer-events: none;
+    -o-pointer-events: none;
+    pointer-events: none;
+    position: absolute;
+    z-index: 10;
+}
+
 .spring {
   background: -webkit-linear-gradient(120deg, rgba(255, 183, 197, 0.9), rgba(255, 197, 208, 0.9));
   background: -o-linear-gradient(120deg, rgba(255, 183, 197, 0.9), rgba(255, 197, 208, 0.9));
@@ -9,13 +19,6 @@
   -ms-border-radius: 12px 1px;
   -moz-border-radius: 12px 1px;
   border-radius: 12px 1px;
-  -webkit-pointer-events: none;
-  -moz-pointer-events: none;
-  -ms-pointer-events: none;
-  -o-pointer-events: none;
-  pointer-events: none;
-  position: absolute;
-  z-index: 10;
 }
 
 .autumn {
@@ -29,13 +32,6 @@
   -ms-border-radius: 12px 1px;
   -moz-border-radius: 12px 1px;
   border-radius: 12px 1px;
-  -webkit-pointer-events: none;
-  -moz-pointer-events: none;
-  -ms-pointer-events: none;
-  -o-pointer-events: none;
-  pointer-events: none;
-  position: absolute;
-  z-index: 10;
 }
 
 .summer {
@@ -49,13 +45,6 @@
   -ms-border-radius: 12px 1px;
   -moz-border-radius: 12px 1px;
   border-radius: 12px 1px;
-  -webkit-pointer-events: none;
-  -moz-pointer-events: none;
-  -ms-pointer-events: none;
-  -o-pointer-events: none;
-  pointer-events: none;
-  position: absolute;
-  z-index: 10;
 }
 
 .winter {
@@ -69,13 +58,11 @@
   -ms-border-radius: 12px 12px;
   -moz-border-radius: 12px 12px;
   border-radius: 12px 12px;
-  -webkit-pointer-events: none;
-  -moz-pointer-events: none;
-  -ms-pointer-events: none;
-  -o-pointer-events: none;
-  pointer-events: none;
-  position: absolute;
-  z-index: 10;
+}
+
+.snowflake:after {
+    color: rgb(178, 221, 255);
+    content: "\2744";
 }
 
 @-webkit-keyframes fall {

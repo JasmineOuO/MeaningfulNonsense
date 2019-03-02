@@ -10,7 +10,7 @@ const Gallery = ({ data }) => {
     <div className={classes.Gallery}>
       {posts && (posts
         .map(({ node: post }) => (
-          <div className={`${classes.Col} ${classes.Flex3}`}>
+          <div key={post.id} className={`${classes.Col} ${classes.Flex3}`}>
             <Polaroid
               post={post}
             />
