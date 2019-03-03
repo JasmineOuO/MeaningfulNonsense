@@ -2,7 +2,7 @@
 import React from 'react';
 import classes from './Comments.module.css';
 
-const Comments = ({ comments, pageContext }) => {
+const Comments = ({ comments, slug }) => {
   return (
     <>
       <p>
@@ -28,9 +28,9 @@ const Comments = ({ comments, pageContext }) => {
           }
         </div>
         <div className={classes.Form}>
-          <form id="comment-form" autoComplete="off" method="POST" action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/src/data/comments">
-            {/* <input name="options[redirect]" type="hidden" value="https://jasmineouo.github.io/Blog/{{page.slug}}" /> */}
-            {/* <input name="options[slug]" type="hidden" value={pageContext.slug} /> */}
+          <form id="comment-form" autoComplete="off" method="POST" action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments">
+            <input name="options[redirect]" type="hidden" value={`https://meaningfulnonsense.ca/${slug}`} />
+            <input name="options[slug]" type="hidden" value={slug} />
             <label htmlFor="comment-form-name">Name*</label>
             <input type="text" id="comment-form-name" name="fields[name]" />
             <label htmlFor="comment-form-email">E-mail</label>

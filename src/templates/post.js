@@ -67,6 +67,9 @@ const BlogPost = ({ data, pageContext }) => {
   const {
     markdownRemark: {
       html,
+      fields: {
+        slug,
+      },
       frontmatter: {
         title, date, tags, description,
       },
@@ -98,7 +101,7 @@ const BlogPost = ({ data, pageContext }) => {
         next={next}
       />
       {/* <Comments comments={comments} /> */}
-      <Comments comments={null} />
+      <Comments comments={null} slug={slug} />
     </Layout>
   );
 };
@@ -110,6 +113,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
