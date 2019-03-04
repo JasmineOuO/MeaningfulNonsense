@@ -7,7 +7,7 @@ import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import SEO from '../components/Seo';
-// import Comments from '../components/Comments/Comments';
+import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
@@ -71,14 +71,12 @@ const BlogPost = ({ data, pageContext }) => {
         title, date, tags, description,
       },
     },
-    // allCommentsYaml: {
-    //   edges: comments,
-    // },
+    allCommentsYaml,
   } = data;
-  const { prev, next } = pageContext;
+  const { prev, next, slug } = pageContext;
   return (
     <Layout>
-      <SEO keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} />
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}
@@ -97,7 +95,7 @@ const BlogPost = ({ data, pageContext }) => {
         prev={prev}
         next={next}
       />
-      {/* <Comments slug={slug} /> */}
+      <Comments allCommentsYaml={allCommentsYaml} slug={slug} />
     </Layout>
   );
 };
@@ -114,6 +112,17 @@ export const pageQuery = graphql`
         title
         description
         tags
+      }
+    }
+    allCommentsYaml(filter: { slug: { eq: $slug } }) {
+      edges {
+        node {
+          id
+          slug
+          name
+          message
+          date
+        }
       }
     }
   }

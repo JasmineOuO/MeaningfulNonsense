@@ -2,30 +2,24 @@
 import React from 'react';
 import classes from './Comments.module.css';
 
-const Comments = ({ comments, slug }) => {
+const Comments = ({ allCommentsYaml, slug }) => {
+  const comments = allCommentsYaml && allCommentsYaml.edges;
   return (
     <>
-      <p>
-        <div className={classes.Header}>
-          Comments
-        </div>
-      </p>
+     <div className={classes.Header}>
+        Comments
+      </div>
       <div className={classes.Block}>
         <div>
           { comments && comments.length && (
-            <p>
-              {
-                comments.map(({ node: comment }) => (
-                  <div key={comment.node.id} className={classes.Comment}>
-                    <div class={classes.Name}>{comment.node.name}</div>
-                    <div class={classes.Date}>{comment.node.date}</div>
-                    <div class={classes.Message}>{comment.node.message}</div>
-                  </div>
-                ))
-              }
-            </p>
-            )
-          }
+            comments.map(({ node: comment }) => (
+              <div key={comment.id} className={classes.Comment}>
+                <div className={classes.Name}>{comment.name}</div>
+                <div className={classes.Date}>{comment.date}</div>
+                <div className={classes.Message}>{comment.message}</div>
+              </div>
+            ))
+          )}
         </div>
         <div className={classes.Form}>
           <form id="comment-form" autoComplete="off" method="POST" action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments">

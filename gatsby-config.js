@@ -88,14 +88,6 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    'gatsby-transformer-yaml',
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/data/comments`,
-        name: 'comments',
-      },
-    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
@@ -153,6 +145,14 @@ module.exports = {
     //     },
     //   },
     // },
+    'gatsby-transformer-yaml',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/data/comments`,
+        name: 'comments',
+      },
+    },
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {

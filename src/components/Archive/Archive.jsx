@@ -131,7 +131,6 @@ class Archive extends Component {
   }
 
   handleYearChange =  (year) => {
-    console.log('yay');
     this.setState({ year });
   }
 
