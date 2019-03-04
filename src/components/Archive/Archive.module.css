@@ -46,3 +46,10 @@
   padding-top: 150px;
   display: none;
 }
+
+@media (max-width: 500px) {
+  .Slider {
+    width: 270px;
+    letter-spacing: 0.1em;
+  }
+}
