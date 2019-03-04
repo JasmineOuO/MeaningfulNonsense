@@ -7,7 +7,7 @@ import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 import Layout from '../components/Layout/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import SEO from '../components/Seo';
-import Comments from '../components/Comments/Comments';
+// import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
@@ -75,7 +75,7 @@ const BlogPost = ({ data, pageContext }) => {
     //   edges: comments,
     // },
   } = data;
-  const { prev, next, slug } = pageContext;
+  const { prev, next } = pageContext;
   return (
     <Layout>
       <SEO keywords={['meaningful', 'nonsense', 'blog']} />
@@ -97,7 +97,7 @@ const BlogPost = ({ data, pageContext }) => {
         prev={prev}
         next={next}
       />
-      <Comments slug={slug} />
+      {/* <Comments slug={slug} /> */}
     </Layout>
   );
 };
