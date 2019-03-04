@@ -71,9 +71,9 @@ const BlogPost = ({ data, pageContext }) => {
         title, date, tags, description,
       },
     },
-    allCommentsYaml: {
-      edges: comments,
-    },
+    // allCommentsYaml: {
+    //   edges: comments,
+    // },
   } = data;
   const { prev, next, slug } = pageContext;
   return (
@@ -97,7 +97,7 @@ const BlogPost = ({ data, pageContext }) => {
         prev={prev}
         next={next}
       />
-      <Comments comments={comments} slug={slug} />
+      <Comments slug={slug} />
     </Layout>
   );
 };
@@ -114,17 +114,6 @@ export const pageQuery = graphql`
         title
         description
         tags
-      }
-    }
-    allCommentsYaml(filter: { slug: { eq: $slug } }) {
-      edges {
-        node {
-          id
-          name
-          email
-          message
-          date
-        }
       }
     }
   }
