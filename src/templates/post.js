@@ -67,18 +67,15 @@ const BlogPost = ({ data, pageContext }) => {
   const {
     markdownRemark: {
       html,
-      fields: {
-        slug,
-      },
       frontmatter: {
         title, date, tags, description,
       },
     },
-    // allComentsYaml: {
-    //   edges: comments,
-    // },
+    allCommentsYaml: {
+      edges: comments,
+    },
   } = data;
-  const { prev, next } = pageContext;
+  const { prev, next, slug } = pageContext;
   return (
     <Layout>
       <SEO keywords={['meaningful', 'nonsense', 'blog']} />
@@ -100,8 +97,7 @@ const BlogPost = ({ data, pageContext }) => {
         prev={prev}
         next={next}
       />
-      {/* <Comments comments={comments} /> */}
-      <Comments comments={null} slug={slug} />
+      <Comments comments={comments} slug={slug} />
     </Layout>
   );
 };
@@ -109,18 +105,26 @@ const BlogPost = ({ data, pageContext }) => {
 export default BlogPost;
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  query PostBySlug($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
-      fields {
-        slug
-      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
         description
         tags
+      }
+    }
+    allCommentsYaml(filter: { slug: { eq: $slug } }) {
+      edges {
+        node {
+          id
+          name
+          email
+          message
+          date
+        }
       }
     }
   }

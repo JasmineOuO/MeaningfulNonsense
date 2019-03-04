@@ -15,7 +15,7 @@ const Comments = ({ comments, slug }) => {
           { comments && comments.length && (
             <p>
               {
-                comments.map(comment => (
+                comments.map(({ node: comment }) => (
                   <div key={comment.node.id} className={classes.Comment}>
                     <div class={classes.Name}>{comment.node.name}</div>
                     <div class={classes.Date}>{comment.node.date}</div>
@@ -31,6 +31,7 @@ const Comments = ({ comments, slug }) => {
           <form id="comment-form" autoComplete="off" method="POST" action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments">
             <input name="options[redirect]" type="hidden" value={`https://meaningfulnonsense.ca${slug}`} />
             <input name="options[slug]" type="hidden" value={slug} />
+            <input name="fields[slug]" type="hidden" value={slug} />
             <label htmlFor="comment-form-name">Name*</label>
             <input type="text" id="comment-form-name" name="fields[name]" />
             <label htmlFor="comment-form-email">E-mail</label>
