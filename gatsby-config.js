@@ -154,6 +154,9 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-brotli'
+    },
+    {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {
         fonts: [
