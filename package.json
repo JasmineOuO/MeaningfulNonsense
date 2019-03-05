@@ -20,7 +20,7 @@
     "gatsby-plugin-sharp": "^2.0.22",
     "gatsby-remark-copy-linked-files": "^2.0.9",
     "gatsby-remark-images": "^3.0.5",
-    "gatsby-remark-relative-images": "^0.2.1",
+    "gatsby-remark-relative-images": "^0.2.2",
     "gatsby-source-filesystem": "^2.0.22",
     "gatsby-transformer-remark": "^2.2.6",
     "gatsby-transformer-sharp": "^2.1.14",
@@ -36,7 +36,7 @@
     "react-helmet": "^5.2.0",
     "react-icons": "^3.4.0",
     "react-masonry-css": "^1.0.12",
-    "renovate": "^14.29.0",
+    "renovate": "^14.37.0",
     "rimraf": "^2.6.3",
     "sharp": "^0.21.3",
     "uuid": "^3.3.2"

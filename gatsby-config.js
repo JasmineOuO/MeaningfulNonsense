@@ -153,9 +153,7 @@ module.exports = {
         name: 'comments',
       },
     },
-    {
-      resolve: 'gatsby-plugin-brotli'
-    },
+    'gatsby-plugin-brotli',
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {
