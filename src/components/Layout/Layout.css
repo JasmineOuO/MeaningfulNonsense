@@ -742,7 +742,7 @@ pre tt:after {
   vertical-align: middle;
   text-align: center;
   cursor: pointer;
-  color: #b2b2b2;
+  color: rgb(103,103,104);
 }
 .slider .rc-slider-mark-text-active {
   font-weight: 700;

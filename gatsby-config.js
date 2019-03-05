@@ -168,7 +168,7 @@ module.exports = {
           },
           {
             family: 'Open Sans Condensed',
-            variants: ['300', '700'],
+            variants: ['300', '300i', '700'],
           },
           {
             family: 'IBM Plex Serif',

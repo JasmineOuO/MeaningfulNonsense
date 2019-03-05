@@ -25,15 +25,16 @@
   width: 100%;
   text-align: center;
   margin-top: -54px;
-  color: #b2b2b2;
+  color: rgb(103,103,104);
   font-size: 20px;
   letter-spacing: 27px;
   text-indent: 27px;
   cursor: pointer;
+  font-style: normal; 
 }
 
 .Label:hover {
-  font-weight: 700;
+  font-style: italic; 
 }
 
 .Label:active {
