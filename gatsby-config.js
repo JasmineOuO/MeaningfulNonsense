@@ -64,6 +64,7 @@ module.exports = {
     ],
   },
   plugins: [
+    'gatsby-plugin-brotli',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
@@ -153,7 +154,6 @@ module.exports = {
         name: 'comments',
       },
     },
-    'gatsby-plugin-brotli',
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {
