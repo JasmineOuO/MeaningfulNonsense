@@ -86,6 +86,8 @@ exports.createPages = ({ actions, graphql }) => {
     });
 
     return posts;
+  }).catch((err) => {
+    console.log(err);
   });
 };
 
