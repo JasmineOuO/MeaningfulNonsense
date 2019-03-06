@@ -1,7 +1,7 @@
 /* eslint-disable */
 const {
   NODE_ENV,
-  URL: NETLIFY_SITE_URL = 'https://www.example.com',
+  URL: NETLIFY_SITE_URL = 'https://www.meaningfulnonsense.ca',
   DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
   CONTEXT: NETLIFY_ENV = NODE_ENV
 } = process.env;
@@ -13,7 +13,6 @@ module.exports = {
     title: 'Meaningful Nonsense',
     description: 'A personal blog',
     author: 'JasmineOuO',
-    siteUrl: 'https://meaningfulnonsense.ca',
     navLinks: [
       {
         name: 'home',
