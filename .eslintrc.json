@@ -3,7 +3,10 @@
         "browser": true,
         "es6": true
     },
-    "extends": "airbnb",
+    "extends": [
+        "airbnb",
+        "prettier"
+    ],
     "parser": "babel-eslint",
     "globals": {
         "Atomics": "readonly",
@@ -17,9 +20,11 @@
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+        "react",
+        "prettier"
     ],
     "rules": {
+        "prettier/prettier": ["error"],
         "strict": 0,
         "react/prop-types": 0,
         "react/forbid-prop-types": 0,
