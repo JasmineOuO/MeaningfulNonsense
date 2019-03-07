@@ -13,6 +13,7 @@ module.exports = {
     title: 'Meaningful Nonsense',
     description: 'A personal blog',
     author: 'JasmineOuO',
+    siteUrl: 'https://meaningfulnonsense.ca',
     navLinks: [
       {
         name: 'home',
