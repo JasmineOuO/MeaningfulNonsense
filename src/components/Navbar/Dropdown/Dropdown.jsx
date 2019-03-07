@@ -13,19 +13,17 @@ const Dropdown = ({ navLinks, isHovered }) => {
       className={dropdownClasses.join(' ')}
       style={isHovered ? { maxHeight: 50 * navLinks.length } : { maxHeight: 0 }}
     >
-      {
-        navLinks.map(navLink => (
-          <Link
-            to={navLink.link}
-            className={classes.Dropitem}
-            activeStyle={{ color: '#fff', backgroundColor: '#BEBEBE' }}
-            title={navLink.name}
-            key={navLink.name}
-          >
-            {navLink.name}
-          </Link>
-        ))
-      }
+      {navLinks.map(navLink => (
+        <Link
+          to={navLink.link}
+          className={classes.Dropitem}
+          activeStyle={{ color: '#fff', backgroundColor: '#BEBEBE' }}
+          title={navLink.name}
+          key={navLink.name}
+        >
+          {navLink.name}
+        </Link>
+      ))}
     </div>
   );
 };

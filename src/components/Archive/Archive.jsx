@@ -20,7 +20,7 @@ const defaultSliderProps = {
     borderColor: '#e8c5d6',
     backgroundColor: '#e8c5d6'
   }
-}
+};
 
 class Archive extends Component {
   constructor(props) {
@@ -32,7 +32,7 @@ class Archive extends Component {
     };
   }
 
-  mapValueToSeason = (value) => {
+  mapValueToSeason = value => {
     switch (value) {
       case 0:
         return 'all';
@@ -45,9 +45,9 @@ class Archive extends Component {
       case 100:
         return 'autumn';
     }
-  }
+  };
 
-  mapSeasonToValue = (season) => {
+  mapSeasonToValue = season => {
     switch (season) {
       case 'all':
         return 0;
@@ -60,9 +60,9 @@ class Archive extends Component {
       case 'autumn':
         return 100;
     }
-  }
+  };
 
-  mapSeasonToProps = (season) => {
+  mapSeasonToProps = season => {
     switch (season) {
       case 'winter':
         return {
@@ -98,56 +98,63 @@ class Archive extends Component {
           maxSize: 16,
           newOn: 1100
         };
-    }  
-  }
+    }
+  };
 
-  customSliderProps = (year, season, selectYear) => (
-    selectYear ? ({
-      min: 2016,
-      max: 2022,
-      step: 1,
-      defaultValue: 2018,
-      value: year,
-      onChange: this.handleYearChange
-    }) : ({
-      min: 0,
-      step: null,
-      defaultValue: 0,
-      value: this.mapSeasonToValue(season),
-      marks: {
-        0: 'all',
-        25: 'winter',
-        50: 'spring',
-        75: 'summer',
-        100: 'autumn'
-      },
-      onChange: this.handleSeasonChange
-    })
-  )
+  customSliderProps = (year, season, selectYear) =>
+    selectYear
+      ? {
+          min: 2016,
+          max: 2022,
+          step: 1,
+          defaultValue: 2018,
+          value: year,
+          onChange: this.handleYearChange
+        }
+      : {
+          min: 0,
+          step: null,
+          defaultValue: 0,
+          value: this.mapSeasonToValue(season),
+          marks: {
+            0: 'all',
+            25: 'winter',
+            50: 'spring',
+            75: 'summer',
+            100: 'autumn'
+          },
+          onChange: this.handleSeasonChange
+        };
 
-  handleSeasonChange = (value) => {
-    const season = this.mapValueToSeason (value);
+  handleSeasonChange = value => {
+    const season = this.mapValueToSeason(value);
     this.setState({ season });
-  }
+  };
 
-  handleYearChange =  (year) => {
+  handleYearChange = year => {
     this.setState({ year });
-  }
+  };
 
   handleClick = () => {
     this.setState(prevState => ({ selectYear: !prevState.selectYear }));
-  }
+  };
 
   render() {
     const { year, season, selectYear } = this.state;
-    const sliderProps = Object.assign({}, defaultSliderProps, this.customSliderProps(year, season, selectYear));
+    const sliderProps = Object.assign(
+      {},
+      defaultSliderProps,
+      this.customSliderProps(year, season, selectYear)
+    );
     const animationProps = this.mapSeasonToProps(season);
     return (
       <div className={classes.Archive}>
         <Animation {...animationProps} />
         <div className={classes.Slider}>
           <Slider {...sliderProps} />
-          <div className={classes.Label} onClick={this.handleClick}>{year}</div>
+          <div className={classes.Label} onClick={this.handleClick}>
+            {year}
+          </div>
         </div>
         <div className={classes.Message} />
       </div>

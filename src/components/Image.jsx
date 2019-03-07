@@ -6,26 +6,16 @@ const Image = ({ imageInfo, className }) => {
   const { alt = '', childImageSharp, image } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {
-    return (
-      <Img
-        className={className}
-        fluid={image.childImageSharp.fluid}
-        alt={alt}
-      />
-    );
+    return <Img className={className} fluid={image.childImageSharp.fluid} alt={alt} />;
   }
 
   if (childImageSharp) {
-    return (
-      <Img
-        className={className}
-        fluid={childImageSharp.fluid}
-        alt={alt}
-      />
-    );
+    return <Img className={className} fluid={childImageSharp.fluid} alt={alt} />;
   }
 
-  if (!!image && typeof image === 'string') { return <img className={className} src={image} alt={alt} />; }
+  if (!!image && typeof image === 'string') {
+    return <img className={className} src={image} alt={alt} />;
+  }
 
   return null;
 };
@@ -35,8 +25,8 @@ Image.propTypes = {
     alt: PropTypes.string,
     childImageSharp: PropTypes.object,
     image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]).isRequired,
-    style: PropTypes.object,
-  }).isRequired,
+    style: PropTypes.object
+  }).isRequired
 };
 
 export default Image;

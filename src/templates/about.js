@@ -9,10 +9,7 @@ import Polaroid from '../components/Polaroid/Polaroid';
 import classes from './post.module.css';
 import galleryClasses from '../components/Gallery/Gallery.module.css';
 
-
-export const AboutPageTemplate = ({
-  title, content, contentComponent, post,
-}) => {
+export const AboutPageTemplate = ({ title, content, contentComponent, post }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -25,10 +22,22 @@ export const AboutPageTemplate = ({
       </article>
       <div className={galleryClasses.Gallery}>
         <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
-          <Polaroid post={post} type="about" caption="Jasmine Ou" description="Hi there" image={post.frontmatter.profile1} />
+          <Polaroid
+            post={post}
+            type="about"
+            caption="Jasmine Ou"
+            description="Hi there"
+            image={post.frontmatter.profile1}
+          />
         </div>
         <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
-          <Polaroid post={post} type="about" caption="Jessica Ou" description="Hi there!!" image={post.frontmatter.profile2} />
+          <Polaroid
+            post={post}
+            type="about"
+            caption="Jessica Ou"
+            description="Hi there!!"
+            image={post.frontmatter.profile2}
+          />
         </div>
       </div>
     </section>
@@ -40,7 +49,11 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Meaningful Nonsense About" keywords={['meaningful', 'nonsense', 'blog']} description="The about page" />
+      <SEO
+        title="Meaningful Nonsense About"
+        keywords={['meaningful', 'nonsense', 'blog']}
+        description="The about page"
+      />
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

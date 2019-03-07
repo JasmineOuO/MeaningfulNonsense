@@ -18,7 +18,11 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Meaningful Nonsense Home" keywords={['meaningful', 'nonsense', 'blog']} description={frontmatter.description} />
+      <SEO
+        title="Meaningful Nonsense Home"
+        keywords={['meaningful', 'nonsense', 'blog']}
+        description={frontmatter.description}
+      />
       <IndexPageTemplate />
     </Layout>
   );
@@ -27,8 +31,8 @@ const IndexPage = ({ data }) => {
 export default IndexPage;
 
 export const pageQuery = graphql`
-query IndexPageTemplate {
-  markdownRemark(frontmatter: {templateKey: {eq: "index"}}) {
+  query IndexPageTemplate {
+    markdownRemark(frontmatter: { templateKey: { eq: "index" } }) {
       frontmatter {
         title
         description

@@ -34,7 +34,9 @@ const Layout = ({ children }) => (
           <meta name="msapplication-TileColor" content="#f99599" />
           <link rel="mask-icon" color="#f99599" href="/icons/safari-pinned-tab.svg" />
         </Helmet>
-        <Link to="/" title="Go to homepage"><Header /></Link>
+        <Link to="/" title="Go to homepage">
+          <Header />
+        </Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
         <main>{children}</main>
         <Footer />
@@ -44,7 +46,7 @@ const Layout = ({ children }) => (
 );
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node.isRequired
 };
 
 export default Layout;

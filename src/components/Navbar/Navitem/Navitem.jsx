@@ -12,17 +12,15 @@ class Navitem extends Component {
 
   handleMouseEnter = () => {
     this.setState({ isHovered: true });
-  }
+  };
 
   handleMouseLeave = () => {
     this.setState({ isHovered: false });
-  }
+  };
 
   render() {
     const { isHovered } = this.state;
-    const {
-      name, link, navLinks, hamburgerOpened,
-    } = this.props;
+    const { name, link, navLinks, hamburgerOpened } = this.props;
     const navitemClasses = [classes.Navitem];
     if (hamburgerOpened) {
       navitemClasses.push(classes.Responsive);
@@ -34,25 +32,20 @@ class Navitem extends Component {
         onMouseEnter={this.handleMouseEnter}
         onMouseLeave={this.handleMouseLeave}
       >
-        {
-          navLinks.length === 0
-            ? (
-              <Link
-                to={link}
-                className={classes.Btn}
-                activeStyle={{ backgroundColor: '#e8b4cd' }}
-                title={name}
-                key={name}
-                style={name === 'home' ? { display: 'block' } : {}}
-              >
-                {name}
-              </Link>
-            ) : (
-              <div className={classes.Dropbtn}>
-                {name}
-              </div>
-            )
-        }
+        {navLinks.length === 0 ? (
+          <Link
+            to={link}
+            className={classes.Btn}
+            activeStyle={{ backgroundColor: '#e8b4cd' }}
+            title={name}
+            key={name}
+            style={name === 'home' ? { display: 'block' } : {}}
+          >
+            {name}
+          </Link>
+        ) : (
+          <div className={classes.Dropbtn}>{name}</div>
+        )}
         <Dropdown navLinks={navLinks} isHovered={isHovered} />
       </div>
     );

@@ -11,9 +11,9 @@ class Navbar extends Component {
 
   handleClick = () => {
     this.setState(prevState => ({
-      hamburgerOpened: !prevState.hamburgerOpened,
+      hamburgerOpened: !prevState.hamburgerOpened
     }));
-  }
+  };
 
   render() {
     const { navLinks } = this.props;
@@ -24,18 +24,21 @@ class Navbar extends Component {
     }
     return (
       <nav className={classes.Navbar}>
-        {
-          navLinks.map(navLink => (
-            <Navitem
-              key={navLink.name}
-              name={navLink.name}
-              link={navLink.link}
-              navLinks={navLink.navLinks}
-              hamburgerOpened={hamburgerOpened}
-            />
-          ))
-        }
-        <button aria-label="Expand navigation bar" type="button" className={HamburgerClasses.join(' ')} onClick={this.handleClick}>
+        {navLinks.map(navLink => (
+          <Navitem
+            key={navLink.name}
+            name={navLink.name}
+            link={navLink.link}
+            navLinks={navLink.navLinks}
+            hamburgerOpened={hamburgerOpened}
+          />
+        ))}
+        <button
+          aria-label="Expand navigation bar"
+          type="button"
+          className={HamburgerClasses.join(' ')}
+          onClick={this.handleClick}
+        >
           <div className={classes.HamburgerBox}>
             <div className={classes.HamburgerInner} />
           </div>

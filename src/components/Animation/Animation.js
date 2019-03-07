@@ -11,19 +11,19 @@ export default class Animation extends Component {
     const particle = new Particle(this.props);
     this.setState({ particle });
     particle.doStart();
-  }
+  };
 
   componentDidUpdate = () => {
     const { particle } = this.state;
     particle.morph(this.props);
-  }
+  };
 
   componentWillUnmount = () => {
     const { className } = this.props;
-    Array.from(document.getElementsByClassName(className)).forEach((element) => {
+    Array.from(document.getElementsByClassName(className)).forEach(element => {
       element.parentNode.removeChild(element);
     });
-  }
+  };
 
   render() {
     return null;

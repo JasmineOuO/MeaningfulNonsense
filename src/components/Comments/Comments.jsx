@@ -17,13 +17,18 @@ class Comments extends Component {
   handleSubmit = event => {
     event.preventDefault();
     const { name, message, errors } = this.state;
+    this.setState({ isValid: true });
     if (!name) {
       this.setState({ isValid: false });
       errors.name = 'Please enter a name';
+    } else {
+      errors.name = '';
     }
     if (!message) {
       this.setState({ isValid: false });
       errors.message = 'Please add a comment';
+    } else {
+      errors.message = '';
     }
   };
 
@@ -46,7 +51,7 @@ class Comments extends Component {
                 </div>
               ))}
           </div>
-          <div className={classes.Form} onSubmit={this.handleSubmit}>
+          <div className={classes.Form}>
             <form
               id="comment-form"
               autoComplete="off"
@@ -61,6 +66,7 @@ class Comments extends Component {
               <input name="options[slug]" type="hidden" value={slug} />
               <input name="fields[slug]" type="hidden" value={slug} />
               <label htmlFor="name">Name*</label>
+              <span className={classes.Error}>{errors.name}</span>
               <input
                 type="text"
                 id="name"
@@ -68,7 +74,6 @@ class Comments extends Component {
                 value={name}
                 onChange={event => this.setState({ name: event.target.value })}
               />
-              <span className={classes.Error}>{errors.name}</span>
               <label htmlFor="email">E-mail</label>
               <input
                 type="email"
@@ -78,6 +83,7 @@ class Comments extends Component {
                 onChange={event => this.setState({ email: event.target.value })}
               />
               <label htmlFor="message">Message*</label>
+              <span className={classes.Error}>{errors.message}</span>
               <textarea
                 type="text"
                 id="message"
@@ -85,8 +91,7 @@ class Comments extends Component {
                 value={message}
                 onChange={event => this.setState({ message: event.target.value })}
               />
-              <span className={classes.Error}>{errors.message}</span>
-              <button type="submit" disabled={!isValid}>
+              <button type="submit" disabled={!isValid} onClick={this.handleSubmit}>
                 Comment
               </button>
             </form>

@@ -66,6 +66,7 @@ const BlogPost = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} />
+      {/* prettier-ignore */}
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}

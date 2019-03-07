@@ -8,87 +8,82 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(
-        sort: { order: ASC, fields: [frontmatter___date]}
-        limit: 1000
-        ) {
-          edges {
-            node {
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                date
-                title
-                tags
-                templateKey
-              }
+      allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }, limit: 1000) {
+        edges {
+          node {
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              date
+              title
+              tags
+              templateKey
             }
           }
+        }
       }
     }
-  `).then((result) => {
-    if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()));
-      return Promise.reject(result.errors);
-    }
+  `)
+    .then(result => {
+      if (result.errors) {
+        result.errors.forEach(e => console.error(e.toString()));
+        return Promise.reject(result.errors);
+      }
 
-    const posts = result.data.allMarkdownRemark.edges;
+      const posts = result.data.allMarkdownRemark.edges;
 
-    _.each(posts, (edge, index) => {
-      const {
-        id,
-        fields: {
-          slug,
-        },
-      } = edge.node;
-      const prev = index === 0 ? null : posts[index - 1].node;
-      const next = index === posts.length - 1 ? null : posts[index + 1].node;
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`,
-        ),
-        // additional data can be passed via context
-        context: {
+      _.each(posts, (edge, index) => {
+        const {
           id,
-          slug,
-          prev,
-          next,
-        },
+          fields: { slug }
+        } = edge.node;
+        const prev = index === 0 ? null : posts[index - 1].node;
+        const next = index === posts.length - 1 ? null : posts[index + 1].node;
+        createPage({
+          path: edge.node.fields.slug,
+          tags: edge.node.frontmatter.tags,
+          component: path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`),
+          // additional data can be passed via context
+          context: {
+            id,
+            slug,
+            prev,
+            next
+          }
+        });
       });
-    });
 
-    // Tag pages:
-    let tags = [];
-    // Iterate through each post, putting all found tags into `tags`
-    posts.forEach((edge) => {
-      if (_.get(edge, 'node.frontmatter.tags')) {
-        tags = tags.concat(edge.node.frontmatter.tags);
-      }
-    });
-    // Eliminate duplicate tags
-    tags = _.uniq(tags);
-
-    // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`;
-
-      createPage({
-        path: tagPath,
-        component: path.resolve('src/templates/tags.js'),
-        context: {
-          tag,
-        },
+      // Tag pages:
+      let tags = [];
+      // Iterate through each post, putting all found tags into `tags`
+      posts.forEach(edge => {
+        if (_.get(edge, 'node.frontmatter.tags')) {
+          tags = tags.concat(edge.node.frontmatter.tags);
+        }
       });
-    });
+      // Eliminate duplicate tags
+      tags = _.uniq(tags);
 
-    return posts;
-  }).catch((err) => {
-    console.log(err);
-  });
+      // Make tag pages
+      tags.forEach(tag => {
+        const tagPath = `/tags/${_.kebabCase(tag)}/`;
+
+        createPage({
+          path: tagPath,
+          component: path.resolve('src/templates/tags.js'),
+          context: {
+            tag
+          }
+        });
+      });
+
+      return posts;
+    })
+    .catch(err => {
+      console.log(err);
+    });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -99,7 +94,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: 'slug',
       node,
-      value,
+      value
     });
   }
 };

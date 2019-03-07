@@ -10,9 +10,11 @@ class Polaroid extends Component {
     super(props);
   }
 
-  render () {
+  render() {
     const { post, type } = this.props;
-    let title, backText, thumbnail = '';
+    let title,
+      backText,
+      thumbnail = '';
     let date = post.frontmatter.date;
     let link = '/';
     let id = post.id;
@@ -30,19 +32,16 @@ class Polaroid extends Component {
     }
 
     return (
-      <div
-        className={classes.FlipContainer}
-        key={id}
-      >
+      <div className={classes.FlipContainer} key={id}>
         <div className={classes.Flipper}>
           <div className={classes.Front}>
             <a className={classes.Polaroid} title={title}>
-                <Image className={classes.Image} imageInfo={{image: thumbnail}}/>
+              <Image className={classes.Image} imageInfo={{ image: thumbnail }} />
             </a>
           </div>
           <div className={classes.Back}>
             <h1>{backText}</h1>
-            <a className={classes.Polaroid} title={date}></a>
+            <a className={classes.Polaroid} title={date} />
             <div className={classes.Link}>
               <Link to={link} title={title} />
             </div>

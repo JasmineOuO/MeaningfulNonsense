@@ -18,12 +18,12 @@ module.exports = {
       {
         name: 'home',
         link: '/',
-        navLinks: [],
+        navLinks: []
       },
       {
         name: 'about',
         link: '/about',
-        navLinks: [],
+        navLinks: []
       },
       {
         name: 'photography',
@@ -31,13 +31,13 @@ module.exports = {
         navLinks: [
           {
             name: 'food',
-            link: '/food',
+            link: '/food'
           },
           {
             name: 'travel',
-            link: '/travel',
-          },
-        ],
+            link: '/travel'
+          }
+        ]
       },
       {
         name: 'stories',
@@ -45,13 +45,13 @@ module.exports = {
         navLinks: [
           {
             name: 'all stories',
-            link: '/stories',
+            link: '/stories'
           },
           {
             name: 'serendipity',
-            link: '/serendipity',
-          },
-        ],
+            link: '/serendipity'
+          }
+        ]
       },
       {
         name: 'life',
@@ -59,19 +59,19 @@ module.exports = {
         navLinks: [
           {
             name: 'all life entries',
-            link: '/life',
+            link: '/life'
           },
           {
             name: 'everyday thoughts',
-            link: '/everydaythoughts',
+            link: '/everydaythoughts'
           },
           {
             name: 'life lessons',
-            link: '/lifelessons',
-          },
-        ],
-      },
-    ],
+            link: '/lifelessons'
+          }
+        ]
+      }
+    ]
   },
   plugins: [
     // 'gatsby-plugin-brotli',
@@ -82,22 +82,22 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'uploads',
-        path: `${__dirname}/static/images`,
-      },
+        path: `${__dirname}/static/images`
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'pages',
-        path: `${__dirname}/src/pages`,
-      },
+        path: `${__dirname}/src/pages`
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',
-        path: `${__dirname}/src/images`,
-      },
+        path: `${__dirname}/src/images`
+      }
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
@@ -108,8 +108,8 @@ module.exports = {
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
-              name: 'uploads',
-            },
+              name: 'uploads'
+            }
           },
           {
             resolve: 'gatsby-remark-images',
@@ -117,17 +117,17 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
-            },
+              maxWidth: 2048
+            }
           },
           {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
-              destinationDir: 'static',
-            },
-          },
-        ],
-      },
+              destinationDir: 'static'
+            }
+          }
+        ]
+      }
     },
     {
       resolve: 'gatsby-plugin-manifest',
@@ -139,8 +139,8 @@ module.exports = {
         theme_color: '#f7d1d3',
         display: 'standalone',
         icon: 'src/images/icon.png',
-        include_favicon: true,
-      },
+        include_favicon: true
+      }
     },
     // {
     //   resolve: 'gatsby-plugin-csp', // https://github.com/bejamas/gatsby-plugin-csp
@@ -161,8 +161,8 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/data/comments`,
-        name: 'comments',
-      },
+        name: 'comments'
+      }
     },
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
@@ -170,31 +170,31 @@ module.exports = {
         fonts: [
           {
             family: 'Dancing Script',
-            variants: ['700'],
+            variants: ['700']
           },
           {
             family: 'Montserrat',
-            variants: ['400', '500', '600'],
+            variants: ['400', '500', '600']
           },
           {
             family: 'Open Sans Condensed',
-            variants: ['300', '300i', '700'],
+            variants: ['300', '300i', '700']
           },
           {
             family: 'IBM Plex Serif',
-            variants: ['300'],
+            variants: ['300']
           },
           {
-            family: 'Cutive Mono',
+            family: 'Cutive Mono'
           },
           {
-            family: 'Rock Salt',
+            family: 'Rock Salt'
           },
           {
-            family: 'Bentham',
-          },
-        ],
-      },
+            family: 'Bentham'
+          }
+        ]
+      }
     },
     'gatsby-plugin-sitemap',
     {
@@ -224,10 +224,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
+        modulePath: `${__dirname}/src/cms/cms.js`
+      }
     },
-    'gatsby-plugin-netlify', // make sure to put last in the array
+    'gatsby-plugin-netlify' // make sure to put last in the array
   ],
-  pathPrefix: '/',
+  pathPrefix: '/'
 };
