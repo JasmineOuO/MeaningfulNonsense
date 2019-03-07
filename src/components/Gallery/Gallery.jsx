@@ -1,19 +1,33 @@
+/*eslint-disable*/
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 
 import Polaroid from '../Polaroid/Polaroid';
 import classes from './Gallery.module.css';
 
-const Gallery = ({ data }) => {
+const Gallery = ({ data, numCols }) => {
+  numCols = 4;
   const { edges: posts } = data.allMarkdownRemark;
+  const columns = {};
+  const gallery = [];
+  if (posts) {
+    for (let i = 0; i < numCols; i++) {
+      columns[`column${i}`] = [];
+    }
+    posts.map(({ node: post }, index) => {
+      columns[`column${index % numCols}`].push(<Polaroid post={post} type="post" />);
+    });
+    for (let i = 0; i < numCols; i++) {
+      gallery.push(
+        <div className={`${classes.Col} ${classes.Flex3}`}>
+          {columns[`column${i}`]}
+        </div>
+      )
+    }
+  }
   return (
     <div className={classes.Gallery}>
-      {posts && (posts
-        .map(({ node: post }) => (
-          <div key={post.id} className={`${classes.Col} ${classes.Flex3}`}>
-            <Polaroid post={post} type="post" />
-          </div>
-        )))}
+      {gallery}
     </div>
   );
 };

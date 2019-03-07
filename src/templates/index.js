@@ -9,7 +9,7 @@ import Archive from '../components/Archive/Archive';
 export const IndexPageTemplate = () => (
   <>
     <Archive />
-    <Gallery />
+    <Gallery numCols={4} />
   </>
 );
 
