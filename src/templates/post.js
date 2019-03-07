@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
@@ -11,15 +10,7 @@ import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
-export const BlogPostLayout = ({
-  content,
-  contentComponent,
-  title,
-  helmet,
-  date,
-  prev,
-  next,
-}) => {
+export const BlogPostLayout = ({ content, contentComponent, title, helmet, date, prev, next }) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -67,11 +58,9 @@ const BlogPost = ({ data, pageContext }) => {
   const {
     markdownRemark: {
       html,
-      frontmatter: {
-        title, date, tags, description,
-      },
+      frontmatter: { title, date, tags, description }
     },
-    allCommentsYaml,
+    allCommentsYaml
   } = data;
   const { prev, next, slug } = pageContext;
   return (
@@ -83,10 +72,7 @@ const BlogPost = ({ data, pageContext }) => {
         helmet={(
           <Helmet titleTemplate="%s | Blog">
             <title>{`${title}`}</title>
-            <meta
-              name="description"
-              content={`${description}`}
-            />
+            <meta name="description" content={`${description}`} />
           </Helmet>
         )}
         tags={tags}
