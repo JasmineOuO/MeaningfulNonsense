@@ -27,17 +27,8 @@ module.exports = {
       },
       {
         name: 'photography',
-        link: '',
-        navLinks: [
-          {
-            name: 'food',
-            link: '/food'
-          },
-          {
-            name: 'travel',
-            link: '/travel'
-          }
-        ]
+        link: '/photography',
+        navLinks: []
       },
       {
         name: 'stories',

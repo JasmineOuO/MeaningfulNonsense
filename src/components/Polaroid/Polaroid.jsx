@@ -11,24 +11,29 @@ class Polaroid extends Component {
   }
 
   render() {
-    const { post, type } = this.props;
+    const { item, type } = this.props;
     let title,
       backText,
-      thumbnail = '';
-    let date = post.frontmatter.date;
+      thumbnail,
+      date = '';
     let link = '/';
-    let id = post.id;
+    let id = item.id;
     if (type === 'post') {
-      title = post.frontmatter.title;
-      date = post.frontmatter.date;
-      backText = post.excerpt;
-      thumbnail = post.frontmatter.thumbnail;
-      link = post.fields.slug;
-    } else {
-      const { caption, description, image } = this.props;
-      title = caption;
-      backText = description;
-      thumbnail = image;
+      title = item.frontmatter.title;
+      date = item.frontmatter.date;
+      backText = item.excerpt;
+      thumbnail = item.frontmatter.thumbnail;
+      link = item.fields.slug;
+    } else if (type === 'photo') {
+      title = item.title;
+      date = item.date;
+      backText = item.caption;
+      thumbnail = item.image;
+    } else if (type === 'about') {
+      title = item.name;
+      date = item.caption;
+      backText = item.blurb;
+      thumbnail = item.image;
     }
 
     return (

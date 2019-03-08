@@ -9,9 +9,19 @@ import Polaroid from '../components/Polaroid/Polaroid';
 import classes from './post.module.css';
 import galleryClasses from '../components/Gallery/Gallery.module.css';
 
-export const AboutPageTemplate = ({ title, content, contentComponent, post }) => {
+export const AboutPageTemplate = ({ title, content, contentComponent, profiles }) => {
   const PageContent = contentComponent || Content;
-
+  const profileCards = [];
+  profiles.forEach(profile => {
+    profileCards.push(
+      <div
+        key={`${profile.name}${new Date().getTime()}`}
+        className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}
+      >
+        <Polaroid item={profile} type="about" />
+      </div>
+    );
+  });
   return (
     <section className={classes.Post}>
       <div className={classes.Header}>
@@ -20,33 +30,18 @@ export const AboutPageTemplate = ({ title, content, contentComponent, post }) =>
       <article className={classes.Content}>
         <PageContent className="content" content={content} />
       </article>
-      <div className={galleryClasses.Gallery}>
-        <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
-          <Polaroid
-            post={post}
-            type="about"
-            caption="Jasmine Ou"
-            description="Hi there"
-            image={post.frontmatter.profile1}
-          />
-        </div>
-        <div className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}>
-          <Polaroid
-            post={post}
-            type="about"
-            caption="Jessica Ou"
-            description="Hi there!!"
-            image={post.frontmatter.profile2}
-          />
-        </div>
-      </div>
+      <div className={galleryClasses.Gallery}>{profileCards}</div>
     </section>
   );
 };
 
 const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data;
-
+  const {
+    markdownRemark: {
+      html,
+      frontmatter: { title, profiles }
+    }
+  } = data;
   return (
     <Layout>
       <SEO
@@ -56,9 +51,9 @@ const AboutPage = ({ data }) => {
       />
       <AboutPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
-        post={post}
+        title={title}
+        content={html}
+        profiles={profiles}
       />
     </Layout>
   );
@@ -73,22 +68,17 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "DD/MM/YY")
-        profile1 {
-          childImageSharp {
-            fluid(maxWidth: 240, quality: 100) {
-              aspectRatio
-              ...GatsbyImageSharpFluid_withWebp
+        profiles {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 240, quality: 64) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
-        }
-        profile2 {
-          childImageSharp {
-            fluid(maxWidth: 240, quality: 100) {
-              aspectRatio
-              ...GatsbyImageSharpFluid_withWebp
-            }
-          }
+          name
+          caption
+          blurb
         }
       }
     }

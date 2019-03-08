@@ -6,7 +6,7 @@ import Layout from '../components/Layout/Layout';
 const TagRoute = ({ data, pageContext }) => {
   const posts = data.allMarkdownRemark.edges;
   const postLinks = posts.map(post => (
-    <li key={post.node.fields.slug}>
+    <li key={`${post.node.fields.slug}${new Date().getTime()}`}>
       <Link to={post.node.fields.slug}>
         <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
       </Link>

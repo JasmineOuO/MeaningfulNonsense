@@ -142,8 +142,14 @@ export default function Particle(userConfig) {
     Object.assign(config, newConfig);
   };
 
+  let animationID;
+
   this.doStart = function() {
-    getAnimationFrame(createParticles);
+    animationID = getAnimationFrame(createParticles);
+  };
+
+  this.doStop = function() {
+    window.cancelAnimationFrame(animationID);
   };
 
   return this;

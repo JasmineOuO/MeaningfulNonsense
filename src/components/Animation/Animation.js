@@ -19,10 +19,8 @@ export default class Animation extends Component {
   };
 
   componentWillUnmount = () => {
-    const { className } = this.props;
-    Array.from(document.getElementsByClassName(className)).forEach(element => {
-      element.parentNode.removeChild(element);
-    });
+    const { particle } = this.state;
+    particle.doStop();
   };
 
   render() {

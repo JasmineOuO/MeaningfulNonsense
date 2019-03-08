@@ -26,7 +26,7 @@ class Navbar extends Component {
       <nav className={classes.Navbar}>
         {navLinks.map(navLink => (
           <Navitem
-            key={navLink.name}
+            key={`${navLink.name}${new Date().getTime()}`}
             name={navLink.name}
             link={navLink.link}
             navLinks={navLink.navLinks}
