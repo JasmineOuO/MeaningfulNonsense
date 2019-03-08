@@ -5,24 +5,25 @@ date: 2018-08-26T02:20:49.050Z
 description: Balancing Health and Hustle for Success
 thumbnail: /images/milan3.jpeg
 tags:
-  - self-growth
-  - reality check
+  - life
+  - life-lessons
 ---
-![Milan, Italy](/images/milan4.jpg "Milan, Italy")
 
-We are currently living in a so-called "limitless" era. We are constantly being bombarded with anthems advocating that the hustle and hard work can and will get you anywhere *if* you are willing to push yourself hard enough. *If* you are willing to take those risks and sacrifice what is necessary to achieve your ultimate goals. 
+![Milan, Italy](/images/milan4.jpg 'Milan, Italy')
 
-<br/>
-
-Personally, I see a definite flaw in this message. The fault is in regards to health. The word "if" incites challenge however, as a result, many people will subconsciously sacrifice their health *first* to achieve what they want. We've all done it. The moment your work becomes too stressful, the first thing you do is to scratch *exercise* off your schedule. This is ironic because the majority of the human population have limitations regarding their health. Many would choose to keep working in order for long-term prosperity in their future instead of taking care of their body. People often don't realize that the body is in fact the ultimate tool to keeping them alive and actually allowing prosperity in the first place. 
+We are currently living in a so-called "limitless" era. We are constantly being bombarded with anthems advocating that the hustle and hard work can and will get you anywhere _if_ you are willing to push yourself hard enough. _If_ you are willing to take those risks and sacrifice what is necessary to achieve your ultimate goals.
 
 <br/>
 
-The enforcement of this ideology does not take into account the ones that cannot physically or mentally push themselves above and beyond. With or without disabilities, people will inevitably burn out and suffer the consequences of those decisions. However, I am not saying your limitations will prevent you from being successful, that your goals will now be deemed unachievable. It is important to be realistic and to understand your boundaries. Understand how far to push yourself before you have to draw the line and know that ultimately, you did your very best. 
+Personally, I see a definite flaw in this message. The fault is in regards to health. The word "if" incites challenge however, as a result, many people will subconsciously sacrifice their health _first_ to achieve what they want. We've all done it. The moment your work becomes too stressful, the first thing you do is to scratch _exercise_ off your schedule. This is ironic because the majority of the human population have limitations regarding their health. Many would choose to keep working in order for long-term prosperity in their future instead of taking care of their body. People often don't realize that the body is in fact the ultimate tool to keeping them alive and actually allowing prosperity in the first place.
 
 <br/>
 
-Knowing this, there is another decision that is very important to highlight. I often see tumblr quotes encouraging hard work through incentives such as "Put your *blood, sweat* and *tears* into everything you have" or "Hustle 'till it hurts". What I interpret from these societal encouragements is this: health versus success.
+The enforcement of this ideology does not take into account the ones that cannot physically or mentally push themselves above and beyond. With or without disabilities, people will inevitably burn out and suffer the consequences of those decisions. However, I am not saying your limitations will prevent you from being successful, that your goals will now be deemed unachievable. It is important to be realistic and to understand your boundaries. Understand how far to push yourself before you have to draw the line and know that ultimately, you did your very best.
+
+<br/>
+
+Knowing this, there is another decision that is very important to highlight. I often see tumblr quotes encouraging hard work through incentives such as "Put your _blood, sweat_ and _tears_ into everything you have" or "Hustle 'till it hurts". What I interpret from these societal encouragements is this: health versus success.
 
 <br/>
 
@@ -30,7 +31,7 @@ Which one is more important? Which one are you willing to sacrifice in order to 
 
 <br/>
 
-Personally, I believe that you can have both. 
+Personally, I believe that you can have both.
 
 <br/>
 
@@ -40,23 +41,20 @@ It all comes down to **self-discipline**. Will Smith once said "self-discipline 
 
 <br/>
 
-So back to the question, which one will you choose? I believe that if you have self-discipline, you will be able to achieve both. It is not possible to achieve ultimate success if you don't keep yourself healthy, because one day your body *will not* be able to keep up with your mind and you *will* eventually burn out. It is essential to remember this right from the get-go because I have seen several friends and family remain reckless with their health which resulted in fatal bodily incidents due to stress, lack of sleep or alcohol.  Your mind and body both need a balance in order for you to have a healthy mindset towards your goals. 
+So back to the question, which one will you choose? I believe that if you have self-discipline, you will be able to achieve both. It is not possible to achieve ultimate success if you don't keep yourself healthy, because one day your body _will not_ be able to keep up with your mind and you _will_ eventually burn out. It is essential to remember this right from the get-go because I have seen several friends and family remain reckless with their health which resulted in fatal bodily incidents due to stress, lack of sleep or alcohol. Your mind and body both need a balance in order for you to have a healthy mindset towards your goals.
 
 <br/>
 
-Sometimes, when you are clouded by your dreams, *health*, *friends*, and *family* can become irrelevant. The moment you think those dreams come *before* them, that would be a good time for you to re-evaluate your goals. **Don't take the people in your life for granted** because trust me, you can become the most successful person in the world, but without those values beside you, you will also become the loneliest person in the world. And that feeling, in my opinion, is the worst feeling one could ever experience. 
+Sometimes, when you are clouded by your dreams, _health_, _friends_, and _family_ can become irrelevant. The moment you think those dreams come _before_ them, that would be a good time for you to re-evaluate your goals. **Don't take the people in your life for granted** because trust me, you can become the most successful person in the world, but without those values beside you, you will also become the loneliest person in the world. And that feeling, in my opinion, is the worst feeling one could ever experience.
 
 <br/>
 
-**Don't take your health for granted.** It's cliché but there's a reason why it's said so often. I had always taken my health for granted and it wasn't until I had to fight through my own turmoil, did I realize how much my health affects my efficiency and happiness. Also, taking the effort to understand the different types of physical and mental sicknesses out there will prevent ignorance and jealousy and instead, bring a sense of gratitude and compassion. 
+**Don't take your health for granted.** It's cliché but there's a reason why it's said so often. I had always taken my health for granted and it wasn't until I had to fight through my own turmoil, did I realize how much my health affects my efficiency and happiness. Also, taking the effort to understand the different types of physical and mental sicknesses out there will prevent ignorance and jealousy and instead, bring a sense of gratitude and compassion.
 
 <br/>
 
-On the other hand, right now you may be sick or not entirely healthy but you can 1000% be just as successful. Despite your condition, remind yourself to not compare your own problems with your neighbors because it will only waste your energy on jealousy, frustration and self-pity. Instead, spend your time and energy finding your boundaries, working the hardest you can and disciplining your life. 
+On the other hand, right now you may be sick or not entirely healthy but you can 1000% be just as successful. Despite your condition, remind yourself to not compare your own problems with your neighbors because it will only waste your energy on jealousy, frustration and self-pity. Instead, spend your time and energy finding your boundaries, working the hardest you can and disciplining your life.
 
 <br/>
 
-Having these work ethics present will reify a roadmap that will lead you to a path *sturdy* enough for both the riches of your goals *and* health with a body that will be able to keep up and enjoy the hustle 'till the end of the road.
-
-
-
+Having these work ethics present will reify a roadmap that will lead you to a path _sturdy_ enough for both the riches of your goals _and_ health with a body that will be able to keep up and enjoy the hustle 'till the end of the road.
