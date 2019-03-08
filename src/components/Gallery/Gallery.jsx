@@ -18,15 +18,18 @@ const Gallery = ({ type, items, numCols }) => {
         );
       });
     } else {
-      items.forEach((item, index) => {
+      items.forEach(item => {
         columns[`column${index % numCols}`].push(
-          <Polaroid key={`polaroid${new Date().getTime()}`} item={item} type={type} />
+          <Polaroid key={`polaroid${new Date().getTime()}${item.date}`} item={item} type={type} />
         );
       });
     }
     for (let i = 0; i < numCols; i++) {
       gallery.push(
-        <div key={`column${new Date().getTime()}`} className={`${classes.Col} ${classes.Flex3}`}>
+        <div
+          key={`column${new Date().getTime()}${i}`}
+          className={`${classes.Col} ${classes.Flex3}`}
+        >
           {columns[`column${i}`]}
         </div>
       );

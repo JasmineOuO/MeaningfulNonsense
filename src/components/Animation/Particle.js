@@ -2,6 +2,7 @@
 import './Particle.css';
 
 export default function Particle(userConfig) {
+  let animate = true;
   const config = {
     className: 'spring',
     custom: false,
@@ -31,23 +32,12 @@ export default function Particle(userConfig) {
   };
   Object.assign(config, userConfig);
 
-  function timeoutShim(callback) {
-    setTimeout(callback, config.newOn);
-  }
-
-  const animationFrame =
+  const requestAnimationFrame =
     window.requestAnimationFrame ||
     window.webkitRequestAnimationFrame ||
     window.mozRequestAnimationFrame ||
     window.oRequestAnimationFrame ||
-    window.msRequestAnimationFrame ||
-    timeoutShim;
-
-  const getAnimationFrame = animationFrame
-    ? function() {
-        return animationFrame.apply(window, arguments);
-      }
-    : null;
+    window.msRequestAnimationFrame;
 
   let windowHeight =
     document.documentElement.clientHeight ||
@@ -80,8 +70,8 @@ export default function Particle(userConfig) {
 
   const createParticles = () => {
     // Disable animation on smaller screens
-    if (windowWidth >= 400) {
-      setTimeout(() => getAnimationFrame(createParticles), config.newOn);
+    if (windowWidth >= 400 && animate) {
+      setTimeout(() => requestAnimationFrame(createParticles), config.newOn);
     }
 
     // Create the particle with the desired class
@@ -142,14 +132,12 @@ export default function Particle(userConfig) {
     Object.assign(config, newConfig);
   };
 
-  let animationID;
-
   this.doStart = function() {
-    animationID = getAnimationFrame(createParticles);
+    requestAnimationFrame(createParticles);
   };
 
   this.doStop = function() {
-    window.cancelAnimationFrame(animationID);
+    animate = false;
   };
 
   return this;
