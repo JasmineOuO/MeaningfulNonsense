@@ -18,7 +18,7 @@ const Gallery = ({ type, items, numCols }) => {
         );
       });
     } else {
-      items.forEach(item => {
+      items.forEach((item, index) => {
         columns[`column${index % numCols}`].push(
           <Polaroid key={`polaroid${new Date().getTime()}${item.date}`} item={item} type={type} />
         );
