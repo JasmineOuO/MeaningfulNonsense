@@ -27,7 +27,7 @@ class Navitem extends Component {
     }
     return (
       <div
-        key={`${name}${new Date().getTime()}`}
+        key={name}
         className={navitemClasses.join(' ')}
         onMouseEnter={this.handleMouseEnter}
         onMouseLeave={this.handleMouseLeave}
@@ -38,7 +38,7 @@ class Navitem extends Component {
             className={classes.Btn}
             activeStyle={{ backgroundColor: '#e8b4cd' }}
             title={name}
-            key={`${name}${new Date().getTime()}`}
+            key={name}
             style={name === 'home' ? { display: 'block' } : {}}
           >
             {name}

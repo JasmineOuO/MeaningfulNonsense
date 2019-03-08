@@ -19,7 +19,7 @@ const Dropdown = ({ navLinks, isHovered }) => {
           className={classes.Dropitem}
           activeStyle={{ color: '#fff', backgroundColor: '#BEBEBE' }}
           title={navLink.name}
-          key={`${navLink.name}${new Date().getTime()}`}
+          key={navLink.name}
         >
           {navLink.name}
         </Link>
