@@ -47,7 +47,7 @@
 .Message {
   font-size: 16px;
   text-align: center;
-  line-height: 300px;
+  line-height: 200px;
 }
 
 @media (max-width: 500px) {

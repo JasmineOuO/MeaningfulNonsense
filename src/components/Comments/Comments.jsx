@@ -14,13 +14,9 @@ class Comments extends Component {
     };
   }
 
-  handleSubmit = event => {
-    if (isValid) {
-      return;
-    } else {
-      event.preventDefault();
-    }
-    const { name, message, errors } = this.state;
+  handleSubmit = async event => {
+    event.preventDefault();
+    const { name, email, message, errors, isValid } = this.state;
     this.setState({ isValid: true });
     if (!name) {
       this.setState({ isValid: false });
@@ -34,6 +30,31 @@ class Comments extends Component {
     } else {
       errors.message = '';
     }
+
+    if (isValid) {
+      const formdata = new FormData();
+      formdata.set('fields[name]', name);
+      formdata.set('fields[email]', email);
+      formdata.set('fields[message]', message);
+      const json = {};
+      formdata.forEach((value, prop) => (json[prop] = value));
+      const formBody = Object.keys(json)
+        .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(json[key]))
+        .join('&');
+
+      await fetch(
+        'https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments',
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: formBody
+        }
+      )
+        .then(alert('Thanks! Your comment has been submitted for approval.'))
+        .catch(
+          alert('Sorry, there was a problem with our commenting system. Please try again later.')
+        );
+    }
   };
 
   onChange = event => {
@@ -45,8 +66,7 @@ class Comments extends Component {
 
   render() {
     const { allCommentsYaml, slug } = this.props;
-    console.log(this.state);
-    const { name, email, message, errors, isValid } = this.state;
+    const { name, email, message, errors } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
       <>
@@ -63,12 +83,8 @@ class Comments extends Component {
                 </div>
               ))}
           </div>
-          <div className={classes.Form} onSubmit={this.handleSubmit}>
-            <form
-              autoComplete="off"
-              method="POST"
-              action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
-            >
+          <div className={classes.Form}>
+            <form autoComplete="off" onSubmit={this.handleSubmit}>
               <input
                 name="options[redirect]"
                 type="hidden"
