@@ -39,12 +39,13 @@ class Comments extends Component {
   onChange = event => {
     const target = event.target;
     this.setState({
-      [target.name]: target.value
+      [target.id]: target.value
     });
   };
 
   render() {
     const { allCommentsYaml, slug } = this.props;
+    console.log(this.state);
     const { name, email, message, errors, isValid } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
@@ -64,7 +65,6 @@ class Comments extends Component {
           </div>
           <div className={classes.Form} onSubmit={this.handleSubmit}>
             <form
-              id="comment-form"
               autoComplete="off"
               method="POST"
               action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
@@ -78,14 +78,20 @@ class Comments extends Component {
               <input name="fields[slug]" type="hidden" value={slug} />
               <label htmlFor="name">Name*</label>
               <span className={classes.Error}>{errors.name}</span>
-              <input type="text" id="name" name="fields[name]" value={name} onChange={onChange} />
+              <input
+                type="text"
+                id="name"
+                name="fields[name]"
+                value={name}
+                onChange={this.onChange}
+              />
               <label htmlFor="email">E-mail</label>
               <input
                 type="email"
                 id="email"
                 name="fields[email]"
                 value={email}
-                onChange={onChange}
+                onChange={this.onChange}
               />
               <label htmlFor="message">Message*</label>
               <span className={classes.Error}>{errors.message}</span>
@@ -94,7 +100,7 @@ class Comments extends Component {
                 id="message"
                 name="fields[message]"
                 value={message}
-                onChange={onChange}
+                onChange={this.onChange}
               />
               <button type="submit">Comment</button>
             </form>
