@@ -15,37 +15,6 @@ class Comments extends Component {
     };
   }
 
-  handleSubmit = async event => {
-    event.preventDefault();
-    const { name, email, message, isValid } = this.state;
-    if (isValid) {
-      const formdata = new FormData();
-      formdata.set('fields[name]', name);
-      formdata.set('fields[email]', email);
-      formdata.set('fields[message]', message);
-      const json = {};
-      formdata.forEach((value, prop) => (json[prop] = value));
-      const formBody = Object.keys(json)
-        .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(json[key]))
-        .join('&');
-
-      await fetch(
-        'https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments',
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-          body: formBody
-        }
-      )
-        .then(() => {
-          alert('Thanks! Your comment has been submitted for approval.');
-        })
-        .catch(() => {
-          alert('Sorry, there was a problem with our commenting system. Please try again later.');
-        });
-    }
-  };
-
   onChange = event => {
     const target = event.target;
     this.setState({
@@ -59,7 +28,7 @@ class Comments extends Component {
 
   render() {
     const { allCommentsYaml, slug } = this.props;
-    const { name, email, message, nameError, messageError } = this.state;
+    const { name, email, message, nameError, messageError, isValid } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
       <>
@@ -77,7 +46,11 @@ class Comments extends Component {
               ))}
           </div>
           <div className={classes.Form}>
-            <form autoComplete="off" onSubmit={this.handleSubmit}>
+            <form
+              autoComplete="off"
+              onSubmit={() => alert('Thanks! Your comment has been submitted for approval.')}
+              action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
+            >
               <input
                 name="options[redirect]"
                 type="hidden"
@@ -111,7 +84,9 @@ class Comments extends Component {
                 value={message}
                 onChange={this.onChange}
               />
-              <button type="submit">Comment</button>
+              <button type="submit" disabled={!isValid}>
+                Comment
+              </button>
             </form>
           </div>
         </div>
