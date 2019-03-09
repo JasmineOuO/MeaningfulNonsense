@@ -108,7 +108,7 @@ export const pageQuery = graphql`
           slug
           name
           message
-          date
+          date(formatString: "MMMM DD, YYYY @ HH:mma")
         }
       }
     }
