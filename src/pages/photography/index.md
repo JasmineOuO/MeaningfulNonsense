@@ -2,11 +2,7 @@
 templateKey: 'photography'
 path: /photography
 title: Photography
-date: 2018-08-09T02:20:49.050Z
 description: Photography
-thumbnail: /images/deepdishpizza.jpg
-tags:
-  - photography
 
 food:
   - image: /images/deepdishpizza.jpg

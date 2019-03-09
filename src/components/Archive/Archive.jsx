@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import Slider from 'rc-slider/lib/Slider';
 
+import Gallery from '../Gallery/Gallery';
 import Animation from '../Animation/Animation';
 import 'rc-slider/assets/index.css';
 import classes from './Archive.module.css';
@@ -22,49 +23,87 @@ const defaultSliderProps = {
   }
 };
 
+const seasons = {
+  ALL: 'all',
+  SUMMER: 'summer',
+  WINTER: 'winter',
+  SPRING: 'spring',
+  AUTUMN: 'autumn'
+};
+
 class Archive extends Component {
   constructor(props) {
     super(props);
     this.state = {
       year: 2018,
-      season: 'all',
+      season: seasons.ALL,
       selectYear: false
     };
   }
 
+  filterPosts = allPosts => {
+    const { year, season } = this.state;
+    return allPosts.filter(post => {
+      if (year.toString().substr(-2) === post.node.frontmatter.date.substr(-2)) {
+        if (season === seasons.ALL) {
+          return true;
+        }
+        switch (parseInt(post.node.frontmatter.date.substr(3, 2))) {
+          case 12:
+          case 1:
+          case 2:
+            return season === seasons.WINTER;
+          case 3:
+          case 4:
+          case 5:
+            return season === seasons.SPRING;
+          case 6:
+          case 7:
+          case 8:
+            return season === seasons.SUMMER;
+          case 9:
+          case 10:
+          case 11:
+            return season === seasons.AUTUMN;
+        }
+      }
+      return false;
+    });
+  };
+
   mapValueToSeason = value => {
     switch (value) {
       case 0:
-        return 'all';
+        return seasons.ALL;
       case 25:
-        return 'winter';
+        return seasons.WINTER;
       case 50:
-        return 'spring';
+        return seasons.SPRING;
       case 75:
-        return 'summer';
+        return seasons.SUMMER;
       case 100:
-        return 'autumn';
+        return seasons.AUTUMN;
     }
   };
 
   mapSeasonToValue = season => {
     switch (season) {
-      case 'all':
+      case seasons.ALL:
         return 0;
-      case 'winter':
+      case seasons.WINTER:
         return 25;
-      case 'spring':
+      case seasons.SPRING:
         return 50;
-      case 'summer':
+      case seasons.SUMMER:
         return 75;
-      case 'autumn':
+      case seasons.AUTUMN:
         return 100;
     }
   };
 
   mapSeasonToProps = season => {
     switch (season) {
-      case 'winter':
+      case seasons.WINTER:
         return {
           className: 'snowflake',
           custom: true,
@@ -73,26 +112,26 @@ class Archive extends Component {
           maxSize: 12,
           newOn: 1000
         };
-      case 'all':
-      case 'spring':
+      case seasons.ALL:
+      case seasons.SPRING:
         return {
-          className: 'spring',
+          className: seasons.SPRING,
           fallSpeed: 1,
           minSize: 9,
           maxSize: 14,
           newOn: 1200
         };
-      case 'summer':
+      case seasons.SUMMER:
         return {
-          className: 'summer',
+          className: seasons.SUMMER,
           fallSpeed: 1,
           minSize: 12,
           maxSize: 16,
           newOn: 1200
         };
-      case 'autumn':
+      case seasons.AUTUMN:
         return {
-          className: 'autumn',
+          className: seasons.AUTUMN,
           fallSpeed: 1.3,
           minSize: 12,
           maxSize: 16,
@@ -117,11 +156,11 @@ class Archive extends Component {
           defaultValue: 0,
           value: this.mapSeasonToValue(season),
           marks: {
-            0: 'all',
-            25: 'winter',
-            50: 'spring',
-            75: 'summer',
-            100: 'autumn'
+            0: seasons.ALL,
+            25: seasons.WINTER,
+            50: seasons.SPRING,
+            75: seasons.SUMMER,
+            100: seasons.AUTUMN
           },
           onChange: this.handleSeasonChange
         };
@@ -147,6 +186,8 @@ class Archive extends Component {
       this.customSliderProps(year, season, selectYear)
     );
     const animationProps = this.mapSeasonToProps(season);
+    const posts = this.filterPosts(this.props.posts);
+    const message = posts.length === 0 ? `No posts in ${season} of ${year}` : '';
     return (
       <div className={classes.Archive}>
         <Animation {...animationProps} />
@@ -156,7 +197,8 @@ class Archive extends Component {
             {year}
           </div>
         </div>
-        <div className={classes.Message} />
+        <Gallery items={posts} type="post" numCols={4} />
+        <div className={classes.Message}>{message}</div>
       </div>
     );
   }

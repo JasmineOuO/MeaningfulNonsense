@@ -1,15 +1,8 @@
-
-.Archive {   
-  position: relative; 
+.Archive {
+  position: relative;
   display: inline-block;
   margin: 0 auto;
   width: 100%;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 10px;
-  font-weight:300;
-  text-transform: uppercase;
-  letter-spacing: 0.3em;
-  text-decoration: none;
   padding-top: 2em;
 }
 
@@ -21,20 +14,30 @@
   width: 400px;
 }
 
+.Slider,
+.Message {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 10px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  text-decoration: none;
+}
+
 .Label {
   width: 100%;
   text-align: center;
   margin-top: -54px;
-  color: rgb(103,103,104);
+  color: rgb(103, 103, 104);
   font-size: 20px;
   letter-spacing: 27px;
   text-indent: 27px;
   cursor: pointer;
-  font-style: normal; 
+  font-style: normal;
 }
 
 .Label:hover {
-  font-style: italic; 
+  font-style: italic;
 }
 
 .Label:active {
@@ -42,10 +45,9 @@
 }
 
 .Message {
-  font-size:16px;
+  font-size: 16px;
   text-align: center;
-  padding-top: 150px;
-  display: none;
+  line-height: 300px;
 }
 
 @media (max-width: 500px) {

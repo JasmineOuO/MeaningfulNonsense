@@ -10,12 +10,16 @@ class Comments extends Component {
       email: '',
       message: '',
       errors: {},
-      isValid: true
+      isValid: false
     };
   }
 
   handleSubmit = event => {
-    event.preventDefault();
+    if (isValid) {
+      return;
+    } else {
+      event.preventDefault();
+    }
     const { name, message, errors } = this.state;
     this.setState({ isValid: true });
     if (!name) {
@@ -30,6 +34,13 @@ class Comments extends Component {
     } else {
       errors.message = '';
     }
+  };
+
+  onChange = event => {
+    const target = event.target;
+    this.setState({
+      [target.name]: target.value
+    });
   };
 
   render() {
@@ -51,7 +62,7 @@ class Comments extends Component {
                 </div>
               ))}
           </div>
-          <div className={classes.Form}>
+          <div className={classes.Form} onSubmit={this.handleSubmit}>
             <form
               id="comment-form"
               autoComplete="off"
@@ -67,20 +78,14 @@ class Comments extends Component {
               <input name="fields[slug]" type="hidden" value={slug} />
               <label htmlFor="name">Name*</label>
               <span className={classes.Error}>{errors.name}</span>
-              <input
-                type="text"
-                id="name"
-                name="fields[name]"
-                value={name}
-                onChange={event => this.setState({ name: event.target.value })}
-              />
+              <input type="text" id="name" name="fields[name]" value={name} onChange={onChange} />
               <label htmlFor="email">E-mail</label>
               <input
                 type="email"
                 id="email"
                 name="fields[email]"
                 value={email}
-                onChange={event => this.setState({ email: event.target.value })}
+                onChange={onChange}
               />
               <label htmlFor="message">Message*</label>
               <span className={classes.Error}>{errors.message}</span>
@@ -89,11 +94,9 @@ class Comments extends Component {
                 id="message"
                 name="fields[message]"
                 value={message}
-                onChange={event => this.setState({ message: event.target.value })}
+                onChange={onChange}
               />
-              <button type="submit" disabled={!isValid} onClick={this.handleSubmit}>
-                Comment
-              </button>
+              <button type="submit">Comment</button>
             </form>
           </div>
         </div>

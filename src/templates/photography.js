@@ -4,13 +4,9 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/Seo';
 import Gallery from '../components/Gallery/Gallery';
-import Archive from '../components/Archive/Archive';
 
 export const PhotographyPageTemplate = ({ photos }) => (
-  <>
-    <Archive key={new Date().getTime()} />
-    <Gallery items={photos} type="photo" numCols={4} />
-  </>
+  <Gallery items={photos} type="photo" numCols={4} />
 );
 
 const PhotographyPage = ({ data }) => {

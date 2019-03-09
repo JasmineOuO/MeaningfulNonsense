@@ -3,13 +3,11 @@ import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/Seo';
-import Gallery from '../components/Gallery/Gallery';
 import Archive from '../components/Archive/Archive';
 
 export const IndexPageTemplate = ({ posts }) => (
   <>
-    <Archive key={new Date().getTime()} />
-    <Gallery items={posts} type="post" numCols={4} />
+    <Archive key={new Date().getTime()} posts={posts} />
   </>
 );
 
