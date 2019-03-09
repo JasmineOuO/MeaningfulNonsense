@@ -9,28 +9,15 @@ class Comments extends Component {
       name: '',
       email: '',
       message: '',
-      errors: {},
+      nameError: 'Please enter a name',
+      messageError: 'Please enter a message',
       isValid: false
     };
   }
 
   handleSubmit = async event => {
     event.preventDefault();
-    const { name, email, message, errors, isValid } = this.state;
-    this.setState({ isValid: true });
-    if (!name) {
-      this.setState({ isValid: false });
-      errors.name = 'Please enter a name';
-    } else {
-      errors.name = '';
-    }
-    if (!message) {
-      this.setState({ isValid: false });
-      errors.message = 'Please add a comment';
-    } else {
-      errors.message = '';
-    }
-
+    const { name, email, message, isValid } = this.state;
     if (isValid) {
       const formdata = new FormData();
       formdata.set('fields[name]', name);
@@ -50,23 +37,29 @@ class Comments extends Component {
           body: formBody
         }
       )
-        .then(alert('Thanks! Your comment has been submitted for approval.'))
-        .catch(
-          alert('Sorry, there was a problem with our commenting system. Please try again later.')
-        );
+        .then(() => {
+          alert('Thanks! Your comment has been submitted for approval.');
+        })
+        .catch(() => {
+          alert('Sorry, there was a problem with our commenting system. Please try again later.');
+        });
     }
   };
 
   onChange = event => {
     const target = event.target;
     this.setState({
-      [target.id]: target.value
+      [target.id]: target.value,
+      [`${target.id}Error`]: !!target.value ? '' : `Please enter a ${target.id}`
     });
+    this.setState(prevState => ({
+      isValid: !!prevState.name && !!prevState.message
+    }));
   };
 
   render() {
     const { allCommentsYaml, slug } = this.props;
-    const { name, email, message, errors } = this.state;
+    const { name, email, message, nameError, messageError } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
       <>
@@ -93,7 +86,7 @@ class Comments extends Component {
               <input name="options[slug]" type="hidden" value={slug} />
               <input name="fields[slug]" type="hidden" value={slug} />
               <label htmlFor="name">Name*</label>
-              <span className={classes.Error}>{errors.name}</span>
+              <span className={classes.Error}>{nameError}</span>
               <input
                 type="text"
                 id="name"
@@ -110,7 +103,7 @@ class Comments extends Component {
                 onChange={this.onChange}
               />
               <label htmlFor="message">Message*</label>
-              <span className={classes.Error}>{errors.message}</span>
+              <span className={classes.Error}>{messageError}</span>
               <textarea
                 type="text"
                 id="message"
