@@ -185,6 +185,10 @@ module.exports = {
           },
           {
             family: 'Bentham'
+          },
+          {
+            family: 'Roboto',
+            variants: ['400']
           }
         ]
       }

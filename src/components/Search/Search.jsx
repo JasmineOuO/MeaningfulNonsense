@@ -1,62 +1,59 @@
-import React, { Component, createRef } from "react"
-import algoliasearch from "algoliasearch/lite"
-import { InstantSearch, Index, Hits, connectStateResults } from "react-instantsearch-dom";
-import { Algolia } from "styled-icons/fa-brands/Algolia"
+import React, { Component, createRef } from 'react';
+import algoliasearch from 'algoliasearch/lite';
+import { InstantSearch, Index, Hits, connectStateResults } from 'react-instantsearch-dom';
+import { Algolia } from 'styled-icons/fa-brands/Algolia';
 
-import { Root, HitsWrapper, By } from "./styles"
-import Input from "./Input"
-import * as hitComps from "./hits"
+import { Root, HitsWrapper, By } from './styles';
+import Input from './Input';
+import * as hitComps from './hits';
 
-const events = ["mousedown", "touchstart"]
+const events = ['mousedown', 'touchstart'];
 
-const Results = connectStateResults(
-  ({ searchState: state, searchResults: res, children }) =>
-    res && res.nbHits ? children : `No results for ${state.query}`
-)
+const Results = connectStateResults(({ searchState: state, searchResults: res, children }) =>
+  res && res.nbHits ? children : `No results for ${state.query}`
+);
 
 const Stats = connectStateResults(
   ({ searchResults: res }) =>
     res && res.nbHits > 0 && `${res.nbHits} result${res.nbHits > 1 ? `s` : ``}`
-)
+);
 
 export default class Search extends Component {
-  state = { query: ``, focussed: false, ref: createRef() }
+  state = { query: ``, focussed: false, ref: createRef() };
+
   searchClient = algoliasearch(
     process.env.GATSBY_ALGOLIA_APP_ID,
     process.env.GATSBY_ALGOLIA_SEARCH_KEY
-  )
-
-  updateState = state => this.setState(state)
-
-  focus = () => {
-    this.setState({ focussed: true })
-  }
-
-  disableHits = () => {
-    this.setState({ focussed: false })
-  }
-
-  handleClickOutside = event => {
-    if (!this.state.ref.current.contains(event.target)) {
-      this.setState({ focussed: false })
-    }
-  }
+  );
 
   componentDidMount() {
-    events.forEach(event =>
-      document.addEventListener(event, this.handleClickOutside)
-    )
+    events.forEach(event => document.addEventListener(event, this.handleClickOutside));
   }
 
   componentWillUnmount() {
-    events.forEach(event =>
-      document.removeEventListener(event, this.handleClickOutside)
-    )
+    events.forEach(event => document.removeEventListener(event, this.handleClickOutside));
   }
 
+  updateState = state => this.setState(state);
+
+  focus = () => {
+    this.setState({ focussed: true });
+  };
+
+  disableHits = () => {
+    this.setState({ focussed: false });
+  };
+
+  handleClickOutside = event => {
+    const { ref } = this.state;
+    if (!ref.current.contains(event.target)) {
+      this.setState({ focussed: false });
+    }
+  };
+
   render() {
-    const { query, focussed, ref } = this.state
-    const { indices, collapse, hitsAsGrid } = this.props
+    const { query, focussed, ref } = this.state;
+    const { indices, collapse, hitsAsGrid } = this.props;
     return (
       <InstantSearch
         searchClient={this.searchClient}
@@ -65,12 +62,7 @@ export default class Search extends Component {
         root={{ Root, props: { ref } }}
       >
         <Input onFocus={this.focus} {...{ collapse, focussed }} />
-        <HitsWrapper
-
-
-          show={query.length > 0 && focussed}
-          hitsAsGrid={hitsAsGrid}
-        >
+        <HitsWrapper show={query.length > 0 && focussed} hitsAsGrid={hitsAsGrid}>
           {indices.map(({ name, title, hitComp }) => (
             <Index key={name} indexName={name}>
               <header>
@@ -82,13 +74,16 @@ export default class Search extends Component {
               </Results>
             </Index>
           ))}
-          <By> Powered by{" "}
+          <By>
+            Powered by
+            {''}
             <a href="https://www.algolia.com">
-              <Algolia size="1em" /> Algolia
+              <Algolia size="1em" />
+              Algolia
             </a>
           </By>
         </HitsWrapper>
       </InstantSearch>
-    )
+    );
   }
 }
