@@ -17,26 +17,18 @@ const postQuery = `{
 }`;
 
 const photographyQuery = `{
-  photos: allMarkdownRemark(
-    filter: {
-      fileAbsolutePath: { regex: "/pages/photography/" }
-    }
-  ) {
-    edges {
-      node {
-        frontmatter {
-          photos {
-            image {
-              objectID: id
-            }
-            title
-            date
-            caption
-          }
+  photos: markdownRemark(fileAbsolutePath: { regex: "/pages/photography/" }) {
+    frontmatter {
+      photos {
+        image {
+          objectID: id
         }
-        excerpt(pruneLength: 5000)
+        title
+        date
+        caption
       }
     }
+    excerpt(pruneLength: 5000)
   }
 }`;
 
@@ -50,7 +42,7 @@ const settings = { attributesToSnippet: [`excerpt:20`] };
 const queries = [
   {
     query: photographyQuery,
-    transformer: ({ data }) => flatten(data.photos.edges.node.frontmatter.photos),
+    transformer: ({ data }) => flatten(data.photos.frontmatter.photos),
     indexName: `Photos`,
     settings
   },
