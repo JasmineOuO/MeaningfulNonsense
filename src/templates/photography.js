@@ -15,7 +15,7 @@ const PhotographyPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Meaningful Nonsense Photography" keywords={['meaningful', 'nonsense', 'blog']} />
-      <PhotographyPageTemplate photos={frontmatter.food} />
+      <PhotographyPageTemplate photos={frontmatter.photos} />
     </Layout>
   );
 };
@@ -26,7 +26,7 @@ export const pageQuery = graphql`
   query PhotographyQuery {
     markdownRemark(frontmatter: { templateKey: { eq: "photography" } }) {
       frontmatter {
-        food {
+        photos {
           image {
             childImageSharp {
               fluid(maxWidth: 240, quality: 64) {

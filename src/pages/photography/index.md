@@ -4,7 +4,7 @@ path: /photography
 title: Photography
 description: Photography
 
-food:
+photos:
   - image: /images/deepdishpizza.jpg
     title: Deep Pizza
     date: 2016-12-17T15:04:10.000Z
