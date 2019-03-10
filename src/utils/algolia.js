@@ -28,7 +28,6 @@ const photographyQuery = `{
         caption
       }
     }
-    excerpt(pruneLength: 5000)
   }
 }`;
 
@@ -42,7 +41,7 @@ const settings = { attributesToSnippet: [`excerpt:20`] };
 const queries = [
   {
     query: photographyQuery,
-    transformer: ({ data }) => flatten(data.photos.frontmatter.photos),
+    transformer: ({ data }) => data.photos.frontmatter.photos,
     indexName: `Photos`,
     settings
   },
