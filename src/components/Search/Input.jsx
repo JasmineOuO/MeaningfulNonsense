@@ -1,17 +1,29 @@
+/* eslint-disable */
 import React from 'react';
 import { connectSearchBox } from 'react-instantsearch-dom';
+import { FaSearch, FaTimes } from 'react-icons/fa';
 
-import { SearchIcon, Form, Input } from './styles';
+import classes from './Input.module.css';
 
-export default connectSearchBox(({ refine, ...rest }) => (
-  <Form>
-    <Input
+export default connectSearchBox(({ refine, collapse, focussed, onFocus, onClick }) => (
+  <form className={classes.Form} onFocus={onFocus}>
+    <input
       type="text"
       placeholder="Search"
       aria-label="Search"
       onChange={e => refine(e.target.value)}
-      {...rest}
+      className={
+        collapse
+          ? `${classes.Input} ${classes.Collapse}`
+          : focussed
+          ? `${classes.Input} ${classes.Expand} ${classes.Focussed}`
+          : `${classes.Input} ${classes.Expand}`
+      }
     />
-    <SearchIcon />
-  </Form>
+    <FaSearch className={classes.SearchIcon} onClick={onClick} />
+    <FaTimes
+      className={collapse ? `${classes.CloseIcon}` : `${classes.CloseIcon} ${classes.Show}`}
+      onClick={onClick}
+    />
+  </form>
 ));

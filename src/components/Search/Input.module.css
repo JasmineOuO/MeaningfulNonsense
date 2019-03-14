@@ -1,0 +1,57 @@
+.Form {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.Input {
+  outline: none;
+  border: none;
+  font-size: none;
+  background: transparent;
+  padding: 10px 20px 10px 40px;
+  margin: 7px 15px 7px -30px;
+  border-radius: 30px;
+}
+
+.Input.Expand {
+  width: 100%;
+  background: #f8e5ec;
+  color: rgba(84, 74, 78, 0.5);
+  transition: width 0.5s ease;
+}
+
+.Input.Expand.Focussed {
+  width: 100%;
+  background: white;
+  color: #444;
+  cursor: text;
+  transition: width 0.5s ease;
+}
+
+.Input.Collapse {
+  width: 0;
+  cursor: pointer;
+  transition: width 0.5s ease;
+}
+
+.CloseIcon {
+  width: 1em;
+  color: #544a4e;
+  cursor: pointer;
+  position: absolute;
+  right: 32px;
+  top: 18px;
+  display: none;
+}
+
+.CloseIcon.Show {
+  display: block;
+}
+
+.SearchIcon {
+  width: 1em;
+  margin-left: 26px;
+  color: #544a4e;
+  cursor: pointer;
+}

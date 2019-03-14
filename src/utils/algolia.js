@@ -5,6 +5,9 @@ const postQuery = `{
     edges {
       node {
         objectID: id
+        fields {
+          slug
+        }
         frontmatter {
           title
           date(formatString: "MMMM DD, YYYY")

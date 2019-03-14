@@ -10,11 +10,16 @@
 
 .Navitem:hover > .Dropbtn:after {
   transition: opacity 0.2s;
-  transition-delay:.5s;
-  opacity:1;
+  transition-delay: 0.5s;
+  opacity: 1;
 }
 
-.Dropbtn, .Btn {
+.Navitem.Hide {
+  display: none;
+}
+
+.Dropbtn,
+.Btn {
   display: inline-block;
   color: #544a4e;
   text-align: left;
@@ -33,11 +38,12 @@
   border-right: 5px solid transparent;
   border-bottom: 8px solid transparent;
   border-bottom-color: #fff;
-  opacity:0;
+  opacity: 0;
 }
 
 @media (max-width: 1000px) {
-  .Dropbtn, .Btn {
+  .Dropbtn,
+  .Btn {
     display: none;
   }
 
@@ -51,7 +57,8 @@
     box-shadow: none;
   }
 
-  .Navitem.Responsive .Dropbtn, .Navitem.Responsive .Btn {
+  .Navitem.Responsive .Dropbtn,
+  .Navitem.Responsive .Btn {
     width: 100%;
     float: none;
     display: block;

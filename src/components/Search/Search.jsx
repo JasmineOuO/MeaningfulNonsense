@@ -1,9 +1,9 @@
 import React, { Component, createRef } from 'react';
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, Index, Hits, connectStateResults } from 'react-instantsearch-dom';
-import { Algolia } from 'styled-icons/fa-brands/Algolia';
+import { FaAlgolia } from 'react-icons/fa';
 
-import { Root, HitsWrapper, By } from './styles';
+import classes from './Search.module.css';
 import Input from './Input';
 import * as hitComps from './hits';
 
@@ -19,12 +19,15 @@ const Stats = connectStateResults(
 );
 
 export default class Search extends Component {
-  state = { query: ``, focussed: false, ref: createRef() };
-
   searchClient = algoliasearch(
     process.env.GATSBY_ALGOLIA_APP_ID,
     process.env.GATSBY_ALGOLIA_SEARCH_KEY
   );
+
+  constructor(props) {
+    super(props);
+    this.state = { query: ``, focussed: false, ref: createRef() };
+  }
 
   componentDidMount() {
     events.forEach(event => document.addEventListener(event, this.handleClickOutside));
@@ -36,7 +39,7 @@ export default class Search extends Component {
 
   updateState = state => this.setState(state);
 
-  focus = () => {
+  handleFocus = () => {
     this.setState({ focussed: true });
   };
 
@@ -53,36 +56,51 @@ export default class Search extends Component {
 
   render() {
     const { query, focussed, ref } = this.state;
-    const { indices, collapse, hitsAsGrid } = this.props;
+    const { indices, collapse, hitsAsGrid, onClick } = this.props;
+    const hitsWrapperClasses = [classes.HitsWrapper];
+    if (hitsAsGrid) {
+      hitsWrapperClasses.push(classes.Grid);
+    } else {
+      hitsWrapperClasses.push(classes.List);
+    }
+    if (!focussed || query.length <= 0) {
+      hitsWrapperClasses.push(classes.Hide);
+    }
     return (
       <InstantSearch
         searchClient={this.searchClient}
         indexName={indices[0].name}
         onSearchStateChange={this.updateState}
-        root={{ Root, props: { ref } }}
       >
-        <Input onFocus={this.focus} {...{ collapse, focussed }} />
-        <HitsWrapper show={query.length > 0 && focussed} hitsAsGrid={hitsAsGrid}>
-          {indices.map(({ name, title, hitComp }) => (
-            <Index key={name} indexName={name}>
-              <header>
-                <h3>{title}</h3>
-                <Stats />
-              </header>
-              <Results>
-                <Hits hitComponent={hitComps[hitComp](this.disableHits)} />
-              </Results>
-            </Index>
-          ))}
-          <By>
-            Powered by
-            {''}
-            <a href="https://www.algolia.com">
-              <Algolia size="1em" />
-              Algolia
-            </a>
-          </By>
-        </HitsWrapper>
+        <div className={classes.Root} ref={ref}>
+          <Input
+            collapse={collapse}
+            focussed={focussed}
+            onFocus={this.handleFocus}
+            onClick={onClick}
+          />
+          <div className={hitsWrapperClasses.join(' ')} hitsAsGrid={hitsAsGrid}>
+            {indices.map(({ name, title, hitComp }) => (
+              <Index key={name} indexName={name}>
+                <header>
+                  <h3>{title}</h3>
+                  <Stats />
+                </header>
+                <Results>
+                  <Hits hitComponent={hitComps[hitComp](this.disableHits)} />
+                </Results>
+              </Index>
+            ))}
+            <span className={classes.By}>
+              Powered by
+              {''}
+              <a href="https://www.algolia.com">
+                <FaAlgolia size="1em" />
+                Algolia
+              </a>
+            </span>
+          </div>
+        </div>
       </InstantSearch>
     );
   }

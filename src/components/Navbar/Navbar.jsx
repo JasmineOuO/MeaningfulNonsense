@@ -2,11 +2,17 @@ import React, { Component } from 'react';
 
 import classes from './Navbar.module.css';
 import Navitem from './Navitem/Navitem';
+import Search from '../Search/Search';
+
+const searchIndices = [
+  { name: `Photos`, title: `Photos`, hitComp: `PhotoHit` },
+  { name: `Posts`, title: `Blog Posts`, hitComp: `PostHit` }
+];
 
 class Navbar extends Component {
   constructor(props) {
     super(props);
-    this.state = { hamburgerOpened: false };
+    this.state = { hamburgerOpened: false, collapseSearch: true };
   }
 
   handleClick = () => {
@@ -15,9 +21,15 @@ class Navbar extends Component {
     }));
   };
 
+  handleSearchClick = () => {
+    this.setState(prevState => ({
+      collapseSearch: !prevState.collapseSearch
+    }));
+  };
+
   render() {
     const { navLinks } = this.props;
-    const { hamburgerOpened } = this.state;
+    const { hamburgerOpened, collapseSearch } = this.state;
     const HamburgerClasses = [classes.Hamburger, classes.HamburgerIcon, classes.HamburgerSlider];
     if (hamburgerOpened) {
       HamburgerClasses.push(classes.Active);
@@ -31,8 +43,16 @@ class Navbar extends Component {
             link={navLink.link}
             navLinks={navLink.navLinks}
             hamburgerOpened={hamburgerOpened}
+            hide={!collapseSearch}
           />
         ))}
+        <div style={{ display: 'inline-block', width: `${collapseSearch ? '' : '100%'}` }}>
+          <Search
+            collapse={collapseSearch}
+            indices={searchIndices}
+            onClick={this.handleSearchClick}
+          />
+        </div>
         <button
           aria-label="Expand navigation bar"
           type="button"
