@@ -6,7 +6,7 @@ import { FaCalendar, FaTags } from 'react-icons/fa';
 
 const PostHit = clickHandler => ({ hit }) => (
   <div>
-    <Link to={`/blog/${hit.slug}`} onClick={clickHandler}>
+    <Link to={`/blog/${hit.fields.slug}`} onClick={clickHandler}>
       <h3>
         <Highlight attribute="title" hit={hit} tagName="mark" />
       </h3>
