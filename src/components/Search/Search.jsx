@@ -63,7 +63,7 @@ export default class Search extends Component {
     } else {
       hitsWrapperClasses.push(classes.List);
     }
-    if (!focussed || query.length <= 0) {
+    if (collapse || !focussed || query.length <= 0) {
       hitsWrapperClasses.push(classes.Hide);
     }
     return (

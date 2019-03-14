@@ -36,7 +36,9 @@
 
 .HitsWrapper header h3 {
   color: gray;
-  padding: 0.1em 0.4em;
+  padding: 0.1em 0;
+  text-transform: uppercase;
+  font-weight: 400;
 }
 
 .HitsWrapper h3 {
@@ -78,7 +80,7 @@
 }
 
 .List > * + * {
-  padding-top: 1em !important;
+  padding: 1em 0 !important;
   border-top: 2px solid darkgray;
 }
 
