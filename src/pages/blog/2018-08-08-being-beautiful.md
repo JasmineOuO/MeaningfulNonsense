@@ -8,7 +8,6 @@ tags:
   - life
   - life-lessons
 ---
-
 ![laptop lounge](/images/sakura.jpeg)
 
 So for the past few weeks I have been trying to puzzle together an answer to this question : what does it mean to be beautiful?
@@ -33,9 +32,7 @@ It’s one thing to be proud of what you can do, but it’s a whole other thing 
 
 Whenever I have deep and sometimes controversial conversations with my friends or acquaintances, I always try to be honest with my responses. This point actually ties in with the first point since both circle around one thing: consistency. My biggest advice to those who have the constant urge to please others (which I once did), is portrayed best by the old saying:
 
-<blockquote>Say what you mean but don’t say it mean.</blockquote>
-
-<cite>Anonymous</cite>
+> Say what you mean but don’t say it mean.
 
 We can only do what we are capable of, to tell the truth. But if your honest response is not considerate and just downright offensive, you are being lazy and can do better. Although how does _being yourself_ answer what it means to be beautiful? Well first off, beauty is not objective at all and my own opinion is just my own, nothing is set in stone. But the reason why I chose the word beautiful and not cute, pretty or sexy is because I don’t define beauty as just an exterior characteristic. Being beautiful is something that starts from the inside and if your heart is not true to yourself and to others, it will become fragile. Before you know it, beauty can turn into vanity. So be careful.
 
