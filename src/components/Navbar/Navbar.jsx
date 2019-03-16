@@ -75,10 +75,7 @@ class Navbar extends Component {
         </nav>
         <div
           className={`${classes.SearchBar} ${classes.Responsive}`}
-          style={{
-            display: collapseSearch ? 'none' : 'block',
-            width: collapseSearch ? '0%' : '100%'
-          }}
+          style={{ display: collapseSearch ? 'none' : 'block' }}
         >
           <Search
             collapse={collapseSearch}
