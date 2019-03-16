@@ -19,6 +19,25 @@ const postQuery = `{
   }
 }`;
 
+const pageQuery = `{
+  posts: allMarkdownRemark(
+    filter: { fileAbsolutePath: { regex: "/pages/about/" } }
+  ) {
+    edges {
+      node {
+        objectID: id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+        }
+        excerpt(pruneLength: 1000)
+      }
+    }
+  }
+}`;
+
 const photographyQuery = `{
   photos: markdownRemark(fileAbsolutePath: { regex: "/pages/photography/" }) {
     frontmatter {
@@ -43,15 +62,21 @@ const settings = { attributesToSnippet: [`excerpt:20`] };
 
 const queries = [
   {
-    query: photographyQuery,
-    transformer: ({ data }) => data.photos.frontmatter.photos,
-    indexName: `Photos`,
-    settings
-  },
-  {
     query: postQuery,
     transformer: ({ data }) => flatten(data.posts.edges),
     indexName: `Posts`,
+    settings
+  },
+  {
+    query: pageQuery,
+    transformer: ({ data }) => flatten(data.posts.edges),
+    indexName: `Posts`,
+    settings
+  },
+  {
+    query: photographyQuery,
+    transformer: ({ data }) => data.photos.frontmatter.photos,
+    indexName: `Photos`,
     settings
   }
 ];

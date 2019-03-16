@@ -7,37 +7,56 @@ description: Photography
 photos:
   - image: /images/deepdishpizza.jpg
     title: Deep Pizza
-    date: 2016-12-17T15:04:10.000Z
-    caption: >
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a
-      variety of coffee beans grown with great care for the environment and
-      local communities. Check our post or contact us directly for current
-      availability.
+    date: 2018-08-04T15:04:10.000Z
+    caption: Giordano's @ Chicago, Illinois
+
   - image: /images/Bleu.jpeg
     title: Bleu
-    date: 2015-12-17T15:04:10.000Z
-    caption: >
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget
-      to fall in love with in our shop.
+    date: 2018-02-22T15:04:10.000Z
+    caption: The Warehouse @ Montreal, Quebec
+
   - image: /images/cafeleaves.jpeg
-    title: Cafe Leaves
-    date: 2018-12-17T15:04:10.000Z
-    caption: >
-      Love a great cup of coffee, but never knew how to make one? Bought a
-      fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-      to help. You can schedule a custom 1-on-1 consultation with our baristas
-      to learn anything you want to know about coffee roasting and brewing.
-      Email us or call the store for details.
+    title: Latte
+    date: 2018-01-12T15:04:10.000Z
+    caption: Cafe Leaves @ Montreal, Quebec
+
   - image: /images/fishnchips.jpg
     title: FishnChips
+    date: 2018-01-12T15:04:10.000Z
+    caption: Brit & Chips @ Montreal, Quebec
+
+  - image: /images/dadpizza.jpg
+    title: Homemade
+    date: 2017-04-29T15:04:10.000Z
+    caption: Dad's @ Toronto, Ontario
+
+  - image: /images/milkshakes.jpeg
+    title: Milkshakes
+    date: 2018-03-10T15:04:10.000Z
+    caption: Brit & Chips @ Montreal, Quebec
+
+  - image: /images/pescatore.jpeg
+    title: Pescatore
+    date: 2018-08-11T15:04:10.000Z
+    caption: Sambucas on Church @ Toronto, Ontario
+
+  - image: /images/taco.jpeg
+    title: Tacos
+    date: 2018-06-23T15:04:10.000Z
+    caption: La Carnita @ Toronto, Ontario
+
+  - image: /images/aquarium1.jpg
+    title: Aquarium
+    date: 2017-08-05T15:04:10.000Z
+    caption: Shedd Aquarium @ Chicago, Illinois
+
+  - image: /images/aquarium4.jpg
+    title: Coral Reef
     date: 2017-12-17T15:04:10.000Z
-    caption: >
-      We believe that good coffee has the power to bring people together.
-      That’s why we decided to turn a corner of our shop into a cozy meeting
-      space where you can hang out with fellow coffee lovers and learn about
-      coffee making techniques. All of the artwork on display there is for
-      sale. The full price you pay goes to the artist.
+    caption: Shedd Aquarium @ Chicago, Illinois
+
+  - image: /images/park.jpg
+    title: Park
+    date: 2018-06-23T15:04:10.000Z
+    caption: Park @ Toronto, Ontario
 ---
