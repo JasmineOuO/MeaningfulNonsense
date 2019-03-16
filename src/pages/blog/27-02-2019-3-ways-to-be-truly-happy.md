@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: 3 Ways to be Truly Happy
-date: 2019-08-09T02:20:49.050Z
+date: 2018-05-17T02:20:49.050Z
 description: Happiness
 thumbnail: /images/burano.jpeg
 tags:
