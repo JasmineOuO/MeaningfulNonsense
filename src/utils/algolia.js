@@ -70,7 +70,7 @@ const queries = [
   {
     query: pageQuery,
     transformer: ({ data }) => flatten(data.posts.edges),
-    indexName: `Posts`,
+    indexName: `Pages`,
     settings
   },
   {
