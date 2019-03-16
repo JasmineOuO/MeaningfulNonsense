@@ -65,4 +65,8 @@
     text-align: left;
     padding: 12px 40px;
   }
+
+  .Navitem.Responsive.First .Btn {
+    text-align: center;
+  }
 }

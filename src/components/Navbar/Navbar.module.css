@@ -13,6 +13,15 @@
   letter-spacing: 0.3em;
 }
 
+.SearchBar {
+  display: inline-block;
+  background: #e8c5d6;
+}
+
+.SearchIcon {
+  display: none;
+}
+
 .Hamburger {
   padding: 0;
   display: inline-block;
@@ -29,7 +38,7 @@
 }
 
 .Hamburger:focus {
-  outline:0;
+  outline: 0;
 }
 
 .HamburgerBox {
@@ -42,10 +51,12 @@
 .HamburgerInner {
   display: block;
   top: 50%;
-  margin-top: -2px; 
+  margin-top: -2px;
 }
 
-.HamburgerInner, .HamburgerInner::before, .HamburgerInner::after {
+.HamburgerInner,
+.HamburgerInner::before,
+.HamburgerInner::after {
   width: 30px;
   height: 2px;
   background-color: #917986;
@@ -56,48 +67,53 @@
   transition-timing-function: ease;
 }
 
-.HamburgerInner::before, .HamburgerInner::after {
-  content: "";
-  display: block; 
+.HamburgerInner::before,
+.HamburgerInner::after {
+  content: '';
+  display: block;
 }
 
 .HamburgerInner::before {
-  top: -10px; 
+  top: -10px;
 }
 
 .HamburgerInner::after {
-  bottom: -10px; 
+  bottom: -10px;
 }
 
 .HamburgerSlider .HamburgerInner {
-  top: 2px; 
+  top: 2px;
 }
 
 .HamburgerSlider .HamburgerInner::before {
   top: 10px;
   transition-property: transform, opacity;
   transition-timing-function: ease;
-  transition-duration: 0.15s; 
+  transition-duration: 0.15s;
 }
 
 .HamburgerSlider .HamburgerInner::after {
-  top: 20px; 
+  top: 20px;
 }
 
 .HamburgerSlider.Active .HamburgerInner {
-  transform: translate3d(0, 10px, 0) rotate(45deg); 
+  transform: translate3d(0, 10px, 0) rotate(45deg);
 }
 
 .HamburgerSlider.Active .HamburgerInner::before {
   transform: rotate(-45deg) translate3d(-5.71429px, -6px, 0);
-  opacity: 0; 
+  opacity: 0;
 }
 
 .HamburgerSlider.Active .HamburgerInner::after {
-  transform: translate3d(0, -20px, 0) rotate(-90deg); 
+  transform: translate3d(0, -20px, 0) rotate(-90deg);
 }
 
 .HamburgerIcon {
+  display: none;
+}
+
+.Hide {
   display: none;
 }
 
@@ -108,10 +124,29 @@
 }
 
 @media (max-width: 1000px) {
-  .Navbar, .Navbar.Responsive {
-      position: relative;
+  .Navbar,
+  .Navbar.Responsive {
+    margin: 0;
+    position: relative;
   }
-  
+
+  .SearchBar {
+    display: none;
+  }
+
+  .SearchBar.Responsive {
+    position: relative;
+  }
+
+  .SearchIcon {
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 67px;
+    color: #917986;
+    font-size: 23px;
+  }
+
   .HamburgerIcon {
     display: block;
     position: absolute;

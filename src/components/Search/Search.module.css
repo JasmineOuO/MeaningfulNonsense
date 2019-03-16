@@ -14,6 +14,9 @@
   overflow: scroll;
   margin-top: 0; /* under * selector */
   padding: 0; /* under * selector */
+  z-index: 2;
+  scrollbar-width: none; /* Hide scrollbar - Firefox */
+  -ms-overflow-style: none; /* Hide scrollbar - IE 10+ */
 }
 
 .HitsWrapper.Hide {
@@ -22,6 +25,7 @@
 
 .HitsWrapper ul {
   list-style: none;
+  margin-left: 0px;
 }
 
 .HitsWrapper mark {
@@ -49,31 +53,9 @@
   margin-bottom: 0.3em;
 }
 
-.HitsWrapper::-webkit-scrollbar-track {
-  border-radius: 10px;
-  margin: 0 5px;
-  background-color: transparent;
-}
-
 .HitsWrapper::-webkit-scrollbar {
-  width: 12px;
-  background-color: transparent;
-}
-
-.HitsWrapper::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  background-color: #b9b9b9;
-}
-
-.HitsWrapper::-webkit-scrollbar-track-piece:end {
-  background: transparent;
-  margin-bottom: 5px;
-}
-
-.HitsWrapper::-webkit-scrollbar-track-piece:start {
-  background: transparent;
-  margin-top: 50px;
+  width: 0;
+  background: transparent; /* Hide scrollbar -  Chrome/Safari/Webkit */
 }
 
 .Grid ul {
@@ -90,14 +72,13 @@
 
 .List {
   position: absolute;
-  left: 11px;
-  top: calc(100% - 2.5em);
-  width: calc(100% - 1.6em);
+  left: 7px;
+  top: calc(100% - 3em);
+  width: calc(100% - 0.87em);
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   padding: 2.7em 2.5em 1em;
   background: white;
   border-radius: 20px;
-  z-index: -1;
 }
 
 .List a {
@@ -121,4 +102,12 @@
   font-size: 0.6em;
   text-align: end;
   padding: 0;
+}
+
+@media (max-width: 1000px) {
+  .List {
+    left: 15px;
+    width: calc(100% - 1.84em);
+    padding: 2.7em 1.5em 1em;
+  }
 }

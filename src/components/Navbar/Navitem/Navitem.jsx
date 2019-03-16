@@ -20,8 +20,11 @@ class Navitem extends Component {
 
   render() {
     const { isHovered } = this.state;
-    const { name, link, navLinks, hamburgerOpened, hide } = this.props;
+    const { name, link, navLinks, hamburgerOpened, hide, first } = this.props;
     const navitemClasses = [classes.Navitem];
+    if (first) {
+      navitemClasses.push(classes.Push);
+    }
     if (hamburgerOpened) {
       navitemClasses.push(classes.Responsive);
     } else if (hide) {

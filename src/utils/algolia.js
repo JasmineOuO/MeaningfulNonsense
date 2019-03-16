@@ -25,6 +25,11 @@ const photographyQuery = `{
       photos {
         image {
           objectID: id
+          childImageSharp {
+            fluid(maxWidth: 240, quality: 64) {
+              ...GatsbyImageSharpFluid
+            }
+          }
         }
         title
         date

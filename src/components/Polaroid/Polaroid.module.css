@@ -10,19 +10,7 @@
   z-index: 0;
   position: relative;
   transition: transform 0.15s linear;
-  -webkit-transition: -webkit-transform 0.15s linear;
-  -moz-transition: -moz-transform 0.15s linear;
-  -o-transition: -o-transform 0.15s linear;
-  -ms-transition: -ms-transform 0.15s linear;
   box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0, 0, 0, 0.16),
-    0 3px 6px rgba(0, 0, 0, 0.23);
-  -webkit-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0, 0, 0, 0.16),
-    0 3px 6px rgba(0, 0, 0, 0.23);
-  -moz-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0, 0, 0, 0.16),
-    0 3px 6px rgba(0, 0, 0, 0.23);
-  -o-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0, 0, 0, 0.16),
-    0 3px 6px rgba(0, 0, 0, 0.23);
-  -ms-box-shadow: inset 0px 0px 2px 1px #ddd, 0 3px 6px rgba(0, 0, 0, 0.16),
     0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
@@ -49,12 +37,13 @@
 
 /* entire container, keeps perspective */
 .FlipContainer {
+  position: relative;
+  width: 100%;
   perspective: 1000px;
 }
 
 /* flip the pane when hovered */
-.FlipContainer:hover .Flipper,
-.FlipContainer.hover .Flipper {
+.FlipContainer:hover .Flipper {
   transform: rotateY(180deg);
 }
 
