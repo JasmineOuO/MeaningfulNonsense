@@ -57,6 +57,11 @@
   cursor: pointer;
 }
 
+.SearchIcon:hover,
+.CloseIcon:hover {
+  color: black;
+}
+
 @media (max-width: 1000px) {
   .Input {
     padding: 10px 20px 10px 28px;

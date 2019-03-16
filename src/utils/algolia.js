@@ -44,9 +44,10 @@ const photographyQuery = `{
       photos {
         image {
           objectID: id
+          relativePath
         }
         title
-        date
+        date(formatString: "MMMM DD, YYYY")
         caption
       }
     }
@@ -77,7 +78,7 @@ const queries = [
     query: photographyQuery,
     transformer: ({ data }) => data.photos.frontmatter.photos,
     indexName: `Photos`,
-    settings
+    attributesToSnippet: [`caption:20`]
   }
 ];
 

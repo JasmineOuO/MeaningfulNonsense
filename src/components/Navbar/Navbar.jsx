@@ -6,8 +6,9 @@ import Navitem from './Navitem/Navitem';
 import Search from '../Search/Search';
 
 const searchIndices = [
-  { name: `Photos`, title: `Photos`, hitComp: `PhotoHit` },
-  { name: `Posts`, title: `Blog Posts`, hitComp: `PostHit` }
+  { name: `Posts`, title: `Blog Posts`, hitComp: `PostHit` },
+  { name: `Pages`, title: `Pages`, hitComp: `PageHit` },
+  { name: `Photos`, title: `Photos`, hitComp: `PhotoHit` }
 ];
 
 class Navbar extends Component {
