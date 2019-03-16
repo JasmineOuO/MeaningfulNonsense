@@ -42,7 +42,7 @@
     "react-icons": "^3.4.0",
     "react-instantsearch-dom": "^5.4.0",
     "react-masonry-css": "^1.0.12",
-    "renovate": "^14.37.0",
+    "renovate": "^14.52.3",
     "rimraf": "^2.6.3",
     "sharp": "^0.21.3",
     "uuid": "^3.3.2"
