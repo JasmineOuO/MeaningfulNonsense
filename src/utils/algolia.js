@@ -44,7 +44,19 @@ const photographyQuery = `{
       photos {
         image {
           objectID: id
-          relativePath
+          childImageSharp {
+            fluid(maxWidth: 200, quality:50) {
+              base64
+              aspectRatio
+              src
+              srcSet
+              srcWebp
+              srcSetWebp
+              sizes
+              originalImg
+              originalName
+            }
+          }
         }
         title
         date(formatString: "MMMM DD, YYYY")

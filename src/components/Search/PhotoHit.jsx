@@ -1,9 +1,10 @@
 import React from 'react';
 import { Highlight, Snippet } from 'react-instantsearch-dom';
-import { Link } from 'gatsby';
+import { Link, Img } from 'gatsby';
 
 const PhotoHit = clickHandler => ({ hit }) => (
   <div>
+    <Img fluid={hit.image.childImageSharp.fluid} alt={hit.title} />
     <Link to={hit.slug} onClick={clickHandler}>
       <h3>
         <Highlight attribute="title" hit={hit} tagName="mark" />

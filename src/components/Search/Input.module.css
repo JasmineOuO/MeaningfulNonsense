@@ -19,7 +19,6 @@
   width: 100%;
   background: #f8e5ec;
   color: rgba(84, 74, 78, 0.5);
-  transition: width 0.5s ease;
 }
 
 .Input.Expand.Focussed {
@@ -27,13 +26,11 @@
   background: white;
   color: #444;
   cursor: text;
-  transition: width 0.5s ease;
 }
 
 .Input.Collapse {
   width: 0;
   cursor: pointer;
-  transition: width 0.5s ease;
 }
 
 .CloseIcon {
@@ -66,19 +63,6 @@
   .Input {
     padding: 10px 20px 10px 28px;
     margin: 7px 15px;
-  }
-
-  .Input.Expand {
-    width: 100%;
-    background: #f8e5ec;
-    color: rgba(84, 74, 78, 0.5);
-    transition: width 0.5s ease;
-  }
-
-  .Input.Collapse {
-    width: 0;
-    cursor: pointer;
-    transition: width 0.5s ease;
   }
 
   .SearchIcon {
