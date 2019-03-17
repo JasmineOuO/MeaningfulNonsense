@@ -40,6 +40,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            label
             templateKey
             date(formatString: "DD/MM/YY")
             thumbnail {

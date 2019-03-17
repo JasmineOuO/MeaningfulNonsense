@@ -1,6 +1,7 @@
 ---
 templateKey: post
 title: Your Pain Shapes You
+label: Pain
 date: 2018-08-09T02:20:49.050Z
 description: Pain
 thumbnail: /images/milan2.jpeg

@@ -12,25 +12,25 @@ class Polaroid extends Component {
 
   render() {
     const { item, type } = this.props;
-    let title,
+    let frontText,
       backText,
       thumbnail,
       date = '';
     let link = '/';
     let id = item.id;
     if (type === 'post') {
-      title = item.frontmatter.title;
+      frontText = item.frontmatter.label;
       date = item.frontmatter.date;
-      backText = item.excerpt;
+      backText = item.frontmatter.title;
       thumbnail = item.frontmatter.thumbnail;
       link = item.fields.slug;
     } else if (type === 'photo') {
-      title = item.title;
+      frontText = item.title;
       date = item.date;
       backText = item.location;
       thumbnail = item.image;
     } else if (type === 'about') {
-      title = item.name;
+      frontText = item.name;
       date = item.caption;
       backText = item.blurb;
       thumbnail = item.image;
@@ -40,7 +40,7 @@ class Polaroid extends Component {
       <div className={classes.FlipContainer} key={id}>
         <div className={classes.Flipper}>
           <div className={classes.Front}>
-            <a className={classes.Polaroid} title={title}>
+            <a className={classes.Polaroid} title={frontText}>
               <Image className={classes.Image} imageInfo={{ image: thumbnail }} />
             </a>
           </div>
@@ -48,7 +48,7 @@ class Polaroid extends Component {
             <h1>{backText}</h1>
             <a className={classes.Polaroid} title={date} />
             <div className={classes.Link}>
-              <Link to={link} title={title} />
+              <Link to={link} title={frontText} />
             </div>
           </div>
         </div>

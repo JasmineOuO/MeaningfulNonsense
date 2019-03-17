@@ -1,6 +1,7 @@
 ---
 templateKey: post
 title: Finding a Balance
+label: Balance
 date: 2018-08-26T02:20:49.050Z
 description: Balancing Health and Hustle for Success
 thumbnail: /images/milan3.jpeg
@@ -8,7 +9,8 @@ tags:
   - life
   - life-lessons
 ---
-![Milan, Italy](/images/milan4.jpg "Milan, Italy")
+
+![Milan, Italy](/images/milan4.jpg 'Milan, Italy')
 
 We are currently living in a so-called "limitless" era. We are constantly being bombarded with anthems advocating that the hustle and hard work can and will get you anywhere _if_ you are willing to push yourself hard enough. _If_ you are willing to take those risks and sacrifice what is necessary to achieve your ultimate goals.
 

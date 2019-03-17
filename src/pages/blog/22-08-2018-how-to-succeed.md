@@ -1,6 +1,7 @@
 ---
 templateKey: post
 title: How to Succeed
+label: Success
 date: 2018-08-22T15:04:10.000Z
 description: Success
 thumbnail: /images/parma2.jpeg

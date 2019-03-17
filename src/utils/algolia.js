@@ -61,7 +61,6 @@ const photographyQuery = `{
         title
         date(formatString: "MMMM DD, YYYY")
         location
-        caption
       }
     }
   }

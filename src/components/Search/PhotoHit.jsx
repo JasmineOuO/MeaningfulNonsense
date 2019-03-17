@@ -26,8 +26,6 @@ const PhotoHit = clickHandler => ({ hit }) => (
         <FaMapMarkerAlt size="0.8em" color="grey" />
         &nbsp;
         <Highlight attribute="location" hit={hit} tagName="mark" />
-        <br />
-        <Highlight attribute="caption" hit={hit} tagName="mark" />
       </div>
     </div>
   </div>
