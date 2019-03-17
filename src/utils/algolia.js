@@ -45,7 +45,7 @@ const photographyQuery = `{
         image {
           objectID: id
           childImageSharp {
-            fluid(maxWidth: 200, quality:50) {
+            fluid(maxWidth: 240, quality: 64) {
               base64
               aspectRatio
               src
@@ -57,6 +57,7 @@ const photographyQuery = `{
               originalName
             }
           }
+          relativePath
         }
         title
         date(formatString: "MMMM DD, YYYY")
