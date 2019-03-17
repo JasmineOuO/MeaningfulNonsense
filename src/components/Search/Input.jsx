@@ -20,7 +20,10 @@ export default connectSearchBox(({ refine, collapse, focussed, onFocus, onClick 
           : `${classes.Input} ${classes.Expand}`
       }
     />
-    <FaSearch className={classes.SearchIcon} onClick={onClick} />
+    <FaSearch
+      className={collapse ? `${classes.SearchIcon}` : `${classes.SearchIcon} ${classes.Expand}`}
+      onClick={onClick}
+    />
     <FaTimes
       className={collapse ? `${classes.CloseIcon}` : `${classes.CloseIcon} ${classes.Show}`}
       onClick={onClick}

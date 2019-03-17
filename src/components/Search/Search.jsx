@@ -9,7 +9,7 @@ import * as hitComps from './hits';
 const events = ['mousedown', 'touchstart'];
 
 const Results = connectStateResults(({ searchState: state, searchResults: res, children }) =>
-  res && res.nbHits ? children : `No results for ${state.query}`
+  res && res.nbHits ? children : <span>{`No results for ${state.query}`}</span>
 );
 
 const Stats = connectStateResults(
@@ -83,7 +83,9 @@ export default class Search extends Component {
               <Index key={name} indexName={name}>
                 <header>
                   <h3>{title}</h3>
-                  <Stats />
+                  <span>
+                    <Stats />
+                  </span>
                 </header>
                 <Results>
                   <Hits hitComponent={hitComps[hitComp](this.disableHits)} />
