@@ -19,6 +19,7 @@
   width: 100%;
   background: #f8e5ec;
   color: rgba(84, 74, 78, 0.5);
+  animation: input-grow 0.5s ease-in-out backwards 0.5s;
 }
 
 .Input.Expand.Focussed {
@@ -29,6 +30,7 @@
 }
 
 .Input.Collapse {
+  width: 100%;
   display: none;
 }
 
@@ -44,6 +46,7 @@
 
 .CloseIcon.Show {
   display: block;
+  animation: close-icon-grow 0.5s ease-in-out backwards 0.5s;
 }
 
 .SearchIcon {
@@ -57,6 +60,7 @@
   position: absolute;
   top: 18px;
   left: 102px;
+  animation: search-icon-grow 0.5s ease-in-out backwards 0.5s;
 }
 
 .SearchIcon:hover,
@@ -81,5 +85,64 @@
 
   .CloseIcon {
     right: 31px;
+  }
+}
+
+@keyframes input-grow {
+  0% {
+    opacity: 0;
+    margin-left: 47%;
+    margin-right: 47%;
+  }
+
+  100% {
+    opacity: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+@keyframes input-shrink {
+  0% {
+    position: absolute;
+    top: 18px;
+    left: 102px;
+    opacity: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  99% {
+    opacity: 0;
+    margin-left: 47%;
+    margin-right: 47%;
+  }
+
+  100% {
+    display: none;
+  }
+}
+
+@keyframes close-icon-grow {
+  0% {
+    opacity: 0;
+    right: 48%;
+  }
+
+  100% {
+    opacity: 1;
+    right: 11%;
+  }
+}
+
+@keyframes search-icon-grow {
+  0% {
+    opacity: 0;
+    left: 46%;
+  }
+
+  100% {
+    opacity: 1;
+    left: 9%;
   }
 }

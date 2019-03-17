@@ -38,7 +38,7 @@ const Layout = ({ children }) => (
           <Header />
         </Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />
-        <main>{children}</main>
+        <main style={{ marginTop: '5vh' }}>{children}</main>
         <Footer />
       </>
     )}

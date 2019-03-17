@@ -38,7 +38,6 @@ class Navbar extends Component {
       HamburgerClasses.push(classes.Active);
     }
     if (!collapseSearch) {
-      HamburgerClasses.push(classes.Hide);
       NavbarClasses.push(classes.Hide);
     }
     return (
