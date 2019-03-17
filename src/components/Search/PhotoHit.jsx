@@ -8,11 +8,11 @@ import { FaMapMarkerAlt, FaCalendar } from 'react-icons/fa';
 const PhotoHit = clickHandler => ({ hit }) => (
   <div>
     <Img
-      style={{ display: 'inline-block', width: 120 }}
+      style={{ display: 'inline-block', width: 120, margin: '0 18px 10px 0', borderRadius: 5 }}
       fluid={hit.image.childImageSharp.fluid}
       alt={hit.title}
     />
-    <div style={{ display: 'inline-block', marginLeft: '18px' }}>
+    <div style={{ display: 'inline-block' }}>
       <Link to="/photography" onClick={clickHandler}>
         <h3>
           <Highlight attribute="title" hit={hit} tagName="mark" />
