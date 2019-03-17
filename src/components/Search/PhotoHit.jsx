@@ -1,5 +1,5 @@
 import React from 'react';
-import { Highlight, Snippet } from 'react-instantsearch-dom';
+import { Highlight } from 'react-instantsearch-dom';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -13,8 +13,8 @@ const PhotoHit = clickHandler => ({ hit }) => (
     </Link>
     <div>
       <Highlight attribute="date" hit={hit} tagName="mark" />
+      <Highlight attribute="location" hit={hit} tagName="mark" />
     </div>
-    <Snippet attribute="caption" hit={hit} tagName="mark" />
   </div>
 );
 

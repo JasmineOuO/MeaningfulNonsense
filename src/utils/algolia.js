@@ -57,10 +57,10 @@ const photographyQuery = `{
               originalName
             }
           }
-          relativePath
         }
         title
         date(formatString: "MMMM DD, YYYY")
+        location
         caption
       }
     }
@@ -90,8 +90,7 @@ const queries = [
   {
     query: photographyQuery,
     transformer: ({ data }) => data.photos.frontmatter.photos,
-    indexName: `Photos`,
-    attributesToSnippet: [`caption:20`]
+    indexName: `Photos`
   }
 ];
 

@@ -27,7 +27,7 @@ class Polaroid extends Component {
     } else if (type === 'photo') {
       title = item.title;
       date = item.date;
-      backText = item.caption;
+      backText = item.location;
       thumbnail = item.image;
     } else if (type === 'about') {
       title = item.name;

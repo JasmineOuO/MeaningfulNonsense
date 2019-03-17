@@ -98,12 +98,6 @@
   border-top: 1px solid lightgray;
 }
 
-.By {
-  font-size: 0.6em;
-  text-align: end;
-  padding: 0;
-}
-
 @media (max-width: 1000px) {
   .List {
     left: 15px;

@@ -36,6 +36,7 @@ export const pageQuery = graphql`
           }
           title
           date(formatString: "DD/MM/YY")
+          location
           caption
         }
       }
