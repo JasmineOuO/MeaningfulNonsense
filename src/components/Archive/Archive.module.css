@@ -56,3 +56,9 @@
     letter-spacing: 0.1em;
   }
 }
+
+@media (max-width: 1000px) {
+  .Archive {
+    margin: 9vh auto 0 auto;
+  }
+}

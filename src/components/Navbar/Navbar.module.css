@@ -127,7 +127,8 @@
   .Navbar,
   .Navbar.Responsive {
     margin: 0;
-    position: relative;
+    position: fixed;
+    width: 100%;
   }
 
   .SearchBar {
