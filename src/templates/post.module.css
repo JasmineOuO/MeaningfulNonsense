@@ -1,7 +1,7 @@
-.Post{
+.Post {
   margin: 5em 20vw 10em 20vw;
   padding-bottom: 5em;
-  font-family: "Monteserrat", sans-serif;
+  font-family: 'Monteserrat', sans-serif;
   font-weight: 400;
   line-height: 1.6;
   color: #676767;
@@ -15,7 +15,7 @@
 
 .Post h1 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 2.25em;
   line-height: 1.2;
   border-bottom: 1px solid #eee;
@@ -23,7 +23,7 @@
 
 .Post h2 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 1.75em;
   line-height: 1.225;
   border-bottom: 1px solid #eee;
@@ -31,26 +31,26 @@
 
 .Post h3 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 1.5em;
   line-height: 1.43;
 }
 
 .Post h4 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 1.25em;
 }
 
 .Post h5 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 1em;
 }
 
 .Post h6 {
   padding-top: 1em;
-  padding-bottom: .3em;
+  padding-bottom: 0.3em;
   font-size: 1em;
   color: #777;
 }
@@ -61,7 +61,7 @@
 }
 
 .Title {
-  font-family: "IBM Plex Serif", sans-serif;
+  font-family: 'IBM Plex Serif', sans-serif;
   font-size: 4em;
   font-weight: 100;
 }
@@ -88,8 +88,9 @@
   letter-spacing: 0.1em;
 }
 
-.Time:before, .Time:after {
-  content: "";
+.Time:before,
+.Time:after {
+  content: '';
   display: inline-block;
   height: 2.5px;
   position: relative;
@@ -103,23 +104,23 @@
 .Time:before {
   right: 1em;
   margin-left: -50%;
-  background: linear-gradient(to right, #FFFFFF, #353535);
+  background: linear-gradient(to right, #ffffff, #353535);
 }
 
 .Time:after {
   left: 1em;
   margin-right: -50%;
-  background: linear-gradient(to left, #FFFFFF, #353535);
+  background: linear-gradient(to left, #ffffff, #353535);
 }
 
-.Caption{        
+.Caption {
   padding-top: 0.1em;
   padding-bottom: 2em;
   font-size: 0.7em;
   color: #777;
   text-align: center;
 }
-  
+
 .Cite {
   display: flex;
   flex-direction: column;
@@ -135,7 +136,7 @@
 
 .Nav a {
   width: 40%;
-  font-family: "Monteserrat", sans-serif;
+  font-family: 'Monteserrat', sans-serif;
   color: #676767;
   font-weight: 600;
   font-size: 0.8em;
@@ -173,19 +174,52 @@
   text-align: right;
 }
 
-.Prev span, .Next span {
+.Prev span,
+.Next span {
   height: 10em;
   margin: -3px 0 0 0;
 }
 
-.Prev span{
+.Prev span {
   margin-right: 12px;
   float: left;
 }
 
-.Next span{
+.Next span {
   margin-left: 12px;
   float: right;
+}
+
+@media (max-width: 1000px) {
+  .Post {
+    margin: 10vw 7vw 0 7vw;
+  }
+
+  .Header {
+    text-align: left;
+  }
+
+  .Title {
+    font-size: 11vw;
+    color: #515050;
+    font-weight: 700;
+  }
+
+  .Time {
+    color: #a7a3a7;
+  }
+
+  .Time:before,
+  .Time:after {
+    display: none;
+  }
+
+  .Author {
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    float: left;
+  }
 }
 
 /* Sliding up animation for post header */
@@ -363,15 +397,5 @@
 
   100% {
     width: 30%;
-  }
-}
-
-@media (max-width: 1000px) {
-  .Post {
-    margin: 10vw 7vw 0 7vw;
-  }
-
-  .Title {
-    font-size: 7vw;
   }
 }
