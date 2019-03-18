@@ -203,10 +203,13 @@
     font-size: 11vw;
     color: #515050;
     font-weight: 700;
+    line-height: 1.2;
   }
 
   .Time {
     color: #a7a3a7;
+    display: inline-block;
+    line-height: 2;
   }
 
   .Time:before,

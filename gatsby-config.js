@@ -175,7 +175,7 @@ module.exports = {
           },
           {
             family: 'IBM Plex Serif',
-            variants: ['300', '500']
+            variants: ['300']
           },
           {
             family: 'Cutive Mono'

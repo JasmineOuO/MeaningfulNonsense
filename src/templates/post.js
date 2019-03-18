@@ -18,7 +18,7 @@ export const BlogPostLayout = ({ content, contentComponent, title, helmet, date,
       {helmet || ''}
       <div className={classes.Header}>
         <div className={classes.Title}>{title}</div>
-        <time className={classes.Time}>{date}</time>
+        <div className={classes.Time}>{date}</div>
         <div className={classes.Author}>By Jessica Ou</div>
       </div>
       <article className={classes.Content}>
