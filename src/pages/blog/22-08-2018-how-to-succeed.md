@@ -1,14 +1,14 @@
 ---
 templateKey: post
 title: How to Succeed
+label: Success
 date: 2018-08-22T15:04:10.000Z
-description: Success
 thumbnail: /images/parma2.jpeg
 tags:
   - life
   - everyday-thoughts
 ---
-![Pisa, Italy](/images/nature.jpg 'Pisa, Italy')
+![Pisa, Italy](https://raw.githubusercontent.com/JasmineOuO/MeaningfulNonsense/master/static/images/nature.jpg "Pisa, Italy")
 
 Success in life is designed to be tough. Obstacles will come your way that make everything seem impossible. You’ll face dilemmas that lead to hardships. But through it all, there are lessons that will be learned. However, celebrities, activists, even the youth of our generation, preach a very generic, yet famous, saying:
 
