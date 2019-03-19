@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React, { Component } from 'react';
+import ReCAPTCHA from 'react-google-recaptcha';
 import classes from './Comments.module.css';
 
 class Comments extends Component {
@@ -11,7 +12,8 @@ class Comments extends Component {
       message: '',
       nameError: 'Please enter a name',
       messageError: 'Please enter a message',
-      isValid: false
+      isValid: false,
+      notRobot: false
     };
   }
 
@@ -26,9 +28,13 @@ class Comments extends Component {
     }));
   };
 
+  onReCAPTCHA = () => {
+    this.setState({ notRobot: true });
+  };
+
   render() {
     const { allCommentsYaml, slug } = this.props;
-    const { name, email, message, nameError, messageError, isValid } = this.state;
+    const { name, email, message, nameError, messageError, isValid, notRobot } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
       <>
@@ -95,8 +101,12 @@ class Comments extends Component {
                 value={message}
                 onChange={this.onChange}
               />
+              <ReCAPTCHA
+                sitekey="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP"
+                onChange={this.onReCAPTCHA}
+              />
               <div class="g-recaptcha" data-sitekey="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP" />
-              <button type="submit" disabled={!isValid}>
+              <button type="submit" disabled={!isValid || !notRobot}>
                 Comment
               </button>
             </form>
