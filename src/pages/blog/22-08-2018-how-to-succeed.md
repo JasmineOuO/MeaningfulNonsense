@@ -8,7 +8,7 @@ tags:
   - life
   - everyday-thoughts
 ---
-![Pisa, Italy](/images/nature.jpg "Pisa, Italy")
+![Pisa, Italy](/images/nature.jpg 'Pisa, Italy')
 
 Success in life is designed to be tough. Obstacles will come your way that make everything seem impossible. You’ll face dilemmas that lead to hardships. But through it all, there are lessons that will be learned. However, celebrities, activists, even the youth of our generation, preach a very generic, yet famous, saying:
 
