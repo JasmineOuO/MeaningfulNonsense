@@ -12,7 +12,7 @@ profiles:
     name: jessica ou
     caption: writer
     blurb: >
-      There is something so magical about words. They are simply letters being scrambled together. But it's crazy when a jumble of thoughts or ideas can fabricate life and spark emotions when they are arranged in our own special way.  This blog allows me to see the splatters of my own visionaries on something tangible. Writing brings clarity, and sometimes, you don't truly know how you feel until you can organize the puzzle of ideas in your head and write it down."
+      This blog allows me to see the splatters of my own visionaries on something tangible. Writing brings clarity, and sometimes, you don't truly know how you feel until you can organize the puzzle of ideas in your head and write it down.
 ---
 
 This blog is nothing more than a collection of 1s and 0s. What you see is nothing more than a collection of colourful pixels. What you will find is nothing more than nonsense, but nothing short of meaningful.

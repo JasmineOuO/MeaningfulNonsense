@@ -1,3 +1,12 @@
+require('typeface-dancing-script');
+require('typeface-montserrat');
+require('typeface-open-sans-condensed');
+require('typeface-ibm-plex-serif');
+require('typeface-cutive-mono');
+require('typeface-rock-salt');
+require('typeface-bentham');
+require('typeface-roboto');
+
 /* eslint-disable */
 exports.onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(

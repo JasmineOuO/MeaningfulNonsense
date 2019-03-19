@@ -26,10 +26,7 @@ const Gallery = ({ type, items, numCols }) => {
     }
     for (let i = 0; i < numCols; i++) {
       gallery.push(
-        <div
-          key={`column${new Date().getTime()}${i}`}
-          className={`${classes.Col} ${classes.Flex3}`}
-        >
+        <div key={`column${new Date().getTime()}${i}`} className={classes.Col4}>
           {columns[`column${i}`]}
         </div>
       );

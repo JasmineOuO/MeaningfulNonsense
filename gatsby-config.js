@@ -157,42 +157,6 @@ module.exports = {
         name: 'comments'
       }
     },
-    {
-      resolve: 'gatsby-plugin-prefetch-google-fonts',
-      options: {
-        fonts: [
-          {
-            family: 'Dancing Script',
-            variants: ['700']
-          },
-          {
-            family: 'Montserrat',
-            variants: ['400', '500', '600']
-          },
-          {
-            family: 'Open Sans Condensed',
-            variants: ['300', '300i', '700']
-          },
-          {
-            family: 'IBM Plex Serif',
-            variants: ['300']
-          },
-          {
-            family: 'Cutive Mono'
-          },
-          {
-            family: 'Rock Salt'
-          },
-          {
-            family: 'Bentham'
-          },
-          {
-            family: 'Roboto',
-            variants: ['400']
-          }
-        ]
-      }
-    },
     'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-robots-txt',

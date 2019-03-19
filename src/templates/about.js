@@ -14,10 +14,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent, profiles }
   const profileCards = [];
   profiles.forEach(profile => {
     profileCards.push(
-      <div
-        key={`${profile.name}${new Date().getTime()}`}
-        className={`${galleryClasses.Col} ${galleryClasses.Flex2}`}
-      >
+      <div key={`${profile.name}${new Date().getTime()}`} className={galleryClasses.Col2}>
         <Polaroid item={profile} type="about" />
       </div>
     );
@@ -30,7 +27,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent, profiles }
       <article className={classes.Content}>
         <PageContent className="content" content={content} />
       </article>
-      <div className={galleryClasses.Gallery}>{profileCards}</div>
+      <div className={galleryClasses.Gallery} style={{ padding: '0em 3em' }}>
+        {profileCards}
+      </div>
     </section>
   );
 };

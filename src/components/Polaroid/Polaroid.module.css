@@ -99,13 +99,16 @@
 
 .Back h1 {
   width: inherit;
+  height: 100%;
   color: azure;
   padding: 40px 15px 10px 15px;
+  border: none;
   text-align: center;
   text-decoration: none;
   font-family: 'Cutive Mono', monospace;
   font-size: 15px !important;
   text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.8);
+  overflow: hidden;
 }
 
 .Back a {

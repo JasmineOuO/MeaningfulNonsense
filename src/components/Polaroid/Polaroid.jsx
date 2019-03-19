@@ -15,8 +15,8 @@ class Polaroid extends Component {
     let frontText,
       backText,
       thumbnail,
-      date = '';
-    let link = '/';
+      date,
+      link = '';
     let id = item.id;
     if (type === 'post') {
       frontText = item.frontmatter.label;
@@ -47,9 +47,11 @@ class Polaroid extends Component {
           <div className={classes.Back}>
             <h1>{backText}</h1>
             <a className={classes.Polaroid} title={date} />
-            <div className={classes.Link}>
-              <Link to={link} title={frontText} />
-            </div>
+            {type === 'post' && (
+              <div className={classes.Link}>
+                <Link to={link} title={frontText} />
+              </div>
+            )}
           </div>
         </div>
       </div>
