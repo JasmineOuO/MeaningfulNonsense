@@ -9,6 +9,15 @@ import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import './Layout.css';
 
+import 'typeface-dancing-script';
+import 'typeface-montserrat';
+import 'typeface-open-sans-condensed';
+import 'typeface-ibm-plex-serif';
+import 'typeface-cutive-mono';
+import 'typeface-rock-salt';
+import 'typeface-bentham';
+import 'typeface-roboto';
+
 const Layout = ({ children }) => (
   <StaticQuery
     query={graphql`
