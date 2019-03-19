@@ -52,8 +52,10 @@ textarea:focus {
   background-color: #e8b4cd;
 }
 
-.Form .btn-disabled:hover {
-  background-color: #e8c5d6;
+.Form button:disabled {
+  background-color: #dac9d1;
+  cursor: none;
+  pointer-events: none;
 }
 
 .Header {
