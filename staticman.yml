@@ -78,6 +78,6 @@ comments:
 
   # reCAPTCHA
   reCaptcha:
-  enabled: true
-  siteKey: '6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP'
-  secret: 'acZYTgsdWR0BUWgYerT6gKe2V+s1HAuqTNKsfMR7NTjElew/oVRCAyhxn21nrr8LlDE+nNHsgydqrYrgo+YY4ldUPOa3xyclMLamnsWa49GgAYICakX9WZ6FjEZ1QzRNvCKptnX9rmhMTYkrBgQwXT4QF4LKVlWNYMwhkk7SAIA='
+    enabled: true
+    siteKey: '6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP'
+    secret: 'acZYTgsdWR0BUWgYerT6gKe2V+s1HAuqTNKsfMR7NTjElew/oVRCAyhxn21nrr8LlDE+nNHsgydqrYrgo+YY4ldUPOa3xyclMLamnsWa49GgAYICakX9WZ6FjEZ1QzRNvCKptnX9rmhMTYkrBgQwXT4QF4LKVlWNYMwhkk7SAIA='
