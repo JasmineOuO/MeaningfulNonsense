@@ -68,8 +68,9 @@ module.exports = {
   },
   plugins: [
     // 'gatsby-plugin-brotli',
-    'gatsby-plugin-subfont',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-subfont',
+    'gatsby-plugin-recaptcha',
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support

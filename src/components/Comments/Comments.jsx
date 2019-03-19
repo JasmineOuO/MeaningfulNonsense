@@ -59,6 +59,16 @@ class Comments extends Component {
               />
               <input name="options[slug]" type="hidden" value={slug} />
               <input name="fields[slug]" type="hidden" value={slug} />
+              <input
+                type="hidden"
+                name="options[reCaptcha][siteKey]"
+                value="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP"
+              />
+              <input
+                type="hidden"
+                name="options[reCaptcha][secret]"
+                value="acZYTgsdWR0BUWgYerT6gKe2V+s1HAuqTNKsfMR7NTjElew/oVRCAyhxn21nrr8LlDE+nNHsgydqrYrgo+YY4ldUPOa3xyclMLamnsWa49GgAYICakX9WZ6FjEZ1QzRNvCKptnX9rmhMTYkrBgQwXT4QF4LKVlWNYMwhkk7SAIA="
+              />
               <label htmlFor="name">Name*</label>
               <span className={classes.Error}>{nameError}</span>
               <input
@@ -85,6 +95,7 @@ class Comments extends Component {
                 value={message}
                 onChange={this.onChange}
               />
+              <div class="g-recaptcha" data-sitekey="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP" />
               <button type="submit" disabled={!isValid}>
                 Comment
               </button>
