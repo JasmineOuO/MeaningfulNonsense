@@ -68,6 +68,7 @@ module.exports = {
   },
   plugins: [
     // 'gatsby-plugin-brotli',
+    'gatsby-plugin-subfont',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
