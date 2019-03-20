@@ -473,6 +473,14 @@ blockquote:after {
   right: -5rem;
   bottom: 0rem;
 }
+cite {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
 form {
   margin-left: 0;
   margin-right: 0;

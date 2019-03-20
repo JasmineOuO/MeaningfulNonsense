@@ -121,15 +121,6 @@
   text-align: center;
 }
 
-.Cite {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin-top: 1em;
-  margin-bottom: 2em;
-}
-
 .AuthorNote {
   padding: 30px 20px;
   background-color: #f2f2f2;
