@@ -22,10 +22,10 @@ collections:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Label', name: 'label', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'MMMM DD, YYYY ' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'LL' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote' }
+      - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
       - label: 'Tags'
         name: 'tags'
         widget: 'select'
@@ -42,10 +42,21 @@ collections:
     files:
       - file: 'src/pages/photography/index.md'
         label: 'Photography'
-        name: 'Photography'
+        name: 'photography'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'photography' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {
+              label: 'Photographs',
+              name: 'photos',
+              widget: 'list',
+              fields:
+                [
+                  { label: 'Image', name: 'image', widget: 'image' },
+                  { label: 'Title', name: 'title', widget: 'string' },
+                  { label: 'Date', name: 'date', widget: 'date', format: 'DD/MM/YY' },
+                  { label: 'Location', name: 'location', widget: string },
+                ],
+            }
       - file: 'src/pages/about/index.md'
         label: 'About'
         name: 'about'
