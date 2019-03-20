@@ -35,14 +35,14 @@ collections:
         name: 'photography'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'photography' }
-          - label: 'Photographs',
-            name: 'photos',
-            widget: 'list',
+          - label: 'Photographs'
+            name: 'photos'
+            widget: 'list'
             fields:
-              - { label: 'Image', name: 'image', widget: 'image' },
-              - { label: 'Title', name: 'title', widget: 'string' },
-              - { label: 'Date', name: 'date', widget: 'datetime' },
-              - { label: 'Location', name: 'location', widget: string },
+              - { label: 'Image', name: 'image', widget: 'image' }
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Date', name: 'date', widget: 'datetime' }
+              - { label: 'Location', name: 'location', widget: string }
       - file: 'src/pages/about/index.md'
         label: 'About'
         name: 'about'
