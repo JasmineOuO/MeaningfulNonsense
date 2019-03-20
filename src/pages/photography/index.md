@@ -45,5 +45,10 @@ photos:
     image: /images/park.jpg
     location: 'Park // Toronto, Ontario'
     title: Park
+  - date: 2019-03-20T15:51:55.795Z
+    image: >-
+      https://raw.githubusercontent.com/JasmineOuO/MeaningfulNonsense/master/static/images/sakura.jpeg
+    location: High Park // Toronto
+    title: Sakura
 ---
 
