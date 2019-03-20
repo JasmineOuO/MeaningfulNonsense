@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 logo_url: https://meaningfulnonsense.ca/icons/icon-512x512.png
 
