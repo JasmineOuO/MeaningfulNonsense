@@ -10,7 +10,16 @@ import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
-export const BlogPostLayout = ({ content, contentComponent, title, helmet, date, prev, next }) => {
+export const BlogPostLayout = ({
+  content,
+  contentComponent,
+  title,
+  helmet,
+  date,
+  prev,
+  next,
+  authorNote
+}) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -24,6 +33,12 @@ export const BlogPostLayout = ({ content, contentComponent, title, helmet, date,
       <article className={classes.Content}>
         <PostContent content={content} />
       </article>
+      {authorNote && (
+        <div className={classes.AuthorNote}>
+          <h1>Author’s Note</h1>
+          {authorNote}
+        </div>
+      )}
       <div className={classes.Nav}>
         <div className={classes.Prev}>
           {prev && (
@@ -98,6 +113,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        authorNote
         tags
       }
     }

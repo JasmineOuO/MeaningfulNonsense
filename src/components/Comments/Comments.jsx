@@ -102,10 +102,10 @@ class Comments extends Component {
                 onChange={this.onChange}
               />
               <ReCAPTCHA
+                className={classes.ReCAPTCHA}
                 sitekey="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP"
                 onChange={this.onReCAPTCHA}
               />
-              <div class="g-recaptcha" data-sitekey="6LdOf5gUAAAAAGzyIGRA_VGpVh_tjGK1E7opk3PP" />
               <button type="submit" disabled={!isValid || !notRobot}>
                 Comment
               </button>
