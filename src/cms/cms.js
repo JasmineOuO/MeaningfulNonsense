@@ -10,4 +10,4 @@ CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('about', AboutPagePreview);
 CMS.registerPreviewTemplate('blog', BlogPostPreview);
 
-CMS.registerWidget('authornote', AuthorNoteControl, AuthorNotePreview);
+CMS.registerWidget('authorNote', AuthorNoteControl, AuthorNotePreview);
