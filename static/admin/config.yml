@@ -53,7 +53,14 @@ collections:
                 [
                   { label: 'Image', name: 'image', widget: 'image' },
                   { label: 'Title', name: 'title', widget: 'string' },
-                  { label: 'Date', name: 'date', widget: 'date', format: 'DD/MM/YY' },
+                  {
+                    label: 'Date',
+                    name: 'date',
+                    widget: 'datetime',
+                    default: '',
+                    format: 'L',
+                    timeFormat: false,
+                  },
                   { label: 'Location', name: 'location', widget: string },
                 ],
             }
