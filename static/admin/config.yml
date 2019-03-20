@@ -22,7 +22,15 @@ collections:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Label', name: 'label', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', dateFormat: true }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          default: '',
+          format: 'LL',
+          dateFormat: true,
+          timeFormat: false,
+        }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
