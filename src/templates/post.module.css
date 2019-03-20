@@ -131,14 +131,13 @@
 }
 
 .AuthorNote {
-  margin: 2em 0 0 0;
-  padding: 20px;
+  padding: 30px 20px;
   background-color: #f2f2f2;
   border-radius: 5px;
 }
 
 .AuthorNote h1 {
-  margin: 50px 0 -54px 30px;
+  margin: -2.7em 0 0 0.3em;
   font-family: 'Dancing Script', cursive;
   font-weight: 700;
   font-size: 40px;

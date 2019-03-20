@@ -25,7 +25,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Author Note', name: 'authornote', widget: 'authornote' }
+      - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote' }
       - label: 'Tags'
         name: 'tags'
         widget: 'select'
@@ -34,7 +34,7 @@ collections:
           - { label: 'Stories', value: 'stories' }
           - { label: 'Serendipity', value: 'serendipity' }
           - { label: 'Life', value: 'life' }
-          - { label: 'Stories', value: 'everyday-thoughts' }
+          - { label: 'Everyday Thoughts', value: 'everyday-thoughts' }
           - { label: 'Life Lessons', value: 'life-lessons' }
 
   - name: 'pages'
