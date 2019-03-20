@@ -3,14 +3,12 @@ templateKey: post
 title: Finding a Balance
 label: Balance
 date: 2018-08-26T02:20:49.050Z
-description: Balancing Health and Hustle for Success
 thumbnail: /images/milan3.jpeg
 tags:
   - life
   - life-lessons
 ---
-
-![Milan, Italy](/images/milan4.jpg 'Milan, Italy')
+![Milan, Italy](/images/milan4.jpg "Milan, Italy")
 
 We are currently living in a so-called "limitless" era. We are constantly being bombarded with anthems advocating that the hustle and hard work can and will get you anywhere _if_ you are willing to push yourself hard enough. _If_ you are willing to take those risks and sacrifice what is necessary to achieve your ultimate goals.
 
@@ -28,7 +26,7 @@ It all comes down to **self-discipline**. Will Smith once said "self-discipline 
 
 It is important during those times of temptation to remind yourself to not do this because you love yourself too much to be the one suffering the consequences from trying to satisfy your vices. Will Smith says,
 
-> Self-discipline is the definition of self-love
+quote Self-discipline is the definition of self-love cite Will Smith
 
 So back to the question, which one will you choose? I believe that if you have self-discipline, you will be able to achieve both. It is not possible to achieve ultimate success if you don't keep yourself healthy, because one day your body _will not_ be able to keep up with your mind and you _will_ eventually burn out. It is essential to remember this right from the get-go because I have seen several friends and family remain reckless with their health which resulted in fatal bodily incidents due to stress, lack of sleep or alcohol. Your mind and body both need a balance in order for you to have a healthy mindset towards your goals.
 
