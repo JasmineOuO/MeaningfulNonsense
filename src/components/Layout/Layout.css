@@ -100,8 +100,12 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
-figure {
-  margin: 1em 40px;
+figcaption {
+  padding-top: 0.1em;
+  padding-bottom: 2em;
+  font-size: 0.7em;
+  color: #777;
+  text-align: center;
 }
 hr {
   box-sizing: content-box;

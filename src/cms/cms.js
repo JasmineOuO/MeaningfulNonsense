@@ -22,12 +22,8 @@ CMS.registerEditorComponent({
   fields: [{ label: 'Separator', widget: 'select', options: ['---'], default: '---' }],
   // Never match anything so that the separator will be recognized as a horizontal rule when the document is reloaded:
   pattern: /.^/,
-  toBlock() {
-    return '---';
-  },
-  toPreview() {
-    return '<hr>';
-  }
+  toBlock: () => '---',
+  toPreview: () => '<hr>'
 });
 
 CMS.registerEditorComponent({
@@ -37,17 +33,41 @@ CMS.registerEditorComponent({
     { name: 'quote', label: 'quote', widget: 'text' },
     { name: 'cite', label: 'cite', widget: 'string' }
   ],
-  pattern: /^quote ([^<]*) cite ([^<]*)/,
-  fromBlock: function(match) {
-    return {
-      quote: match[1],
-      cite: match[2]
-    };
-  },
-  toBlock: function(obj) {
-    return 'quote ' + obj.quote + ' cite ' + obj.cite;
-  },
-  toPreview: function(obj) {
-    return '<blockquote>' + obj.quote + '</blockquote><cite>' + obj.cite + '</cite>';
-  }
+  pattern: /^<blockquote>([^<]*)<\/blockquote><cite>([^<]*)<\/cite>/,
+  fromBlock: match => ({
+    quote: match[1],
+    cite: match[2]
+  }),
+  toBlock: obj => `<blockquote>${obj.quote}</blockquote><cite>${obj.cite}</cite>`,
+  toPreview: obj => `<blockquote>${obj.quote}</blockquote><cite>${obj.cite}</cite>`
+});
+
+CMS.registerEditorComponent({
+  id: 'photograph',
+  label: 'Photograph',
+  fields: [
+    { name: 'photo', label: 'photo', widget: 'image' },
+    { name: 'photographer', label: 'photographer', widget: 'string' },
+    { name: 'date', label: 'date', widget: 'date' },
+    { name: 'location', label: 'location', widget: 'String' }
+  ],
+  pattern: /^<figure><img src="([^<]*)" ([^<]*) \/><figcaption>Photographed in ([^<]*) on ([^<]*) by ([^<]*)<\/figcaption><\/figure>/,
+  fromBlock: match => ({
+    photo: match[1],
+    location: match[3],
+    date: match[4],
+    photographer: match[5]
+  }),
+  toBlock: obj =>
+    `<figure><img src="${obj.photo}" alt="${obj.location}" title="${
+      obj.location
+    }" /><figcaption>Photographed in ${obj.location} on ${obj.date} by ${
+      obj.photographer
+    }<\/figcaption><\/figure>`,
+  toPreview: obj =>
+    `<figure><img src="${obj.photo}" alt="${obj.location}" title="${
+      obj.location
+    }" /><figcaption>Photographed in ${obj.location} on ${obj.date} by ${
+      obj.photographer
+    }<\/figcaption><\/figure>`
 });

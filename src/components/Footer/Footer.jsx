@@ -78,7 +78,7 @@ const Footer = () => (
       icon={<FaFacebook />}
       title="Go to my Facebook page"
     />
-    {/* <div className={classes.Copyright}>&copy; 2018 Jasmine Ou</div> */}
+    <div className={classes.Copyright}>&copy; Jasmine & Jessica 2019</div>
   </footer>
 );
 
