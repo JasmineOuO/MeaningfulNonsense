@@ -26,13 +26,13 @@ At one point or another, we will stumble upon obstacles that are seemingly impos
 
 Sometimes you try your best and succeed. However, sometimes you try your best and fail, but you learn from your mistakes and improve upon them until you succeed. We are constantly being told that if we try hard enough, we will succeed. But what if we do try our hardest and, the results still don’t measure up to someone’s definition of success? Then we are told that we did not try hard enough. Because more often than not, we measure our success or failure through the outcome, not the effort, which should not be the case. Robert Kiyosaki, the famed author of the Rich Dad Poor Dad books, put it well when he said,
 
-> Sometimes we win and sometimes we learn
+quote Sometimes we win and sometimes we learn cite Robert Kiyosaki
 
 #### 3. The past does not equal the future
 
 Our past failures don’t mean we will fail every time but it can leave us broken and deflated. We can succeed 1000 times but that one failure will wipe out all our previous accomplishments. Anthony Robbins, a world renown motivational speaker once said,
 
-> The only thing keeping you for getting what you want, is the story you keep telling yourself about why you cannot have it.
+quote The only thing keeping you for getting what you want, is the story you keep telling yourself about why you cannot have it. cite Anthony Robbins
 
 It is essential to remind ourselves that the recent setback is part of the process and to use failure as a tool towards success. But that decisions rests entirely up to you.
 
