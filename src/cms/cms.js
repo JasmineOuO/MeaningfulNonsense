@@ -30,24 +30,24 @@ CMS.registerEditorComponent({
   }
 });
 
-// CMS.registerEditorComponent({
-//   id: 'quote',
-//   label: 'Quote',
-//   fields: [
-//     { name: 'quote', label: 'quote', widget: 'text' },
-//     { name: 'cite', label: 'cite', widget: 'string' }
-//   ],
-//   pattern: /^quote ([^<]*) cite ([^<]*)/,
-//   fromBlock: function(match) {
-//     return {
-//       quote: match[1],
-//       cite: match[2]
-//     };
-//   },
-//   toBlock: function(obj) {
-//     return 'quote ' + obj.quote + ' cite ' + obj.cite;
-//   },
-//   toPreview: function(obj) {
-//     return '<blockquote>' + obj.quote + '</blockquote><cite>' + obj.cite + '</cite>';
-//   }
-// });
+CMS.registerEditorComponent({
+  id: 'quote',
+  label: 'Quote',
+  fields: [
+    { name: 'quote', label: 'quote', widget: 'text' },
+    { name: 'cite', label: 'cite', widget: 'string' }
+  ],
+  pattern: /^quote ([^<]*) cite ([^<]*)/,
+  fromBlock: function(match) {
+    return {
+      quote: match[1],
+      cite: match[2]
+    };
+  },
+  toBlock: function(obj) {
+    return 'quote ' + obj.quote + ' cite ' + obj.cite;
+  },
+  toPreview: function(obj) {
+    return '<blockquote>' + obj.quote + '</blockquote><cite>' + obj.cite + '</cite>';
+  }
+});
