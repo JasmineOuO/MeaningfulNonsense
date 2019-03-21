@@ -26,7 +26,7 @@ It all comes down to **self-discipline**. Will Smith once said "self-discipline 
 
 It is important during those times of temptation to remind yourself to not do this because you love yourself too much to be the one suffering the consequences from trying to satisfy your vices. Will Smith says,
 
-quote Self-discipline is the definition of self-love cite Will Smith
+<blockquote>Self-discipline is the definition of self-love</blockquote><cite>Will Smith</cite>
 
 So back to the question, which one will you choose? I believe that if you have self-discipline, you will be able to achieve both. It is not possible to achieve ultimate success if you don't keep yourself healthy, because one day your body _will not_ be able to keep up with your mind and you _will_ eventually burn out. It is essential to remember this right from the get-go because I have seen several friends and family remain reckless with their health which resulted in fatal bodily incidents due to stress, lack of sleep or alcohol. Your mind and body both need a balance in order for you to have a healthy mindset towards your goals.
 
