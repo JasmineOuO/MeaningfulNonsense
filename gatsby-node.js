@@ -69,13 +69,15 @@ exports.createPages = ({ actions, graphql }) => {
 
       // Make tag pages
       tags.forEach(tag => {
-        let category = '';
-        if (tag === 'serendipity') {
-          category = '/stories';
-        } else if (tag === 'everyday-thoughts' || tag === 'life-lessons') {
-          category = '/life';
+        const endpoint = _.kebabCase(tag);
+        let tagPath;
+        if (endpoint === 'serendipity') {
+          tagPath = `stories/${endpoint}/`;
+        } else if (endpoint === 'everyday-thoughts' || endpoint === 'life-lessons') {
+          tagPath = `life/${endpoint}/`;
+        } else {
+          tagPath = `/${endpoint}/`;
         }
-        const tagPath = `${category}/${_.kebabCase(tag)}/`;
 
         createPage({
           path: tagPath,
