@@ -3,14 +3,12 @@ templateKey: post
 title: Your Pain Shapes You
 label: Pain
 date: 2018-08-09T02:20:49.050Z
-description: Pain
 thumbnail: /images/milan2.jpeg
 tags:
   - life
   - life-lessons
 ---
-
-![Milan, Italy](/images/milan.jpg 'Milan, Italy')
+<figure><img src="https://raw.githubusercontent.com/JasmineOuO/MeaningfulNonsense/master/static/images/milan.jpg" alt="Milan, Italy" title="Milan, Italy" /><figcaption>Photographed in Milan, Italy on 2018-07-27T01:16:00.000Z by Jessica Ou</figcaption></figure>
 
 Do you ever just feel _on edge_? Like your state of happiness is being tested on such a fragile equilibrium so that any second, minute or day now, it will surely tip over and shatter your entire illusion of peace. I know it's stupid to think that the happiness we feel will always be there but doesn't it frighten you knowing that your future will inevitably be filled with so much pain? Because it doesn't matter how far you go to avoid those situations, life will always be able to find a way to make you experience the art of pain.
 
