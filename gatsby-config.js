@@ -42,7 +42,7 @@ module.exports = {
           },
           {
             name: 'serendipity',
-            link: '/serendipity'
+            link: '/stories/serendipity'
           }
         ]
       },
@@ -56,11 +56,11 @@ module.exports = {
           },
           {
             name: 'everyday thoughts',
-            link: '/everyday-thoughts'
+            link: '/life/everyday-thoughts'
           },
           {
             name: 'life lessons',
-            link: '/life-lessons'
+            link: '/life/life-lessons'
           }
         ]
       }

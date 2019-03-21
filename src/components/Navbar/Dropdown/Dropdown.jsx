@@ -20,6 +20,7 @@ const Dropdown = ({ navLinks, isHovered }) => {
           activeStyle={{ color: '#fff', backgroundColor: '#BEBEBE' }}
           title={navLink.name}
           key={navLink.name}
+          partiallyActive
         >
           {navLink.name}
         </Link>
