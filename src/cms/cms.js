@@ -48,8 +48,8 @@ CMS.registerEditorComponent({
   fields: [
     { name: 'photo', label: 'photo', widget: 'image' },
     { name: 'photographer', label: 'photographer', widget: 'string' },
-    { name: 'date', label: 'date', widget: 'date' },
-    { name: 'location', label: 'location', widget: 'String' }
+    { name: 'date', label: 'date', widget: 'datetime' },
+    { name: 'location', label: 'location', widget: 'string' }
   ],
   pattern: /^<figure><img src="([^<]*)" ([^<]*) \/><figcaption>Photographed in ([^<]*) on ([^<]*) by ([^<]*)<\/figcaption><\/figure>/,
   fromBlock: match => ({

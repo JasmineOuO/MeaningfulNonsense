@@ -482,7 +482,7 @@ cite {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 1em;
+  margin-top: -3em;
   margin-bottom: 2em;
 }
 form {
