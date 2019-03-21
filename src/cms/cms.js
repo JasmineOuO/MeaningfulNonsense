@@ -13,7 +13,7 @@ CMS.registerPreviewTemplate('about', AboutPagePreview);
 CMS.registerPreviewTemplate('photography', PhotographyPagePreview);
 CMS.registerPreviewTemplate('blog', BlogPostPreview);
 
-CMS.registerWidget('authorNote', AuthorNoteControl, AuthorNotePreview);
+// CMS.registerWidget('authorNote', AuthorNoteControl, AuthorNotePreview);
 
 CMS.registerEditorComponent({
   id: 'separator',

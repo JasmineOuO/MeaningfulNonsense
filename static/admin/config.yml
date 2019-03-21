@@ -22,29 +22,11 @@ collections:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Label', name: 'label', widget: 'string' }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          default: '',
-          format: 'LL',
-          dateFormat: true,
-          timeFormat: false,
-        }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
-      - label: 'Tags'
-        name: 'tags'
-        widget: 'select'
-        multiple: true
-        options:
-          - { label: 'Stories', value: 'stories' }
-          - { label: 'Serendipity', value: 'serendipity' }
-          - { label: 'Life', value: 'life' }
-          - { label: 'Everyday Thoughts', value: 'everyday-thoughts' }
-          - { label: 'Life Lessons', value: 'life-lessons' }
-
+#       - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
+      - { label: 'Tags', name: 'tags', widget: 'select', multiple: true, options: [{ label: 'Stories', value: 'stories' }, { label: 'Serendipity', value: 'serendipity' }, { label: 'Life', value: 'life' }, { label: 'Everyday Thoughts', value: 'everyday-thoughts' }, { label: 'Life Lessons', value: 'life-lessons' }] }
   - name: 'pages'
     label: 'Page'
     files:
@@ -53,25 +35,14 @@ collections:
         name: 'photography'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'photography' }
-          - {
-              label: 'Photographs',
-              name: 'photos',
-              widget: 'list',
-              fields:
-                [
-                  { label: 'Image', name: 'image', widget: 'image' },
-                  { label: 'Title', name: 'title', widget: 'string' },
-                  {
-                    label: 'Date',
-                    name: 'date',
-                    widget: 'datetime',
-                    default: '',
-                    format: 'L',
-                    timeFormat: false,
-                  },
-                  { label: 'Location', name: 'location', widget: string },
-                ],
-            }
+          - label: 'Photographs'
+            name: 'photos'
+            widget: 'list'
+            fields:
+              - { label: 'Image', name: 'image', widget: 'image' }
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Date', name: 'date', widget: 'datetime' }
+              - { label: 'Location', name: 'location', widget: string }
       - file: 'src/pages/about/index.md'
         label: 'About'
         name: 'about'
