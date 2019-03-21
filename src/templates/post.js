@@ -10,16 +10,7 @@ import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
-export const BlogPostLayout = ({
-  content,
-  contentComponent,
-  title,
-  helmet,
-  date,
-  prev,
-  next,
-  authorNote
-}) => {
+export const BlogPostLayout = ({ content, contentComponent, title, helmet, date, prev, next }) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -33,12 +24,12 @@ export const BlogPostLayout = ({
       <article className={classes.Content}>
         <PostContent content={content} />
       </article>
-      {authorNote && (
+      {/* {authorNote && (
         <div className={classes.AuthorNote}>
           <h1>Author’s Note</h1>
           {authorNote}
         </div>
-      )}
+      )} */}
       <div className={classes.Nav}>
         <div className={classes.Prev}>
           {prev && (
@@ -104,7 +95,7 @@ const BlogPost = ({ data, pageContext }) => {
 
 export default BlogPost;
 
-export const pageQuery = graphql`
+export const postQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
@@ -113,7 +104,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        authorNote
         tags
       }
     }
