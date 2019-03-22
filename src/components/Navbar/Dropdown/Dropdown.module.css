@@ -1,15 +1,11 @@
 .Dropdown {
   position: absolute;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   width: 100%;
   left: 0;
   z-index: 5;
 
-  -webkit-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -moz-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -ms-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
-  -o-transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
   transition: max-height 0.3s, opacity 0.2s 0.1s, visibility 0s 0.3s;
 
   max-height: 0;
@@ -22,17 +18,8 @@
 }
 
 .Dropdown.Open {
-  -webkit-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
-  -moz-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
-  -ms-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
-  -o-transition: max-height 0.3s, opacity 0.2s, visibility 0s;
   transition: max-height 0.3s, opacity 0.2s, visibility 0s;
-
-  -webkit-transition-delay: .5s;
-  -moz-transition-delay: .5s;
-  -ms-transition-delay: .5s;
-  -o-transition-delay: .5s;
-  transition-delay:.5s;
+  transition-delay: 0.5s;
 
   max-height: 144px;
   opacity: 1;
@@ -42,7 +29,7 @@
 .Dropitem {
   background-color: #fff;
   color: #a9b1b3;
-  padding: 12px 16px;
+  padding: 12px 50px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -51,12 +38,8 @@
 
 .Dropitem:hover {
   transition: all 0.3s ease-in;
-  -webkit-transition: all 0.3s ease-in;
-  -moz-transition: all 0.3s ease-in;
-  -o-transition: all 0.3s ease-in;
-  -ms-transition: all 0.3s ease-in;
-  color: #fff;
-  background-color: #BEBEBE;
+  color: #918f8f;
+  background-color: #e7e4e4;
 }
 
 @media (max-width: 1000px) {
@@ -64,11 +47,13 @@
     float: none;
     display: block;
     text-align: left;
-    padding: 12px 40px;
+    padding: 12px 60px;
   }
 
   .Dropdown {
     position: relative;
     box-shadow: none;
+    opacity: 1;
+    visibility: visible;
   }
 }

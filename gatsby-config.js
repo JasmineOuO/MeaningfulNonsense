@@ -34,12 +34,8 @@ module.exports = {
       },
       {
         name: 'stories',
-        link: '',
+        link: '/stories',
         navLinks: [
-          {
-            name: 'all stories',
-            link: '/stories'
-          },
           {
             name: 'serendipity',
             link: '/stories/serendipity'
@@ -48,12 +44,8 @@ module.exports = {
       },
       {
         name: 'life',
-        link: '',
+        link: '/life',
         navLinks: [
-          {
-            name: 'all life entries',
-            link: '/life'
-          },
           {
             name: 'everyday thoughts',
             link: '/life/everyday-thoughts'
@@ -67,10 +59,6 @@ module.exports = {
     ]
   },
   plugins: [
-    // 'gatsby-plugin-brotli',
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-subfont',
-    'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -93,8 +81,8 @@ module.exports = {
         path: `${__dirname}/src/images`
       }
     },
-    'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -123,6 +111,10 @@ module.exports = {
         ]
       }
     },
+    // 'gatsby-plugin-brotli',
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-subfont',
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {

@@ -19,7 +19,7 @@
   width: 100%;
   background: #f8e5ec;
   color: rgba(84, 74, 78, 0.5);
-  animation: input-grow 0.5s ease-in-out backwards 0.5s;
+  animation: input-grow 0.5s ease-out backwards 0.5s;
 }
 
 .Input.Expand.Focussed {
@@ -46,7 +46,7 @@
 
 .CloseIcon.Show {
   display: block;
-  animation: close-icon-grow 0.5s ease-in-out backwards 0.5s;
+  animation: close-icon-grow 0.5s ease-out backwards 0.5s;
 }
 
 .SearchIcon {
@@ -60,7 +60,7 @@
   position: absolute;
   top: 18px;
   left: 102px;
-  animation: search-icon-grow 0.5s ease-in-out backwards 0.5s;
+  animation: search-icon-grow 0.5s ease-out backwards 0.5s;
 }
 
 .SearchIcon:hover,

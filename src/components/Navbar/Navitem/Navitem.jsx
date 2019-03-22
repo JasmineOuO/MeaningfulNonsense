@@ -41,17 +41,26 @@ class Navitem extends Component {
           <Link
             to={link}
             className={classes.Btn}
-            activeStyle={{ backgroundColor: '#e8b4cd' }}
             title={name}
             key={name}
             style={name === 'home' ? { display: 'block' } : {}}
+            activeStyle={{ backgroundColor: '#e8b4cd' }}
           >
             {name}
           </Link>
         ) : (
-          <div className={classes.Dropbtn}>{name}</div>
+          <Link
+            to={link}
+            className={classes.Dropbtn}
+            title={name}
+            key={name}
+            activeStyle={{ backgroundColor: '#e8b4cd' }}
+            partiallyActive
+          >
+            {name}
+          </Link>
         )}
-        <Dropdown navLinks={navLinks} isHovered={isHovered} />
+        <Dropdown navLinks={navLinks} isHovered={isHovered} hamburgerOpened={hamburgerOpened} />
       </div>
     );
   }
