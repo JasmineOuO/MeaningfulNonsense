@@ -8,19 +8,17 @@ thumbnail: >-
 tags:
   - stories
 ---
-
-
 We are masters at pretending that life is perfect, living behind the illusion that shackles of fear and pressure doesn’t leave our lungs breathless with anxiety. But in front of the eyes of my dad, they were shattered glass. He was always able to see right through the forced smiles, the expected greetings and when I asked him how he knew, he would tell me that he knew a survivor when he saw one. The bleakness in their eyes, the fear of judgement after each conversation and the automatic responses, it was as if they were mere puppets tied up in strings. He would always blame the government for the wrongdoings of their people, calling them or, some days, society as a whole, the puppeteer.
 
 As a child, I would absorb his ideologies like a sponge, but sometimes I would let the words fly past my ears when I remembered that he became this kind of man because of my mom. She killed herself when I was 6 years old and it has been over 9 years since that hideous night had occurred. The entire town was utterly shocked when the news spread; it baffled everyone with confusion since they had only ever known her as this positive, smart and kind woman. Yet, I could not even fabricate words to describe my mother since I barely caught a glimpse of her during my childhood. When I asked him why she did it, my dad told me she was a workaholic, constantly tangled in strings of seeking approval and acceptance, that it drove her to insanity.  
 
-“No one is truly free, don’t ever believe it for a second.” Those were the only words he muttered to me the day of the funeral. It’s hard to remember his voice very clearly but there is always a faint echo of him saying those exact words. Words I know will forever me imprinted within the crevices of my thoughts, whether I liked it or not. 
+“No one is truly free, don’t ever believe it for a second.” Those were the only words he muttered to me the day of the funeral. It’s hard to remember his voice very clearly but there is always a faint echo of him saying those exact words. Words I know will forever be imprinted within the crevices of my thoughts, whether I liked it or not. 
 
 But even more so, I wonder if that belief of his ever faltered before. 
 
 Just once.
 
- I wonder if he ever stumbled upon just _one_ special person, someone that made him question everything he had ever instilled into himself. Or perhaps, maybe there was never a shred of doubt and he had truly taken his words to the grave. 
+I wonder if he ever stumbled upon just _one_ special person, someone that made him question everything he had ever instilled into himself. Or perhaps, maybe there was never a shred of doubt and he had truly taken his words to the grave. 
 
 I wonder this because as I stand before this boy right now, everything was beginning to wither and crack with shuddering confusion and flickering admiration. 
 
