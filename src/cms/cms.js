@@ -9,12 +9,32 @@ import PhotographyPagePreview from './preview-templates/PhotographyPagePreview';
 import { AuthorNoteControl, AuthorNotePreview } from './widgets/AuthorNote';
 import { MdxControl, MdxPreview } from 'netlify-cms-widget-mdx';
 
-CMS.registerWidget('mdx', MdxControl, MdxPreview);
-
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('about', AboutPagePreview);
 CMS.registerPreviewTemplate('photography', PhotographyPagePreview);
 CMS.registerPreviewTemplate('blog', BlogPostPreview);
+
+CMS.registerWidget(
+  'mdx',
+  MdxControl,
+  setupPreview({
+    components: {
+      h1: ({ children, ...props }) => (
+        <h1 style={{ color: 'tomato' }} {...props}>
+          {children}
+        </h1>
+      )
+    },
+    scope: {
+      Layout: props => (
+        <div
+          style={{ padding: '10px', border: '1px solid green', borderRadius: '5px' }}
+          {...props}
+        />
+      )
+    }
+  })
+);
 
 // CMS.registerWidget('authorNote', AuthorNoteControl, AuthorNotePreview);
 
