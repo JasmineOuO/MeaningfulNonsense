@@ -18,15 +18,19 @@ We all have limitations. We may struggle with family tension, you may struggle w
 
 <cite>Brendon Burchad </cite>
 
-Incredible change happens in your life when you decide to take power over the things you can control instead of obsessing over the things you can’t control. And obviously it’s much easier said than done because fear has played such a huge role in the plague of doubt in our lives. It takes a lot of patience as well as faith. You must trust yourself to figure it out even though doubt might be there. Brendon Burchard, a bestselling author put it well when he said,
+Incredible change happens in your life when you decide to take power over the things you can control instead of obsessing over the things you can’t control. And obviously it’s much easier said than done because fear has played such a huge role in the plague of doubt in our lives. It takes a lot of patience as well as faith. You must trust yourself to figure it out even though doubt might be there. 
 
 > The hero’s a hero because the hero does it anyway, right? Even though the hero is terrified and risking it all, goes anyway! 
+
+ <cite>Brendon Burchad </cite>
 
 By having the courage to challenge the doubt in your head and by believing in yourself and in your capabilities, that is when you start growing.
 
 Next, look at the bigger picture. For me at least, in the past, the mindset behind why I did things were actually quite trivial. The reasons why I went to the gym was because I was insecure and the reason why I studied so hard for good grades was to please my parents and for them to say, “I’m proud of you”. And for as long as I can remember, I was always jealous of other people, whether it was their appearance or a higher grade on a test, I felt like I was in a whirlwind of constant dissatisfaction. But one day, I was scrolling through Youtube and stumbled upon a video. Her name was Anna Akana and she told me,
 
-<blockquote>No one can ever be you, no one is you. So there’s really no sense in feeling any kind of competition</blockquote><cite>Anna Akana</cite>
+> No one can ever be you, no one is you. So there’s really no sense in feeling any kind of competition
+
+<cite>Anna Akana</cite>
 
 What they said really hit home and as I thought more and more about it, I gradually started to believe it. Then for the first time in my life, I stopped feeling jealous or threatened or insecure because I stopped being scared about what others thought. And, it feels really good because I decided I wasn’t going to let fear keep me in a glass bubble but instead, I decided to make a move and shatter it to pieces. I created a healthy mindset and started to make decisions that helped me grow as a person instead of letting _fear_ dictate what I do.
 
