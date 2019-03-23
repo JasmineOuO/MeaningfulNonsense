@@ -11,13 +11,11 @@ site_url: https://meaningfulnonsense.ca
 media_folder: static/images
 public_folder: /images
 
-extension: 'mdx',
-format: 'frontmatter',
+extension: 'mdx'
+format: 'frontmatter'
 fields:
-  - name: body
-    label: Body
-    widget: mdx
-    
+  - { label: 'Body', name: 'body', widget: 'mdx' }
+
 collections:
   - name: 'blog'
     label: 'Blog Post'
@@ -32,8 +30,21 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-#       - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
-      - { label: 'Tags', name: 'tags', widget: 'select', multiple: true, options: [{ label: 'Stories', value: 'stories' }, { label: 'Serendipity', value: 'serendipity' }, { label: 'Life', value: 'life' }, { label: 'Everyday Thoughts', value: 'everyday-thoughts' }, { label: 'Life Lessons', value: 'life-lessons' }] }
+      #       - { label: 'Author’s Note', name: 'authorNote', widget: 'authorNote', required: false }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'select',
+          multiple: true,
+          options:
+            [
+              { label: 'Stories', value: 'stories' },
+              { label: 'Serendipity', value: 'serendipity' },
+              { label: 'Life', value: 'life' },
+              { label: 'Everyday Thoughts', value: 'everyday-thoughts' },
+              { label: 'Life Lessons', value: 'life-lessons' },
+            ],
+        }
   - name: 'pages'
     label: 'Page'
     files:
