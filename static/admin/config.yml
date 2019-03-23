@@ -11,6 +11,13 @@ site_url: https://meaningfulnonsense.ca
 media_folder: static/images
 public_folder: /images
 
+extension: 'mdx',
+format: 'frontmatter',
+fields:
+  - name: body
+    label: Body
+    widget: mdx
+    
 collections:
   - name: 'blog'
     label: 'Blog Post'

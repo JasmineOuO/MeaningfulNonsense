@@ -7,6 +7,9 @@ import IndexPagePreview from './preview-templates/IndexPagePreview';
 import PhotographyPagePreview from './preview-templates/PhotographyPagePreview';
 
 import { AuthorNoteControl, AuthorNotePreview } from './widgets/AuthorNote';
+import { MdxControl, MdxPreview } from 'netlify-cms-widget-mdx';
+
+CMS.registerWidget('mdx', MdxControl, MdxPreview);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('about', AboutPagePreview);
