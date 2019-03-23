@@ -19,14 +19,22 @@ CMS.registerWidget(
   MdxControl,
   setupPreview({
     components: {
-      wrapper: ({ children, ...props }) => <div {...props}>{children}</div>,
-      h1: ({ children, ...props }) => <h1 {...props}>{children}</h1>,
-      p: ({ children, ...props }) => <p {...props}>{children}</p>,
-      img: ({ ...props }) => <img {...props} />
+      h1: ({ children, ...props }) => (
+        <h1 style={{ color: 'tomato' }} {...props}>
+          {children}
+        </h1>
+      )
     },
     scope: {
-      Layout: props => <div {...props} />
-    }
+      Layout: props => (
+        <div
+          style={{ padding: '10px', border: '1px solid green', borderRadius: '5px' }}
+          {...props}
+        />
+      )
+    },
+    allowedImports: {},
+    mdPlugins: []
   })
 );
 
