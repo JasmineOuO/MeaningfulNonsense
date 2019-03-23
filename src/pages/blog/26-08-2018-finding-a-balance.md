@@ -3,7 +3,6 @@ templateKey: post
 title: Finding a Balance
 label: Balance
 date: 2018-08-26T02:20:49.050Z
-description: Balancing Health and Hustle for Success
 thumbnail: /images/milan3.jpeg
 tags:
   - life
@@ -26,9 +25,11 @@ Personally, I believe that you can have both.
 
 It all comes down to **self-discipline**. Will Smith once said "self-discipline is the definition of self-love" and when I first heard this, I was confused because the word "discipline" has always had a bad connotation. However, the deeper I delved into this revelation, the more sense it made. The word "self-love" is about taking actions out of love for your own well-being and by identifying the vices in your life. Doing so will allow you to master and control your subconscious desires and prevent those urges from satisfying temptations. These temptations sound very daunting but it can be a simple as eating junk food, going out when you should be studying or trying something that you know will be damaging to your body (because you have FOMO). And all of these situations are the urges that everyone experiences on a daily basis. By disciplining yourself, you can take control to alter your thoughts and instead, coax yourself to say " I should not eat junk food right now because I will feel crappy later." or "I only have one shot at acing this test and is more important than having fun right now." or "Think about how horrible I will feel in the next couple hours.". Remember, being healthy and happy is more important than doing this for the sake of fitting in or missing out.". I know this method of "discipline" can sound more like a punishment right now but Will Smith put it well when he said,
 
-It is important during those times of temptation to remind yourself to not do this because you love yourself too much to be the one suffering the consequences from trying to satisfy your vices. Will Smith says,
+It is important during those times of temptation to remind yourself to not do this because you love yourself too much to be the one suffering the consequences from trying to satisfy your vices.
 
 > Self-discipline is the definition of self-love
+
+<cite>Will Smith</cite>
 
 So back to the question, which one will you choose? I believe that if you have self-discipline, you will be able to achieve both. It is not possible to achieve ultimate success if you don't keep yourself healthy, because one day your body _will not_ be able to keep up with your mind and you _will_ eventually burn out. It is essential to remember this right from the get-go because I have seen several friends and family remain reckless with their health which resulted in fatal bodily incidents due to stress, lack of sleep or alcohol. Your mind and body both need a balance in order for you to have a healthy mindset towards your goals.
 

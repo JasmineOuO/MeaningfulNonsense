@@ -28,11 +28,15 @@ Sometimes you try your best and succeed. However, sometimes you try your best an
 
 > Sometimes we win and sometimes we learn
 
+<cite>Robert Kiyosaki</cite>
+
 #### 3. The past does not equal the future
 
 Our past failures don’t mean we will fail every time but it can leave us broken and deflated. We can succeed 1000 times but that one failure will wipe out all our previous accomplishments. Anthony Robbins, a world renown motivational speaker once said,
 
 > The only thing keeping you for getting what you want, is the story you keep telling yourself about why you cannot have it.
+
+<cite>Anthony Robbins</cite>
 
 It is essential to remind ourselves that the recent setback is part of the process and to use failure as a tool towards success. But that decisions rests entirely up to you.
 
