@@ -42,7 +42,7 @@ class Comments extends Component {
         <div className={classes.Block}>
           <div>
             {comments &&
-              comments.length &&
+              comments.length > 0 &&
               comments.map(({ node: comment }) => (
                 <div key={comment.id} className={classes.Comment}>
                   <div className={classes.Name}>{comment.name}</div>
