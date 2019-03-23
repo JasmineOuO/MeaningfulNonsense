@@ -113,7 +113,6 @@ module.exports = {
     },
     // 'gatsby-plugin-brotli',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-subfont',
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-manifest',

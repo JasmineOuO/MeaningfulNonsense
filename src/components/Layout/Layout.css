@@ -1,7 +1,6 @@
 html,
 body {
   width: 100%;
-  overflow-x: hidden;
 }
 html {
   font-family: sans-serif;
@@ -193,7 +192,6 @@ textarea {
 }
 html {
   box-sizing: border-box;
-  overflow-y: scroll;
 }
 * {
   box-sizing: inherit;
