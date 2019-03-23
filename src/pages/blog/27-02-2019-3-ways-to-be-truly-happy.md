@@ -3,7 +3,6 @@ templateKey: post
 title: 3 Ways to be Truly Happy
 label: Happiness
 date: 2018-05-17T02:20:49.050Z
-description: Happiness
 thumbnail: /images/burano.jpeg
 tags:
   - life
@@ -16,9 +15,9 @@ tags:
 
 Now I don’t want to come off as preachy but I’m not one to necessarily sugar coat what I’m trying to get by. So hear me out when I say this: life does not have to be perfect for you to be happy. Everyone is always going to be striving for the better and setting new goals. But it is when we are all so focused on ourselves, that these random obstacles come into our lives and slap us in the face, quickly leaving us annoyed or frustrated for the rest of the day. What I want to ask you is that, when you achieve this goal of yours, is that when your happiness will begin? Will life suddenly become perfect? If your answer is yes, well damn I want to know what your goal is! But if your answer is no, like mine, then I want you to ask yourself why you are making yourself suffer until you obtain this goal. And as cheesy as this may sound, why not enjoy the journey instead of having the mindset of suffering now and being happy later. Which I call bullshit. Yes, I know, you may be going through some tedious school work or dealing with clients that are not the most pleasant company but it should not mean that your entire day or week is suddenly labeled as sad or annoyed on your mood tracking phone app. Don’t let those issues stop you from being present and live life being grateful for what you already have. So the main point I’m trying to get across is that being aware of your surroundings with an overflowing gratitude will break the curse of a delayed happiness in your life.
 
-Socrates once said:
-
 > The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+
+<cite>Socrates</cite>
 
 # **2. Surround Yourself With the Right People**
 
