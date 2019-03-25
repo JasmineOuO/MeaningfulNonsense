@@ -21,7 +21,7 @@ I wonder if he ever stumbled upon just _one_ special person, someone that made h
 
 Five years later, these lingering thoughts were gradually swept away. Yet as I stand here in the sand, with the mixture of salt and sand blowing freely against by cheeks, they were once again fluttering breathlessly around my head. 
 
-Before my eyes, this unreadable person seemingly had the power to shatter the glass of my , everything I once believed from my dad was beginning to wither and crack with shuddering confusion and flickering admiration. 
+Before my eyes, this unreadable person seemingly had the power to shatter my perspective, everything I once believed from my dad was beginning to wither and crack with shuddering confusion and flickering admiration. 
 
 He was new to town and was immediately labelled as wild and eccentric. People would whisper behind his backs, teachers would try to humiliate him when he didn’t know the answers and many students would silently judge every stumble he made, watching him like Frankenstein, but never making a move.  Yet oddly enough, nothing ever fazed him. He continuously wore a cheerful smile, his eyes always sparkling with serenity. He reminded me of something I never had, something my dad never believed existed, and something that was stolen from my mother.
 
