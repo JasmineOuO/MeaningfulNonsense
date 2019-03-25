@@ -3,8 +3,7 @@ templateKey: post
 title: Puppets Without Strings
 label: Puppets Without Strings
 date: 2019-03-21T04:57:46.385Z
-thumbnail: >-
-  https://raw.githubusercontent.com/JasmineOuO/MeaningfulNonsense/master/static/images/park.jpg
+thumbnail: /images/puppetswithoutstrings.jpg
 tags:
   - stories
 ---
