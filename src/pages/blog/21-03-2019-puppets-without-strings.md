@@ -18,9 +18,11 @@ But even more so, I wonder if that belief of his ever faltered before.
 
 Just once.
 
-I wonder if he ever stumbled upon just _one_ special person, someone that made him question everything he had ever instilled into himself. Or perhaps, maybe there was never a shred of doubt and he had truly taken his words to the grave. 
+I wonder if he ever stumbled upon just _one_ special person, someone that made him question everything he had ever instilled into himself. Or perhaps, he never did. Maybe there was never a shred of doubt and he had truly taken those words of his to the grave. 
 
-I wonder this because as I stand before this boy right now, everything was beginning to wither and crack with shuddering confusion and flickering admiration. 
+Five years later, these lingering thoughts were gradually swept away. Yet as I stand here in the sand, with the mixture of salt and sand blowing freely against by cheeks, they were once again, fluttering breathlessly around my head. 
+
+As I stand before this boy right now, everything I once believed from my dad was beginning to wither and crack with shuddering confusion and flickering admiration. 
 
 He was new to town and was immediately labelled as wild and eccentric. People would whisper behind his backs, teachers would try to humiliate him when he didn’t know the answers and many students would silently judge every stumble he made, watching him like Frankenstein, but never making a move.  Yet oddly enough, nothing ever fazed him. He continuously wore a cheerful smile, his eyes always sparkling with serenity. He reminded me of something I never had, something my dad never believed existed, and something that was stolen from my mother.
 
