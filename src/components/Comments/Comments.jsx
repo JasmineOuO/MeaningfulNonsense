@@ -32,8 +32,9 @@ class Comments extends Component {
   };
 
   handleSubmit = () => {
-    alert('Thanks! Your comment has been submitted for approval.');
-    this.setState({ isSubmitted: true });
+    if (!alert('Thanks! Your comment has been submitted for approval.')) {
+      this.setState({ isSubmitted: true });
+    }
   };
 
   onReCAPTCHA = () => {
