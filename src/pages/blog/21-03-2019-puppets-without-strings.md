@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: Puppets Without Strings
-label: Puppets Without Strings
+label: Puppets
 date: 2019-03-21T04:57:46.385Z
 thumbnail: /images/puppetswithoutstrings.jpg
 tags:
