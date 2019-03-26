@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import ReCAPTCHA from 'react-google-recaptcha';
 import classes from './Comments.module.css';
 
+import Loader from '../Loader/Loader';
+
 class Comments extends Component {
   constructor(props) {
     super(props);
@@ -13,7 +15,8 @@ class Comments extends Component {
       nameError: 'Please enter a name',
       messageError: 'Please enter a message',
       isValid: false,
-      notRobot: false
+      notRobot: false,
+      isSubmitted: false
     };
   }
 
@@ -28,16 +31,31 @@ class Comments extends Component {
     }));
   };
 
+  handleSubmit = () => {
+    alert('Thanks! Your comment has been submitted for approval.');
+    this.setState({ isSubmitted: true });
+  };
+
   onReCAPTCHA = () => {
     this.setState({ notRobot: true });
   };
 
   render() {
     const { allCommentsYaml, slug } = this.props;
-    const { name, email, message, nameError, messageError, isValid, notRobot } = this.state;
+    const {
+      name,
+      email,
+      message,
+      nameError,
+      messageError,
+      isValid,
+      notRobot,
+      isSubmitted
+    } = this.state;
     const comments = allCommentsYaml && allCommentsYaml.edges;
     return (
       <>
+        {isSubmitted && <Loader />}
         <div className={classes.Header}>Comments</div>
         <div className={classes.Block}>
           <div>
@@ -54,7 +72,7 @@ class Comments extends Component {
           <div className={classes.Form}>
             <form
               autoComplete="off"
-              onSubmit={() => alert('Thanks! Your comment has been submitted for approval.')}
+              onSubmit={this.handleSubmit}
               method="POST"
               action="https://api.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
             >
