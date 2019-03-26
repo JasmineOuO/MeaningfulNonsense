@@ -44,7 +44,7 @@ class Navitem extends Component {
             title={name}
             key={name}
             style={name === 'home' ? { display: 'block' } : {}}
-            activeStyle={{ backgroundColor: '#e8b4cd' }}
+            activeStyle={name === 'home' ? {} : { backgroundColor: '#e8b4cd' }}
           >
             {name}
           </Link>
