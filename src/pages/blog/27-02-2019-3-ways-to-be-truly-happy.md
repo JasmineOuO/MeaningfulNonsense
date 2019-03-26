@@ -2,7 +2,7 @@
 templateKey: post
 title: 3 Ways to be Truly Happy
 label: Happiness
-date: 2018-05-17T02:20:49.050Z
+date: 2019-05-17T02:20:49.050Z
 thumbnail: /images/burano.jpeg
 tags:
   - life

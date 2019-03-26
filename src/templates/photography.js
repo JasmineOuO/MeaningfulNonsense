@@ -22,7 +22,7 @@ const PhotographyPage = ({ data }) => {
 
 export default PhotographyPage;
 
-export const pageQuery = graphql`
+export const photographyQuery = graphql`
   query PhotographyQuery {
     markdownRemark(frontmatter: { templateKey: { eq: "photography" } }) {
       frontmatter {

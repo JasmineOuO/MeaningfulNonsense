@@ -15,6 +15,7 @@ class Navbar extends Component {
   constructor(props) {
     super(props);
     this.state = { hamburgerOpened: false, collapseSearch: true };
+    this.searchInput = null;
   }
 
   handleClick = () => {
@@ -24,6 +25,9 @@ class Navbar extends Component {
   };
 
   handleSearchClick = () => {
+    if (this.searchInput) {
+      this.searchInput.focus();
+    }
     this.setState(prevState => ({
       collapseSearch: !prevState.collapseSearch
     }));
@@ -59,6 +63,7 @@ class Navbar extends Component {
               collapse={collapseSearch}
               indices={searchIndices}
               onClick={this.handleSearchClick}
+              searchInputRef={this.searchInput}
             />
           </div>
           <FaSearch className={classes.SearchIcon} onClick={this.handleSearchClick} />
@@ -81,6 +86,7 @@ class Navbar extends Component {
             collapse={collapseSearch}
             indices={searchIndices}
             onClick={this.handleSearchClick}
+            searchInputRef={this.searchInput}
           />
         </div>
       </>

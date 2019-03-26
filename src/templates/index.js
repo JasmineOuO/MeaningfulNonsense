@@ -13,7 +13,6 @@ export const IndexPageTemplate = ({ posts }) => (
 
 const IndexPage = ({ data }) => {
   const { edges: posts } = data.allMarkdownRemark;
-
   return (
     <Layout>
       <SEO title="Meaningful Nonsense Home" keywords={['meaningful', 'nonsense', 'blog']} />
@@ -25,7 +24,7 @@ const IndexPage = ({ data }) => {
 export default IndexPage;
 
 // NOT NEEDED OR USED PROPERLY
-export const pageQuery = graphql`
+export const indexQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }

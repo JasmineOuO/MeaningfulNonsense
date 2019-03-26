@@ -119,6 +119,16 @@
   background-color: #efefef;
 }
 
+.Attribution {
+  font-size: 11px;
+  padding: 11px 0 0 10px;
+}
+
+.Attribution,
+.Attribution a {
+  color: #9d9c9c;
+}
+
 @media (max-width: 1000px) {
   .List {
     left: 15px;

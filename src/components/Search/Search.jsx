@@ -2,6 +2,7 @@ import React, { Component, createRef } from 'react';
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, Index, Hits, connectStateResults } from 'react-instantsearch-dom';
 
+import { FaAlgolia } from 'react-icons/fa';
 import classes from './Search.module.css';
 import Input from './Input';
 import * as hitComps from './hits';
@@ -92,6 +93,13 @@ export default class Search extends Component {
                 </Results>
               </Index>
             ))}
+            <span className={classes.Attribution}>
+              &nbsp;&nbsp;Powered by&nbsp;
+              <a href="https://www.algolia.com">
+                <FaAlgolia size="1em" />
+                &nbsp;Algolia
+              </a>
+            </span>
           </div>
         </div>
       </InstantSearch>

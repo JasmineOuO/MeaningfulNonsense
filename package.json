@@ -6,8 +6,9 @@
   "author": "Jasmine Ou <jasmineou99@gmail.com>",
   "dependencies": {
     "algoliasearch": "^3.32.0",
+    "core-js": "^2.6.5",
     "dotenv": "^6.2.0",
-    "gatsby": "^2.2.5",
+    "gatsby": "^2.2.11",
     "gatsby-image": "^2.0.31",
     "gatsby-link": "^2.0.16",
     "gatsby-plugin-algolia": "^0.3.0",
@@ -21,7 +22,7 @@
     "gatsby-plugin-react-helmet": "^3.0.7",
     "gatsby-plugin-robots-txt": "^1.4.0",
     "gatsby-plugin-sass": "^2.0.10",
-    "gatsby-plugin-sharp": "^2.0.24",
+    "gatsby-plugin-sharp": "^2.0.31",
     "gatsby-plugin-sitemap": "^2.0.6",
     "gatsby-remark-copy-linked-files": "^2.0.9",
     "gatsby-remark-images": "^3.0.6",
@@ -62,10 +63,14 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run develop",
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "clean": "rimraf .cache public",
+    "build": "npm run clean && gatsby build",
+    "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "no cache": "rm -r ./.cache/*",
+    "build no cache": "npm run no cache && npm run build",
+    "start no cache": "npm run no cache && npm run start"
   },
   "repository": {
     "type": "git",
