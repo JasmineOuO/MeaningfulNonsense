@@ -56,7 +56,7 @@ class Comments extends Component {
               autoComplete="off"
               onSubmit={() => alert('Thanks! Your comment has been submitted for approval.')}
               method="POST"
-              action="https://dev.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
+              action="https://api.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
             >
               <input
                 name="options[redirect]"
