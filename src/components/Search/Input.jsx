@@ -5,13 +5,15 @@ import { FaSearch, FaTimes } from 'react-icons/fa';
 
 import classes from './Input.module.css';
 
-export default connectSearchBox(({ refine, collapse, focussed, onFocus, onClick }) => (
+export default connectSearchBox(({ refine, collapse, focussed, onFocus, onClick, refCallback }) => (
   <form className={classes.Form} onFocus={onFocus}>
     <input
       type="text"
       placeholder="Search"
       aria-label="Search"
       onChange={e => refine(e.target.value)}
+      ref={refCallback}
+      autoFocus
       className={
         collapse
           ? `${classes.Input} ${classes.Collapse}`

@@ -27,10 +27,15 @@ export default class Search extends Component {
   constructor(props) {
     super(props);
     this.state = { query: ``, focussed: false, ref: createRef() };
+    this.searchInput = null;
   }
 
   componentDidMount() {
     events.forEach(event => document.addEventListener(event, this.handleClickOutside));
+  }
+
+  componentDidUpdate() {
+    this.searchInput.focus();
   }
 
   componentWillUnmount() {
@@ -52,6 +57,10 @@ export default class Search extends Component {
     if (!ref.current.contains(event.target)) {
       this.setState({ focussed: false });
     }
+  };
+
+  refCallback = input => {
+    this.searchInput = input;
   };
 
   render() {
@@ -78,6 +87,7 @@ export default class Search extends Component {
             focussed={focussed}
             onFocus={this.handleFocus}
             onClick={onClick}
+            refCallback={this.refCallback}
           />
           <div className={hitsWrapperClasses.join(' ')} hitsAsGrid={hitsAsGrid}>
             {indices.map(({ name, title, hitComp }) => (

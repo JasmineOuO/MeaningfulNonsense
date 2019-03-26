@@ -121,9 +121,7 @@ textarea:focus {
     margin: 50px 7vw -0.25em 12vw;
     font-size: 48px;
   }
-}
 
-@media screen and (max-height: 575px) {
   #rc-imageselect,
   .ReCAPTCHA {
     transform: scale(0.77);
