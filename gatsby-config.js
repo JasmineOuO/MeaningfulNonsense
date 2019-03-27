@@ -111,6 +111,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-136944399-1",
+      },
+    },
     // 'gatsby-plugin-brotli',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
