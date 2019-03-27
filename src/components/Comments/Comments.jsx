@@ -75,7 +75,7 @@ class Comments extends Component {
               autoComplete="off"
               onSubmit={this.handleSubmit}
               method="POST"
-              action="https://api.staticman.net/v3/entry/github/JasmineOuO/MeaningfulNonsense/master/comments"
+              action="https://meaningfulnonsense-comments.herokuapp.com/v2/entry/JasmineOuO/MeaningfulNonsense/master/comments"
             >
               <input
                 name="options[redirect]"
@@ -92,7 +92,7 @@ class Comments extends Component {
               <input
                 type="hidden"
                 name="options[reCaptcha][secret]"
-                value="acZYTgsdWR0BUWgYerT6gKe2V+s1HAuqTNKsfMR7NTjElew/oVRCAyhxn21nrr8LlDE+nNHsgydqrYrgo+YY4ldUPOa3xyclMLamnsWa49GgAYICakX9WZ6FjEZ1QzRNvCKptnX9rmhMTYkrBgQwXT4QF4LKVlWNYMwhkk7SAIA="
+                value="Qsvfflvo4CI509L3fCQnZ40EKzRjjpl7fUee0fTEUomJmHKIhekxYPMYfolmkcY7Av6EiSkCsbwg+y0MaLSZTU76d7BlZabfWeqQ1Fj2NH5HA3Z7tQSbnVdiiKqcSSx+f7SspfKd/Vt988AkzFM2dcae7kHun/BWhcaOpUHAoyBt/qLDThOxVlG4Ke9CnDbLJIPaIbb5WnWSD1PaD0yQI6Ynjm4FtvbrZBfWrips7uLo9Pjk2Z6JzNk4dlOrKxNoSaXWZaJJlCAElzXhJ+vxSAP+7AEPRFGzfKu4/6QPvFFEX3H7TuF+/ZimXanFNbh8hNBRKFPj9OWhjwj0HyzoFQ=="
               />
               <label htmlFor="name">Name*</label>
               <span className={classes.Error}>{nameError}</span>
