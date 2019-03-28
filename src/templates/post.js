@@ -64,6 +64,7 @@ const BlogPost = ({ data, pageContext }) => {
   const {
     markdownRemark: {
       html,
+      excerpt,
       frontmatter: { title, date, tags, description }
     },
     allCommentsYaml
@@ -71,17 +72,11 @@ const BlogPost = ({ data, pageContext }) => {
   const { prev, next, slug } = pageContext;
   return (
     <Layout>
-      <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} description={excerpt} />
       {/* prettier-ignore */}
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}
-        helmet={(
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${title}`}</title>
-            <meta name="description" content={`${description}`} />
-          </Helmet>
-        )}
         tags={tags}
         title={title}
         date={date}
@@ -106,6 +101,7 @@ export const postQuery = graphql`
         description
         tags
       }
+      excerpt(pruneLength: 120)
     }
     allCommentsYaml(filter: { slug: { eq: $slug } }) {
       edges {
