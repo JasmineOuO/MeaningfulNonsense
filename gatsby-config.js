@@ -13,8 +13,8 @@ const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL;
 module.exports = {
   siteMetadata: {
     title: 'Meaningful Nonsense',
-    description: 'A personal blog',
-    author: 'JasmineOuO',
+    description: 'A personal blog on the meaningful nonsense of everyday life. Encapsulated within short stories, insights and photographs by Jasmine and Jessica Ou. Enjoy ~',
+    author: 'Jasmine & Jessica Ou',
     siteUrl: 'https://meaningfulnonsense.ca',
     navLinks: [
       {
