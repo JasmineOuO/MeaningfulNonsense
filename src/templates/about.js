@@ -44,8 +44,8 @@ const AboutPage = ({ data }) => {
   return (
     <Layout>
       <SEO
-        title="Meaningful Nonsense About"
-        keywords={['meaningful', 'nonsense', 'blog']}
+        title="About"
+        keywords={['meaningful', 'nonsense', 'blog', 'about']}
         description="The about page"
       />
       <AboutPageTemplate
