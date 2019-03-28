@@ -14,7 +14,7 @@ const PhotographyPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Meaningful Nonsense Photography" keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title="Photography" keywords={['meaningful', 'nonsense', 'blog', 'photography']} />
       <PhotographyPageTemplate photos={frontmatter.photos} />
     </Layout>
   );
