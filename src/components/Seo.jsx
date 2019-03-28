@@ -1,4 +1,5 @@
 import React from 'react';
+import startCase from 'lodash/startCase';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
@@ -26,7 +27,7 @@ function SEO({ description, lang, meta, keywords, title }) {
             htmlAttributes={{
               lang
             }}
-            title={title}
+            title={startCase(title)}
             titleTemplate={`${data.site.siteMetadata.title} | %s`}
             meta={[
               {
