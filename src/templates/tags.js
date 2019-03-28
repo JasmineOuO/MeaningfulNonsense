@@ -10,7 +10,7 @@ const TagRoute = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <SEO title={`Meaningful Nonsense ${tag}`} keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title={`${tag}`} keywords={['meaningful', 'nonsense', 'blog']} />
       <Gallery items={posts} type="post" numCols={4} />
     </Layout>
   );
