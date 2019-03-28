@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <Layout>
-      <SEO title="Meaningful Nonsense Home" keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title="Home" keywords={['meaningful', 'nonsense', 'blog']} />
       <IndexPageTemplate posts={posts} />
     </Layout>
   );
