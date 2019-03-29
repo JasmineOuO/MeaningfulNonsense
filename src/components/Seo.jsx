@@ -17,16 +17,16 @@ const detailsQuery = graphql`
   }
 `;
 
-function SEO({ description, lang, meta, keywords, title, image }) {
+function SEO({ description, lang, meta, keywords, title, image, pagePath }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={data => {
         const metaDescription = description || data.site.siteMetadata.description;
+        const baseUrl = data.site.siteMetadata.siteUrl;
         const metaImage =
-          image && image.originalName
-            ? `${data.site.siteMetadata.siteUrl}/images/${image.originalName}`
-            : null;
+          image && image.originalName ? `${baseUrl}/images/${image.originalName}` : null;
+        const url = pagePath ? `${baseUrl}${pagePath}` : baseUrl;
         return (
           <Helmet
             htmlAttributes={{
@@ -42,6 +42,10 @@ function SEO({ description, lang, meta, keywords, title, image }) {
               {
                 property: 'og:title',
                 content: title
+              },
+              {
+                property: 'og:url',
+                content: url
               },
               {
                 property: 'og:description',

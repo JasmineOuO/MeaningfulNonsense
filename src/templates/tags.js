@@ -4,13 +4,13 @@ import Layout from '../components/Layout/Layout';
 import SEO from '../components/Seo';
 import Gallery from '../components/Gallery/Gallery';
 
-const TagRoute = ({ data, pageContext }) => {
+const TagRoute = ({ data, pageContext, location }) => {
   const posts = data.allMarkdownRemark.edges;
   const { tag } = pageContext;
 
   return (
     <Layout>
-      <SEO title={tag} keywords={['meaningful', 'nonsense', 'blog']} />
+      <SEO title={tag} keywords={['meaningful', 'nonsense', 'blog']} pagePath={location.pathname} />
       <Gallery items={posts} type="post" numCols={4} />
     </Layout>
   );

@@ -9,7 +9,7 @@ export const PhotographyPageTemplate = ({ photos }) => (
   <Gallery items={photos} type="photo" numCols={4} />
 );
 
-const PhotographyPage = ({ data }) => {
+const PhotographyPage = ({ data, location }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
@@ -18,6 +18,7 @@ const PhotographyPage = ({ data }) => {
         title="Photography"
         keywords={['meaningful', 'nonsense', 'blog', 'photography']}
         description="A collection of photographs taken all over the world by Jasmine Ou."
+        pagePath={location.pathname}
       />
       <PhotographyPageTemplate photos={frontmatter.photos} />
     </Layout>

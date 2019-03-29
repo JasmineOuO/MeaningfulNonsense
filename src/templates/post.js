@@ -51,7 +51,7 @@ export const BlogPostLayout = ({ content, contentComponent, title, date, prev, n
   );
 };
 
-const BlogPost = ({ data, pageContext }) => {
+const BlogPost = ({ data, pageContext, location }) => {
   const {
     markdownRemark: {
       html,
@@ -68,6 +68,7 @@ const BlogPost = ({ data, pageContext }) => {
         keywords={['meaningful', 'nonsense', 'blog']}
         description={excerpt}
         image={thumbnail.childImageSharp.resize}
+        pagePath={location.pathname}
       />
       <BlogPostLayout
         content={html}

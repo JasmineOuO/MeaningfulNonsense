@@ -34,7 +34,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent, profiles }
   );
 };
 
-const AboutPage = ({ data }) => {
+const AboutPage = ({ data, location }) => {
   const {
     markdownRemark: {
       html,
@@ -48,6 +48,7 @@ const AboutPage = ({ data }) => {
         title="About"
         keywords={['meaningful', 'nonsense', 'blog', 'about']}
         description={excerpt}
+        pagePath={location.pathname}
       />
       <AboutPageTemplate
         contentComponent={HTMLContent}
