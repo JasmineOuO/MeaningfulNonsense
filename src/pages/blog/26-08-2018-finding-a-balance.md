@@ -2,7 +2,7 @@
 templateKey: post
 title: Finding a Balance
 label: Balance
-date: 2018-08-26T02:20:49.050Z
+date: 2018-08-26T02:20:49.05-05:00
 thumbnail: /images/milan3.jpeg
 tags:
   - life

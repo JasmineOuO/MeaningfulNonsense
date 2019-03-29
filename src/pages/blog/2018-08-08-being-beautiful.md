@@ -2,7 +2,7 @@
 templateKey: post
 title: Being Beautiful
 label: Beauty
-date: 2018-08-08T15:04:10.000Z
+date: 2018-08-08T15:04:10.00-05:00
 description: Beauty
 thumbnail: /images/sakura.jpeg
 tags:

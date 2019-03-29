@@ -2,7 +2,7 @@
 templateKey: post
 title: Puppets Without Strings
 label: Puppets
-date: 2019-03-21T04:57:46.385Z
+date: 2019-03-21T04:57:46.38-05:00
 thumbnail: /images/puppetswithoutstrings.jpg
 tags:
   - stories
