@@ -57,14 +57,19 @@ const BlogPost = ({ data, pageContext }) => {
     markdownRemark: {
       html,
       excerpt,
-      frontmatter: { title, date, tags }
+      frontmatter: { title, date, tags, thumbnail }
     },
     allCommentsYaml
   } = data;
   const { prev, next, slug } = pageContext;
   return (
     <Layout>
-      <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} description={excerpt} />
+      <SEO
+        title={title}
+        keywords={['meaningful', 'nonsense', 'blog']}
+        description={excerpt}
+        image={thumbnail}
+      />
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}
@@ -87,9 +92,18 @@ export const postQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
         title
+        date(formatString: "MMMM DD, YYYY")
         tags
+        thumbnail {
+          childImageSharp {
+            fluid(maxWidth: 240, quality: 64) {
+              originalName
+              presentationWidth
+              presentationHeight
+            }
+          }
+        }
       }
       excerpt(pruneLength: 120)
     }

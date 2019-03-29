@@ -16,12 +16,16 @@ const detailsQuery = graphql`
   }
 `;
 
-function SEO({ description, lang, meta, keywords, title }) {
+function SEO({ description, lang, meta, keywords, title, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={data => {
         const metaDescription = description || data.site.siteMetadata.description;
+        const metaImage =
+          image && image.originalName
+            ? `${data.site.siteMetadata.siteUrl}/images/${image.originalName}`
+            : null;
         return (
           <Helmet
             htmlAttributes={{
@@ -47,10 +51,6 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: 'website'
               },
               {
-                name: 'twitter:card',
-                content: 'summary'
-              },
-              {
                 name: 'twitter:creator',
                 content: data.site.siteMetadata.author
               },
@@ -74,6 +74,33 @@ function SEO({ description, lang, meta, keywords, title }) {
                       content: keywords.join(', ')
                     }
                   : []
+              )
+              .concat(
+                image
+                  ? [
+                      {
+                        property: 'og:image',
+                        content: metaImage
+                      },
+                      {
+                        property: 'og:image:width',
+                        content: image.width
+                      },
+                      {
+                        property: 'og:image:height',
+                        content: image.height
+                      },
+                      {
+                        name: 'twitter:card',
+                        content: 'summary_large_image'
+                      }
+                    ]
+                  : [
+                      {
+                        name: 'twitter:card',
+                        content: 'summary'
+                      }
+                    ]
               )
               .concat(meta)}
           />
