@@ -11,7 +11,6 @@ import classes from './post.module.css';
 
 export const BlogPostLayout = ({ content, contentComponent, title, date, prev, next }) => {
   const PostContent = contentComponent || Content;
-
   return (
     <section className={classes.Post}>
       <div className={classes.Header}>
@@ -68,7 +67,7 @@ const BlogPost = ({ data, pageContext }) => {
         title={title}
         keywords={['meaningful', 'nonsense', 'blog']}
         description={excerpt}
-        image={thumbnail}
+        image={thumbnail.childImageSharp.resize}
       />
       <BlogPostLayout
         content={html}
@@ -97,10 +96,10 @@ export const postQuery = graphql`
         tags
         thumbnail {
           childImageSharp {
-            fluid(maxWidth: 240, quality: 64) {
+            resize(width: 1200) {
               originalName
-              presentationWidth
-              presentationHeight
+              width
+              height
             }
           }
         }
