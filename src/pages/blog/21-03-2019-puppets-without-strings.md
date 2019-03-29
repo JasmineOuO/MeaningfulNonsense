@@ -2,12 +2,11 @@
 templateKey: post
 title: Puppets Without Strings
 label: Puppets
-date: 2019-03-21T04:57:46.38-05:00
+date: 2019-03-21T09:57:46.380Z
 thumbnail: /images/puppetswithoutstrings.jpg
 tags:
   - stories
 ---
-
 We are masters at pretending that life is perfect, living behind the illusion that shackles of fear and pressure doesn’t leave our lungs breathless with anxiety. But in front of the eyes of my dad, they were shattered glass. He was always able to see right through the forced smiles, the expected greetings and when I asked him how he knew, he would tell me that he knew a survivor when he saw one. The bleakness in their eyes, the fear of judgement after each conversation and the automatic responses, it was as if they were mere puppets tied up in strings. He would always blame the government for the wrongdoings of their people, calling them or, some days, society as a whole, the puppeteer.
 
 As a child, I would absorb his ideologies like a sponge, but sometimes I would let the words fly past my ears when I remembered that he became this kind of man because of my mom. She killed herself when I was 6 years old and it has been over 9 years since that hideous night had occurred. The entire town was utterly shocked when the news spread; it baffled everyone with confusion since they had only ever known her as this positive, smart and kind woman. Yet, I could not even fabricate words to describe my mother since I barely caught a glimpse of her during my childhood. When I asked him why she did it, my dad told me she was a workaholic, constantly tangled in strings of seeking approval and acceptance, that it drove her to insanity.
@@ -20,7 +19,7 @@ Just once.
 
 I wonder if he ever stumbled upon just _one_ special person, someone that made him question everything he had ever instilled into himself. Or perhaps, he never did. Maybe there was never a shred of doubt and he had truly taken those words of his to the grave.
 
-Five years later, these lingering thoughts were gradually swept away. Yet as I stand here in the sand, with the mixture of salt and sand blowing freely against by cheeks, they were once again fluttering breathlessly around my head.
+Five years later, these lingering thoughts were gradually swept away. Yet as I stand here in the sand, with the mixture of salt and sand blowing freely against by cheeks, they were once against fluttering breathlessly around my head.
 
 Before my eyes, this unreadable person seemingly had the power to shatter my perspective, everything I once believed from my dad was beginning to wither and crack with shuddering confusion and flickering admiration.
 
@@ -56,7 +55,7 @@ Out of the all of the words that may have echoed in the wind, I never once expec
 
 He looked at me for a couple of seconds before pushing himself off the sand then almost immediately, chirped back to his regular, easy-going and cheerful visage. “Well…,” he said, while stretching his arms, “yeah. Now I am. I guess I just realized that I only get one life so why should I spend it living someone else’s.”
 
-But don’t you have to sometimes? To survive?” I asked, before remembering the ironic death of my mom.
+"But don’t you have to sometimes? To survive?” I asked, before remembering the ironic death of my mom.
 
 “I don’t want to _just_ survive. Wouldn’t you rather want to live,” he asked as he smiled softly at the shimmering sky encapsulating his vision. “Life would suck if you only did what everyone else wanted. Everyday would feel suffocating and exhausting, to the point that living just wouldn’t be worth it anymore.” He began to frown a little and his voice became tense before he let out a chuckle. “Just thinking about not being free makes me frustrated.”
 
