@@ -5,9 +5,28 @@ import SEO from '../components/Seo';
 
 const NotFoundPage = () => (
   <Layout>
-    <SEO title="404: Not found" />
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <SEO title="Page not found" />
+    <h1
+      style={{
+        margin: '150px 0 0 0',
+        textAlign: 'center',
+        fontFamily: 'Dancing Script, cursive',
+        fontSize: '5em',
+        color: '#767676'
+      }}
+    >
+      oopsie daisies
+    </h1>
+    <p
+      style={{
+        textAlign: 'center',
+        fontFamily: 'Open Sans Condensed, arial',
+        fontSize: 20,
+        color: '#515151'
+      }}
+    >
+      The page you wanted doesn&#39;t exist
+    </p>
   </Layout>
 );
 

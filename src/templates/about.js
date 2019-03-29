@@ -38,7 +38,8 @@ const AboutPage = ({ data }) => {
   const {
     markdownRemark: {
       html,
-      frontmatter: { title, profiles }
+      frontmatter: { title, profiles },
+      excerpt
     }
   } = data;
   return (
@@ -46,7 +47,7 @@ const AboutPage = ({ data }) => {
       <SEO
         title="About"
         keywords={['meaningful', 'nonsense', 'blog', 'about']}
-        description="The about page"
+        description={excerpt}
       />
       <AboutPageTemplate
         contentComponent={HTMLContent}
@@ -80,6 +81,7 @@ export const aboutPageQuery = graphql`
           blurb
         }
       }
+      excerpt(pruneLength: 120)
     }
   }
 `;

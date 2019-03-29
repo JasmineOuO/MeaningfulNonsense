@@ -43,7 +43,7 @@ const Layout = ({ children }) => (
           <meta name="msapplication-TileColor" content="#f99599" />
           <link rel="mask-icon" color="#f99599" href="/icons/safari-pinned-tab.svg" />
         </Helmet>
-        <Link to="/" title="Go to homepage">
+        <Link to="/" title="Meaningful Nonsense">
           <Header />
         </Link>
         <Navbar navLinks={data.site.siteMetadata.navLinks} />

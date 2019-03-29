@@ -1,5 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 
@@ -10,12 +9,11 @@ import Comments from '../components/Comments/Comments';
 
 import classes from './post.module.css';
 
-export const BlogPostLayout = ({ content, contentComponent, title, helmet, date, prev, next }) => {
+export const BlogPostLayout = ({ content, contentComponent, title, date, prev, next }) => {
   const PostContent = contentComponent || Content;
 
   return (
     <section className={classes.Post}>
-      {helmet || ''}
       <div className={classes.Header}>
         <div className={classes.Title}>{title}</div>
         <div className={classes.Time}>{date}</div>
@@ -24,12 +22,6 @@ export const BlogPostLayout = ({ content, contentComponent, title, helmet, date,
       <article className={classes.Content}>
         <PostContent content={content} />
       </article>
-      {/* {authorNote && (
-        <div className={classes.AuthorNote}>
-          <h1>Author’s Note</h1>
-          {authorNote}
-        </div>
-      )} */}
       <div className={classes.Nav}>
         <div className={classes.Prev}>
           {prev && (
@@ -65,7 +57,7 @@ const BlogPost = ({ data, pageContext }) => {
     markdownRemark: {
       html,
       excerpt,
-      frontmatter: { title, date, tags, description }
+      frontmatter: { title, date, tags }
     },
     allCommentsYaml
   } = data;
@@ -73,7 +65,6 @@ const BlogPost = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO title={title} keywords={['meaningful', 'nonsense', 'blog']} description={excerpt} />
-      {/* prettier-ignore */}
       <BlogPostLayout
         content={html}
         contentComponent={HTMLContent}
@@ -98,7 +89,6 @@ export const postQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        description
         tags
       }
       excerpt(pruneLength: 120)

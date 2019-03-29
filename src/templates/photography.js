@@ -14,7 +14,11 @@ const PhotographyPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Photography" keywords={['meaningful', 'nonsense', 'blog', 'photography']} />
+      <SEO
+        title="Photography"
+        keywords={['meaningful', 'nonsense', 'blog', 'photography']}
+        description="A collection of photographs taken all over the world by Jasmine Ou."
+      />
       <PhotographyPageTemplate photos={frontmatter.photos} />
     </Layout>
   );
