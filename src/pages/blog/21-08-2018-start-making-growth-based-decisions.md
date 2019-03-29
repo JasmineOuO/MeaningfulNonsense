@@ -20,12 +20,6 @@ We all have limitations. We may struggle with family tension, you may struggle w
 
 Incredible change happens in your life when you decide to take power over the things you can control instead of obsessing over the things you can’t control. And obviously it’s much easier said than done because fear has played such a huge role in letting doubt haunt our lives.  Yet we need to let our desire for growth supersede our fears, and never look back _even_ when doubt becomes a heavy burden on your shoulders. 
 
-> The hero’s a hero because the hero does it anyway, right? Even though the hero is terrified and risking it all, goes anyway! 
-
- <cite>Brendon Burchad </cite>
-
-By having the courage to challenge the doubt in your head and by believing in yourself and in your capabilities, that is when you start growing.
-
 Next, look at the bigger picture. For me at least, in the past, the mindset behind why I did things were actually quite trivial. The reasons why I went to the gym was because I was insecure and the reason why I studied so hard for good grades was to please my parents and for them to say, “I’m proud of you”. And for as long as I can remember, I was always jealous of other people, whether it was their appearance or a higher grade on a test, I felt like I was in a whirlwind of constant dissatisfaction. But one day, I was scrolling through Youtube and stumbled upon a video. Her name was Anna Akana and she told me,
 
 > No one can ever be you, no one is you. So there’s really no sense in feeling any kind of competition
