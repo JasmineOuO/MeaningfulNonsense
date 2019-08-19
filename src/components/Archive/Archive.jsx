@@ -31,20 +31,28 @@ const seasons = {
   AUTUMN: 'autumn'
 };
 
+const archiveLabel = {
+    RECENT: 'recent',
+    DISPLAY_YEAR: 'display_year',
+    SELECT_YEAR: 'select_year'
+}
+
 class Archive extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      year: 2018,
+      year: new Date().getFullYear(),
       season: seasons.ALL,
-      selectYear: false
+      selectYear: archiveLabel.RECENT,
     };
   }
 
   filterPosts = allPosts => {
-    const { year, season } = this.state;
-    return allPosts.filter(post => {
-      if (year.toString().substr(-2) === post.node.frontmatter.date.substr(-2)) {
+    const { year, season, selectYear } = this.state;
+    return selectYear == archiveLabel.RECENT && season === seasons.ALL
+    ?  allPosts.slice(0,20) 
+    : allPosts.filter(post => {
+      if (selectYear == archiveLabel.RECENT || year.toString().substr(-2) === post.node.frontmatter.date.substr(-2)) {
         if (season === seasons.ALL) {
           return true;
         }
@@ -141,7 +149,7 @@ class Archive extends Component {
   };
 
   customSliderProps = (year, season, selectYear) =>
-    selectYear
+    selectYear == archiveLabel.SELECT_YEAR
       ? {
           min: 2016,
           max: 2022,
@@ -167,7 +175,10 @@ class Archive extends Component {
 
   handleSeasonChange = value => {
     const season = this.mapValueToSeason(value);
-    this.setState({ season });
+    this.setState({ 
+        season,
+        selectYear: archiveLabel.DISPLAY_YEAR
+    });
   };
 
   handleYearChange = year => {
@@ -175,7 +186,10 @@ class Archive extends Component {
   };
 
   handleClick = () => {
-    this.setState(prevState => ({ selectYear: !prevState.selectYear }));
+    this.setState(prevState => ({ 
+        selectYear: prevState.selectYear == archiveLabel.RECENT ? archiveLabel.DISPLAY_YEAR : (
+            prevState.selectYear == archiveLabel.DISPLAY_YEAR ? archiveLabel.SELECT_YEAR : archiveLabel.RECENT
+    )}));
   };
 
   render() {
@@ -194,7 +208,7 @@ class Archive extends Component {
         <div className={classes.Slider}>
           <Slider {...sliderProps} />
           <div className={classes.Label} onClick={this.handleClick}>
-            {year}
+            {selectYear == archiveLabel.RECENT ? "new posts" : year}
           </div>
         </div>
         <Gallery items={posts} type="post" numCols={4} />
