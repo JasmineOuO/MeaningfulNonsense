@@ -208,7 +208,7 @@ class Archive extends Component {
         <div className={classes.Slider}>
           <Slider {...sliderProps} />
           <div className={classes.Label} onClick={this.handleClick}>
-            {selectYear == archiveLabel.RECENT ? "new posts" : year}
+            {selectYear == archiveLabel.RECENT ? "latest" : year}
           </div>
         </div>
         <Gallery items={posts} type="post" numCols={4} />
