@@ -46,7 +46,7 @@
     "react-icons": "^3.4.0",
     "react-instantsearch-dom": "^5.4.0",
     "react-masonry-css": "^1.0.12",
-    "renovate": "^14.53.12",
+    "renovate": "^19.38.7",
     "rimraf": "^2.6.3",
     "sharp": "^0.21.3",
     "typeface-bentham": "0.0.72",
