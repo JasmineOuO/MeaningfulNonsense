@@ -3,7 +3,7 @@ templateKey: post
 title: Lower Your Expectations for Higher Success
 label: Outlook
 date: 2019-11-09T21:02:56.267Z
-thumbnail: /images/outlook.jpg
+thumbnail: /images/outlook-1-.jpg
 tags:
   - life-lessons
 ---
