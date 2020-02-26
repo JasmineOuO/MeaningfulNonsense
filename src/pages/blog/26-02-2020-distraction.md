@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: How to Prevent Invisible Distractions from Impeding Our Success
-label: Distraction
+label: Distracted
 date: 2020-02-26T18:20:05.176Z
 thumbnail: /images/distraction.jpg
 tags:
