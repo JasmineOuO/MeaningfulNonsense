@@ -3,7 +3,7 @@ templateKey: photography
 photos:
   - date: 2018-08-04T15:04:10.000Z
     image: /images/deepdishpizza.jpg
-    location: "Giordano's // Chicago, Illinois"
+    location: 'Giordano''s // Chicago, Illinois'
     title: Deep Pizza
   - date: 2018-02-22T15:04:10.000Z
     image: /images/Bleu.jpeg
@@ -19,7 +19,7 @@ photos:
     title: FishnChips
   - date: 2017-04-29T15:04:10.000Z
     image: /images/dadpizza.jpg
-    location: "Dad's // Toronto, Ontario"
+    location: 'Dad''s // Toronto, Ontario'
     title: Homemade
   - date: 2018-03-10T15:04:10.000Z
     image: /images/milkshakes.jpeg
@@ -45,4 +45,9 @@ photos:
     image: /images/park.jpg
     location: 'Park // Toronto, Ontario'
     title: Park
+  - date: 2020-04-02T22:03:00.546Z
+    image: /images/cheesecake.jpg
+    location: Cheesecake Factory
+    title: Cheesecake
 ---
+
