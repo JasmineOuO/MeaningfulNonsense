@@ -2,17 +2,12 @@
 templateKey: post
 title: Welcome to Our Blog
 label: Welcome
-date: 2018-06-04T15:04:10.00-05:00
+date: 2018-06-04T20:04:10.000Z
 thumbnail: /images/laptoplounge.jpg
 tags:
   - life
   - everyday-thoughts
 ---
-
-![laptop lounge](/images/laptoplounge.jpg)
-
-<figcaption>Taken by Jasmine Ou</figcaption>
-
 Hey my name is Jessica, but most people call me Jessie...so I guess that’s the name we’ll roll with. Right now, I’m sitting on my sister’s bed writing my first ever “blog post” and it is currently a busy Friday night and I’m suppose to be studying for my very important tests but... never mind that. So let me tell you a little about myself. I am currently fifteen years old, my birthday is October 9, 2002, I stand at a whopping 5 ‘2, I am Taiwanese-Canadian and well, scratch away all that….I’m just like you. Yes, I know that I may not be able to relate with all your daily problems and challenges but hopefully (cross my fingers) if even one post can reach out and help you understand that you are not alone or motivate you to become a better and happier person, then that will be the biggest reward out there for me.
 
 Psst...also, I want to let you in on a little secret. This blog isn’t just a place to bring joy and motivation into your lives but this is my journey. Everyday I am growing and listening and absorbing the lessons and mistakes that have made me who I am. The pictures posted will be comprised of things that make me happy, my hobbies, foods that make my mouth water and so much more. And obviously I won’t be writing like a wise old person who knows the ins and outs of philosophy but I’ll just go with the flow and stick to my style of writing like a fifteen year old teenage girl; one who is probably going to ramble or rant and inspire and hopefully within that jumble of utter nonsense, you will find a diamond in the oceans of letters and discover the meaning behind my stories.
