@@ -29,16 +29,16 @@ The second lesson I learned was that you have the choice to be a puppet in a con
 
 Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
 
-_**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
+## _**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
 
-# 1. You Shouldn't Feel Drained
+# A. You Shouldn't Feel Drained
 
 Firstly, the friendship shouldn’t feel like an obligation. It shouldn’t feel like a chore. And most importantly, it shouldn’t feel forced. If I have to speak to this person every single day in order to maintain a friendly relationship, something is wrong. More specifically, these people become categorized into friends by proximity, where you are only friendly if they are in the same class but once the semester ends, you inevitably drift apart. I believe meaningful connections have always superseded distance. There have always been certain friendships that I make the active effort to reach out to and when I do, it feels like the pause button has been unpaused, nothing feels different and we jump right into where we left off. 
 
-# 2. It is Easy to be Vulnerable - Aren't Afraid to Speak Your MIND
+# B. It is Easy to be Vulnerable - Aren't Afraid to Speak Your MIND
 
 This leads right into the next pro-tip: make an effort to grow and invest your time into a friendship. Just like trust, friendship is a two-way street. If you don’t go out of your way to spark conversation, ask deep questions or create memories, your relationship will only cripple like a plant never given enough water or sunlight. But sometimes, I have made the mistake of not remembering that friendship is indeed a two-way street. I would often find myself to be the only one reaching out, trying to open up to them and I’ve learned to move on from these people and cut off the rotten parts of the plant before it spreads.
 
-# 3. It Shouldn't Be A Competition
+# C. It Shouldn't Be A Competition
 
 Lastly, the people you surround yourself with should not be toxic. This sounds obvious but toxicity comes in the smallest doses. I used to find myself surrounded by people that would constantly talk about their grades, their achievements and It shouldn’t feel like a constant competition between one another. (you don't feel insecure)
