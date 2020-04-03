@@ -3,7 +3,7 @@ templateKey: post
 title: Gasping For Air
 label: Air
 date: 2019-07-29T00:42:50.138Z
-thumbnail: /images/gaspingforair2.jpg
+thumbnail: /images/editgasping-for-air.jpg
 tags:
   - stories
 ---
