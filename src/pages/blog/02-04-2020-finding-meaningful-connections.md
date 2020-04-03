@@ -15,9 +15,9 @@ But I don’t blame these people for my feelings. After all, objectively, I coul
 
 There were two main reasons for my actions. Firstly, I was scared to find new friends because it looked like the cliques have already formed. It felt invasive and awkward to be intruding on other classmates’ friend groups. Secondly, I was just lazy and didn’t want to make the active effort to change my situation. But that didn’t mean the thought wasn’t always burning at the forefront of my mind, prickling like a thorn splintered into my skin. 
 
-But this all changed when I entered high school. I didn’t go to a home school so there was barely anyone I knew at my new high school. Many students had traveled to high school with their previous clique but the thought of being “invasive” didn’t shackle me down anymore. At first, I was hesitant to approach people but the fear of being alone started to physically hurt my body. If you find yourself spiraling with this feeling, here are the three main actions I executed to change my situation. 
+But this all changed when I entered high school. I didn’t go to a home school so there was barely anyone I had previously befriended at my new high school. Many students had traveled to high school with their previous clique but the thought of being “invasive” didn’t shackle me down anymore. At first, I was hesitant to approach people but the fear of being alone started to physically hurt my body. If you find yourself spiraling into this feeling, here are the three main actions I executed to change my situation. 
 
-# 1. Fake it Till You Make It 
+# 1. Fake it Till You Make It
 
 So, despite my social anxiety, I made the active decision to venture out and find friends that I had a real connection with. Being outside your comfort zone is difficult, there is always the lingering thought that they will look at you weirdly or reject you when you ask if you can sit with them or if you decide to formally introduce yourself. We are never taught this kind of skill at school, so its all trial and error for us and that’s the terrifying part that often prevents us from making any move at all. But for my experience, that is the very first step you must take in order to meet new people. You can’t always expect your parents or other friends to push you into the spotlight and you shouldn’t, because they are introducing you to people who connect with them. Not you. 
 
@@ -25,11 +25,11 @@ So, despite my social anxiety, I made the active decision to venture out and fin
 
 The second lesson I learned was that you have the choice to be a puppet in a conversation. You can either be stringed along the conversation or direct it. When I was younger, whenever I didn’t like the topic or when I felt isolated from a conversation, I never made an effort to change the situation. But I realized that when you actually include yourself in the conversation, it makes a huge difference. It may sound obvious but when you are someone who spent years training their mind to please other people, it feels uncomfortable to speak for yourself. It was once second nature for me to filter my words to fit their opinions, but in the end, they will not be a true friend or a real relationship that you are trying to grow. Overall, in order to plant true friendships, you should be learning things about one another instead of trying to pass the time with trivial conversation that will waste everyone’s time. 
 
-# 3. Friendships Are Not Set in Stone 
+# 3. Friendships Are Not Set in Stone
 
 Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
 
-## _**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
+## **_But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?_**
 
 # A. You Shouldn't Feel Drained
 
