@@ -2,16 +2,12 @@
 templateKey: post
 title: Being Beautiful
 label: Beauty
-date: 2018-08-08T15:04:10.00-05:00
-description: Beauty
+date: 2018-08-08T20:04:10.000Z
 thumbnail: /images/sakura.jpeg
 tags:
   - life
   - life-lessons
 ---
-
-![laptop lounge](/images/sakura.jpeg)
-
 So for the past few weeks I have been trying to puzzle together an answer to this question : what does it mean to be beautiful?
 
 The answer is simple: _be yourself_
