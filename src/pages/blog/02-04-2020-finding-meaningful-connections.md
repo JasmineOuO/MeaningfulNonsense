@@ -25,13 +25,13 @@ However, if you are often convincing yourself to stay within your shell, then th
 
 # 2. Contribute to the Conversation
 
-The second lesson I learned was that you always have _the choice_ to be a puppet in a conversation. You can either be stringed along the conversation or direct it. When I was younger, whenever I didn’t like the topic or when I felt isolated from a conversation, I never made an effort to change the situation. But I realized that when you actually include yourself in the conversation, it makes a huge difference. It may sound obvious but when you are someone who spent years training your mind to please other people, it feels uncomfortable to speak for yourself. It was once second nature for me to filter my words to fit their opinions, but in the end, they will not be a true friend or a real relationship that you are trying to grow. Overall, in order to plant true friendships, you should be learning things about one another instead of trying to pass the time with trivial conversation that will waste everyone’s time. 
+The second lesson I learned was that you always have _the choice_ to be a puppet in a conversation. You can either be stringed along the conversation or direct it. When I was younger, whenever I didn’t like the topic or when I felt isolated from a conversation, I never made an effort to change the situation. But I realized that when you actually include yourself in the conversation, it makes a huge difference. It may sound obvious but when you are someone who spent years training your mind to please other people, it feels uncomfortable to speak for yourself. It was once second nature for me to filter my words to fit their opinions, but in the end, it made the relationship feel forced and unnatural. Therefore, the next time you find yourself not enjoying the direction of a conversation, redirect and change the topic. But remember to be respectful as well and not just cut people off whenever it doesn't relate to you. However, if your "friends" reject it or don't value your opinion, then that is good sign that you should not be around these people. 
 
 # 3. Friendships Are Not Set in Stone
 
 Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
 
-## **_But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?_**
+## _**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
 
 # A. You Shouldn't Feel Drained
 
