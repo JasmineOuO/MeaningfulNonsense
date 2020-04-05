@@ -29,7 +29,7 @@ The second lesson I learned was that you always have _the choice_ to be a puppet
 
 # 3. Friendships Are Not Set in Stone
 
-Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
+Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. We become scared that I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
 
 ## _**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
 
