@@ -31,11 +31,11 @@ The second lesson I learned was that you always have _the choice_ to be a puppet
 
 Lastly, don’t be hypnotized into this idea that you are trapped to a certain friend group. I used to feel weird if I befriend people from other cliques, but I learned that it’s all in your head. We become scared that I often don’t befriend the entire friend group but I often find really meaningful friendships from certain people in other cliques and thinking back on it, if I was held back by my own hesitation, I would not have grown so many friendships in the four years of high school. 
 
-## _**But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?**_
+## **_But how do we determine if we are forming a meaningful friendship or if we are just wasting our time?_**
 
 # A. You Shouldn't Feel Drained
 
-Firstly, the friendship shouldn’t feel like an obligation. It shouldn’t feel like a chore. And most importantly, it shouldn’t feel forced. If I have to speak to this person every single day in order to maintain a friendly relationship, something is wrong. More specifically, these people become categorized into friends by proximity, where you are only friendly if they are in the same class but once the semester ends, you inevitably drift apart. I believe meaningful connections have always superseded distance. There have always been certain friendships that I make the active effort to reach out to and when I do, it feels like the pause button has been unpaused, nothing feels different and we jump right into where we left off. 
+Firstly, the friendship shouldn’t feel like an obligation. It shouldn’t feel like a chore. And most importantly, it shouldn’t feel forced. This feeling usually appears in two types of situation. One is when the people around me are constantly ranting about something or when they will only look to you as a therapist. It's one thing for a friend to be sad and for you to listen and console them but it's another when that it is all they do. They are sort of like an emotional gold digger (creds to Anna Akana) and your mood will only worsen from the relationship. Secondly, this is a common feeling when you are trying to be someone else. When you are trying to enjoy the conversation, trying to act like you're interested etc. I've done this more than enough times and it has always been around people who I didn't have anything in common with or if I feel out of place. 
 
 # B. It is Easy to be Vulnerable - Aren't Afraid to Speak Your MIND
 
