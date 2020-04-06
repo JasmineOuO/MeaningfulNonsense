@@ -39,7 +39,9 @@ Firstly, the friendship shouldn’t feel like an obligation. It shouldn’t feel
 
 # B. It is Easy to be Vulnerable - Aren't Afraid to Speak Your MIND
 
-This leads right into the next pro-tip: make an effort to grow and invest your time into a friendship. Just like trust, friendship is a two-way street. If you don’t go out of your way to spark conversation, ask deep questions or create memories, your relationship will only cripple like a plant never given enough water or sunlight. But sometimes, I have made the mistake of not remembering that friendship is indeed a two-way street. I would often find myself to be the only one reaching out, trying to open up to them and I’ve learned to move on from these people and cut off the rotten parts of the plant before it spreads.
+This leads right into the next pro-tip which is that when you are developing a meaningful friendship, it should feel natural to be yourself. 
+
+: make an effort to grow and invest your time into a friendship. Just like trust, friendship is a two-way street. If you don’t go out of your way to spark conversation, ask deep questions or create memories, your relationship will only cripple like a plant never given enough water or sunlight. But sometimes, I have made the mistake of not remembering that friendship is indeed a two-way street. I would often find myself to be the only one reaching out, trying to open up to them and I’ve learned to move on from these people and cut off the rotten parts of the plant before it spreads.
 
 # C. It Shouldn't Be A Competition
 
