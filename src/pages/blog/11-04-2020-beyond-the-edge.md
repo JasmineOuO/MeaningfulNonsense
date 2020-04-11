@@ -7,6 +7,10 @@ thumbnail: /images/beyond-the-edge.jpg
 tags:
   - stories
 ---
+Remember to read Solace Part 1: Gasping for Air and Part 2: Shadow beforehand
+
+__
+
 The first thing my eyes noticed as it blinked away the darkness was the neon lights flaring around the atmosphere. The mixture of colors reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. Then, it wasn’t long before my other senses came to life and shocked my nerves to the core. 
 
 My body felt like it was sweating and shivering simultaneously while my taste buds reeked of a metallic concoction. But I tried to ignore the discomfort and shift my focus in order to figure out where the hell I was. I let my eyes wander around aimlessly, trying to decipher the code with the combination of images I captured in my mind.  
@@ -143,10 +147,6 @@ My head started to spin, and for a few seconds, black dots blinded my vision. In
 
 “Let me breathe,” I choked as my voice cracked. I didn’t know who I was trying to plead with anymore.  But I couldn’t bring myself to care any longer. It was too exhausting. 
 
-
-
-
-
 My fingers had warmed up by the time I reached my apartment door. The wind was settling down and I could no longer hear it whistling against my ears. I had to brush away the strands of hair blown over my face before punching in the code to the keypad. It took more than one attempt since my enervation was making my eyes heavy and blurry.
 
 After I closed the door behind me, the automatic lights flickered on and I squinted a little to adjust to the brightness. For a long moment, I remained still in the hallway. At first, my mind was blank. I was only focused on the physical. The steadiness of my breathing. The aching of my toes. It was calming. But nothing good stayed permanent. 
@@ -239,8 +239,6 @@ Shaking my head, I only wanted to scream again. I wanted to scream at the voice 
 
 “Oh god,” I began to chock out as my tears streamed heavily  The pounding was starting to me feel nauseous and I could only pull myself forward and let my head fall into my lap
 
-
-
 \-	Wonders if Grayson feels happy rn – like how she is right now
 
 \-	She starts to cry  - she feels something wet on her cheeks – tears just falls – all the memories flood back to her mind 
@@ -261,24 +259,12 @@ o	The phone continues ringing
 
 \-	
 
-
-
 No. This wasn’t his doing. He wouldn’t hurt me. It was definitely karma trying to get the final laugh. Not him. He wasn’t real. He is dead. 
 
 My breathing started to relax and my hands I wanted nothing to do with him anymore. 
 
  I could only wait for my body to finally relax.  
 
-
-
-
-
 If the sting from the gashes of nail marks on my palm were a reminder
-
- 
-
-
-
-
 
 The emptiness within mys caused my lips to quiver in anguish.
