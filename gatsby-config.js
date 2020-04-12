@@ -39,6 +39,10 @@ module.exports = {
           {
             name: 'serendipity',
             link: '/stories/serendipity'
+          },
+          {
+            name: 'solace',
+            link: '/stories/solace'
           }
         ]
       },
