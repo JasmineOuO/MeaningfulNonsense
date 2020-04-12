@@ -6,6 +6,7 @@ date: 2019-07-29T00:42:50.138Z
 thumbnail: /images/editgasping-for-air.jpg
 tags:
   - stories
+  - solace
 ---
 Sometimes, the scariest nightmares are the ones that you never wake up from. Even when you try so desperately to gasp for air and drift back to the plush covers of your bed, nothing changes. The numbing feeling within the pit of your stomach remains and faded screams are the only sounds ringing breathlessly against your ear. 
 
