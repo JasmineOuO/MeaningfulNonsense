@@ -375,9 +375,39 @@ I could only whisper, afraid that any louder, he would hear my voice tremble. �
 
 Frustrated, I finally turned to him and glared, “Why are you doing this? Seriously, why do you care so much about how I am feeling?”
 
-“Because I’m scared…for you. I’m scared that what ever is I’m scared that is going on is eventually going to get you killed. I didn’t ever want to think that it would be a possibility but all I can see in you is your pain and fear. And as your friend, I can’t just watch you dig yourself into this hole of self-loathing and do nothing.”
+“Because I’m scared…for you. I’m scared that whatever is I’m scared that is going on is eventually going to get you killed. I didn’t ever want to think that it would be a possibility but all I can see in you is your pain and fear. And as your friend, I can’t just watch you dig yourself into this hole of self-loathing and do nothing.”
 
-You should tell him. But at what cost? If I tell him, I might lose him forever but if I don’t, then I will only be hurting him. Either way, I will be burdening him and even if he doesn’t end up hating me, I will hate myself for sharing my troubles. The dilemma felt physically crushing.  
+You should tell him. But at what cost? If I tell him, I might lose him forever but if I don’t, then I will only be hurting him. Either way, I will be burdening him and even if he doesn’t end up hating me, I will hate myself for sharing my troubles. The dilemma felt physically crushing, forcing my body to slid down to the ground. Shaking my head instinctively to rid myself of those thought while responding quietly, “You can’t do anything for me.”
+
+“Well, I’ve been told that I’m a pretty good listener,” he said before taking a seat against the barrier as well. 
+
+I felt stuck between a rock and a hard place. A couple of minutes must have flown by afterward before I gave him his final warning. “You might decide to not be my friend after I tell you” 
+
+But he only smiled softly at me, “That’s never going to happen.”
+
+I could only stare back for a moment, searching his face for any signs of a lie. When I couldn’t find any, I suddenly felt my anxiety crawl and decided to take a deep breath to calm the nerves. Then, for the first time, I spoke my mind.
+
+“Everyone tells me that I was also a victim that day. That my hands were tied and that…I couldn’t have done anything. But it’s not true,” I heaved a shaky breath before continuing, “I brought him to the bar. I was the one who wanted to stay longer. I saw the gunmen coming towards him and if only I was loud enough, maybe he would have gone and hid. I can’t help but wonder what if I didn’t make the decisions I made. He would be alive, wouldn’t he? And yes, I know that playing this “what if” game is useless but-bu,” I didn’t realize how hard I was trembling until Charlie’s hand reached over and squeezed mine lightly. 
+
+Slowly, I exhaled a couple of deep breaths. “It hurts,” I spoke barely above a whisper. “The guilt feels so…heavy.” Somehow, the more I spoke, the anxiety and fear began to bleed away, leaving me almost light-headed. “And this may sound crazy but I often feel like he’s close by,” I chuckled while wiping away silent tears, “I can hear him calling out my name, just like he did on that day. He always sounds…so scared you know a-and I can hear him, but he always disappears before I can go to him.” I felt like I was in my world of flashbacks, barely noticing the other person, watching the memories go by as fresh tears slid down my face. But then I blinked out of my reverie and wiped the tears away. Yet I can’t help but continuing in a broken voice, “I never reach him in time.” 
+
+I hear Charlie begin to move and I’m suddenly scared that he was going to leave me. That he has finally heard enough and doesn’t want anything to do with me anymore. I didn’t even allow my eyes to follow him, too scared to find out. But then two arms wrapped around my shoulders and pull me slightly against their chest. It feels warm and soothing, making the next words easier to say. 
+
+But he interceded quietly, “If it’s too hard, you don’t have to force yourself. You don’t need to tell me all at once.” I only shook my head, “I-I need to say this. Because if I don’t say it now, I don’t think I’ll ever have t-the courage to do this again.”
+
+He only nodded and stayed silent again. 
+
+Then I continued slowly, “I wish I didn’t believe this, but I think deep down, I really believe that I killed him. There is this…voice in my head that keeps telling me that my actions left blood on my hands and that I should have taken his place. And some days, I do wish that I could have.” Then the memory of his trademark of smile flickered, and I couldn’t stop my lip from quivering. My body instinctively leaned closer to my friend for comfort. “He w-was such a good person. Do um… do you remember that Alan Watts quote I used to describe him at his funeral?” 
+
+I felt him nod and just knew that he was smiling too in reminiscence. “It’s a faint memory but I can still remember the power of them. How did it go again?”
+
+My nostalgic smile reflected his as I titled my head to gaze at the indigo sky. “ ‘We know that from time to time, there arise among human beings, people who seem to exude love as naturally as the sun gives out heat’ and even though he is gone now, his love still burns brightly in our hearts. And as long as we remember him, as long as we keep him alive in our heart, it will never extinguish.” 
+
+It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really does lift some off your shoulders. “For such a long time, I been trying to put up this front that – the pain you feel. 
+
+
+
+
 
 \-	You know you can talk to me right? About anything. 
 
