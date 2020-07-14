@@ -237,11 +237,191 @@ No. You are the one who is mistaken.
 
 Shaking my head, I only wanted to scream again. I wanted to scream at the voice to be quiet. But I knew that it was pointless. 
 
-“Oh god,” I began to chock out as my tears streamed heavily  The pounding was starting to me feel nauseous and I could only pull myself forward and let my head fall into my lap
+“Oh god,” I began to choke out as the endless tears continued to pour down my cheeks. The pounding was starting to make me feel nauseous and the oxygen around me was disappearing, making my breaths come out shorter and shorter.
+
+It was too humid. The air felt too thick and suffocating. 
+
+It was your fault
+
+I tried to ignore the voice as I tumbled out of the sheets and made my way to the thermostat in the bright hallway. The lights were too bright, and I tried to blink away the haziness so I wouldn’t trip on my own two feet.
+
+Then my eyes widened as I saw the number on the thermostat. It couldn’t get any colder. The A/C was already at its max. Somehow, seeing it felt like the straw that broke the camel’s back. In that moment, I could feel my resistance from the truth seep away. 
+
+It was your fault
+
+My body slid down against the wall and I tried to shake away the noise by covering it up with my own.
+
+“You’re wrong, you’re wrong, you’re...,” but I found myself choking up at the words. And then I was sobbing. I couldn’t control the pain engulfing my mind anymore and I gave in, “…you’re right.”
+
+“Alright?” I finally said between my stifled breaths. “You wanted me to say it, right? To finally admit it aloud?”
+
+Closing my eyes, I tried to steady my breathing and for a moment, my body slumped down completely. 
+
+Then, I slid a knee towards my chest and laid my forehead on it. Breathing was difficult and despite seeing the puffs of cold air from my breaths, my body continued to burn up. But I finally exhaled, “It was my fault.” 
+
+“A-a-and I don’t want to fight you any longer,” I muttered as wiped away the fresh tears from my eyes, “I don’t want to stay above water anymore.”
+
+I was met with silence. 
+
+I couldn’t help but scoff. “Seriously…cat got your tongue or something? This is what you wanted wasn’t it?” 
+
+The voice wasn’t there anymore. 
+
+“SAY SOMETHING,” I finally screamed but instantly felt breathless amidst the stifling air. 
+
+Only silence followed. 
+
+My head finally hit the wall and I hated how easily the fresh streaks stained my face. Then I couldn’t help but whisper, “Please…saying something. What do you want from me?”
+
+It didn’t say anything back.
+
+For some twisted reason, the silence only made it worse. It made me feel most hollow and defeated in the past year and a half. It even prompted me to take out my phone from my back pocket and click on the name of someone who I once made a promise to. 
+
+I’m sorry. Please forgive me.
+
+I thought I would feel better but nothing magical happened. The heaviness in my chest was still there. Maybe some fresh air would do me some good. 
+
+My feet seemed to drag heavily with each step I took to the building. My body felt like it was begging to collapse but my mind was more determined to keep moving. I don’t know why I’m not letting my body rest. Perhaps a subconscious part of my mind is afraid of what would happen if I finally let the exhaustion take over. 
+
+The vibrating of phone was also shaking me from sleep, but I let the noise carry on. I already knew who the caller was and knowing the conversation that would follow, it made me regret sending anything at all. Sighing, I rubbed away the blurriness from my vision until some clarity came back into view. 
+
+Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on the step and my body was falling against the railings. My body ended up making the ultimate decision and I could only hear the vibrations of my phone as brain finally surrenders to the fatigue. The last thought that flew across my mind was the wish for a nightmare free rest. 
+
+
+
+
+
+There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention back. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence and having it get cut short almost made me want to punch whoever the culprit was. 
+
+“Oh thank goodness, you’re not dead. Erin? Can you hear me?”
+
+Huh. Why was he here? 
+
+“Wha- Charlie? What are you doing here?” 
+
+He looked like he was out of breath but his eyes showed…relief? “I thought you were going to do something tremendously stupid. Why were you sleeping on the staircase?”
+
+I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…I was trying to go the rooftop but I guess I fell asleep before I could.”
+
+His eyes widened again before asking cautiously, “Wh-why were you trying to go to the rooftop?”
+
+“Uh…well it getting really humid and hard to breathe so I wanted to catch some fresh air.”
+
+His face relaxed a bit before saying, “That’s it? Nothing else going on that you want to tell me about?”
+
+Why is he asking such cryptic questions? It’s like he knows the answer and wants to catch me in a lie. Regardless of my answer, it will be a catch 22 anyways. Oh wait he’s still waiting for an answer. “I just…I don’t know.”
+
+He looked like he wanted to say something, but he just looked at me for a long moment before sighing. “Alright, well now that I have finally found you, how about we catch up?” Then a small smile appeared before he drew out a hand, “Maybe we can catch the sunrise?”
+
+I couldn’t help but reflect his visage before grabbing onto his hand and pushing myself off the wall. “I can’t remember the last time I’ve seen one.”
+
+He chuckled quietly, “Me neither, my sleep schedule and the sun’s do not match up at all.” 
+
+I shook my head smiling before telling him to wait at the door. Then I came back with a brick to hold the door opened slightly. 
+
+The wind had a light breeze and the sky was still dark, yet a couple of lights around the rooftop allowed us to navigate to the wall against the edge of the building. We both slid down against it and stayed silent for a few moments. I basked in the silence and quiet, the cool air feathering against my warm skin, it almost made me dizzy with how calm I suddenly felt. 
+
+Then Charlie cleared his throat. “So, what have you been up to lately?”
+
+I shrugged noncommittedly, “You know, the usual university stress and shit. But I guess that’s what we pay for right?”
+
+He snorted, “Yeah no kidding.”
+
+Then it was silent again. I could feel the way he wanted to say something but felt conflicted to do so. But then his eyes became focused. “I miss him too.”
+
+Suddenly, everything went tense. Stop talking about him. Even when he isn’t in my head, he’s still there. But I just nodded in agreement. 
+
+“What happened to him was horrible and shouldn’t have ever happened.” Then he turned his body towards me and continued, “But what happened to him is not your fault.”
+
+Wait. What did he just say? My eyes widened and my head whipped towards him before I could replace it. “Wha-ha- wha well yeah of course it isn’t.”
+
+He shook his head. “No you’re not hearing me. His death was not your fault.” 
+
+He was starting to freak me out. Why is he telling me this? In the next moment, I was standing up, trying to make some distance between the two of us. Then, I forced out a chuckle to loosen the tension. “Okay, wh-why are you doing this whole goodwill hunting moment.”
+
+He stood up as well and smiled tensely. “Is it working?”
+
+ “Why are you saying these things?”
+
+He raised his eyebrows looking unimpressed. “You seriously think I drove all the way over here at god knows what hour of the morning to just ‘catch up’?” 
+
+His eyes seemed to bore right into my thoughts, but I pushed back. “That still doesn’t answer my question.” 
+
+He shook his head but started to pull out his phone, “Fine, I will. But if you are as perfectly fine as you are claiming you are, care to explain this text message.” Then he handed me his phone. 
+
+I looked down confused. Why is he acting so weird? Wait, these are our text threads. Oh wait. SHIT. My last message was displayed as clearly as a confession letter. I was too disorientated back then to even process the repercussions of just saying my feelings aloud. How do I even explain this to him? I should just lie and say it was a prank, but it will most likely backfire on me. 
+
+I could only grip the phone tighter in confliction. “It was just…a mistake. Don’t take these kinds of things so seriously.”
+
+He only looked at me with suspicious eyes. Then, he scoffed. “Well, first of all, you are a horrible liar.” Crossing his arms, he continued. “Because two, I have eyes. Anyone who does can see that something is wrong. And three, I’m one of the few people in your life who knows about your massive guilt complex. Who do you think cleared away all those things in your kitchen?”
+
+It took every ounce of me to keep a stoic expression. But I didn’t back down. “Do you know how crazy you sound right now? Who gave you right to decide these things? “
+
+He didn’t speak for a long minute, only staring off the side. Then he spoke quietly, “I saw the calendar,” before leaning his back on the barrier around the building’s edges. “I was looking for you and the door was opened a-and I got worried that something happened. I saw it scattered in a mess of glass.” 
+
+I just listened, not knowing what I could say to him. But even more, I knew that if I started yelling, I would start crying. 
+
+He just sighed heavily as he ran a hand down his face. “I guess it didn’t work out after all, huh? You told me it was helping you feel better. That watching each day pass and acknowledging that you made it through every one of them made you feel better. But I think that you were lying to both of us when you said you are feeling better.”
+
+I couldn’t find the right words anymore. So I just leaned on the railing next to him and stayed silent. For a moment, no one spoke nor moved. I realized that I was holding in a breath when he slowly turned his gaze towards me. A part of myself wanted to challenge his stare but decided in the end to only look away. 
+
+Then he spoke softly, “you know you can talk to me about anything, right? Whatever it is you are going through, I will be here for you.”
+
+My chest suddenly felt heavy but instead of the usual feeling of shame, I felt something warm and comforting bloom inside. It became harder and harder not to cry in front of him. To show him that something was indeed wrong. But to actually say it aloud, that was too terrifying. I had never admitted to someone else how I felt about Grayson’s death. They all say that I’m innocent, just another victim of a senseless shooting, but I’m nothing but a bystander. There were so many things I could have done to prevent him from being fired at, but no one knows that. What will Charlie think of me when he finally realizes that I’m not innocent at all?
+
+I could only whisper, afraid that any louder, he would hear my voice tremble. “You should go.”
+
+“I will. But only when you tell me what’s been eating at you inside.”
+
+Frustrated, I finally turned to him and glared, “Why are you doing this? Seriously, why do you care so much about how I am feeling?”
+
+“Because I’m scared…for you. I’m scared that what ever is I’m scared that is going on is eventually going to get you killed. I didn’t ever want to think that it would be a possibility but all I can see in you is your pain and fear. And as your friend, I can’t just watch you dig yourself into this hole of self-loathing and do nothing.”
+
+You should tell him. But at what cost? If I tell him, I might lose him forever but if I don’t, then I will only be hurting him. Either way, I will be burdening him and even if he doesn’t end up hating me, I will hate myself for sharing my troubles. The dilemma felt physically crushing.  
+
+\-	You know you can talk to me right? About anything. 
+
+\-	Why do you care so much about how I feel
+
+\-	Because I’m scared… no scratch that I’m terrified. Do you know how fast I drove here 
+
+\-	So you only care because you don’t want ot feel guilty
+
+\-	He scoffed, if that’s how you want to put it then, yes, sure fine im doing this because I don’t want to feel guilty as your friend when I find you….I don’t want to lose you
+
+\-	You can’t do anything for me
+
+\-	You seem to have made a decision before even trying to find a solution. You don’t seem to be asking for help 
+
+\-	Look, I’m telling you, you don’t understand how to help me because I don’t even know what to do. .I feel like I’m not even in control of all these thoughts going on in my head. 
+
+
+
+
+
+
+
+
+
+
+
+\-	Friend finds her
+
+\-	She asks why he’s crying 
+
+\-	He says I thought you were going to do something tremendously stupid
+
+\-	
+
+
+
+I don’t have any energy left in me anymore.”
+
+before coughing up. The suffocating air left me
 
 \-	Wonders if Grayson feels happy rn – like how she is right now
 
-\-	She starts to cry  - she feels something wet on her cheeks – tears just falls – all the memories flood back to her mind 
+\-	She starts to cry  - she feels something wet on her cheeks – tears just falls – all the memories flood back to her mind  - SAY SOMETHING 
 
 \-	Starts to feel hot
 
@@ -255,9 +435,45 @@ Shaking my head, I only wanted to scream again. I wanted to scream at the voice 
 
 o	The phone continues ringing
 
+o	no more tears came out. I suddenly felt numb wanting nothing more than to feel something. 
+
 \-	Her friend is calling her name – feels like déjà vu
 
 \-	
+
+
+
+No. This wasn’t his doing. He wouldn’t hurt me. It was definitely karma trying to get the final laugh. Not him. He wasn’t real. He is dead. 
+
+My breathing started to relax and my hands I wanted nothing to do with him anymore. 
+
+ I could only wait for my body to finally relax.  
+
+
+
+
+
+If the sting from the gashes of nail marks on my palm were a reminder
+
+ 
+
+
+
+
+
+The emptiness within mys caused my lips to quiver in anguish.
+
+ You know you can talk to me right? About anything.
+
+You don’t know anything (I whispered)
+
+
+
+
+
+
+
+
 
 No. This wasn’t his doing. He wouldn’t hurt me. It was definitely karma trying to get the final laugh. Not him. He wasn’t real. He is dead. 
 
