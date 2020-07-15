@@ -287,10 +287,6 @@ The vibrating of phone was also shaking me from sleep, but I let the noise carry
 
 Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on the step and my body was falling against the railings. My body ended up making the ultimate decision and I could only hear the vibrations of my phone as brain finally surrenders to the fatigue. The last thought that flew across my mind was the wish for a nightmare free rest. 
 
-
-
-
-
 There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention back. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence and having it get cut short almost made me want to punch whoever the culprit was. 
 
 “Oh thank goodness, you’re not dead. Erin? Can you hear me?”
@@ -403,9 +399,31 @@ I felt him nod and just knew that he was smiling too in reminiscence. “It’s 
 
 My nostalgic smile reflected his as I titled my head to gaze at the indigo sky. “ ‘We know that from time to time, there arise among human beings, people who seem to exude love as naturally as the sun gives out heat’ and even though he is gone now, his love still burns brightly in our hearts. And as long as we remember him, as long as we keep him alive in our heart, it will never extinguish.” 
 
-It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really does lift some off your shoulders. “For such a long time, I been trying to put up this front that – the pain you feel. 
+It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really does lift some off your shoulders. “For such a long time, I been trying to put up this front that I was okay, but the guilt is like a parasite in my soul. I can’t sleep without reliving a nightmare of him. But in these dreams, he doesn’t just die. S-sometimes, he would appear in my dreams and tell me that I am a monster. T-that it was all my f-fault.”
 
+He only pulled me into a tighter embrace as a sob racks through my body. “The nightmares. All of these thoughts. That relentless voice…it just gets loud sometimes.” I could feel my limbs begin to lump lifelessly forward as I let out a deep and shaky sigh, “It’s just…it…it becomes too much. All of this…I just…I want it to go away. I want...I want the pain to go away.” Then I started to cry. No, I started to grieve. 
 
+I felt myself being adjusted so that he could hug me fully and let me sob openly into his shoulder. It went on for minutes, maybe even more, but I didn’t care and just let myself mourn. For Grayson, and the loss of a beautiful human being. For myself, who finally acknowledged all of the lost months that have been swept away by the burden of feeling responsible. 
+
+My heart started to ache, and I instinctively clenched my fist around the fabric above it. “It hurts,” It was barely croaked out in a wrecked and broken whisper. He only held on tighter and rubbed my back gently, “I know.”
+
+“Make it go away.” Only when it was spoken did I realize that it was a stupid and selfish request. I shouldn’t have even let it leave my mouth. But before I had time to worry over how he’d react, I was blindsided when he just said, “I promise.”
+
+But then I recovered and responded, “Don’t. Please don’t make promises you can’t keep.” Then, he pushed me gently off of him and found my eyes before saying with a soft smile. “I don’t.”
+
+I don’t think I blinked for a good thirty seconds because he started to chuckling. It broke me out of my shock and I could only respond wholeheartedly, “…okay.” Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it can make a difference.
+
+His eyes only turned bright, realizing that I actually trusted him enough. His lips only tugged up a wide smile before nodding in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
+
+My eyes followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
+
+But then he broke the silence. 
+
+“Can I ask you something first?” I nodded. “Would you…you know… I mean have you thought about ending it all?” 
+
+It was a hard question. Simply because I never got too close to actually have to make that decision. After some deep thought, I said, “Honestly…it has passed my mind. But that’s it, I’ve never taken any physical actions.” He nodded but I only continued on, “I don’t think I would ever go through with it. Sure, the pain and suffering could disappear if I decided to, but I will only be causing pain to the people I left behind.” Then I smirked and jokingly said, “Plus, I’m paying a lot of college right now and I’m not about to put all of that down the drain.”
+
+He smiled back at the comment but then a serious expression washed over moments later. 
 
 
 
@@ -425,16 +443,6 @@ It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. 
 
 \-	Look, I’m telling you, you don’t understand how to help me because I don’t even know what to do. .I feel like I’m not even in control of all these thoughts going on in my head. 
 
-
-
-
-
-
-
-
-
-
-
 \-	Friend finds her
 
 \-	She asks why he’s crying 
@@ -442,8 +450,6 @@ It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. 
 \-	He says I thought you were going to do something tremendously stupid
 
 \-	
-
-
 
 I don’t have any energy left in me anymore.”
 
@@ -471,39 +477,19 @@ o	no more tears came out. I suddenly felt numb wanting nothing more than to feel
 
 \-	
 
-
-
 No. This wasn’t his doing. He wouldn’t hurt me. It was definitely karma trying to get the final laugh. Not him. He wasn’t real. He is dead. 
 
 My breathing started to relax and my hands I wanted nothing to do with him anymore. 
 
  I could only wait for my body to finally relax.  
 
-
-
-
-
 If the sting from the gashes of nail marks on my palm were a reminder
-
- 
-
-
-
-
 
 The emptiness within mys caused my lips to quiver in anguish.
 
  You know you can talk to me right? About anything.
 
 You don’t know anything (I whispered)
-
-
-
-
-
-
-
-
 
 No. This wasn’t his doing. He wouldn’t hurt me. It was definitely karma trying to get the final laugh. Not him. He wasn’t real. He is dead. 
 
