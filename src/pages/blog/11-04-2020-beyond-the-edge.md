@@ -7,7 +7,7 @@ thumbnail: /images/beyond-the-edge.jpg
 tags:
   - stories
 ---
-Remember to read Solace Part 1: Gasping for Air, Part 2: Shadow and Part 3: Two-Faced beforehand
+Remember to read Solace Part 1: Gasping for Air, Part 2: Shadow and Part 3: Two-Faced first :)
 
 __
 
