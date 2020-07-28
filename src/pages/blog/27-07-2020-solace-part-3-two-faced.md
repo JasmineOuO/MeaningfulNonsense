@@ -8,11 +8,15 @@ tags:
   - solace
   - stories
 ---
+Remember to read Solace Part 1: Gasping for Air, Part 2: Shadow first :)
+
+__
+
 The first thing my eyes noticed as they blinked away the darkness was the neon lights flaring around the atmosphere. The mixture of colours reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. Then, it wasn’t long before my other senses came to life and shocked my nerves to the core. 
 
 My body felt like it was sweating and shivering simultaneously while my taste buds reeked of a metallic concoction. But I tried to ignore the discomfort and shifted my focus to figure out where the hell I was. I let my eyes wander around aimlessly, trying to decipher the code with the combination of images I captured in my mind.  
 
-But a rough shake on my shoulder tore me from my thoughts and a half a moment later, the hand pulled me back and twirled me around. The sudden action caused my feet to leave the balance from the floor and I almost slipped backwards before two strong hands gripped my shoulders to safely plant my feet back down to the ground. I wanted to both shriek and catch my breath at the same time, but the voice I heard made my lungs seize up entirely.
+But a rough shake on my shoulder tore me from my thoughts and a half a moment later, the hand pulled me back and twirled me around. The sudden action caused my feet to leave the balance from the floor and I almost slipped backward before two strong hands gripped my shoulders to safely plant my feet back down to the ground. I wanted to both shriek and catch my breath at the same time, but the voice I heard made my lungs seize up entirely.
 
 The person whose presence never seemed to fade away even though his spirit had already left the world. Yet, here he was. Standing before me looking anything but dead. And perhaps, in that moment, I didn’t want to think about my reality. Maybe I just wanted to drown happily in this hallucination and just forget. And maybe that’s exactly what I decided to do.   
 
@@ -65,8 +69,6 @@ Instinctively, I shifted my head up to see him better before realizing that his 
 My body thrashed violently against the body holding me down. I wanted to run to him. I want to scream out. But the firm hand wouldn’t let me escape, turning my cries into muffled noises. I continued to stare Grayson, but he was getting blurry. My eyes tried to blink away the wave of tears streaming down my face, but it felt hopeless. Then, in the midst of my slow twists and turns to escape from the body holding me down, Grayson’s blurred figure dropped to the ground. 
 
 My body immediately froze as shock pulsated through my body violently and my heart felt like it was tearing apart in agony. I felt like I was going insane and my body couldn’t figure out how to cope with what had just happened. My entire frame was trembling, and a gateway of tears could not stop flooding down my face. Then, the familiar dizziness returned once again. But it only appeared for a couple of seconds before darkness consumed me. 
-
-
 
 There were soft whispers being spoken, yet the voice was loud enough to slowly break away the unconsciousness dragging me down. My eyes started to blink slowly, before the gentle undertones became clearer and brighter. 
 
@@ -141,10 +143,6 @@ Why do I keep seeing him? What kind of sick joke is my mind playing at? How do I
 My head started to spin but I instinctively closed my eyes and waited for the dizziness to fade away. Then, I straightened up the backpack around my shoulders before leaning my entire weight back on the wall. 
 
 “Let me breathe,” I choked out in a cracked whisper. I didn’t know who I was trying to plead with anymore.  But I couldn’t bring myself to care any longer. It was too exhausting. 
-
-
-
-
 
 My fingers had warmed up by the time I reached my apartment door. The wind had finally settled down, but I had to brush away the strands of hair blown across my face. Afterwards, I punched in the code to the keypad. It took more than one attempt since the weariness was making my eyes heavy.
 
