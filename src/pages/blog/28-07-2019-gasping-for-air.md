@@ -138,8 +138,20 @@ The skies seemed to agree as beads of water fell over the crowd. One by one, the
 
 A candle of remembrance should never have been lit for anyone. No one should have died to begin with. 
 
+Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. When their death really begins to settle in, it can really leave you speechless and hollow.
 
+Oh god…what have I done?
 
+Then the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when I start, they wouldn’t end.
 
+When I tried to distract myself by looking at the sky, the dark clouds were only growing bigger and bigger. The rain was beginning to splash more rapidly over my skin, almost drowning me. I couldn’t even feel my own tears falling anymore. Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain only poured harder and heavier, and I looked around as cries of grief began to echo throughout the crowd. However, the much of the sounds were quickly drowned out by the sound of the rainstorm. 
 
- It could almost leave you feeling speechless with how hollow your world felt without them.
+There was a fierceness to it that when the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried by the strong winds shrieking against our ears.
+
+Then… I began to feel it.
+
+It was if with every howling wind and the droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
+
+Then I looked up again and with pleading eyes and tears that I couldn’t even feel fall, I couldn’t only think of one thing to say.
+
+I’m sorry.
