@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: Gasping For Air
+title: 'Solace Part 1: Gasping For Air'
 label: Air
 date: 2019-07-29T00:42:50.138Z
 thumbnail: /images/editgasping-for-air.jpg
