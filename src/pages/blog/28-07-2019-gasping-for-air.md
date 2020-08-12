@@ -82,41 +82,41 @@ My body suddenly went lax and it felt like everyone else in the room could only 
 
 His words took a moment to process. To understand. But then it did, and I found the sudden strength to tear away from the officers pulling my back and lunge towards him. When my knuckles smashed into his face, I didn’t feel the impact. But the distinct crack that came from his nose was enough for me to know that he felt it. 
 
-Immediately, multiple arms were restraining me, but it didn’t stop me from screaming, “You f\*cking b\*tch. You did this for fame?!”
+Immediately, multiple arms were restraining me, but it didn’t stop me from screaming, “You f\*cking b\*tch. You did this for *fame*?!”
 
-He didn’t have his hands to wipe away the blood that was gushing from his nose, but the man didn’t seem to care. “To put it simply, yes” Then he was smiling again, “But if it makes you feel better, your boy wasn’t anything special. He wasn’t a target or anything. If he weren’t there last night, he would still be well and breathing.”
+He didn’t have his hands to wipe away the blood that was gushing from his nose, but the man didn’t seem to care. “To put it simply, yes,” then he was smiling again, “but if it makes you feel any better, your boy wasn’t anything special. He wasn’t a target or anything. If he weren’t there last night, he would still be well and breathing.”
 
 This time, the detective spoke up, “You’re saying that they were random targets. You just wanted maximum casualties.”  
 
-The man just rolled his eyes, “Why did you think we all confessed? We wanted to get caught. We wanted this to be national tragedy,” Then he started to chuckle, “The world will be grieving, and our faces will be the ones etched into the memory of every single person. We will never be forgotten.”
+The man just rolled his eyes, “Why did you think we all confessed? We *wanted* to get caught. We *wanted* this to be a national tragedy.” Then he started to chuckle, “The world will be grieving, and *our* faces will be the ones etched into the memory of every single person. We will *never* be forgotten.”
 
-It soon turned into a laugh, “What could be better than that!” 
+It soon turned into laughter, “What could be better than that!” 
 
-However, I couldn’t find myself listening to those words, my mind was unable to move on from what he had said before the detective interceded. If he weren’t there…
+However, I couldn’t find myself listening to those words. My mind was unable to move on from what he had said before the detective interceded. *If he weren’t there…*
 
 Then my eyes widened and the way my question came out sounded like I was pleading, “You’re saying that if he didn’t go there last night, he would have been okay? He would have still been alive?” 
 
 But then the detective was ordering the officers to pull the two of us away from each other. However, even when the shooter was forced to turn away, his head still twisted to meet my eyes. Then he sneered, “They were all dead the moment they walked in.”
 
-The moment they walked in… If I hadn’t…
+*The moment they walked in… If I hadn’t…*
 
-But the detective shook me out of my thoughts after she asked the officers to release their grip on me. But when I didn’t make any motion to move, the detective took my hand and walked me over to a less crowded area. 
+The detective shook me out of my thoughts after asking the officers to release their grip on me. But when I didn’t make any motion to move, the detective took my hand and walked me over to a less crowded area. 
 
-She had a gentle voice and a kind smile, but it didn’t seem to quite reach the eyes. The detective tried to explain that he was mentally ill and that I should not listen to his words. But it wasn’t able to wash the shock off of my face. It somehow made it worse. She was just trying sugar-coat the elephant in the room. 
+She had a gentle voice and a kind smile, but it didn’t seem to quite reach her eyes. The detective tried to explain that he was mentally ill and that I should not listen to his words. But it wasn’t able to wash the shock off of my face. It somehow made it worse. She was just trying to sugar-coat the elephant in the room. 
 
-That his death could have been avoided. If I had not convinced him to go then…then Grayson would still be…
+That his death could have been avoided. If I had not *convinced* him to go then…then *Grayson would still be*…
 
-“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out; there were dark clouds immerse across the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feel of melancholy that pushed away my previous adrenaline. The loss made me painfully aware of the aching radiating from my hand. It made me feel bruised inside. 
+“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out; there were dark clouds immerse across the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The loss made me painfully aware of the ache radiating from my hand. 
 
-The ache was strong, and the air gradually grew thicker and heavier to breathe in. At the same time, my mind and body felt strangely disconnected. I was no longer in control of my motor skills and I could only wait helplessly for my body to calm down. 
+The pain was only getting stronger, and the air gradually grew thicker and heavier to breathe in. Yet, at the same time, my mind and body felt strangely disconnected. I was no longer in control of my motor skills and I could only wait helplessly for my body to calm down. 
 
-Did everyone else think the same thing? Has everyone just been lying to me?
+*Did everyone else think the same thing? Has everyone just been lying to me?*
 
-Then, I could feel my breath hitch and I was suffocating. It was as if I was drowning without water. But it didn’t even bother me, not when there was only one thought scrambling and screaming in my mind.
+Then, my breath hitched, and I was suffocating. It was as if I was drowning without water. But the discomfort didn’t even bother me. Not when there was only one thought scrambling and screaming in my mind.
 
-Did I get my best friend killed?
+*Did I get my best friend killed?*
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+___
 
 When nightfall had finally approached, there were thousands of people gathered together. The entire city had come together for the memorial. It would have been beautiful to watch from a bird’s eye view; thousand and thousands of candle lights glowing in the dark that flowed endlessly down the streets. Yet no one could bring themselves to smile at the sight, there was just too much pain painted in our hearts.  
 
