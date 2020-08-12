@@ -50,37 +50,37 @@ It was silent for a long moment as he raised his head to look away. Then, he lea
 
 Then he exhaled a shaky breath, “So that’s what we’ll do. Even without him, we will keep on living…for him.”
 
+___
 
+It was already the next morning, and the news of the club shooting had blown up across the nation. The city was mourning, and everyone was on edge. Several suspects had been arrested and the police had called in dozens of people who were present last night that might be able to identify them properly. I was one of them. 
 
-It was already the next morning and news of the club shooting had blown up across the nation. The city was mourning, and everyone was on edge. Several suspects had been arrested and the police had called in dozens of people who were present last night that might be able to identify them properly. I was one of them. 
+The call had come in about an hour ago and now, I found myself standing nervously in front of a one-way mirror. There was a woman who had previously introduced herself as a detective and two other men who wore police uniforms present as well. I was unconsciously clenching and unclenching my fists to deal with the anxiety pooling in my stomach. But I stopped when the detective put a gentle hand on my shoulder and encouraged me to take a deep breath. 
 
-The call had come in about an hour ago and now I found myself standing nervously in front of one-way mirror. There was a woman who had previously introduced herself as a detective and two other men who wore police uniforms. I was unconsciously clenching and unclenching my fists to deal with the anxiety pooling in my stomach. But I stopped when the detective put a gentle hand on my shoulder and encouraged me to take a deep breath. 
+Then she told me some news that surprised me. She said that almost all of the shooters had confessed fully to their crimes with no resistance. But she still wanted me to identify the specific man who had killed Grayson. Something about familial closure and making sure that there was an air-tight case in court. 
 
-Then she told me some news that surprised me. She said that almost all of the shooters have confessed fully to their crimes with almost no resistance. But she still wanted me to identify the specific man who killed my friend. Something about familial closure and making sure that there was an air-tight case in court. 
+I only nodded before the detective pressed a button and six people walked out in a line. My eyes slowly scanned each person, trying to match a face to the memory. But then, my eyes flickered over the fifth person and they quickly widened. The build and hair were familiar but more importantly, the smirk plastered over his smile was uncanny. It was the same expression etched into my memory of that night. Nevertheless, I tried my best not to freak out. It was important for me to look at each person thoroughly because my answer could not be emotional but factual. If I got this wrong, Grayson’s death would never get the justice it deserved. But in the end, after taking one last look, I was certain. 
 
-I just nodded before the detective pressed a button and six people walked out in a line. My eyes slowly scanned each person, trying to match a face to the memory. But then, my eyes flickered over the fifth person and they quickly widened. The build and hair were familiar but more importantly, the smirk plastered over his smile was uncanny. It was the same expression etched into my memory of that night. Nevertheless, I tried my best not to freak out. It was important for me to look at each person thoroughly because my answer cannot be emotional but factual. If I got this wrong, Grayson’s death will never get the justice it deserves. But in the end, after taking one last look, I was certain. 
-
-Afterwards, the fifth person was been cuffed while the rest of the people walked back to another room. He was going to be escorted out back into the hallway and when he disappears, I won’t ever get the chance to talk to him. 
+Afterward, the fifth person was being cuffed while the rest of the people walked back to another room. He was going to be escorted out back into the hallway and when he disappears, I would never get the chance to talk to him. 
 
 So, I turned and asked quietly, “I need to speak with that man.”
 
-But the woman just shook her head sadly, “I don’t think that’s a good idea. You have just been through an enormous loss and he will only prey on your vulnerability to make himself feel powerful.”
+But the woman just shook her head, “I don’t think that’s a good idea. You have just been through an enormous loss and he will only prey on your vulnerability to make himself feel powerful.”
 
-A rebuttal was lingering just on the tip of my tongue, but I knew that there was no point in arguing. It was just a waste of precious time where I could try another tactic instead. So, I just nodded solemnly and walked calmly out the room. 
+A rebuttal was lingering on the tip of my tongue, but I knew that there was no point in arguing. It was just a waste of precious time where I could try another tactic instead. So, instead, I just nodded solemnly and walked calmly out of the room. 
 
-Then, without warning, I twisted my body away from the direction to the front door and moved towards the cuffed man. His face morphed into shock for a few seconds when I grabbed onto his jacket collar to turn him around. There were hints of confusion apparent in his eyes but when I demanded what he gained from this, why he had to shoot down an innocent person, his expression brightened up. 
+Then, without warning, I twisted my body away from the direction of the front door and moved towards the cuffed man. His face morphed into shock for a few seconds when I grabbed onto his jacket collar to turn him around. There were hints of confusion apparent in his eyes but when I all but demanded what he gained from this, why he had to shoot down an innocent person, his expression brightened up. 
 
-The vile smirk was back on his face, “You were the one in that room.” 
+The vile smirk was back on his face. “You were the one in that room.” 
 
-I didn’t say anything back, my body itching to wipe away that expression with my fist. But then there were arms trying to pull me off of him. 
+I didn’t say anything back, my body was itching to wipe off that expression with my fist. But then there were arms trying to pull me off of him. 
 
-“I should thank you then,” he announced with a patronizing voice, “I will never be forgotten after today.”
+“I should thank you then,” he announced, with a patronizing tone that made my hand twitch. “I will never be forgotten after today.”
 
-What…
+*What…*
 
-My body suddenly went lax and it felt like everyone else in room could only watch the commotion motionlessly. 
+My body suddenly went lax and it felt like everyone else in the room could only watch the commotion motionlessly. 
 
-His words took a moment to process. To understand. But then it did, and I found the sudden strength to tear away from the officers pulling my back and lunge towards him. When my knuckles smashed into his face, I didn’t feel the impact, but the distinct crack that came from his nose was enough for me to know that he felt it. 
+His words took a moment to process. To understand. But then it did, and I found the sudden strength to tear away from the officers pulling my back and lunge towards him. When my knuckles smashed into his face, I didn’t feel the impact. But the distinct crack that came from his nose was enough for me to know that he felt it. 
 
 Immediately, multiple arms were restraining me, but it didn’t stop me from screaming, “You f\*cking b\*tch. You did this for fame?!”
 
