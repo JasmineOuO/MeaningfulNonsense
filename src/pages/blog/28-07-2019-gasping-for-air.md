@@ -112,13 +112,11 @@ That his death could have been avoided.
 
  If I had not *convinced* him to go then…then Grayson would still be…
 
-“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out; only dark clouds were present and were immersing rapidly across the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The loss made me painfully aware of the ache radiating from my hand. 
+“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out, and only dark clouds covered the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The abrupt loss made me painfully aware of the ache radiating from my hand and only seemed to grow stronger as I continued to stand there.
 
-The pain was only getting stronger while the air grew thicker and heavier to breathe in. Yet, at the same time, my mind and body felt strangely disconnected. I was no longer in control of my motor skills and I could only wait helplessly for my body to calm down. 
+*Does everyone else think the same thing? Had everyone just been lying to me?*
 
-*Did everyone else think the same thing? Had everyone just been lying to me?*
-
-Then, my breath hitched, and I was suffocating. It was as if I was drowning without water. But the discomfort didn’t even bother me. Not when there was only one thought scrambling and screaming in my mind.
+Then, my breath hitched, and the air disappeared. I felt like I was suffocating. It was as if I was drowning without water. But the discomfort didn’t even bother me. Not when there was only one thought scrambling and screaming in my mind.
 
 *Did I get my best friend killed?*
 
@@ -130,7 +128,7 @@ I was quite close to the front, where hundreds of flowers, as well as framed pic
 
 *“Today is a day of remembrance. Not for their death but for their life. …the loss is immeasurable but so is the love left behind. So let us not allow their death to extinguish the gifts of goodness they have brought into this world. …as long as we continue to burn this light brightly in our hearts, their love will continue to live on with us.”*
 
-Minutes had gone by after the service ended, yet the crowd hadn’t moved. No one had the intention to walk away. It felt unnatural to just turn away and return back to their new “normal”; one where their loved ones no longer existed. No one had the strength to just…move on. 
+Minutes had gone by after the service ended, yet, the crowd hadn’t moved. No one had the intention to walk away. It felt unnatural to just turn away and return back to their new “normal”; one where their loved ones no longer existed. No one had the strength to just…move on. 
 
 When I looked down, the candlelight vigil was still burning warmly in between my palms. This candle was in remembrance of him. This candle…it shouldn’t have even existed. 
 
@@ -138,24 +136,26 @@ He would have been standing right next to me today, remembering the other lost v
 
 The skies seemed to have agreed as beads of water began to fall over the crowd. One by one, the fire burning on each wick was extinguished. Then, as the rain poured faster and harder, the world suddenly felt so dark. So defeated. 
 
-*A candle of remembrance should have never been lit for anyone. No one should have died to begin with.* 
+A candle of remembrance should have never been lit for anyone. No one should have died to begin with. 
 
-Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. It really left me speechless and hollow.
+Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. It was like having your breath taken away from you.
 
 *Oh god…what have I done?*
 
 Soon after, the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when they start, they wouldn’t end.
 
-Even when I tried to distract myself by looking at the sky, the dark clouds only seemed to grow bigger and bigger. The rain was beginning to splash more rapidly over my skin, making it difficult to breathe. I couldn’t even feel my own tears falling anymore. 
+Even when I tried to distract myself by looking at the sky, the dark clouds only seemed to grow bigger and bigger. Even the rain continued to splash more rapidly over my skin, making it difficult to breathe. I couldn’t even feel my own tears falling anymore. 
 
-Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain only poured harder and heavier, and I looked around when cries of grief began to echo throughout the crowd. However, much of the sounds were quickly drowned out by the rainstorm. 
+Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain just poured harder and heavier, and only my eyes moved when cries of grief began to echo throughout the crowd. Nevertheless, much of the sounds were quickly drowned out by the rainstorm. 
 
 There was a fierceness to it that whenever the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried off by the strong winds shrieking against my ears.
 
 Then… I began to feel it.
 
-It was as if with every howling wind and every droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
+It was as if with every howling wind and every droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent.
 
-Then I looked up again. And with pleading eyes and tears that were no longer felt streaking down my face, I could only think of one thing to say.
+ It was in so much pain. 
+
+Then I looked up again. And with pleading eyes and washed-away tears, I could only think of one thing to say. 
 
 *I’m sorry.*
