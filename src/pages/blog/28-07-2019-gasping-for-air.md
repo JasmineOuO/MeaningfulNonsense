@@ -132,24 +132,24 @@ He would have been standing right next to me today, remembering the other lost v
 
 The skies seemed to have agreed as beads of water began to fall over the crowd. One by one, the fire burning on each wick was extinguished. Then, as the rain poured faster and harder, the world suddenly felt so dark. So defeated. 
 
-A candle of remembrance should have never been lit for anyone. No one should have died to begin with. 
+*A candle of remembrance should have never been lit for anyone. No one should have died to begin with.* 
 
 Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. It really left me speechless and hollow.
 
 *Oh god…what have I done?*
 
-Then the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when they start, they wouldn’t end.
+Soon after, the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when they start, they wouldn’t end.
 
 Even when I tried to distract myself by looking at the sky, the dark clouds only seemed to grow bigger and bigger. The rain was beginning to splash more rapidly over my skin, making it difficult to breathe. I couldn’t even feel my own tears falling anymore. 
 
 Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain only poured harder and heavier, and I looked around when cries of grief began to echo throughout the crowd. However, much of the sounds were quickly drowned out by the rainstorm. 
 
-There was a fierceness to it that when the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried by the strong winds shrieking against my ears.
+There was a fierceness to it that whenever the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried off by the strong winds shrieking against my ears.
 
 Then… I began to feel it.
 
-It was if with every howling wind and the droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
+It was as if with every howling wind and droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
 
-Then I looked up again and with pleading eyes and tears that I couldn’t even feel fall, I couldn’t only think of one thing to say.
+Then I looked up again. And with pleading eyes and tears that could no longer be felt streaking down my face, I could only think of one thing to say.
 
-I’m sorry.
+*I’m sorry.*
