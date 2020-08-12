@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: 'Solace Part 1: Gasping For Air'
+title: "Solace Part 1: Gasping For Air"
 label: Air
 date: 2019-07-29T00:42:50.138Z
 thumbnail: /images/editgasping-for-air.jpg
@@ -8,11 +8,11 @@ tags:
   - stories
   - solace
 ---
-Sometimes, the scariest nightmares are the ones that you never find yourself waking up from. The ones where you realize that it was not a nightmare at all. Even when you try so desperately to gasp for air and drift back to the plush covers of your bed, nothing changes. The numbing feeling within the pit of your stomach remains and faded screams are the only sounds ringing breathlessly against your ear. 
+Sometimes, the scariest nightmares are the ones that you never find yourself waking up from. The ones where you realize that it was not a nightmare at all. Even when you try so desperately to gasp for air and drift back to the plush covers of your bed, nothing changes. The numb feeling within the pit of your stomach remains and faded screams are the only sounds ringing breathlessly against your ear. 
 
-I could still feel the dampness of his blood. Grayson’s blood. It splayed on my sweater and had dried when the ambulance eventually arrived to the hospital. After watching him transported to the ER, I immediately found myself staring at my distraught reflection in their pristine washroom. The dried blood plastered on my hands was beginning to wash away under the steaming water. My skin felt raw with how harshly I tried to rub blood stuck in the crevices of my skin but soon enough, it was clean and flushed in a red hue. 
+I could still feel the dampness of his blood. *Oh god*. Grayson’sblood. It splayed on my sweater and had dried when the ambulance eventually arrived to the hospital. After watching him transported to the ER, I immediately found myself staring at my distraught reflection in their pristine washroom. The dried blood plastered on my hands was beginning to wash away under the steaming water. My skin felt raw with how harshly I was trying to rub the blood stuck in the crevices of my skin but soon enough, it was clean and flushed in a red hue. 
 
-When I walked back to the waiting area, friends and family were both waiting. No one spoke much. Some were too shocked to even move while others were comforting each other in quiet whispers. When I finally took a seat next to one my friends Charlie, he just took my hand and squeezed it tightly. It should have been reassuring but a part of myself just felt numb. The emotions that I experienced during the past few hours had been so overwhelming that I couldn’t even process my feelings properly anymore. I could hear him whisper words for a little bit, only catching a few words of make it through, okay, don’t worry. But eventually, he stopped when I noticed I wasn’t listening very closely. 
+When I walked back to the waiting area, friends and family were both waiting. No one spoke much. Some were too shocked to even move while others were comforting each other in quiet whispers. When I finally took a seat next to my friends Charlie, he just took my hand and squeezed it tightly. It should have been reassuring but a part of myself just felt numb. The emotions that I experienced during the past few hours had been so overwhelming that I couldn’t even process my feelings properly anymore. I could hear him whisper words for a little bit, only catching a few words of make it through, okay, don’t worry. But eventually, he stopped when I noticed I wasn’t listening very closely. 
 
 I didn’t know where my head went for the next few hours. But it kept my emotions at bay and made the time to go by faster. I wouldn’t allow myself to think of the results. It would have only ended in a massive panic episode and caused a butterfly effect of distress and anxiety. It was almost three in the morning when the felt someone shake me hastily. I raised my head and saw a doctor walking towards our area, he looked tired but his visage set in a stoic expression. Then one of the family members, it must have been the mom, was running towards him and pleading him from an answer. The doctor put a hand over the one that was grasping onto his sleeve and they exchange a quiet conversation that was missed by our ears. 
 
@@ -47,12 +47,6 @@ I never thought that I would have to do that.
 It was silent for a long moment as he raised his head to look away. Then, he leaned back and said with a resigned voice, “Yeah you’re right. I don’t know. But I do know Grayson, and he wouldn’t want us to stop living because of him. He…he would want us to keep living.” 
 
 Then he exhaled a shaky breath, “So that’s what we’ll do. Even without him, we will keep on living…for him.”
-
-
-
-
-
-
 
 It was already the next morning and news of the club shooting had blown up across the nation. The city was mourning, and everyone was on edge. Several suspects had been arrested and the police had called in dozens of people who were present last night that might be able to identify them properly. I was one of them. 
 
@@ -119,8 +113,6 @@ Then, I could feel my breath hitch and I was suffocating. It was as if I was dro
 Did I get my best friend killed?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 When nightfall had finally approached, there were thousands of people gathered together. The entire city had come together for the memorial. It would have been beautiful to watch from a bird’s eye view; thousand and thousands of candle lights glowing in the dark that flowed endlessly down the streets. Yet no one could bring themselves to smile at the sight, there was just too much pain painted in our hearts.  
 
