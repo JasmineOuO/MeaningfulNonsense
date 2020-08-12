@@ -108,9 +108,9 @@ That his death could have been avoided. If I had not *convinced* him to go then�
 
 “I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out; there were dark clouds immerse across the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The loss made me painfully aware of the ache radiating from my hand. 
 
-The pain was only getting stronger, and the air gradually grew thicker and heavier to breathe in. Yet, at the same time, my mind and body felt strangely disconnected. I was no longer in control of my motor skills and I could only wait helplessly for my body to calm down. 
+The pain was only getting stronger while the air grew thicker and heavier to breathe in. Yet, at the same time, my mind and body felt strangely disconnected. I was no longer in control of my motor skills and I could only wait helplessly for my body to calm down. 
 
-*Did everyone else think the same thing? Has everyone just been lying to me?*
+*Did everyone else think the same thing? Had everyone just been lying to me?*
 
 Then, my breath hitched, and I was suffocating. It was as if I was drowning without water. But the discomfort didn’t even bother me. Not when there was only one thought scrambling and screaming in my mind.
 
@@ -118,31 +118,33 @@ Then, my breath hitched, and I was suffocating. It was as if I was drowning with
 
 ___
 
-When nightfall had finally approached, there were thousands of people gathered together. The entire city had come together for the memorial. It would have been beautiful to watch from a bird’s eye view; thousand and thousands of candle lights glowing in the dark that flowed endlessly down the streets. Yet no one could bring themselves to smile at the sight, there was just too much pain painted in our hearts.  
+When nightfall had finally approached, there were thousands of people gathered together. The entire city had come together for the memorial. It would have been beautiful to watch from a bird’s eye view; thousand and thousands of candle lights glowing in the dark which flowed endlessly down the streets. Yet no one could bring themselves to smile at the sight, there was just too much pain painted in our hearts.  
 
-I was quite close to the front, where hundreds of flowers as well as framed pictures of victims were strewn around. The memorial lasted a little over two hours and the mayor had closed off the ceremony with a memorable speech that somehow parts of it had forged its way into my mind and lingered there. 
+I was quite close to the front, where hundreds of flowers, as well as framed pictures of victims, were strewn around. The memorial lasted a little over two hours and the mayor had closed off the ceremony with a memorable speech. One where parts of it had forged its way into my mind and lingered. 
 
-“Today is a day of remembrance. Not for their death but for their life. …the loss is immeasurable but so is the love left behind. So let us not allow their death to extinguish the gifts of goodness they have brought into this world. …as long as we continue to burn this light brightly in our hearts, their love will continue to live on with us.”
+*“Today is a day of remembrance. Not for their death but for their life. …the loss is immeasurable but so is the love left behind. So let us not allow their death to extinguish the gifts of goodness they have brought into this world. …as long as we continue to burn this light brightly in our hearts, their love will continue to live on with us.”*
 
-Minutes had gone by after the service ended, yet the crowd hadn’t moved. No one had the intention to walk away. It felt unnatural to just turn away and return back to their new “normal”; one where their loved ones no longer exist. No one had the strength to just…move on. 
+Minutes had gone by after the service ended, yet the crowd hadn’t moved. No one had the intention to walk away. It felt unnatural to just turn away and return back to their new “normal”; one where their loved ones no longer existed. No one had the strength to just…move on. 
 
 When I looked down, the candlelight vigil was still burning warmly in between my palms. This candle was in remembrance of him. This candle…it shouldn’t have even existed. 
 
-He would have been standing right beside me today, remembering the other lost victims. We would have both lit a candle in remembrance of someone else. A candle of remembrance for him should have never existed in the first place. He should have never been killed in the first place.
+He would have been standing right next to me today, remembering the other lost victims. We would have both lit a candle in remembrance of someone else. A candle of remembrance for him should have never existed in the first place. He should have never been killed in the first place.
 
-The skies seemed to agree as beads of water fell over the crowd. One by one, the fire burning on each wick extinguished. Then, as the rain poured faster and harder, the world suddenly felt so dark. So defeated. 
+The skies seemed to have agreed as beads of water began to fall over the crowd. One by one, the fire burning on each wick was extinguished. Then, as the rain poured faster and harder, the world suddenly felt so dark. So defeated. 
 
-A candle of remembrance should never have been lit for anyone. No one should have died to begin with. 
+A candle of remembrance should have never been lit for anyone. No one should have died to begin with. 
 
-Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. When their death really begins to settle in, it can really leave you speechless and hollow.
+Then, an immense emotion of loss wrecked through me and the feeling was almost surreal. It really left me speechless and hollow.
 
-Oh god…what have I done?
+*Oh god…what have I done?*
 
-Then the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when I start, they wouldn’t end.
+Then the tears began to fall. Unwanted ones. I had been trying to hold them back for the entire day, knowing that when they start, they wouldn’t end.
 
-When I tried to distract myself by looking at the sky, the dark clouds were only growing bigger and bigger. The rain was beginning to splash more rapidly over my skin, almost drowning me. I couldn’t even feel my own tears falling anymore. Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain only poured harder and heavier, and I looked around as cries of grief began to echo throughout the crowd. However, the much of the sounds were quickly drowned out by the sound of the rainstorm. 
+Even when I tried to distract myself by looking at the sky, the dark clouds only seemed to grow bigger and bigger. The rain was beginning to splash more rapidly over my skin, making it difficult to breathe. I couldn’t even feel my own tears falling anymore. 
 
-There was a fierceness to it that when the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried by the strong winds shrieking against our ears.
+Yet, I didn’t move. Neither did anyone else. As minutes dragged on, the rain only poured harder and heavier, and I looked around when cries of grief began to echo throughout the crowd. However, much of the sounds were quickly drowned out by the rainstorm. 
+
+There was a fierceness to it that when the water touched my skin, it stung. Even the petals on the flowers were falling off from the pressure and many were being carried by the strong winds shrieking against my ears.
 
 Then… I began to feel it.
 
