@@ -148,8 +148,8 @@ There was a fierceness to it that whenever the water touched my skin, it stung. 
 
 Then… I began to feel it.
 
-It was as if with every howling wind and droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
+It was as if with every howling wind and every droplet of rain that continued to flood the city, I could feel the Earth mourning. For the loss of life. For the shortened life of the innocent. It was in so much pain. 
 
-Then I looked up again. And with pleading eyes and tears that could no longer be felt streaking down my face, I could only think of one thing to say.
+Then I looked up again. And with pleading eyes and tears that were no longer felt streaking down my face, I could only think of one thing to say.
 
 *I’m sorry.*
