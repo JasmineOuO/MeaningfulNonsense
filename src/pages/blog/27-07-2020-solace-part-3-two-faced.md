@@ -22,33 +22,35 @@ But a rough shake on my shoulder tore me from my thoughts and half a moment late
 
 The person whose presence never seemed to fade away even when his soul had already left this world. Yet, here he was. Standing before me looking anything but dead. And perhaps, in that moment, I didn’t want to think about my reality. Maybe, I just wanted to drown happily in this hallucination and just forget. And maybe that’s exactly what I decided to do.   
 
- “Woah, are you okay? I’ve been calling your name too many times, I’ve lost count already,” Grayson shouted through the booming sounds falling over us. His eyes were brimming with concern as the rest of his visage stayed the same; tan skin that made his white shirt glow brightly and the mixed scent of dove soap and liquor.
+ “Woah, are you okay? I’ve been calling your name too many times, I’ve lost count already,” Grayson shouted through the booming sounds falling over us. His eyes were brimming with concern but the rest of his visage stayed the same; tan skin that made his white shirt glow brightly and the mixed scent of dove soap and liquor.
 
-I couldn’t help myself from brushing fingers against his freckled face. Just so that my mind could feel him. To feel the actual flesh against my palm. So I could really make sure that he was there, that he wasn’t some twisted illusion or ghost in front of me. Then I breathed out a smile before wrapping my arms around him in a tight embrace. I couldn’t describe the raw happiness and relief that washed over me, but I felt an unsteadiness to the feeling. 
+I couldn’t help myself from brushing fingers against his freckled face. Just so that my mind could feel him. To feel the actual flesh against my palm. I needed to know that he was really there, that he wasn’t some twisted illusion or ghost in front of me. 
 
-His arms came around me and a hand gently began to rub my back. Then his voice filled my ears, “Did something happen?” The question made me instantly let go, because hearing the words made me realize that I was sick of hearing him speak this way. Always filled with sadness or concern. There was never a glimpse of joy and I was prepared to do anything just to see him crack a genuine smile and let his infectious laugh ring over and over again in my mind.  
+Then I breathed out a smile before wrapping my arms around him in a tight embrace. I couldn’t describe the raw happiness and relief that washed over me, but I felt an unsteadiness to the feeling. 
 
-“Woah, sorry I jumped you like that. I just needed to hide from this drunk dude that was trying to pull me to the dance floor.” I answered sheepishly as I let my eyes wander behind him. 
+His arms came around me and a hand gently began to patted my back. Then his voice filled my ears, “Did something happen?” The question made me instantly let go, because hearing the words made me realize that I was sick of hearing him speak this way. A voice always filled with sadness or concern. There was never a glimpse of joy and I was prepared to do anything just to see him crack a genuine smile and let his infectious laugh ring over and over again in my mind.  
 
-He looked behind his back for a moment before turning around and speaking with a laughter that made my heart glow. “Wait, wait, wait, wait…a guy here was trying to hit on you? This is a gay bar, right?” His laughter only grew, and I couldn’t help but join him. I didn’t dare stop him. Not when the sound that echoed in my ears was miraculously making me feel…alive again.  
+“Wow, sorry I jumped you like that. I just needed to hide from this drunk dude that was trying to pull me to the dance floor,” I answered sheepishly as I let my eyes wander behind him. 
+
+He looked behind his back for a moment before turning around and speaking with a laughter that made my heart glow. “Wait, wait, wait, wait…a guy *here* was trying to hit on you? This is a gay bar, right?” His laughter only grew, and I couldn’t help but join him. I didn’t dare stop him. Not when the sound that echoed in my ears was miraculously making me feel…alive again.  
 
 Then, the laughter died down and he spoke again, “Well, if you see that person again, don’t hesitate to say that you are actually here with your husband and we are just trying something different.”
 
-It was finally my turn to burst out laughing. God, I forgot how good that felt. 
+It was finally my turn to burst out laughing. 
 
 He continued to wear his carefree smile as he said, “Why don’t you go find us some seats and I’ll get us something strong and hang-over worthy?”
 
-I couldn’t help reflecting his expression before nodding and replying, “Sounds good.” Then turned my heels and allowed my body to lead me away from him. 
+I couldn’t help reflecting his expression before nodding and replying, “Sounds good.” Then, I turned my heels and allowed my body to lead me away from him. 
 
-Yet each step I took felt strained, as if an invisible force was grabbing onto my ankles. But when my eyes travelled down to my feet, only a pool of darkness could be seen. I tried to focus my eyes and catch a glimpse, but my mind felt hazy, as if it were floating up in the clouds. Confusion unravelled in me as I tried to remember what I was doing before I saw Grayson. But that only made my head feel heavier.
+Yet each step I took felt strained, as if an invisible force was grabbing onto my ankles. But when my eyes traveled down to my feet, only a pool of darkness could be seen. I tried to focus my eyes and catch a glimpse, but my mind felt hazy, as if they were floating up in the clouds. Confusion unraveled in me when I tried to remember what I was doing before I saw Grayson. But that only made my head feel heavier.
 
- I wanted to believe that it was just the adrenaline pumping through my veins, but something felt off. And as I tried to take another step forward, my body had to fight off the abrupt whirl of dizziness that engulfed my mind. Then suddenly, the music began to fall; only to be silenced by the heavy thumping of my own heart.  
+ I wanted to believe that it was just the adrenaline pumping through my veins, but something felt off. And as I tried to take another step forward, my body had to fight off the abrupt whirl of dizziness that engulfed my mind. Then, suddenly, the music began to fall; only to be silenced by the heavy thumping of my own heart.  
 
 But a terrifying scream tore me away from the feeling and my head snapped back. There were distinct shots of guns being fired. My mind felt like it was short-circuiting, unable to grasp the situation properly until I heard something hit the ground next to me. I flinched hard in shock before looking down at what had just fallen down. 
 
 The sight made me choke up as the reality of what was going on began to settle in. My knees only shook as they fell to the floor while trembling hands reached out to touch the limp body lying before me. I could feel something wet and sticky on the person’s shirt before noticing the dark crimson blood pooling around his body.
 
-Shit.
+*Shit*.
 
 I shot up faster than my body was prepared for, and my vision was immediately swarmed with black dots. But I violently shook them away as I tumbled away from the body before me. Then, I started to run.
 
@@ -56,53 +58,57 @@ I shot up faster than my body was prepared for, and my vision was immediately sw
 
 The person pushed me under the table before speaking in a loud whisper, “What the hell are you doing? Do you have some kind of death wish?! Stay down and don’t make a sound.” 
 
-I tried turning my head to see who was speaking before a voice whipped my attention back to the front. It was Grayson. He looked terrified. And all I could do was sit there and watch. I could tell that he was trying to find me but the only thought running through my head was hide. Hide Grayson. HIDE. 
+I tried turning my head to see who was speaking before a voice whipped my attention back to the front. It was Grayson. He looked terrified. And all I could do was sit there and watch. I could tell that he was trying to find me but the only thought running through my head was hide. *Hide Grayson*. *HIDE*. 
 
-But then, he made eye contact. My eyes widened even more as he started to find his way towards me, and I couldn’t help but let out a deep breath of relief. Then, my periphery caught a figure coming towards him and I quickly realized that it was actually one of the gun men. 
+But then, he made eye contact. My eyes widened even more as he started to find his way towards me, and I couldn’t help but let out a deep breath of relief.
+
+ Then, my periphery caught a figure coming towards him and I quickly realized that it was actually one of the gunmen. 
 
 My fingers pushed down hard on the floor as a hushed whisper escaped my lips, “No…”. Then a wretched scream ripped out of my body, “GET DOWN! GET DOWN GRA— “. But a hand came around my mouth and pushed me back down until my cheek hit the ground. The person behind me whispered closely, “Shh…. don’t move. Please.”
 
-Then a shot rang out and my eyes could only follow the bullet until it would eventually hit its unfortunate victim. I couldn’t figure out who the bullet hit until I realized that Grayson had stopped moving. 
+Then a shot rang out and my eyes could only follow the bullet that would eventually hit its unfortunate victim. I couldn’t figure out who the bullet hit until I realized that Grayson had stopped moving. 
 
 My heart felt like it had lurched out of my chest. 
 
-Instinctively, I shifted my head up to see him better before realizing that his eyes were still fixed on mine. It looked like the wind had been knocked out of him and he looked down as both his hands travelled to his . He looked like he wanted to hold the pain jolting through him. It barely registered in me what had happened before he began to stumble. Then, he was falling. First to his knees while his eyes blinked up slowly to find mine again. 
+Instinctively, I shifted my head up to see him better before realizing that his eyes were still fixed on mine. It looked like the wind had been knocked out of him and he looked down as both his hands traveled to his chest. He looked like he wanted to hold the pain jolting through him. It barely registered in me what had happened before he began to stumble. Then, he was falling. First to his knees as his eyes blinked up slowly to find mine again. 
 
-My body thrashed violently against the body holding me down. I wanted to run to him. I want to scream out. But the firm hand wouldn’t let me escape, turning my cries into muffled noises. I continued to stare Grayson, but he was getting blurry. My eyes tried to blink away the wave of tears streaming down my face, but it felt hopeless. Then, in the midst of my slow twists and turns to escape from the body holding me down, Grayson’s blurred figure dropped to the ground. 
+My body was thrashing violently against the body holding me down. I wanted to run to him. I want to scream out. But the firm hand wouldn’t let me escape, turning my cries into muffled noises. I continued to stare Grayson, but he was getting blurry. My eyes tried to blink away the wave of tears streaming down my face, but it felt hopeless. Then, in the midst of my slow twists and turns to escape from the body holding me down, Grayson’s blurred figure dropped to the ground. 
 
-My body immediately froze as shock pulsated through my body violently and my heart felt like it was tearing apart in agony. I felt like I was going insane and my body couldn’t figure out how to cope with what had just happened. My entire frame was trembling, and a gateway of tears could not stop flooding down my face. Then, the familiar dizziness returned once again. But it only appeared for a couple of seconds before darkness consumed me. 
+My body immediately froze as shock pulsated through my body violently. My heart felt like it was being torn apart in agony. It was like I was going insane and my body couldn’t figure out how to cope with what had just happened. My entire frame was trembling, and a gateway of tears could not stop flowing down my face. Then, the familiar dizziness returned once again. But it only appeared for a couple of seconds before darkness consumed me. 
 
-There were soft whispers being spoken, yet the voice was loud enough to slowly break away the unconsciousness dragging me down. My eyes started to blink slowly, before the gentle undertones became clearer and brighter. 
+___
+
+There were soft whispers being spoken, yet the voice was loud enough to slowly break away the unconsciousness dragging me down. My eyes started to blink slowly before the gentle undertones became clearer and brighter. 
 
 “Ma’am, you may come in now,” a woman’s voice spoke out. I looked up to find where the sound was coming from before making eye contact with her. She was talking to me. Her face looked uncomfortably familiar, and I couldn’t help but break eye contact with her. Instead, I glanced around the room, and tried to distract myself with the décor plastered on the walls. Quickly, it became clear that I was in some sort of office, but the rest was unclear. Then, my eyes wandered back to the woman and I noticed the distinct turquoise scrubs uniform she had on. 
 
-Was she a nurse?
+*Was she a nurse?*
 
-But my confusion disappeared as my eyes travelled down to the name badge hanging around her neck. My chest could only tighten anxiously as I read the words written. 
+But my confusion disappeared as my eyes traveled down to the name badge clipped to her chest pocket. My chest could only tighten anxiously as I read the words written. 
 
 NORTH BRIGADE MEDICAL DEPARTMENT
 
 SANDRA VASELLIA: ASSISTANT CORONER
 
-The woman was one of very few words as she did not say anything further before turning around and entering the dark room beside me. The lights turned on the moment she entered, and I could only silently follow behind her, nervous and afraid. 
+The woman was one of very few words as she did not say anything further before turning around and entering the dark room beside me. The lights turned on the moment she entered, and I silently follow behind her, nervous and afraid. 
 
 “You may take as long as you need,” she said while walking towards the metal table. There was a white sheet of cloth covering the corpse and I hated how alone I felt in that moment. It was his body. She didn’t even need to lift the cloth for me to be deadly sure that it was him. Of course, it was him. 
 
 The joke was just too sick and cruel for it to be plotted by none other than my own twisted mind. Everything that was and had been happening was just a nightmare of flashbacks. Unfortunately, my body couldn’t find a way to wake itself up, so I was forced to continue watching the nightmare unfold in front of me. 
 
-The coroner stopped in front of the corpse before looking up at me and gestured with her hand to prompt me closer. My legs felt stiff and almost cramped, but I forced myself to walk forwards. Then, she lifted the covers and folded the cloth to his stomach. My eyes travelled up and down his frame and my fists began to clench as a way of channeling my sorrow. He almost didn’t look like the Grayson I knew; the man on the table was three skin tones paler and his hair was no longer set in his crazy mop anymore, each strand was combed down perfectly. The sight made my stomach churn in a way that forced me to swallow bile down my throat. 
+The coroner stopped in front of the corpse before gesturing with her hand to prompt me closer. My legs felt stiff and almost cramped, but I forced myself to walk forwards. Then, she lifted the covers and folded the cloth to his stomach. My eyes traveled up and down his frame and my fists began to clench as a way of channeling my sorrow. He almost didn’t look like the Grayson I knew; the man on the table was three skin tones paler and his hair was no longer set in his crazy mop, each strand was combed down perfectly. The sight made my stomach churn in a way that made me swallow bile down my throat. 
 
 “The boy suffered an unfortunate death,” she spoke out softly as her hand ghosted over the hole on his chest. “The bullet went through and did not hit any major organs and arteries; however, the severity of his blood loss eventually stopped his heart.” 
 
 I nodded slightly at the old news before silence filled the room for several long moments. Then, she spoke up once more, “I am very sorry for your loss,” before walking out the door silently. 
 
-I didn’t bother turning around to say thank you since my eyes were glued to his lifeless figure. In tandem, my hands felt clammy and constricted. Then, I began to lift a hesitant hand towards his body and rested it over his chest. Immediately, I noticed how cold his body felt under my touch. There was no blood flowing through his veins anymore, no heart beating within his chest. And in that moment, he felt so far away. 
+I didn’t bother turning around to say thank you since my eyes were glued to his lifeless figure. In tandem, my hands felt clammy and constricted. Then, I lifted a hesitant hand towards his body and rested it over his chest. Immediately, I noticed how cold his body felt under my touch. There was no blood flowing through his veins anymore, no heart beating within his chest. And in that moment, he felt so far away. 
 
 Slowly, I began to slip my hand off his chest but in a blink of an eye, someone was staring back at me. Grayson’s eyes were looking right through me; ones filled with pure darkness and nothing more. Then, out of nowhere, a freezing hand was suddenly grabbing my wrist with an unshakable grip.
 
-His voice sounded strained and coarse like sandpaper, but the words were clear enough. “You d-did t-t-this”
+His voice sounded strained and coarse like sandpaper, but the words were clear enough. “You d-did t-this”
 
-The grip continued to tighten until my wrist felt bruised. His voice continued to grow stronger and louder. 
+The grip continued to tighten until my wrist felt bruised. His voice only grew stronger and louder. 
 
 “This is your f-fault.”
 
@@ -120,7 +126,7 @@ Gradually, a distant voice began to find its way to my ears. It sounded gruff an
 
 Then, the sudden realization of my situation shook the rest of my body awake before straightening up slowly in my chair. I looked around gingerly to check if there were any eyes looking in my direction, but the coast was clear. My professor looked like he was bringing the lecture to a close since he was reminding everyone about the assignment due in a couple of days. It didn’t look like he noticed my presence as well. Which wasn’t very surprising since I was situated in the furthest seat from the center where a dark shadow was settling over my frame. 
 
-That would have been embarrassing. Public humiliation would have really just been the cherry on top of this hellish day. 
+*That would have been embarrassing. Public humiliation would have really just been the cherry on top of this hellish day.* 
 
 I let out a deep sigh as my hands tried to rub the remanence of the aching in my head. It felt like gravity was pushing against my temple but nonetheless, my body mirrored the actions of the others and shoved my work into my backpack. Then, I slid out of my seat and disappeared into the crowd of students flowing out of the lecture hall. 
 
@@ -130,9 +136,9 @@ My awareness felt fuzzy as I let bodies brush past my own on the crowded sidewal
 
 Then a distinct echo ringed against my ears and it made the world go radio silent. 
 
-My body suddenly felt sober from the fatigue and I could only stare widely at the figure that caught my eyes. My movements came to a sudden halt as I instinctively drew in a staggered breath. He looked scared, wearing the same expression he did moments before the trigger was pulled. The moment lasted long, as if time had stopped for a split second, before the motions around me came back in full force. 
+My body suddenly felt sober from the fatigue and I stared widely at the figure that caught my eyes. My movements came to a sudden halt as I instinctively drew in a staggered breath. He looked scared, wearing the same expression he did moments before the trigger was pulled. The moment lasted long, as if time had stopped for a split second, before the motions around me came back in full force. 
 
-I was being pushed forward by the crowd of people and the sudden tumble forward made me lose contact of him. There was an immediate feeling of sorrow that spread against my chest and for once, it actually fueled my body with adrenaline. My legs began to push its way forward as my arms pushed away bodies in front of me. I could hear faint annoyance in the voices around me, but my mind muted them while my eyes searched frantically all around. Eventually, the crowd disappeared from behind me and the quiet surrounding me simmered quickly. The overwhelming guilt and shame that flooded my mind when I saw him felt like a loose noose around my neck.  
+I was being pushed forward by the crowd of people and the sudden tumble forward made me lose contact of him. There was an immediate feeling of sorrow that spread against my chest and for once, it actually fueled my body with adrenaline. My legs began to push its way forward as my arms pushed away bodies in front of me. I could hear faint annoyance in the voices around me, but my mind muted them as my eyes searched frantically all around. Eventually, the crowd disappeared from behind me and the quiet surrounding me simmered quickly. The overwhelming guilt and shame that flooded my mind when I saw him felt like a loose noose around my neck.  
 
 For seconds, maybe even minutes, I stood there. And with heaving breaths and a frantic heartbeat, fatigue quickly came crashing down. I felt tired beyond the physical. I could feel the exhaustion feeding away at my bones. My backpack was beginning to slide down and my feet quickly carried me away from the sights of others and into the crevice of an alley. 
 
@@ -145,6 +151,8 @@ Why do I keep seeing him? What kind of sick joke is my mind playing at? How do I
 My head started to spin but I instinctively closed my eyes and waited for the dizziness to fade away. Then, I straightened up the backpack around my shoulders before leaning my entire weight back on the wall. 
 
 “Let me breathe,” I choked out in a cracked whisper. I didn’t know who I was trying to plead with anymore.  But I couldn’t bring myself to care any longer. It was too exhausting. 
+
+___
 
 My fingers had warmed up by the time I reached my apartment door. The wind had finally settled down, but I had to brush away the strands of hair blown across my face. Afterwards, I punched in the code to the keypad. It took more than one attempt since the weariness was making my eyes heavy.
 
