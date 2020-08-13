@@ -121,29 +121,31 @@ But he interceded quietly, “It’s okay, you don’t have to force yourself. Y
 
 He only nodded and stayed silent again. 
 
-Then I continued slowly, “I wish I didn’t believe this, but I think deep down, I really believe that I killed him. There is this…voice in my head that keeps telling me that my actions left blood on my hands and that I should have taken his place. And some days, I do wish that I could have.” Then the memory of his trademark smile flickered, and I couldn’t stop my lip from quivering. My body instinctively leaned closer to my friend for comfort. “He was *such* a good person. Do you um… do you remember that Alan Watts quote was used to describe him at his funeral?” 
+Then I continued slowly, “I wish I didn’t believe this, but I think deep down, I really believe that I killed him. There is this…voice in my head that keeps telling me that my actions left blood on my hands and that I should have taken his place. And some days, I do wish that I could have.” Then the memory of his trademark smile flickered, and I couldn’t stop my lip from quivering. My body instinctively leaned closer to my friend for comfort. “He was *such* a good person. Do you um… do you remember that Alan Watts quote used to describe him at his funeral?” 
 
 I felt him nod and I just knew that he was smiling too in reminiscence. “It’s a faint memory but I can still remember the power of them. How did it go again?”
 
-My nostalgic smile reflected his as I titled my head to gaze at the indigo sky. “‘We know that from time to time, there arise among human beings, people who seem to exude love as naturally as the sun gives out heat’, Grayson was one of those few. Even though he is gone now, his love still burns brightly in our hearts. And as long as we remember him, as long as we keep him alive in our heart, it will never extinguish.” 
+My nostalgic smile reflected his as I tilted my head to gaze at the indigo sky. “ ‘We know that from time to time, there arise among human beings, people who seem to exude love as naturally as the sun gives out heat’, Grayson was one of those few. Even though he is gone now, his love still burns brightly in our hearts. And as long as we remember him, as long as we keep him alive in our heart, it will never extinguish.” 
 
 He gave my shoulder a comforting squeeze as he whispered, “It was beautiful. I couldn’t have said it any better.”
 
-I could only nod along numbly as shame settled into my mind, “That’s what makes all of this so much harder. I keep trying to understand why it had to be him? What did he do to deserve all of this? Why did he have to be senselessly shot down like a wild animal? Why…why wasn’t it me instead?” 
+I nodded along numbly as shame settled into my mind, “That’s what makes all of this so much harder. I keep trying to understand why it had to be him? What did he do to deserve *all* of this? Why did *he* have to be senselessly shot down like a wild animal? Why…why wasn’t it me instead?” 
 
-It felt surreal to actually say it aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really does lift some off your shoulders. “For such a long time, I been trying to put up this facade that I was okay, but the guilt is like a parasite in my soul. I can’t sleep without reliving a nightmare of him. But in these dreams…he doesn’t just die. S-sometimes, he would appear in my dreams and tell me that I am a monster. T-that it was all my f-fault.”
+It felt surreal to say all of this aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really did lift some off your shoulders. “For such a long time, I've been trying to put up this facade that I was okay. But the guilt is like a *parasite* in my soul. You know, I can’t sleep without reliving a nightmare of him. But in these dreams…he doesn’t just die. S-sometimes, he would appear in my dreams and tell me that I'm a monster. T-that it was all my f-fault.”
 
-He only pulled me into a tighter embrace as a sob racks through my body. “The nightmares. All of these thoughts. That relentless voice…it just gets loud sometimes.” I could feel my limbs begin to fall lifelessly forward as I let out a deep and shaky sigh, “It just…it…it becomes too much. All of this…I just…I want it to go away. I want...I want the pain to go away.” Then I started to cry. No, I started to grieve. 
+He only pulled me into a tighter embrace as a sob racked through my body. “The nightmares. All of these thoughts. That relentless voice…it just gets *loud* sometimes.” I could feel my limbs begin to fall lifelessly forward as I let out a deep and shaky sigh, “It just…it…it becomes too much. All of this…I just…I want it to go away. I want...I want the pain to go away.” Then I started to cry. No, I started to grieve. 
 
-I felt myself being adjusted so that he could hug me fully and then I began to sob openly into his shoulder. It went on for minutes, maybe even more, but I didn’t care and just let myself mourn. For Grayson, and the loss of a beautiful human being. For myself, who finally acknowledged all of the lost months that have been swept away by the burden of feeling responsible. 
+I felt myself being adjusted so that he could hug me fully and then I began to sob openly into his shoulder. It went on for minutes, maybe even more, but I didn’t care and just let myself mourn. For Grayson, and the loss of a beautiful human being. For myself, who finally acknowledged all of the lost months that had been swept away by the burden of feeling responsible. 
 
 My heart started to ache, and I instinctively clenched my fist around the fabric above it. “It hurts,” It was barely croaked out in a wrecked and broken whisper. He only held on tighter and rubbed my back gently, “I know.”
 
-“Make it go away.” Only when it was spoken did I realize that it was a stupid and selfish request. I shouldn’t have even let it leave my mouth. But before I had time to worry over how he’d react, I was blindsided when he just said, “You got it.”
+“I-I don't know what to d-do anymore. I j-just want t-this to go away. M-make it go a-away.” Only when it was spoken did I realize that it was a stupid and selfish request. I shouldn’t have even let it leave my mouth. But before I had the time to worry over how he’d react, I was blindsided by his reply, “We'll get through this. I promise.”
 
-But then I recovered and responded, “Don’t. Please don’t do that. Don’t start making empty promises  just to make me feel better.” Then, he pushed me gently off of him and found my eyes before saying with a soft smile. “I don’t.”
+But then I recovered and responded, “Don’t. Please don’t do that. Don’t start...” *Don't make promises you can't keep*. 
 
-I don’t think I blinked for a good thirty seconds because he started to chuckle. It broke me out of my shock, and I could only respond wholeheartedly, “…okay.” Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it can make a difference.
+But he understood what I was trying to say and just told me seriously, “I don’t.”
+
+I didn't think I blinked for a good thirty seconds because he started to chuckle. It broke me out of my shock, and I could only respond wholeheartedly, “…okay.” Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it can make a difference.
 
 His eyes only turned bright, realizing that I actually trusted him enough. His lips tugged up a wide smile before nodding in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
 
