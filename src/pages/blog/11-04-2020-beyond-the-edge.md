@@ -147,9 +147,9 @@ But he understood what I was trying to say and just looked at me seriously, “I
 
 I didn't think I blinked for a good thirty seconds because he started to chuckle. It broke me out of my shock, and I could only nod hesitantly. Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it would make a difference.
 
-His eyes only turned bright, realizing that I actually trusted him enough. His lips widened into a big smile and nodded as well in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
+His eyes only turned bright, realizing that I actually trusted him enough. His lips widened into a big smile before nodding as well in confirmation. “Good,” then he pulled me to my feet, "you up to watch the sunrise?”
 
-My eyes only followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
+My eyes followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
 
 But then he broke the silence. 
 
