@@ -45,11 +45,11 @@ Suddenly, everything went tense. Stop talking about him. Even when he wasn't in 
 
 “What happened to him was horrible and shouldn’t have ever happened.” Then he turned his body towards me and continued, “But what happened to him was not your fault.”
 
-Wait. What did he just say? My eyes widened and my head whipped towards him. “Wha-what well yeah of course it wasn't.”
+Wait. What did he just say? My eyes widened and my head whipped towards him. “Wha-what well yeah, of course it wasn't.”
 
 He shook his head. “No, you’re not hearing me. His death was not your fault.” 
 
-He was starting to freak me out. Why is he telling me this? In the next moment, I was standing up, trying to make some distance between the two of us. Then, I forced out a chuckle to loosen the tension. “Okay, wh-why are you doing this whole goodwill hunting moment.”
+He was starting to freak me out. Why was he telling me this? In the next moment, I was standing up, trying to make some distance between the two of us. Then, I forced out a chuckle to loosen the tension. “Okay, wh-why are you doing this whole 'goodwill hunting' talk.”
 
 He stood up as well and smiled tensely. “Is it working?”
 
@@ -61,7 +61,7 @@ His eyes seemed to bore right into my thoughts, but I pushed back. “That still
 
 He shook his head but started to pull out his phone, “Fine, I will.” Then he handed me his phone. 
 
-I looked down confused. Why was he acting so weird? Then I heard my voice. Oh wait. SHIT. It was the voicemail. I must have been too dazed back then to even process the repercussions of just saying my feelings aloud. How do I even explain this to him? I should just lie and say it was a prank, but it will most likely backfire on me. 
+I looked down confused. Why was he acting so weird? Then I heard my voice. Oh wait. *Shit*. It was the voicemail. I must have been too dazed back then to even process the repercussions of just saying my feelings aloud. How would I even explain this to him? I should just lie and say it was a prank. It will most likely backfire on me though. 
 
 I could only grip the phone tighter in confliction. “It was just…a mistake. Don’t take these kinds of things so seriously.”
 
