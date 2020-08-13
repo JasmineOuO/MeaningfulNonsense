@@ -21,15 +21,15 @@ Huh. Charlie? Why was he here?
 
 He looked like he was out of breath but his eyes showed…relief? “What are you doing up here? And…why were you sleeping on the staircase?”
 
-I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well it was getting really humid and hard to breathe so I wanted to catch some fresh air, but I guess I fell asleep before I could.”
+I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well, it was getting really humid and hard to breathe so I wanted to catch some fresh air. I guess I fell asleep before I could.”
 
-His face relaxed a bit and he looked like he wanted to say something, but he just looked at me for a long moment before sighing. “Alright, well now that I have finally found you, how about we catch up?” Then a small smile appeared before he drew out a hand, “Maybe we can catch the sunrise?”
+He looked like he wanted to say something, but he just looked at me for a long moment. Then he sighed,“alright, well now that I have finally found you, how about we catch up?” Then a small smile tugged at his lips and he drew out a hand, “Maybe we can catch the sunrise?”
 
 I couldn’t help but reflect his visage before grabbing onto his hand and pushing myself off the wall. “I can’t remember the last time I’ve seen one.”
 
 He chuckled quietly, “Me neither, my sleep schedule and the sun’s do not match up at all.” 
 
-I shook my head smiling before telling him to wait at the door. Then I came back with a brick to hold the door opened slightly. 
+I shook my head smiling before telling him to wait at the door. Then I came back with a brick to hold the door open slightly. 
 
 The wind had a light breeze and the sky was still dark, yet a couple of lights around the rooftop allowed us to navigate to the wall against the edge of the building. We both slid down against it and stayed silent for a few moments. I basked in the silence and quiet, the cool air feathering against my warm skin, it almost made me dizzy with how calm I suddenly felt. 
 
