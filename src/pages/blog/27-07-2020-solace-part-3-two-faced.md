@@ -282,7 +282,7 @@ I didn’t know why I said that. Maybe I thought it would make me feel better, b
 
 My feet seemed to drag heavily with each step I took to up the building. My body felt like it was begging to collapse but my mind was more determined to keep moving. I don’t know why I was not letting my body rest. Perhaps a subconscious part of my mind was afraid of what would happen if I finally let the exhaustion take over.
 
-Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on a step and I was falling against the railings. I ended up sitting on the edge of a step, my body leaning entirely on the wall. Soon after, it ended up making the ultimate decision and I finally surrendered to the fatigue. The last thought that flew across my mind was the wish for a nightmare-free rest.
+Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on a step and I was falling against the railings. I ended up sitting on the edge of a step, my body leaning entirely on the wall. Soon after, it ended up making the ultimate decision and I finally surrendered to the fatigue. The last thought that flew across my mind was the wish for a rest empty of nightmares.
 
 
 
