@@ -206,55 +206,55 @@ I only shook my head hard, trying to push away my thoughts and forget them.
 
 “You’re wrong,” I countered.
 
-Then why are you crying?
+*Then why are you crying?*
 
 I didn’t even realize that I was. Not until my fingers wiped away the wetness on my face.
 
-It’s because you know you are responsible
+*It’s because you know you are responsible.*
 
-“You’re wrong,” I whispered as my eyes squeezed shut. It only broke open a gateway of tears.
+“You’re wrong,” I whispered as my eyes squeezed shut. It only broke open more tears.
 
-Do you remember that smile he always wore? The one that can captivate even the most broken.
+*Do you remember that smile he always wore? The one that could captivate even the most broken.*
 
-You took it away from him.
+*You took it away from him.*
 
-“Shut up.” I could sense myself getting more riled up. My body was starting to feel more and more hot. The pounding in my head was back and only worsened as I laid in the increasingly hot sheets.
+“Shut up.” I could sense myself getting more riled up. My body was starting to feel hotter and hotter. The pounding in my head was back and only worsened as I laid in the increasingly hot sheets.
 
-It’s gone now because of you.
+*It’s gone now because of you.*
 
 “You’re wrong”
 
-No, Erin. I’m not
+*No, Erin. I’m not.*
 
 “YOU ARE,” I screamed suddenly as I pulled myself up and let my head fall into my hands.
 
 “You’re wrong, you’re wrong, you’re wrong, you’re…” I muttered incessantly, trying to drown out my own thoughts.
 
-No. You are the one who is mistaken.
+*No. You are the one who is mistaken.*
 
-Shaking my head, I only wanted to scream again. I wanted to scream at the voice to be quiet. But I knew that it was pointless.
+I only wanted to scream again. I wanted to scream at the voice to be quiet. But I knew that it was pointless.
 
-“Oh god,” I began to choke out as the endless tears continued to pour down my cheeks. The pounding was starting to make me feel nauseous and the oxygen around me was disappearing, making my breaths come out shorter and shorter.
+“Oh god,” I began to choke out. The pounding was starting to make me feel nauseous and the oxygen around me was disappearing, making my breaths come out shorter and shorter.
 
 It was too humid. The air felt too thick and suffocating.
 
-It was your fault
+*It was your fault*
 
 I tried to ignore the voice as I tumbled out of the sheets and made my way to the thermostat in the bright hallway. The lights were too bright, and I tried to blink away the haziness so I wouldn’t trip on my own two feet.
 
 Then my eyes widened as I saw the number on the thermostat. It couldn’t get any colder. The A/C was already at its max. Somehow, seeing it felt like the straw that broke the camel’s back. In that moment, I could feel my resistance from the truth seep away.
 
-It was your fault
+*It was your fault*
 
 My body slid down against the wall and I tried to shake away the noise by covering it up with my own.
 
-“You’re wrong, you’re wrong, you’re...,” but I found myself choking up at the words. And then I was sobbing. I couldn’t control the pain engulfing my mind anymore and I gave in, “…you’re right.”
+“You’re wrong, you’re wrong, you’re...,” but it was useless. And then I was sobbing. I couldn’t control the pain engulfing my mind anymore and I gave in, “…you’re right.”
 
 “Alright?” I finally said between my stifled breaths. “You wanted me to say it, right? To finally admit it aloud?”
 
 Closing my eyes, I tried to steady my breathing and for a moment, my body slumped down completely.
 
-Then, I slid a knee towards my chest and laid my forehead on it. Breathing was difficult and despite seeing the puffs of cold air from my breaths, my body continued to burn up. But I finally exhaled, “It was my fault.”
+Then, I slid a knee towards my chest and laid my forehead on it. Breathing was difficult and despite seeing the puffs of cold air from my breaths, my body continued to burn up. But I finally exhaled, “I killed him.”
 
 Then there was nothing for a long moment.
 
@@ -270,7 +270,7 @@ My head finally hit the wall and I hated how easily the fresh streaks stained my
 
 It didn’t say anything back.
 
-For some twisted reason, the silence only made it worse. It even prompted me to take out my phone from my back pocket and click on the name of someone who I once made a promise to.
+For some twisted reason, the silence only made it worse. It even prompted me to take out my phone from my back pocket and make a call that I never thought I would make.
 
 The ringing continued and eventually went to voicemail. The rational part of my mind would have immediately hung up but it was easily overridden by both immense exhaustion and guilt.
 
@@ -282,7 +282,7 @@ I didn’t know why I said that. Maybe I thought it would make me feel better, b
 
 My feet seemed to drag heavily with each step I took to up the building. My body felt like it was begging to collapse but my mind was more determined to keep moving. I don’t know why I was not letting my body rest. Perhaps a subconscious part of my mind was afraid of what would happen if I finally let the exhaustion take over.
 
-Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on a step and I was falling against the railings. I ended up sitting on the edge of a step, my body leaning entirely on the wall. Then it ended up making the ultimate decision and I finally surrendered to the fatigue. The last thought that flew across my mind was the wish for a nightmare free rest.
+Looking upwards, there were just a couple more steps until the rooftop. But then my foot slipped on a step and I was falling against the railings. I ended up sitting on the edge of a step, my body leaning entirely on the wall. Soon after, it ended up making the ultimate decision and I finally surrendered to the fatigue. The last thought that flew across my mind was the wish for a nightmare-free rest.
 
 
 
