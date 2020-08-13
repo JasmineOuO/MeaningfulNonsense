@@ -172,37 +172,37 @@ The shaking only worsened by the second and closing my hands in a fist wasn’t 
 
 There was nothing. It was empty. Even the fridge was completely vacant.
 
-Frustrated, I quickly found myself back in my room. The first thing I saw was the broken glass and my eyes began to linger on the frames scattered in the corner. However, the sight quickly made me turn away and I moved away to drop my body onto the covers of my bed. The sheets felt like a layer of ice being crushed, making the air in my lungs knock out. But I stayed still and let my skin freeze over. I didn’t want to move. All the tension was untangling from my body and I could feel my mind go blank. It was nice. For a few moments, my mind didn’t hurt or feel anxious. It felt almost felt lighter. Happier. And as I closed my eyes, I didn’t want the feeling to leave my body.
+Frustrated, I quickly found myself back in my room. The first thing I saw was the broken glass and my eyes began to linger on the frames scattered in the corner. However, the sight quickly made me turn away and I moved away to drop my body onto the covers of my bed. The sheets felt like a layer of ice being crushed, making the air in my lungs knock out. But I stayed still and let my skin freeze over. I didn’t want to move. All the tension was untangling from my body and I could feel my mind go blank. It was nice. For a few moments, my mind didn’t hurt or feel anxious. It almost felt lighter. Happier. And as I closed my eyes, I didn’t want the feeling to leave my body.
 
-I wonder if Grayson is happy right now…
+*I wonder if Grayson is happy right now…*
 
 There was barely a moment of silence before my thoughts sneered back.
 
-Can you be anymore selfish
+*Can you be any more selfish*
 
-You took that away from him
+*You took that away from him*
 
-He never got his chance to be
+*He never got his chance to be*
 
-You will never see him happy again
+*You will never see him happy again*
 
 I squeezed my eyes in an attempt to quiet the loud sounds of my thoughts. It was a futile attempt.
 
-This was your fault
+*This was your fault*
 
-The gun man may have pulled the trigger, but it was an illusion
+*The gunman may have pulled the trigger, but it was an illusion*
 
-You were in control the whole time. You pulled the trigger the moment you brought him there
+*You were in control the whole time. You pulled the trigger the moment you brought him there*
 
-This is your fault
+*This is your fault*
 
-You should have died that day.
+*You should have died that day.*
 
-Deep down, you wished that you did
+*Deep down, you wished that you did*
 
-I only shook my head hard, trying to push jumble my thoughts and forget them.
+I only shook my head hard, trying to push away my thoughts and forget them.
 
-The guilt is eating you alive isn’t it?
+*The guilt is eating you alive, isn’t it?*
 
 “You’re wrong,” I countered.
 
