@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: 'Solace Part 3: Two-Faced'
+title: "Solace Part 3: Two-Faced"
 label: Two-Faced
 date: 2020-07-27T23:59:55.444Z
 thumbnail: /images/two-faced.jpg
@@ -8,11 +8,11 @@ tags:
   - solace
   - stories
 ---
-Remember to read Solace Part 1: Gasping for Air, Part 2: Shadow first :)
+Remember to read Solace Part 1 and 2 first :)
 
 __
 
-The first thing my eyes noticed as they blinked away the darkness was the neon lights flaring around the atmosphere. The mixture of colours reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. Then, it wasn’t long before my other senses came to life and shocked my nerves to the core. 
+The first thing my eyes noticed as they blinked away the darkness were the neon lights flaring around the atmosphere. The mixture of colors reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. Then, it wasn’t long before my other senses came to life and shocked my nerves to the core. 
 
 My body felt like it was sweating and shivering simultaneously while my taste buds reeked of a metallic concoction. But I tried to ignore the discomfort and shifted my focus to figure out where the hell I was. I let my eyes wander around aimlessly, trying to decipher the code with the combination of images I captured in my mind.  
 
