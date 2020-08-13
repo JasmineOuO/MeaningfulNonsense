@@ -1,13 +1,13 @@
 ---
 templateKey: post
-title: Beyond the Edge
-label: Drowning
+title: "Solace Part 4: Beyond the Edge"
+label: The Edge
 date: 2020-04-11T19:26:48.331Z
 thumbnail: /images/beyond-the-edge.jpg
 tags:
   - stories
 ---
-Remember to read Solace Part 1: Gasping for Air, Part 2: Shadow and Part 3: Two-Faced first :)
+Remember to read Solace Part 1- 3 first :)
 
 __
 
