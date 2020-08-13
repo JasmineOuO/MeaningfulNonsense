@@ -69,11 +69,11 @@ He only looked at me with suspicious eyes. Then, he scoffed. “Well, first of a
 
 It took every ounce of me to keep a stoic expression. But I didn’t back down. “Do you know how crazy you sound right now? Stop making this into an interrogation. Also, don’t act like you know what I’m going through because you don’t.“
 
-He didn’t speak for a long minute, only staring off the side. Then he spoke quietly, “I saw the calendar,” before leaning his back on the barrier around the building’s edges. “I was looking for you and the door was opened, and I got worried that something happened. I saw it scattered in a mess of glass.” 
+He didn’t speak for a long minute, only staring off to the side. Then he spoke quietly, “I saw the calendar,” before leaning his back on the barrier around the building’s edges. “I was looking for you and the door was opened, and I got worried that something happened. I saw it scattered in a mess of glass.” 
 
-I just listened, not knowing what I could say to him. But even more, I knew that if I started yelling, I would start crying. 
+I just listened, not knowing what I could say to him. But even more, I knew that if I started yelling, I would start crying. And I'm just really f*cking tired of crying.
 
-He just sighed heavily as he ran a hand down his face. “I guess it didn’t work out after all, huh? You told me it was helping you feel better. That each day you felt yourself move on a little, you would cross off the date. But I think that you were lying to both of us when you said that it was getting better.” Then he shook his head, “Did you know that every single day was crossed off for all those months? I don’t think that I could have been moved on so easily.”
+He sighed heavily as he ran a hand down his face. “I guess it didn’t work out after all, huh? You told me it was helping you feel better. That each day you felt yourself move on a little, you would cross off the date. But I think that you were lying to both of us when you said that it was getting better.” Then he shook his head, “Did you know that every single day was crossed off for all those months? No one moves on that easily, especially when they were like family.”
 
 I couldn’t find the right words anymore. So I just leaned on the railing next to him and stayed silent. For a moment, no one spoke nor moved. I realized that I was holding in a breath when he slowly turned his gaze towards me. A part of myself wanted to challenge his stare but decided in the end to only look away. 
 
