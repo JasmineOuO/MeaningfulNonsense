@@ -101,7 +101,7 @@ I just stared back for a moment, searching his face for any signs of a lie. When
 
 Then, for the first time, I let myself go.
 
-“You know...*everyone* tells me that I was also a victim that day. That my hands were tied and that…I couldn’t have done anything." Then my hand was pressing against my temple, trying to massage a throbbing ache. "It should make me feel better."
+“You know...*everyone* keeps telling me that I was also a victim that day. That my hands were tied and that…I couldn’t have done anything." Then my hand was pressing against my temple, trying to massage a throbbing ache. "It should make me feel better."
 
 "But it doesn’t. Because a part of myself doesn’t believe it,” I breathed out a shaky breath before continuing, “Did you know that I was the one who wanted to stay longer? He was worried that I would not make it to my morning class but I said that I just wanted to have a good night."
 
