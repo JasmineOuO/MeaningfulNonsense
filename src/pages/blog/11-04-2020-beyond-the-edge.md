@@ -143,11 +143,11 @@ My heart started to ache, and I instinctively clenched my fist around the fabric
 
 But then I recovered and responded, “Don’t. Please don’t do that. Don’t start...” *Don't make promises you can't keep*. 
 
-But he understood what I was trying to say and just told me seriously, “I don’t.”
+But he understood what I was trying to say and just looked at me seriously, “I don’t.”
 
-I didn't think I blinked for a good thirty seconds because he started to chuckle. It broke me out of my shock, and I could only respond wholeheartedly, “…okay.” Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it can make a difference.
+I didn't think I blinked for a good thirty seconds because he started to chuckle. It broke me out of my shock, and I could only nod hesitantly. Maybe I was being selfish for making him share my burden, but the exhaustion was telling me a different answer. Perhaps asking for help and actually wanting it would make a difference.
 
-His eyes only turned bright, realizing that I actually trusted him enough. His lips tugged up a wide smile before nodding in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
+His eyes only turned bright, realizing that I actually trusted him enough. His lips widened into a big smile and nodded as well in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
 
 My eyes only followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
 
