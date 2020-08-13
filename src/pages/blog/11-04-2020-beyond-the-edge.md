@@ -139,7 +139,7 @@ I felt myself being adjusted so that he could hug me fully and then I began to s
 
 My heart started to ache, and I instinctively clenched my fist around the fabric above it. “It hurts,” It was barely croaked out in a wrecked and broken whisper. He only held on tighter and rubbed my back gently, “I know.”
 
-“I-I don't know what to d-do anymore. I j-just want t-this to go away. M-make it go a-away.” Only when it was spoken did I realize that it was a stupid and selfish request. I shouldn’t have even let it leave my mouth. But before I had the time to worry over how he’d react, I was blindsided by his reply, “We'll get through this. I promise.”
+“I-I don't know what to d-do anymore. I j-just want t-this to go away. Please make i-it go a-away.” Only when the last words were spoken did I realize that it was a stupid and selfish request. I shouldn’t have even let it leave my mouth. But before I had the time to worry over how he’d react, I was blindsided by his reply, “We'll get through this. I promise.”
 
 But then I recovered and responded, “Don’t. Please don’t do that. Don’t start...” *Don't make promises you can't keep*. 
 
@@ -149,7 +149,7 @@ I didn't think I blinked for a good thirty seconds because he started to chuckle
 
 His eyes only turned bright, realizing that I actually trusted him enough. His lips tugged up a wide smile before nodding in confirmation. “Good,” then he pulled me to my feet. “You up to watch the sunrise?”
 
-¬¬¬My eyes only followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
+My eyes only followed his and stared in wonder at the beautiful colors. Then, the both of us leaned forward at the railing against the edge of the building. Neither of us spoke for a good minute, the lights were just too entrancing.
 
 But then he broke the silence. 
 
