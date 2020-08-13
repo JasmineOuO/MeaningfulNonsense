@@ -159,9 +159,9 @@ I nodded and watched as he turned to lean against his side so that he could look
 
 It looked like he was going to cry, his eyes glistening, but he continued, “Of course we all wish that it wasn't him. But…it was. And no matter how much you wish it could have been different, how you wish you could have done things differently, in the end, you just couldn’t have known."
 
-"You shouldn’t have to bear the burden of thinking that you are always in control.” Then he looked away but I could still easily read the emotions on his face. It was filled with sadness and compassion. “I know that it can be scary thinking that we aren't always in control...but that’s just the way it is. The things that happen to us, to others, we aren’t always responsible. It's weird to think about but it's sometimes easier to blame ourselves in order to stay in control of a situation rather than accept that we are often left powerless to a situation. But being powerless, when we accept that we sometimes are, it doesn’t make us weak. It just shows us that we are human.”
+"You shouldn’t have to bear the burden of thinking that you are always in control.” Then he looked away, but I could still easily read the emotions on his face. It was filled with sadness and compassion. “I know that it can be scary thinking that we aren't always in control...but that’s just the way it is. The things that happen to us, to others, we aren’t always responsible. It's weird to think about, but it's sometimes easier to blame ourselves in order to stay in control of a situation rather than accept that we are often left powerless in them. But being *powerless*, when we accept that we sometimes are, it doesn’t make us weak. It just shows us that we're human. It *reminds* us that we're human”
 
-I didn’t move for a long minute. Afraid that even releasing a breath would prevent my brain from processing every word. It somehow didn’t even cross my mind, or perhaps my overwhelming guilt had pushed away the logical argument, that I simply couldn’t have done anything at all. No pondering about the what-ifs or the “how I should have known”. It was too vague, it felt like an easy way out. 
+I didn’t move for a long minute. Afraid that even releasing a breath would prevent my brain from processing every word. It somehow didn’t even cross my mind, or perhaps my overwhelming guilt had pushed away the logical argument. That I simply couldn’t have done anything at all. No pondering about the what-ifs or the “how I should have known”. It just...felt too easy. 
 
 Then, Charlie shook me out of my reverie. “No, I know that look in your eyes. Don’t think like that. This isn’t a loophole. This isn’t an easy way out.”
 
@@ -169,13 +169,13 @@ I tried to nod along slowly but it still felt like a hard pill to swallow.
 
 “Also, one more thing. I now understand why you were afraid to tell me. And I don’t hate you, okay? All of this pain you were feeling, you didn’t want to tell me because you thought it was a selfish thing to do, right? You thought that you’d end up hurting me as well?”
 
-My breathing suddenly hitched. But just as quickly, I felt myself sucking in a breath and this time, the air suddenly felt a lot clearer. It felt lighter. It caused me to unconsciously inhale and exhale quickly, shakingly. It was evident that he already knew the answer before asking it, so I just turned away and returned my gaze to the glowing lights. They were so far, yet at the same time, they seemed to reach far enough to embrace me. To tell me that everything was going to be alright. 
+My breathing suddenly hitched. But just as quickly, I felt myself sucking in a breath and this time, the air felt a lot clearer. It felt lighter. It made me want to inhale and exhale quickly, shakingly. It was evident that he already knew the answer before asking, so I just turned away and returned my gaze to the glowing lights. They were so far, yet at the same time, they seemed to reach far enough to embrace me. To tell me that everything was going to be alright. 
 
-“It’s a new day,” I whispered to myself before speaking louder, “You know I had always preferred the sunset. It was comforting reminder that I…that I finally made it to the end of the day. But the sunrise… it just reminded me that there was another day to endure.”
+“It’s a new day,” I whispered to myself before speaking louder, “You know I had always preferred the sunset. It was a comforting reminder that I…that I finally made it to the end of the day. But the sunrise…," I shook my head, "it just reminded me that there was another day to endure.”
 
-Then I smiled, “I don’t feel that right now.” 
+Then I smiled, “I can't feel it right now.” 
 
-Shaking my head, “I thought that if I just gave it time, I would be able to feel less…” I said before exhaling. “But I guess in the end, deep down, I just really didn’t want to be alone in my thoughts. For a while, my mind manifested Grayson to be that person but it only encouraged me to stay in that nightmare.”
+I shook my head again, “I thought that if I just gave it time, I would be able to feel less…” I said before exhaling. “But I guess in the end, deep down, I just really didn’t want to be alone in my thoughts. For a while, my mind manifested Grayson to be that person but it only encouraged me to stay in that nightmare.”
 
 Charlie continued to stare deeply into the sunrise. His mind remained in deep thought for a little while before saying, “It will get better Erin. There will be days where you won’t believe that, and that’s okay we will get through this together. But when it does happen…you should come up here and watch this. See that a brand-new day is about to begin. Take a deep breath. Reset. Then start again.”
 
