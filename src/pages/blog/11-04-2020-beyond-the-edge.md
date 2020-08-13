@@ -23,7 +23,7 @@ He looked like he was out of breath but his eyes showed…relief? “What are yo
 
 I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well, it was getting really humid and hard to breathe so I wanted to catch some fresh air. I guess I fell asleep before I could.”
 
-He looked like he wanted to say something, but he just looked at me for a long moment. Then he sighed,“alright, well now that I have finally found you, how about we catch up?” Then a small smile tugged at his lips and he drew out a hand, “Maybe we can catch the sunrise?”
+He looked like he wanted to say something, but he just looked at me for a long moment. Then he sighed, “alright, well now that I have finally found you, how about we catch up?” Then a small smile tugged at his lips and he drew out a hand, “Maybe we can catch the sunrise?”
 
 I couldn’t help but reflect his visage before grabbing onto his hand and pushing myself off the wall. “I can’t remember the last time I’ve seen one.”
 
@@ -31,23 +31,23 @@ He chuckled quietly, “Me neither, my sleep schedule and the sun’s do not mat
 
 I shook my head smiling before telling him to wait at the door. Then I came back with a brick to hold the door open slightly. 
 
-The wind had a light breeze and the sky was still dark, yet a couple of lights around the rooftop allowed us to navigate to the wall against the edge of the building. We both slid down against it and stayed silent for a few moments. I basked in the silence and quiet, the cool air feathering against my warm skin, it almost made me dizzy with how calm I suddenly felt. 
+The wind had a light breeze and the sky was still dark. Yet a couple of lights around the rooftop allowed us to navigate to the wall against the edge of the building. We both slid down against it and stayed silent for a few moments. I basked in the silence and quiet, the cool air feathering against my warm skin. It almost made me dizzy again with how calm I suddenly felt. 
 
 Then Charlie cleared his throat. “So, what have you been up to lately?”
 
-I shrugged noncommittedly, “You know, the usual university stress and shit. But I guess that’s what we pay for right?”
+I shrugged noncommittedly, “You know, the usual university stress and sh*t. But I guess that’s what we pay for right?”
 
 He snorted, “Yeah no kidding.”
 
-Then it was silent again. I could feel the way he wanted to say something but felt conflicted to do so. But then his eyes became focused. “I miss him too.”
+Then it was silent again. I could feel the way he wanted to say something but he felt conflicted to do so again. But then his eyes became focused. “I miss him too.”
 
-Suddenly, everything went tense. Stop talking about him. Even when he isn’t in my head, he’s still there. But I just nodded in agreement. 
+Suddenly, everything went tense. Stop talking about him. Even when he wasn't in my head, he’s still there. But I just nodded in agreement. 
 
-“What happened to him was horrible and shouldn’t have ever happened.” Then he turned his body towards me and continued, “But what happened to him is not your fault.”
+“What happened to him was horrible and shouldn’t have ever happened.” Then he turned his body towards me and continued, “But what happened to him was not your fault.”
 
-Wait. What did he just say? My eyes widened and my head whipped towards him. “Wha-ha- wha well yeah of course it isn’t.”
+Wait. What did he just say? My eyes widened and my head whipped towards him. “Wha-what well yeah of course it wasn't.”
 
-He shook his head. “No you’re not hearing me. His death was not your fault.” 
+He shook his head. “No, you’re not hearing me. His death was not your fault.” 
 
 He was starting to freak me out. Why is he telling me this? In the next moment, I was standing up, trying to make some distance between the two of us. Then, I forced out a chuckle to loosen the tension. “Okay, wh-why are you doing this whole goodwill hunting moment.”
 
