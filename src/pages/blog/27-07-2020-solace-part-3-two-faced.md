@@ -8,21 +8,23 @@ tags:
   - solace
   - stories
 ---
-Remember to read Solace Part 1 and 2 first :)
+Remember to read Solace Part 1 - 3 first :)
 
 __
 
-The first thing my eyes noticed as they blinked away the darkness were the neon lights flaring around the atmosphere. The mixture of colors reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. Then, it wasn’t long before my other senses came to life and shocked my nerves to the core. 
+\~ 5 months since his death \~
 
-My body felt like it was sweating and shivering simultaneously while my taste buds reeked of a metallic concoction. But I tried to ignore the discomfort and shifted my focus to figure out where the hell I was. I let my eyes wander around aimlessly, trying to decipher the code with the combination of images I captured in my mind.  
+The first thing my eyes noticed as they blinked away the darkness were the neon lights flaring around the atmosphere. The mixture of colors reflecting off my orbs felt cold and oddly familiar, forcing the hairs on my body to rise. It wasn’t long before my other senses came to life and shocked my nerves to the core. 
 
-But a rough shake on my shoulder tore me from my thoughts and a half a moment later, the hand pulled me back and twirled me around. The sudden action caused my feet to leave the balance from the floor and I almost slipped backward before two strong hands gripped my shoulders to safely plant my feet back down to the ground. I wanted to both shriek and catch my breath at the same time, but the voice I heard made my lungs seize up entirely.
+My body felt like it was sweating and shivering simultaneously while my taste buds reeked of a metallic concoction. But I tried to ignore the discomfort and shifted my focus to figure out *where the hell I was*. I let my eyes wander around aimlessly, trying to decipher the code with the combination of images I captured in my mind.  
 
-The person whose presence never seemed to fade away even though his spirit had already left the world. Yet, here he was. Standing before me looking anything but dead. And perhaps, in that moment, I didn’t want to think about my reality. Maybe I just wanted to drown happily in this hallucination and just forget. And maybe that’s exactly what I decided to do.   
+But a rough shake on my shoulder tore me from my thoughts and half a moment later, the hand pulled me back and twirled me around. The sudden action caused my feet to leave the balance from the floor and I almost slipped backward before two strong hands gripped my shoulders to safely plant my feet back down to the ground. I wanted to both shriek and catch my breath at the same time, but the voice I heard made my lungs seize up entirely.
+
+The person whose presence never seemed to fade away even when his soul had already left this world. Yet, here he was. Standing before me looking anything but dead. And perhaps, in that moment, I didn’t want to think about my reality. Maybe, I just wanted to drown happily in this hallucination and just forget. And maybe that’s exactly what I decided to do.   
 
  “Woah, are you okay? I’ve been calling your name too many times, I’ve lost count already,” Grayson shouted through the booming sounds falling over us. His eyes were brimming with concern as the rest of his visage stayed the same; tan skin that made his white shirt glow brightly and the mixed scent of dove soap and liquor.
 
-I couldn’t help myself from brushing my fingers against his freckled face. Just so that my mind could feel him. To feel the actual flesh against my palm so I could really make sure that he was there. That he wasn’t some twisted illusion or ghost in front of me. Then I breathed out a smile before wrapping my arms around him in a tight embrace. I couldn’t describe the raw happiness and relief that washed over me, but I felt an unsteadiness to the feeling. 
+I couldn’t help myself from brushing fingers against his freckled face. Just so that my mind could feel him. To feel the actual flesh against my palm. So I could really make sure that he was there, that he wasn’t some twisted illusion or ghost in front of me. Then I breathed out a smile before wrapping my arms around him in a tight embrace. I couldn’t describe the raw happiness and relief that washed over me, but I felt an unsteadiness to the feeling. 
 
 His arms came around me and a hand gently began to rub my back. Then his voice filled my ears, “Did something happen?” The question made me instantly let go, because hearing the words made me realize that I was sick of hearing him speak this way. Always filled with sadness or concern. There was never a glimpse of joy and I was prepared to do anything just to see him crack a genuine smile and let his infectious laugh ring over and over again in my mind.  
 
