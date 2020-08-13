@@ -7,11 +7,11 @@ thumbnail: /images/beyond-the-edge.jpg
 tags:
   - stories
 ---
-Remember to read Solace Part 1- 3 first :)
+Remember to read Solace Part 1-3 first :)
 
 __
 
-There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention back. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence and having it get cut short almost made me want to punch whoever the culprit was. 
+There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention back. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence, and having it cut short almost made me want to knock out the culprit. 
 
 “Erin? Can you hear me?”
 
@@ -21,13 +21,9 @@ Huh. Charlie? Why was he here?
 
 He looked like he was out of breath but his eyes showed…relief? “What are you doing up here? And…why were you sleeping on the staircase?”
 
-I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…I was trying to go the rooftop, but I guess I fell asleep before I could.”
+I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well it was getting really humid and hard to breathe so I wanted to catch some fresh air, but I guess I fell asleep before I could.”
 
-His eyes widened again before asking cautiously, “Wh-why were you trying to go to the rooftop?”
-
-“Uh…well it was getting really humid and hard to breathe so I wanted to catch some fresh air.”
-
-His face relaxed a bit and h looked like he wanted to say something, but he just looked at me for a long moment before sighing. “Alright, well now that I have finally found you, how about we catch up?” Then a small smile appeared before he drew out a hand, “Maybe we can catch the sunrise?”
+His face relaxed a bit and he looked like he wanted to say something, but he just looked at me for a long moment before sighing. “Alright, well now that I have finally found you, how about we catch up?” Then a small smile appeared before he drew out a hand, “Maybe we can catch the sunrise?”
 
 I couldn’t help but reflect his visage before grabbing onto his hand and pushing myself off the wall. “I can’t remember the last time I’ve seen one.”
 
