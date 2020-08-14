@@ -98,19 +98,19 @@ But the thought only lingered for a second before disappearing. I've been trying
 
 So, by the time I made it to the cemetery, those thoughts were cleared away. It was an easy task to accomplish with the mesmerizing view in front of me. The sun was beginning to set, and it brought out the assembly of colors across the grassland.
 
-It took a few minutes to reach his gravestone as the last few steps were fairly hesitant and I almost stopped completely when my eyes began to see the name carved onto the stone. But my feet trudged forward slowly until I finally reached it.
+It took a few minutes to reach his gravestone as the last few steps were fairly hesitant, and I almost stopped completely when my eyes began to see the name carved onto the stone. But my feet trudged forward slowly until I finally reached it.
 
-At first, I didn’t know what to do. Should I say anything? Would it be weird to talk to him even if he wasn’t actually here? But at the same time, it would be kind of rude to not say anything just in case he is listening, right? Yes, I should say something…just in case.
+At first, I didn’t know what to do. Should I say anything? Would it be weird to talk to him even if he wasn’t actually here? But at the same time, it would be kind of rude to not say anything just in case he was listening, right? Yes, I should say something…just in case.
 
 But before I did, I placed the arrangement of white and pink carnations on top of the tombstone. There were also other kinds of flowers already placed in front of the stone and I noticed that they were only filled with bright colors. They must have been from his parents.
 
-I carefully organized their flowers again as some had blown away from the wind before I decided to say something.
+I carefully organized their flowers again, as some had blown away from the wind, before I decided to say something.
 
-“I never…,” I paused trying to find the right words before I told myself to relax, “This feels weird.”
+“I never…,” I paused, trying to find the right words before I told myself to relax. “This feels weird.”
 
 “But I guess losing your best friend and visiting their grave isn’t the most common thing.”
 
-It was more difficult than I thought trying to hold up a one-sided conversation when a part of my mind desperately wanted to hear his voice again. It almost made me tear up, but I forced those emotions down. If there was the chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
+It was more difficult than I thought, trying to hold up a one-sided conversation, when a part of my mind expected to hear his voice again. It almost made me tear up, but I forced those emotions down. If there was the chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
 
 So, I tried to smile instead. “They painted this beautiful mural in memory of you and the other people that passed away. I think that you would have like the picture that I picked out. Um…your mom actually invited me over and she wanted me to choose a picture and even took out all of your baby photos to show me!”
 
