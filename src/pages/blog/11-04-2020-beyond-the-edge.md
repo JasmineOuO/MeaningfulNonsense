@@ -181,8 +181,14 @@ Charlie continued to stare deeply into the sunrise. His mind remained in deep th
 
 I didn’t say much in response, but he knew I understood.
 
-Afterward, we both watched the rest of the sunrise in relaxed silence. And when it was finally over, we spent the rest of the morning hours coming up with a solution. One where I could finally let go of this burden of control. One where I would start learning how to live normally again. One that felt easier to discuss now that everything was out in the open. 
+Then, in a relaxed silence, we both watched the rest of the sunrise. And when it was finally over, we spent the rest of the morning hours coming up with a solution. One where I would start learning how to finally let go of this burden for control. One where I would start learning how to live normally again. One that felt easier to discuss now that everything was out in the open. 
 
-And all the while, I felt myself exhaling deeply. Almost as if my mind was slowly, but surely, fighting away from the guilt, the anger, the blame, the pain. 
+And all the while, I felt myself exhaling deeply. Almost as if my mind was slowly, but surely, fighting away from the guilt, the anger, the blame. 
 
-I could feel myself, for once, begin to finally move on.
+The pain still remained. I could still feel the bruises aching in my heart. 
+
+But despite it all, I still did it. 
+
+Maybe because I was just so tired of feeling this kind of way.
+
+Or maybe, for once, I actually started to believe that there was a brighter side to all of this pain.
