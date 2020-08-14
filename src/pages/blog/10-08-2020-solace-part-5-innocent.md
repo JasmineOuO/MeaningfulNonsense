@@ -80,15 +80,23 @@ Then, I took one last look at it all, before continuing down the street again.
 
 ___
 
-As I continued down a long road, I began to reminisce on the past couple of months. In the beginning, the year felt like it was passing by excruciatingly slowly. Yet in these last few months, they only seemed to sail by. And I could say without a shred of doubt that lifting myself from that hole of self-loathing and guilt-driven nightmare was not accomplished alone.
+As I continued down the long road, I began to reminisce about the past couple of months. In the beginning, the year felt like it was passing by excruciatingly slowly. While in these last few months, the days didn't feel as dreadful. And I could say without a shred of doubt that shaking myself out of that guilt-driven nightmare was not accomplished alone.
 
-Having someone like Charlie by my side was the antidote I didn’t know I needed. He was able to give me an environment where I could freely examine my thoughts and have someone put me back on track when I started to spiral. We would dissect each thought and put every one of them into perspective. So that when the months went by, I slowly stopped asking myself what I could have done differently, and my thoughts gradually shifted the question to: will knowing the answer make any real difference? Will it bring him back?
+Having someone like Charlie by my side was the antidote I didn’t know I needed. He was able to give me an environment where I could freely examine my thoughts as well as be that someone who would put me back on track when I started to spiral. We would dissect each thought and put every one of them into perspective. So that when the months went by, I slowly stopped asking myself what I could have done differently. My thoughts gradually shifted the question to: will knowing the answer make any real difference? Will it bring him back?
 
-A difficult yet necessary part of healing was accepting this new reality centered around how to live without the guilt of not being able to save him. It felt like my mind was constantly playing tug-a-war and each day, my mindset would shift opinions all the time. But then Charlie asked me what Grayson would think if I told him how I felt. And when I thought about it, I knew that everything I was feeling, all the guilt I was experiencing, Grayson would tell me that it wasn’t my fault. Even though I could never ask, I just had a strong feeling that he would say those exact words. Despite the many nightmares that told me otherwise, I couldn’t ever imagine Grayson telling me those things. Deep down, I knew that it was just my own thoughts trying to use guilt as a coping mechanism with how hopelessly out of control I was feeling. Subconsciously, holding on to the guilt created an inkling of hope that I could have done something to change what had happened. It was somehow easier to consider and understand than trying to accept that I would never have been able to stop it. That I was never in control to begin with.
+A difficult yet necessary part of grief was accepting this new reality centered around how to live without the guilt of not being able to save him. It felt like my mind was constantly playing tug-a-war and each day, and my mindset would shift opinions all the time. 
 
-Charlie was the one who showed the perspective that I was too closed off to think about. Sometimes, I would think about how things would turn out if he wasn’t persistent. If he didn’t care to listen.
+But then Charlie asked me what Grayson would think if I told him how I felt. And when I thought about it, when I *really* thought about it, I knew that everything I was feeling, all the guilt I was experiencing, Grayson would tell me that it wasn’t my fault. Even though I could never ask, I just had a strong feeling that he would say those exact words. Despite the many nightmares that told me otherwise, I couldn’t ever imagine Grayson telling me those things. 
 
-But the thought only lingered for a second before disappearing. I had been trying my best to stop thinking about the “what-ifs” these days. It was a dangerous game that I no longer want to participate in. So, by the time I made it to the cemetery, those thoughts were cleared away. It was an easy task to accomplish with the mesmerising view in front of me. The sun was beginning to set, and it brought out the assembly of colors across the grassland.
+Deep down, I knew that my own mind was only using guilt as a coping mechanism with how hopelessly out of control I felt. Subconsciously, holding on to the guilt created an inkling of hope that I could have done something to change what had happened. It was somehow easier to consider and understand than trying to accept that I would've never been able to stop it. That I was never in control to begin with.
+
+Charlie was the one who showed me the perspective that I was too closed off to think about. Sometimes, I would think about how things would turn out if he wasn’t persistent. 
+
+If he didn’t care to listen.
+
+But the thought only lingered for a second before disappearing. I've been trying my best to stop thinking about the “what-ifs” these days. It was a dangerous game that I no longer wanted to participate in. 
+
+So, by the time I made it to the cemetery, those thoughts were cleared away. It was an easy task to accomplish with the mesmerizing view in front of me. The sun was beginning to set, and it brought out the assembly of colors across the grassland.
 
 It took a few minutes to reach his gravestone as the last few steps were fairly hesitant and I almost stopped completely when my eyes began to see the name carved onto the stone. But my feet trudged forward slowly until I finally reached it.
 
