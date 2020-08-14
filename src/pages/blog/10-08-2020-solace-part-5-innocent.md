@@ -128,7 +128,7 @@ I didn’t believe that I could ever do that again.
 
 ___
 
-The automatic lights turned on as I closed the apartment door behind me. It must have been nine in the evening since the sun had gone down completely by the time I had made it back here. Being in this place during these past few months had gradually gotten easier. It looked a lot more lived-in nowadays ever since I took Charlie’s advice in doing a thorough clean up and after reorganizing the place, the change really did wonders on my mental space.
+The automatic lights turned on as I closed the apartment door behind me. It must have been nine in the evening since the sun had gone down completely by the time I had made it back here. Being in this place during these past few months had gradually gotten easier. Ever since I took Charlie's advice on doing a thorough clean up, it looked a lot more lived-in. The change even did wonders on my mental space.
 
 As I made my way to the kitchen, I felt a buzz in my back pocket. It must be from Charlie. So, I quickly placed the bouquet of peonies on the counter before answering the call.
 
@@ -146,15 +146,21 @@ He just laughed again. “That’s a pity…I’ve been rehearsing it all day lo
 
 I stopped myself from rolling my eyes again but couldn’t help but continue to banter. “I would have hung up before the second word came out of your mouth.”
 
-“Alright, alright fine,” he said before returning back to a more thoughtful voice. “If you’re not busy tomorrow, it’d be great to meet up and go some place fun. I have not had a chance to relax after my last exam and I still feel like a hermit.”
+“Alright, alright fine,” he said before returning back to a more thoughtful voice. “If you’re not busy tomorrow, it’d be great to meet up and go someplace fun. I haven't had the chance to relax after my last exam and I still feel like a hermit.”
 
-I agreed happily and we spent the a little while deciding on tomorrow’s plans before I put my phone back in pocket. Then I reached for the clear vase hidden at the back on the cabinet and washed it clean before filling it with water. The silence was comfortable tonight and it was nice to just lean against the counter and embrace it.
+I agreed happily and we spent the next little while deciding on tomorrow’s plans before I put my phone back in my pocket. Then I reached for the clear vase hidden at the back on the cabinet and washed it clean before filling it with water. The silence was comfortable tonight and it was nice to just lean against the counter and embrace it.
 
-Then I put the flowers into the vase and brought it over to the rounded table near the balcony window. After taking a seat as well, my mind swiftly recalled the past day while staring at the white petals in front of me. It became a habit that I started to exercise so when my mood takes a turn, I would be able to examine where the day turned sour and find out why.
+Then I put the flowers into the vase and brought it over to the rounded table near the balcony window. After taking a seat as well, my mind swiftly recalled the past day while staring at the white petals in front of me. It was a habit that I started to exercise so that when my mood took a turn, I would be able to examine where the day turned sour and find out why.
 
-In the end, today was a good day. But there is never a straight upward trajectory with how each day could turn out. That’s one of the big misconceptions about the healing process. Or the more common term: acceptance. It doesn’t always get better. The pain doesn’t just disappear, it doesn’t just stop hurting once you learn to accept. It just becomes more bearable.
+In the end, today was a good day. 
 
-I could never really explain how it feels when people ask. It would be like describing the meaning behind an abstract painting to someone who has never seen it. Yet, as I observed the bouquet of peonies in front of me, a certain connection came to me. Juts like a flower, sometimes a petal will wilt. It will begin to shrivel and darken. But after a couple of days, the petal will start to heal again. With a little bit of care, a little bit of love, it will start to grow and flourish again. That’s how I would describe the pain. Some days, it’s more painful and the world feels darker. But you learn how to continue living with it. You learn to fight back because it’s the only way to not let it kill you. And as you experience more and more peaks and trenches, the world will to begin feel brighter and the pain will start to lose its power.
+But there's never a straight upward trajectory with how each day could turn out. That’s one of the big misconceptions about the healing process. Or the more common term: acceptance. It doesn’t always get better. The pain doesn’t just disappear, it doesn’t just stop hurting once you learn to accept. 
+
+It just becomes more bearable.
+
+I could never really explain how it feels when people ask. It would be like describing the meaning behind an abstract painting to someone who had never seen it. Yet, as I observed the bouquet of peonies in front of me, a certain connection came to me. 
+
+Just like a flower, sometimes a petal will wilt. It will begin to shrivel and darken. But after a couple of days, the petal will start to heal again. Because with a little bit of care, a little bit of love, it will start to grow and flourish again. That’s how I would describe the pain. Some days, it’s more painful and the world feels darker. But you learn how to continue living with it. You learn to fight back because it’s the only way to not let it kill you. And as you experience more and more peaks and trenches, the world will to begin feel brighter and the pain will start to lose its power.
 
 Sometimes, I’d wonder if I’ll be able to avoid the pain the next time around.
 
