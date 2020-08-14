@@ -60,17 +60,25 @@ I felt like an open book on display when he spoke those words. But it didn’t f
 
 ___
 
-This would have been the third time I had walked on this street in the past year. I could have found a detour but instead, my mind insisted that I visited the place again. The place where everything changed forever.
+This would have been the third time I had walked on this street in the past year. I could have easily found a detour, but instead, my mind insisted that I visited the place again. The place that changed everything forever.
 
-The neon sign was still lit up, but the club wasn’t open yet. There was a beautiful mural painted across the walls on the building and many flowers were scattered near them. They were all left from the memorial held two night ago.
+The neon sign was still lit up, but the night club wasn’t open yet. There was also a beautiful mural painted across the walls of the building and many flowers were scattered near them. They were all left from the memorial held two nights ago.
 
-Going to the memorial again after an entire year of avoiding the place was absolutely terrifying. Especially when it was held in front of a place where so much blood was spilt. But this time, I didn’t feel alone. A lot of my friends came with me and instead of being scattered across the street like last year, we all stood together. Many of us started crying when we saw the newly painted mural in memory of the victims. Their faces were painted on the wall and when I saw Grayson, well, a lot of emotions flooded my mind. He was wearing his trademark smile and his hair was tossed in a crazy mess, just the way he always liked it. The painting was referenced from a picture that I chose when the idea was expressed to me for a mural. I was glad that I chose that picture. One where he was happy. It was important to his family that people remembered him smiling and laughing. They didn’t want his memories to be tainted by blood shed and sorrow.
+Going to the memorial again after an entire year of avoiding the place was terrifying, to say the least. Especially when it was held in front of a place where so much blood was spilled. But this time, I didn’t feel alone. A lot of my friends came with me and instead of being scattered across the street like last year, we all stood together. 
 
-Seeing it again in daylight didn’t make it hurt any less, but the feeling was also just different. The pain was often mixed with frustration, guilt or shock. But this time, it just felt…different. Perhaps it was because I just stopped trying to always imagine how it would be like he had been alive. I just stopped putting those thoughts in my head. Instead, as these past few months have gone by, I started to live this new reality where I could only accept how different it will be without him.
+Many of us almost broke down when we saw the newly painted mural in memory of the victims. Their faces were painted on the wall and when I saw Grayson, well, a lot of emotions flooded my mind. He was wearing his trademark smile and his hair was tossed in a crazy mess, just the way he always liked it. 
 
-Then, my fingers slowly traced over the outline of his painting before I decided to pull out one of pink carnations from the arrangement and lean it against the wall. The colors on the flower were bright and alive, standing out brightly from the rest of them. The sight made me smile when I thought of how similar it was to Grayson. He always had the natural charisma and spirit that could stand out of any crowd.
+The painting was referenced from a picture that I chose when the idea was expressed to me for a mural. I was glad that I chose that picture. One where he was happy. It was important to his family that people remembered him smiling and laughing. They didn’t want his memories to be tainted by bloodshed and sorrow.
+
+Seeing it again in daylight didn’t make it hurt any less, but the feeling was also different. The pain was often mixed with frustration, guilt, or shock. But this time, it just felt…different. 
+
+Perhaps, it was because I stopped trying to always imagine what it would've been like if he'd been alive. I just stopped putting those thoughts in my head. Instead, as these past few months had gone by, I started to live this new reality where I *had* toaccept how different it would be without him.
+
+My fingers slowly traced over the outline of his painting before I decided to pull out one of the pink carnations from the arrangement and lean it against the wall. The colors on the flower were bright and alive, standing out brilliantly from the rest of them. The sight made me smile when I thought of how similar it was to Grayson. He always had a natural charisma and spirit that could stand out from any crowd.
 
 Then, I took one last look at it all, before continuing down the street again.
+
+___
 
 As I continued down a long road, I began to reminisce on the past couple of months. In the beginning, the year felt like it was passing by excruciatingly slowly. Yet in these last few months, they only seemed to sail by. And I could say without a shred of doubt that lifting myself from that hole of self-loathing and guilt-driven nightmare was not accomplished alone.
 
