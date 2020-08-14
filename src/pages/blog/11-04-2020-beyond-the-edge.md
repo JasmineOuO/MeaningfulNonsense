@@ -185,10 +185,10 @@ Then, in a relaxed silence, we both watched the rest of the sunrise. And when it
 
 And all the while, I felt myself exhaling deeply. Almost as if my mind was slowly, but surely, fighting away from the guilt, the anger, the blame. 
 
-The pain still remained. I could still feel the bruises aching in my heart. 
+The pain still remained though. I could still feel the bruises aching in my heart. 
 
 But despite it all, I still did it. 
 
 Maybe because I was just so tired of feeling this kind of way.
 
-Or maybe, for once, I actually started to believe that there was a brighter side to all of this pain.
+Or maybe, for once, I actually started to believe that there was a brighter side to all this pain.
