@@ -110,21 +110,23 @@ I carefully organized their flowers again, as some had blown away from the wind,
 
 “But I guess losing your best friend and visiting their grave isn’t the most common thing.”
 
-It was more difficult than I thought, trying to hold up a one-sided conversation, when a part of my mind expected to hear his voice again. It almost made me tear up, but I forced those emotions down. If there was the chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
+It was more difficult than I thought, trying to hold up a one-sided conversation, when a part of my mind expected to hear his voice again. It almost my eyes prickle, but I forced those emotions down. If there was a chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
 
-So, I tried to smile instead. “They painted this beautiful mural in memory of you and the other people that passed away. I think that you would have like the picture that I picked out. Um…your mom actually invited me over and she wanted me to choose a picture and even took out all of your baby photos to show me!”
+So, I tried to smile instead. “They painted this beautiful mural in memory of you and the other people that passed away. I think that you would have liked the picture that I picked out. Um…your mom actually invited me over and she wanted me to choose a picture. She even took out all of your baby photos to show me!”
 
 Then, as the silence carried over, I decided to sit down on the grass and speak again. “We all miss you a lot. Sometimes, it still feels surreal that you aren’t here anymore. But I just hope that wherever you are right now, that you’re happy. I hope that you’re loved.”
 
 Then I stopped to breathe out a shaky sigh. “I’m sorry for not visiting you all this time.”
 
-I almost wanted to tell him everything that had been going on for the past year. But then I decided against it. It was unnecessary to tell him about the bad days especially when a lot had turned around lately.
+I almost wanted to tell him everything that had been going on for the past year. But then I decided against it. It was unnecessary to tell him about the bad days, especially when a lot had turned around lately.
 
 “But I promise that I’ll come more often.”
 
-Afterwards, I spent the next few minutes reminiscing the past with him. I retold some of my favourite memories of us that I hadn’t thought about in a while. It was more effortless this time around as the feelings of hesitance and heaviness had easily fading away. In the end, I realized that whether he was listening in or not, this was the very first time that I was able to laugh and smile about those memories.
+Afterward, I spent the rest of my time reminiscing the past with him. I retold some of my favorite memories of us that I hadn’t thought about in a while. It was more effortless this time around as the feelings of hesitance and heaviness had easily faded away. In the end, I realized that whether he was listening in or not, this was the very first time that I was able to laugh and smile about those memories.
 
 I didn’t believe that I could ever do that again.
+
+___
 
 The automatic lights turned on as I closed the apartment door behind me. It must have been nine in the evening since the sun had gone down completely by the time I had made it back here. Being in this place during these past few months had gradually gotten easier. It looked a lot more lived-in nowadays ever since I took Charlie’s advice in doing a thorough clean up and after reorganizing the place, the change really did wonders on my mental space.
 
