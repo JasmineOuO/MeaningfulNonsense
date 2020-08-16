@@ -8,19 +8,23 @@ tags:
   - stories
   - solace
 ---
-Sometimes, the scariest nightmares are the ones that you never find yourself waking up from. The ones where you realize that it was not a nightmare at all. Even when you try so desperately to gasp for air and drift back to the plush covers of your bed, nothing changes. The numb feeling within the pit of your stomach remains while fading screams are the only sounds ringing breathlessly against your ear. 
+Sometimes, the scariest nightmares are the ones that you never find yourself waking up from. The ones where you realize that it was not a nightmare at all. Even when you try so desperately to gasp for air and drift back to the plush covers of your bed, nothing changes. The numb feeling within the pit of your stomach remains while faded screams are the only sounds ringing breathlessly against your ear. 
 
 I could still feel the dampness of his blood. *Oh god*. Grayson’s blood. It was splayed on my sweater and had dried by the time the ambulance arrived to the hospital. After watching him get transported to the ER, I immediately found myself staring at my distraught reflection in their pristine washroom. The dried blood plastered on my hands was beginning to wash away under the steaming water. My skin felt raw with how harshly I was trying to rub the blood stuck in the crevices of my skin. But soon enough, it was clean and flushed in a red hue. 
 
-When I walked back to the waiting area, friends and family were both waiting. No one spoke much. Some were too shocked to even move while others were comforting each other in quiet whispers. When I finally took a seat next to my friend Charlie, he just took my hand and squeezed it tightly. It should have been reassuring but a part of myself just felt numb. The emotions that I had experienced during the past few hours were so overwhelming that I couldn’t even properly process my feelings anymore. I could hear him whisper words for a little bit, but I only caught a few. M*ake it through. It's okay. Don’t worry.* But eventually, he stopped when he noticed that I wasn’t listening very closely. 
+When I walked back to the waiting area, friends and family were all there. No one spoke much. Some were too shocked to even move while others were comforting each other in quiet whispers. When I finally took a seat next to my friend Charlie, he just took my hand and squeezed it tightly. It should have been reassuring but a part of myself just felt numb. The emotions that I had experienced during the past few hours were so overwhelming that I couldn’t even properly process my feelings anymore. I could hear him whisper words for a little bit, but I only caught a few. M*ake it through. It's okay. Don’t worry.* But eventually, he stopped when he noticed that I wasn’t listening very closely. 
 
-I didn’t know where my head went for the next few hours. But it kept my emotions at bay and made the time to go by faster. I wouldn’t allow myself to think about the results. It would have only ended in massive panic and cause a butterfly effect of distress and anxiety to the rest. It was almost three in the morning when I felt someone shaking me hastily. I raised my head and saw a doctor walking towards our area. He looked tired but his visage was set in a stoic expression. Then one of the family members, it was Grayson's mom, was running towards him and pleading him from an answer. The doctor put a hand over the one that was grasping onto his sleeve and they exchanged a quiet conversation that was missed by our ears. 
+I didn’t know where my head went for the next few hours. But it kept my emotions at bay and made the time go by faster. I wouldn’t allow myself to think about the results. It would have only ended in massive panic and cause a butterfly effect of distress and anxiety to the rest. It was almost three in the morning when I felt someone shaking me hastily. I raised my head and saw a doctor walking towards our area. He looked tired but his visage was set in a stoic expression. Then one of the family members, it was Grayson's mom, was running towards him and pleading him from an answer. The doctor put a hand over the one that was grasping onto his sleeve and they exchanged a quiet conversation that was missed by our ears. 
 
 But then she was shaking, her cries of anguish could be heard so clearly. Soon after, she was collapsing onto her knees and it looked like she was going into shock. Immediately, nurses were gathered around her and trying to stop her from fainting. The rest of us were on our feet and I was both dizzy and frozen from watching the painful scene unraveling before me. Then the doctor approached the rest of us and shook his head as the solemn words of Grayson's death left his lips. For a long, aching moment, no one spoke a word. Only the mixed expressions of horror and wretched shock were painted on people’s faces. 
 
-Then, when they finally passed, the truth of those words sunk in painfully, and an abrupt beat of agony started to bloom in my chest. My lungs felt like they were suddenly clawing for air, yet nothing was flowing through. Soon after, I could feel something warm streaking down my cheeks and I couldn't even lift my hand to wipe them away. All I could focus on was the feeling of walls closing in ominously. The whispered chatter piercing my ears. And the numbness that was slowly paralyzing my body. 
+Then, when they finally passed, the truth of those words sunk in painfully, and an abrupt beat of agony started to bloom in my chest. My lungs felt like they were suddenly clawing for air, yet nothing was flowing through. Soon after, I could feel something warm streaking down my cheeks and I couldn't even lift my hand to wipe them away. All I could focus on was the feeling of the walls closing in ominously. The whispered chatter piercing my ears. And the numbness that was slowly paralyzing my body. 
 
-However, my legs suddenly began to move. For a moment, I was confused. But then I realized that I desperately needed air and my body seemed to realize it before my mind could process anything. 
+However, my legs suddenly began to move. For a moment, I was confused. But then I realized that I desperately needed some fresh air and my body seemed to realize it before my mind could process anything. 
+
+*Erin...*
+
+*Erin, where are you going...*
 
 My name was being called as I continued to walk away but it only sounded like a soft echo suppressed by the deafening pounding against my mind. My body did not stop moving, only an endless blur of stairs crossed my eyes until there were no more ahead and I was pushing a door open. 
 
@@ -28,17 +32,17 @@ My vision was immediately encapsulated by the dark sky. The glimmers of the tiny
 
 Then, the memories fell into place and wicked clarity slapped me mercilessly across the face. I could see *all* the moments flashing before my eyes.
 
-*The flares of color sparkling the inside of the club. Shadowed figures in the dark. Then, the distinct sound of shots being fired erupted. Chaos followed. Thumps were heard all around as bodies fell to the floor one by one. His body was one of them. I screamed out at him but was silence by the screeches of pain and terror that filled the room. Sirens. Blood. His body covered in crimson.*
+*The flares of color sparkling the inside of the club. Shadowed figures in the dark. Then, the distinct sound of shots being fired erupted. Chaos followed. Thumps were heard all around as bodies fell to the floor one by one. His body was one of them. I screamed out at him but was silenced by the screeches of pain and terror that filled the room. Sirens. Blood. His body covered in crimson.*
 
 Even though the blood was washed away from my palms, it still felt present; the dried blood embedded into the creases of them and the stain that had dried roughly on my sweater. Not long after, the sickening metallic scent of blood was bitterly pungent in my nostrils, making me shiver in disgust and misery. It was strong enough to make my back hit the wall. But I decided to just slide down with my fists clenched hard, a weak attempt to keep the tremors at bay. 
 
 Then I heard footsteps. Someone was coming towards me and the idea made my body seize up in anxiety. But after hearing the sound of my name from a familiar voice, my shoulders easily slumped back down against the wall. 
 
-Charlie had frantically rushed out the door, eyes searching desperately until his gaze landed directly on me. I could see the relief wash over his worried expression as he made his way over and took a seat next to me. He didn’t say anything for a few moments, yet I didn't mind; having company was surprisingly comforting. 
+Charlie had frantically rushed out the door, eyes searching desperately until his gaze landed directly on me. I could see the relief wash over his worried expression as he made his way over and took a seat next to me. He didn’t say anything for a few moments. Yet I didn't mind, having company was surprisingly comforting. 
 
-But then I felt movement and soon after, he was hugging me in a tight embrace. The sole ndication of him crying was the silent tears falling onto my arm. 
+But then I felt movement and soon after, he was hugging me in a tight embrace. The sole indication of him crying was the silent tears falling onto my arm. 
 
-I could only bite the inside of my cheek tightly, trying to stop the fresh tears that were prickling around my eyes. Then I let out a cracked whisper, “This is really happening isn’t it? He’s actually gone.”
+I could only bite the inside of my cheek tightly, trying to stop the fresh tears that were prickling around my eyes. Then I let out a cracked whisper, “this is really happening, isn’t it? He’s actually gone.”
 
 He just leaned his head on mine and hugged me tighter. And instead of answering he just whispered, “We’re going to be okay.”
 
@@ -50,19 +54,19 @@ I never thought that I would have to do that. Not so soon.
 
  But I just shook my head, “You don’t…you don’t know that. You can’t…”
 
-It was silent for a long moment as he raised his head to look away. Then, he leaned back and said with a resigned voice, “Yeah you’re right. I don’t know. But I do know Grayson, and he wouldn’t want us to stop living because of him. He…he would want us to keep living.” 
+It was silent for a while as he raised his head to look away. Then, he leaned back and said with a resigned voice, “yeah you’re right. I don’t know. But I do know Grayson, and he wouldn’t want us to stop living because of him. He…he would want us to keep living.” 
 
-Then he exhaled a shaky breath, “So that’s what we’ll do. Even without him, we will keep on living…for him.”
+Then he exhaled a shaky breath. “So that’s what we’ll do. Even without him, we will keep on living…for him.”
 
 - - -
 
 It was already the next morning, and the news of the club shooting had blown up across the nation. The city was mourning, and everyone was on edge. Several suspects had been arrested and the police had called in dozens of people who were present last night that might be able to identify them properly. I was one of them. 
 
-The call had come in about an hour ago and now, I found myself standing nervously in front of a one-way mirror. There was a woman who had previously introduced herself as a detective and two other men who wore police uniforms with me as well. I was unconsciously clenching and unclenching my fists to deal with the anxiety pooling in my stomach. But I stopped when the detective put a gentle hand on my shoulder and encouraged me to take a deep breath. 
+The call had come in about an hour ago and now, I found myself standing nervously in front of a one-way mirror. There was a woman beside me who had previously introduced herself as a detective and two other men who wore police uniforms with me as well. I was unconsciously clenching and unclenching my fists to deal with the anxiety pooling in my stomach. But I stopped when the detective put a gentle hand on my shoulder and encouraged me to take a deep breath. 
 
 Then she told me some news that surprised me. She said that almost all of the shooters had confessed fully to their crimes with no resistance. But she still wanted me to identify the specific man who had killed Grayson. Something about familial closure and making sure that there was an air-tight case in court. 
 
-I only nodded before the detective pressed a button and six people walked out in a line. My eyes slowly scanned each person, trying to match a face to the memory. But then, my eyes flickered over the fifth person and they quickly widened. The build and hair were familiar but more importantly, the smirk plastered over his smile was uncanny. It was the same expression etched into my memory of that night. Nevertheless, I tried my best not to freak out. It was important for me to look at each person thoroughly. My answer could not be emotional, it had to be factual. If I got this wrong, Grayson’s death would never get the justice it deserved. But in the end, after taking one last look, I was certain. 
+I only nodded before the detective pressed a button and six people walked out in a line. My eyes slowly scanned each person, trying to match a face to the memory. But then, my eyes flickered over the fifth person and they quickly widened. The build and hair were familiar but more importantly, the smirk plastered over his smile was uncanny. It was the same expression etched into my memory of that night. Nevertheless, I tried my best to not freak out. It was important for me to look at each person thoroughly. My answer could not be emotional, it had to be factual. If I got this wrong, Grayson’s death would never get the justice it deserved. But in the end, after taking one last look, I was certain. 
 
 Afterward, the fifth person was being cuffed while the rest of the people walked back to another room. He was going to be escorted out back into the hallway and when he disappears, I would never get the chance to talk to him. 
 
@@ -76,7 +80,7 @@ Then, without warning, I twisted my body away from the direction of the front do
 
 The vile smirk was back on his face. “You were the one in that room.” 
 
-I didn’t say anything back, but my body was itching to wipe off that expression with my fist. Seconds later, there were arms trying to pull me off of him. 
+I didn’t say anything back, but my body was itching to wipe that expression off with my fist. Seconds later, there were arms trying to pull me off of him. 
 
 “I should thank you then,” he announced with a patronizing tone that made my hand twitch. “I will never be forgotten after today.”
 
@@ -84,7 +88,7 @@ I didn’t say anything back, but my body was itching to wipe off that expressio
 
 My body suddenly went lax and it felt like everyone else in the room could only watch the commotion motionlessly. 
 
-His words took a moment to process. To understand. But then it did, and I found the sudden strength to tear away from the officers pulling me back and lunge towards him. When my knuckles smashed into his face, I didn’t feel the impact. But the distinct crack that came from his nose was enough for me to know that he felt it. 
+His words took a moment to process. To understand. But then it did, and I found the sudden strength to tear away from the officers pulling me back and lunged towards him. When my knuckles smashed into his face, I didn’t feel the impact. But the distinct crack that came from his nose was enough for me to know that he felt it. 
 
 Immediately, multiple arms were restraining me again, but it didn’t stop me from screaming, “You f\*cking b\*tch. You did this for *fame*?!”
 
@@ -96,7 +100,9 @@ The man just rolled his eyes, “Why did you think we all confessed? We *wanted*
 
 It soon turned into laughter, “What could be better than that!” 
 
-However, I couldn’t find myself listening to those words. My mind was unable to move on from what he had said before the detective interceded. *If he weren’t there…*
+However, I couldn’t find myself listening to those words. My mind was unable to move on from what he had said before the detective interceded. 
+
+*If he weren’t there…*
 
 Then my eyes widened and the way my question came out sounded like I was pleading, “You’re saying that if he didn’t go there last night, that he would have been okay? He would have still been alive?” 
 
@@ -112,7 +118,7 @@ That his death could have been avoided.
 
  If I had not *convinced* him to go then…then Grayson would still be…
 
-“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out, and only dark clouds covered the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The abrupt loss made me painfully aware of the ache radiating from my hand and only seemed to grow stronger as I continued to stand there.
+“I- I um I need some air. Sorry, excuse me,” I muttered before stumbling out the front doors. The world looked so dark when I walked out as only dark clouds covered the sky. They were swarming fiercely over my frame, quickly erasing the sunlight away. The gloominess somehow elicited an uncomfortable feeling of melancholy that pushed away my previous adrenaline. The abrupt loss made me painfully aware of the ache radiating from my hand and only seemed to grow stronger as I continued to stand there.
 
 *Does everyone else think the same thing? Had everyone just been lying to me?*
 
@@ -126,11 +132,13 @@ When nightfall had finally approached, there were thousands of people gathered t
 
 I was quite close to the front, where hundreds of flowers, as well as framed pictures of victims, were strewn around. The memorial lasted a little over two hours and the mayor had closed off the ceremony with a memorable speech. One where parts of it had forged its way into my mind and lingered. 
 
-*“Today is a day of remembrance. Not for their death but for their life. …the loss is immeasurable but so is the love left behind. So let us not allow their death to extinguish the gifts of goodness they have brought into this world. …as long as we continue to burn this light brightly in our hearts, their love will continue to live on with us.”*
+*“Today is a day of remembrance. Not for their death but for their life. …'the loss is immeasurable but so is the love left behind'. So let us not allow their death to extinguish the gifts of goodness they have brought into this world. …as long as we continue to burn this light brightly in our hearts, their love will continue to live on with us.”* 
 
 Minutes had gone by after the service ended, yet, the crowd hadn’t moved. No one had the intention to walk away. It felt unnatural to just turn away and return back to their new “normal”; one where their loved ones no longer existed. No one had the strength to just…move on. 
 
-When I looked down, the candlelight vigil was still burning warmly in between my palms. This candle was in remembrance of him. This candle…it shouldn’t have even existed. 
+When I looked down, the candlelight was still burning warmly in between my palms. This candle was in remembrance of him.
+
+ This candle…it shouldn’t have even existed. 
 
 He would have been standing right next to me today, remembering the other lost victims. We would have both lit a candle in remembrance of someone else. A candle of remembrance for him should have never existed in the first place. He should have never been killed in the first place.
 
