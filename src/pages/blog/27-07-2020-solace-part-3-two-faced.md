@@ -8,7 +8,7 @@ tags:
   - solace
   - stories
 ---
-Remember to Read Solace Part 1 and 2 first :)
+Remember to read Solace Part 1 and 2 first :)
 
 \~ 5 months after his death \~
 
