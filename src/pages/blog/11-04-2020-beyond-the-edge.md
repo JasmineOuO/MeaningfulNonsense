@@ -2,10 +2,11 @@
 templateKey: post
 title: "Solace Part 4: Beyond the Edge"
 label: The Edge
-date: 2020-04-11T19:26:48.331Z
+date: 2020-08-26T19:29:34.753Z
 thumbnail: /images/beyond-the-edge.jpg
 tags:
   - stories
+  - solace
 ---
 Remember to read Solace Part 1-3 first :)
 
@@ -194,3 +195,9 @@ But despite it all, I still did it.
 Maybe because I was just so tired of feeling this kind of way.
 
 Or maybe, for once, I actually started to believe that there was a brighter side to all this pain.
+
+__
+
+Confession session for Erin has finally happened! Will it get better from here on out??
+
+Comment down below and let me know how you felt about this part :)
