@@ -11,17 +11,17 @@ Remember to read Solace Part 1-3 first :)
 
 __
 
-There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention back. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence, and having it cut short almost made me want to knock out the culprit. 
+There were fingers under my chin and a gentle voice coaxing me out of my reverie. My body shifted to the side to move away from the touch, but the hands came back on my shoulders to draw my attention again. Out of slight annoyance, my eyes decided to finally open and focus on the person interrupting my peaceful sleep. I couldn’t even remember the dream I may or may not have had. For once, there was only silence, and having it cut short almost made me want to knock out the culprit. 
 
 “Erin? Can you hear me?”
 
-Huh. Charlie? Why was he here? 
+*Huh. Charlie? Why was he here?* 
 
 “Wha-? What are you doing here?” 
 
 He looked like he was out of breath but his eyes showed…relief? “What are you doing up here? And…why were you sleeping on the staircase?”
 
-I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well, it was getting really humid and hard to breathe so I wanted to catch some fresh air. I guess I fell asleep before I could.”
+I frowned slightly before looking around. What was I doing he- oh wait. “Oh um…well, it was getting really hard to breathe in my room so I wanted to catch some fresh air. I guess I fell asleep before I could.”
 
 He looked like he wanted to say something, but he just looked at me for a long moment. Then he sighed, “alright, well now that I have finally found you, how about we catch up?” Then a small smile tugged at his lips and he drew out a hand, “Maybe we can catch the sunrise?”
 
@@ -39,9 +39,9 @@ I shrugged noncommittedly, “You know, the usual university stress and sh*t. Bu
 
 He snorted, “Yeah no kidding.”
 
-Then it was silent again. I could feel the way he wanted to say something but he felt conflicted to do so again. But then his eyes became focused. “I miss him too.”
+Then it was silent again. I could feel the way he wanted to say something and his confliction to do so again. But then his eyes became focused. “I miss him too.”
 
-Suddenly, everything went tense. Stop talking about him. Even when he wasn't in my head, he’s still there. But I just nodded in agreement. 
+Suddenly, everything went tense. *Stop talking about him*. Even when he wasn't in my head, he’s still there. But I just nodded in agreement. 
 
 “What happened to him was horrible and shouldn’t have ever happened.” Then he turned his body towards me and continued, “But what happened to him was not your fault.”
 
@@ -61,7 +61,7 @@ His eyes seemed to bore right into my thoughts, but I pushed back. “That still
 
 He shook his head but started to pull out his phone, “Fine, I will.” Then he handed me his phone. 
 
-I looked down confused. Why was he acting so weird? Then I heard my voice. Oh wait. *Shit*. It was the voicemail. I must have been too dazed back then to even process the repercussions of just saying my feelings aloud. How would I even explain this to him? I should just lie and say it was a prank. It will most likely backfire on me though. 
+I looked down confused. Why was he acting so weird? Then I heard my own voice. Oh wait. *Shit*. It was the voicemail. I must have been too exhausted back then to even process the repercussions of just saying my feelings aloud. How would I even explain this to him? I should just lie and say it was a prank. It will most likely backfire on me though. 
 
 I could only grip the phone tighter in confliction. “It was just…a mistake. Don’t take these kinds of things so seriously.”
 
@@ -75,11 +75,11 @@ I just listened, not knowing what I could say to him. But even more, I knew that
 
 He sighed heavily as he ran a hand down his face. “I guess it didn’t work out after all, huh? You told me it was helping you feel better. That each day you felt yourself move on a little, you would cross off the date. But I think that you were lying to both of us when you said that it was getting better.” Then he shook his head, “Did you know that every single day was crossed off for all those months? No one moves on that easily, especially when they were like family.”
 
-I couldn’t find the right words anymore. So I just leaned on the railing next to him and stayed silent. For a moment, no one spoke nor moved. I realized that I was holding in a breath when he slowly turned his gaze towards me. A part of myself wanted to challenge his stare but decided, in the end, to just look away. 
+I couldn’t find the right words anymore. So I just leaned on the railing next to him and stayed silent. For serveral beats, no one spoke nor moved. I realized that I was holding in a breath when he slowly turned his gaze towards me. A part of myself wanted to challenge his stare but decided, in the end, to just look away. 
 
-Then he spoke softly, “I don’t have the right to say that I know what you’ve been going through. I wasn’t there. I didn’t have to watch my best friend killed before my eyes. No one expects you to move on like this. No one expects you to be okay. But I do believe that you wanted to say those words for a reason. And deep *deep* down, you were tired of acting like everything was okay."
+Then he spoke softly, “I don’t have the right to say that I know what you’ve been going through. I wasn’t there. I didn’t have to watch my best friend die before my eyes. No one expects you to move on like this. No one expects you to be okay. But I do believe that you wanted to say those words for a reason. And deep *deep* down, you were tired of acting like everything was okay."
 
-My chest suddenly felt heavy but instead of the usual feeling of shame, I felt something warm and comforting bloom inside. It became harder and harder not to break down in front of him. To show him that something was indeed wrong. But to actually say it aloud, that was too terrifying. I had never admitted to someone else how I felt about Grayson’s death. They had all said that I was innocent, just another victim of a senseless shooting. But I was nothing but a bystander. There were so many things that I could have done to prevent him from being shot. No one knew about that though. What would Charlie think of me when he finally realizes that I was not innocent at all?
+My chest suddenly felt heavy but instead of the usual feeling of shame, I felt something warm and comforting bloom inside. It became harder and harder to not break down in front of him. To show him that something was indeed wrong. But to actually say it aloud, that was too terrifying. I had never admitted to someone else how I felt about Grayson’s death. They had all said that I was innocent, just another victim of a senseless shooting. But I was nothing but a bystander. There were so many things that I could have done to prevent him from being shot. No one knew about that though. What would Charlie think of me when he finally realizes that I was not innocent at all?
 
 I could only whisper, afraid that any louder, he would hear my voice tremble. “You should go.”
 
@@ -87,7 +87,7 @@ I could only whisper, afraid that any louder, he would hear my voice tremble. �
 
 Frustrated, I finally turned to him and glared, “Look. I’m sorry about making you worry. The message was just a mistake. I don’t even know why I said it! But please just stop, okay? Can you do that?”
 
-It took him a couple of seconds to find the right words. “No…I can’t. Because I know that day had scarred you in a way that cannot be easily healed. And…I just don’t want you to be alone,” he said before sighing. “At first, I thought that giving you space was important because you needed time to process and mourn. But then when I actually saw you time and time again, you always looked so…sad. However, whenever I actually talked to you, you were always smiling.” Then he shook his head. “I couldn’t understand why you pretending to be okay. But I know that whatever it is, it is hurting you. And as long as you’re hurting, I can’t just walk away. I just...I won't.”
+It took him a couple of seconds to find the right words. “No…I can’t. Because I know that day had scarred you in a way that cannot be easily healed. And I just...don’t want you to be alone,” he said before sighing. “At first, I thought that giving you space was important because you needed time to process and mourn. But then when I actually saw you time and time again, you always looked so…sad. However, whenever I actually talked to you, you were always smiling.” Then he shook his head. “I couldn’t understand why you pretending to be okay. But I know that whatever it is, it is hurting you. And as long as you’re hurting, I can’t just walk away. I just...I won't.”
 
 Go on. Tell him. You will feel better when you do. That’s what a part of myself was telling my mind. But…at what cost? If I tell him, I might lose him forever but if I don’t, then I will only be hurting him. Either way, I am a burden that he can’t let go of. And even if he doesn’t end up hating me, I would hate myself for sharing my troubles. The dilemma felt physically crushing, forcing my body to slide down to the ground. My head felt heavy with the internal battle and I started to rub the temples of my head to soothe it. “You can’t do anything for me.”
 
@@ -101,23 +101,23 @@ I just stared back for a moment, searching his face for any signs of a lie. When
 
 Then, for the first time, I let myself go.
 
-“You know...*everyone* keeps telling me that I was also a victim that day. That my hands were tied and that…I couldn’t have done anything." Then my hand was pressing against my temple, trying to massage a throbbing ache. "It should make me feel better."
+“I hate being reminded about that night. I hate when people bring it up. I turn off the tv whenever they report anything about it. And I hate it because...they always tell me that I was a victim. That my hands were tied and that…I couldn’t have done anything." Then my hand was pressing against my temple, trying to massage a throbbing ache. "It should make me feel better."
 
-"But it doesn’t. Because a part of myself doesn’t believe it,” I breathed out a shaky breath before continuing, “Did you know that *I* was the one who wanted to stay longer? He was worried that I would not make it to my morning class but I said that I just wanted to have a good night."
+"...but it doesn’t. Because a part of myself just doesn’t believe it,” I breathed out a shaky breath before continuing, “Did you know that I was the one who wanted to stay longer? He was worried that I would not make it to my morning class but I said that I just wanted to have a good night."
 
-I let go of the hand holding my forehead and started clenching my fist. "When I saw the gunmen coming towards him, I just—he was just too far. I should hav—no I *could* have screamed louder. But it just...wasn’t enough” 
+I let go of the hand holding my forehead and started clenching my fist. "When I saw the gunmen coming towards him, I just—he was just too far. I should hav—no I *could* have screamed louder. But it just...wasn’t enough.” 
 
-“Sometimes, or just *always*, I hate myself for bringing him there in the first place.” Then I felt myself spiraling as my fists tightened more, “I never told anyone this before, but a little after that day, I went to the police station to identify one of the shooters. *His* shooter. And I was just—I wanted to know *why*. Why he had to take his life? But the f*cker just said he did it for fame. Then...he told me that Grayson was dead the moment he walked in and nothing could have saved him.”
+“Sometimes, I hate myself for bringing him there in the first place.” Then I felt myself spiraling as my fists tightened more, “I never told anyone this before, but a little after that day, I went to the police station to identify one of the shooters. *His* shooter. And I was just—I wanted to know *why*. Why he had to take his life? But the f*cker just said he did it for fame. Then...he told me that Grayson was dead the moment he walked in and nothing could have saved him.”
 
 I couldn't help but ask, “Doesn’t that mean if I hadn’t brought him, that he would still be alive?”
 
-Slowly, I exhaled a couple of deep breaths. “God…*it hurts*,” I whimpered barely above a whisper. “The guilt feels so…heavy.” Somehow, the more I spoke, the anxiety and fear began to bleed away, leaving me almost light-headed. 
+Slowly, I exhaled a couple of deep breaths. “God…*it hurts*,” I whimpered barely above a whisper. “The weight of it all can just feels so…heavy.” Somehow, the more I spoke, the anxiety and fear began to bleed away, leaving me almost light-headed. 
 
 “And this may sound crazy, but I often feel like he’s close by.” Then I chuckled, “I can hear him calling out my name, just like he did on that day. He always sounds…so scared you know, a-and I can hear him, but he always disappears before I can go to him.” I felt like I was in a world of flashbacks, barely noticing the other person. Just watching the memories go by as fresh tears slid down my face. But then I blinked out of my reverie and wiped the tears away. Yet I can’t help but continuing in a broken voice, “I would never reach him in time.” 
 
 I heard Charlie begin to move and I was suddenly scared that he was going to leave me. That he had finally heard enough and didn't want anything to do with me anymore. I didn’t even allow my eyes to follow him, too scared to find out. But then two arms wrapped around my shoulders and pull me slightly against their chest. It felt warm and soothing, making the next words easier to say. 
 
-But he interceded quietly, “It’s okay, you don’t have to force yourself. You don’t need to tell me all at once.” I only shook my head, “I-I need to say this. Because if I don’t say it now, I don’t think anyone will be able to get it out of me.”
+But he interceded quietly, “It’s okay, you don’t have to force yourself. You don’t need to tell me all at once.” I only shook my head, “I-I need to say this. If you stop me now, I might not be able to get it out of me again.”
 
 He only nodded and stayed silent again. 
 
@@ -133,7 +133,9 @@ I nodded along numbly as shame settled into my mind, “That’s what makes all 
 
 It felt surreal to say all of this aloud. Yet somehow, it also felt liberating. I guess the metaphor of sharing your burdens really did lift some off your shoulders. “For such a long time, I've been trying to put up this facade that I was okay. But the guilt is like a *parasite* in my soul. You know, I can’t sleep without reliving a nightmare of him. But in these dreams…he doesn’t just die. S-sometimes, he would appear in my dreams and tell me that I'm a monster. T-that it was all my f-fault.”
 
-He only pulled me into a tighter embrace as a sob racked through my body. “The nightmares. All of these thoughts. That relentless voice…it just gets *loud* sometimes.” I could feel my limbs begin to fall lifelessly forward as I let out a deep and shaky sigh, “It just…it…it becomes too much. All of this…I just…I want it to go away. I want...I want the pain to go away.” Then I started to cry. No, I started to grieve. 
+He only pulled me into a tighter embrace as a sob racked through my body. “The nightmares. All of these thoughts. That relentless voice…it just gets *loud* sometimes.” I could feel my limbs begin to fall lifelessly forward as I let out a deep and shaky sigh, “It just…it…it becomes too much. All of this…I just…I want it to go away. I want...I want the pain to go away.” Then I started to cry. 
+
+No, I started to grieve. 
 
 I felt myself being adjusted so that he could hug me fully and then I began to sob openly into his shoulder. It went on for minutes, maybe even more, but I didn’t care and just let myself mourn. For Grayson, and the loss of a beautiful human being. For myself, who finally acknowledged all of the lost months that had been swept away by the burden of feeling responsible. 
 
@@ -177,7 +179,7 @@ Then I smiled, “I can't feel that right now.”
 
 I shook my head again, “I thought that if I just gave it time, I would be able to feel less…,” I said before exhaling. “But I guess in the end, deep down, I just really didn’t want to be alone in my thoughts. For a while, my mind manifested Grayson to be that person but it only encouraged me to stay in that nightmare.”
 
-Charlie continued to stare deeply into the sunrise. His mind remained in deep thought for a little while before saying, “It will get better Erin. There will be days where you won’t believe that, and that’s okay we will get through this together. But when it does happen…you should come up here and watch this. See that a brand-new day is about to begin. Take a deep breath. Reset. Then start again.”
+Charlie continued to stare deeply into the sunrise. His mind remained in deep thought for a little while before saying, “It will get better Erin. There will be days where you won’t believe that, and that’s okay, we will get through this together. But when it does happen…you should come up here and watch this. See that a brand-new day is about to begin. Take a deep breath. Reset. Then start again.”
 
 I didn’t say much in response, but he knew I understood.
 
