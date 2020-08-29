@@ -3,7 +3,7 @@ templateKey: post
 title: "Solace Part 4: Beyond the Edge"
 label: The Edge
 date: 2020-08-26T19:29:34.753Z
-thumbnail: /images/beyond-the-edge.jpg
+thumbnail: /images/beyond-the-edge-v2.jpg
 tags:
   - stories
   - solace
