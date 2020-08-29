@@ -170,7 +170,7 @@ Because as a friend once told me, we are not always on the driver’s seat of ou
 
 __
 
-We are finally at the end of the series!! As you've probably noticed by now, I created this very long story to reflect the stages of grief that one goes through after losing a loved one. This is just one take on it and people experience grief in different ways but I hope that you enjoyed this journey through Erin's eyes.
+We are finally at the end of the series!! As you've probably noticed by now, I created this very long story to reflect the stages of grief that one goes through after losing a loved one. This is just one take on it and people experience grief in different ways, but I hope that you enjoyed this journey through Erin's eyes.
 
 Comment down below because I'd love to know your thought about the ending :)
 
