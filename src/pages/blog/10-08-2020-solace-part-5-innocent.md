@@ -84,17 +84,17 @@ As I continued down the long road, I began to reminisce about the past couple of
 
 Having someone like Charlie by my side was the antidote I didn’t know I needed. He was able to give me an environment where I could freely examine my thoughts as well as be that someone who would put me back on track when I started to spiral. We would dissect each thought and put every one of them into perspective. So that when the months went by, I slowly stopped asking myself what I could have done differently. My thoughts gradually shifted the question to: will knowing the answer make any real difference? Will it bring him back?
 
-A difficult yet necessary part of grief was accepting this new reality centered around how to live without the guilt of not being able to save him. It felt like my mind was constantly playing tug-a-war and each day, and my mindset would shift opinions all the time. 
+A difficult yet necessary part of grief was accepting this new reality centered around how to live without the guilt of not being able to save him. It felt like my mind was constantly playing tug-a-war each day, and my mindset would shift opinions all the time. 
 
 But then Charlie asked me what Grayson would think if I told him how I felt. And when I thought about it, when I *really* thought about it, I knew that everything I was feeling, all the guilt I was experiencing, Grayson would tell me that it wasn’t my fault. Even though I could never ask, I just had a strong feeling that he would say those exact words. Despite the many nightmares that told me otherwise, I couldn’t ever imagine Grayson telling me those things. 
 
 Deep down, I knew that my own mind was only using guilt as a coping mechanism with how hopelessly out of control I felt. Subconsciously, holding on to the guilt created an inkling of hope that I could have done something to change what had happened. It was somehow easier to consider and understand than trying to accept that I would've never been able to stop it. That I was never in control to begin with.
 
-Charlie was the one who showed me the perspective that I was too closed off to think about. Sometimes, I would think about how things would turn out if he wasn’t persistent. 
+Charlie was the one who showed me the perspective that I was too closed off to think about. Sometimes, I would think about how things would've turned out if he wasn’t persistent. 
 
 If he didn’t care to listen.
 
-But the thought only lingered for a second before disappearing. I've been trying my best to stop thinking about the “what-ifs” these days. It was a dangerous game that I no longer wanted to participate in. 
+But the thought only lingered for a second before disappearing. I'd been trying my best to stop thinking about the “what-ifs” these days. It was a dangerous game that I no longer wanted to participate in. 
 
 So, by the time I made it to the cemetery, those thoughts were cleared away. It was an easy task to accomplish with the mesmerizing view in front of me. The sun was beginning to set, and it brought out the assembly of colors across the grassland.
 
@@ -110,7 +110,7 @@ I carefully organized their flowers again, as some had blown away from the wind,
 
 “But I guess losing your best friend and visiting their grave isn’t the most common thing.”
 
-It was more difficult than I thought, trying to hold up a one-sided conversation, when a part of my mind expected to hear his voice again. It almost my eyes prickle, but I forced those emotions down. If there was a chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
+It was more difficult than I thought, trying to hold up a one-sided conversation, when a part of my mind expected to hear his voice again. It almost made my eyes prickle, but I forced those emotions down. If there was a chance that Grayson could see me, I didn’t want him to see me cry. If he could see me, I would only want him to hold happy memories with the two of us.
 
 So, I tried to smile instead. “They painted this beautiful mural in memory of you and the other people that passed away. I think that you would have liked the picture that I picked out. Um…your mom actually invited me over and she wanted me to choose a picture. She even took out all of your baby photos to show me!”
 
@@ -144,11 +144,11 @@ But I just scoffed. “Yeah, yeah okay. But you were going to go off on your ‘
 
 He just laughed again. “That’s a pity…I’ve been rehearsing it all day long. But I guess if you knew that it was coming, it wouldn’t have been that fun anyways.”
 
-I stopped myself from rolling my eyes again but couldn’t help but continue to banter. “I would have hung up before the second word came out of your mouth.”
+I stopped myself from rolling my eyes again but couldn’t help but continue the banter. “I would have hung up before the second word came out of your mouth.”
 
 “Alright, alright fine,” he said before returning back to a more thoughtful voice. “If you’re not busy tomorrow, it’d be great to meet up and go someplace fun. I haven't had the chance to relax after my last exam and I still feel like a hermit.”
 
-I agreed happily and we spent the next little while deciding on tomorrow’s plans before I put my phone back in my pocket. Then I reached for the clear vase hidden at the back on the cabinet and washed it clean before filling it with water. The silence was comfortable tonight and it was nice to just lean against the counter and embrace it.
+I agreed happily and we spent the next little while deciding on tomorrow’s plans before I put my phone back in my pocket. Then I hopped down and reached for the clear vase hidden at the back of the cabinet before filling it with water. The silence was comfortable tonight and it was nice to just lean against the counter and embrace it.
 
 Then I put the flowers into the vase and brought it over to the rounded table near the balcony window. After taking a seat as well, my mind swiftly recalled the past day while staring at the white petals in front of me. It was a habit that I started to exercise so that when my mood took a turn, I would be able to examine where the day turned sour and find out why.
 
@@ -160,9 +160,9 @@ It just becomes more bearable.
 
 I could never really explain how it feels when people ask. It would be like describing the meaning behind an abstract painting to someone who had never seen it. Yet, as I observed the bouquet of peonies in front of me, a certain connection came to me. 
 
-Just like a flower, sometimes a petal will wilt. It will begin to shrivel and darken. But after a couple of days, the petal will start to heal again. Because with a little bit of care, a little bit of love, it will start to grow and flourish again. That’s how I would describe the pain. Some days, it’s more painful and the world feels darker. But you learn how to continue living with it. You learn to fight back because it’s the only way to not let it kill you. And as you experience more and more peaks and trenches, the world will to begin feel brighter and the pain will start to lose its power.
+Just like a flower, sometimes a petal will wilt. It will begin to shrivel and darken. But after a couple of days, the petal will start to heal. Because with a little bit of care, a little bit of love, it will start to grow and flourish again. That’s how I would describe the pain. Some days, it’s more painful and the world feels darker. But you learn how to continue living with it. You learn to fight back because it’s the only way to not let it kill you. And as you experience more and more peaks and trenches, the world will begin to feel brighter and the pain will start to lose its power.
 
-Sometimes, I’d wonder if I’ll be able to avoid the pain the next time around.
+Sometimes, I’d wonder if I’ll be able to avoid it the next time around.
 
 But each time I think about it, a part of my mind would challenge it.
 
