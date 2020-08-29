@@ -14,9 +14,9 @@ __
 
 \~ 1 year after his death \~
 
-It was late afternoon by the time I walked up the hill and reached the petite floral shop situated at the crest of a steep hill. One of my friends had told me about the place and said that it was like a hidden gem lost in the sea of this city. She went on and on about how beautiful the view was from up there and that despite looks, the owner was incredibly intuitive and seemed to have the ability of “reading into your soul”.
+It was late afternoon by the time I walked up the hill and reached the petite floral shop situated at the crest of a steep hill. One of my friends had told me about the place and said that it was like a hidden gem lost in the sea of this city. She went on and on about how beautiful the view was from up here and that despite looks, the owner was incredibly intuitive and seemed to have the ability of “reading into your soul”.
 
-Well, so far, she had been right about one thing. It was one hell of a view. Glancing back, I could see the entire city’s landscape scattered in tiny shapes. While looking ahead, the ocean was sparkling beautifully. I stared at the scenery for a while, capturing the view with my eyes, before reaching for the door handle and opening the door. Despite a bell ringing when I did, no one was found behind the counter. So I spent the first few moments looking around the place, and there were all kinds of lovely, unfamiliar flowers.
+Well, so far, she had been right about one thing. It was one hell of a view. Glancing back, I could see the entire city’s landscape scattered in tiny shapes. While looking ahead, the ocean was sparkling beautifully. I stared at the scenery for a while, capturing the view with my eyes, before reaching for the door handle and opening the door. Despite a bell ringing when I did, no one was found behind the counter. So I spent the first few moments looking around the place, and there were all kinds of lovely, unfamiliar flowers around.
 
 Then, I heard the squeal of a door opening from behind the counter and my eyes watched an old man with large circular spectacles walk in with a crate. It was filled with small pots in all different pastel colors. His eyes widened when he saw me, and he quickly greeted me with a warm smile before apologizing for not being here a few moments ago.
 
@@ -50,15 +50,15 @@ The old man nodded solemnly in acknowledgment. “This is going to be your first
 
 I nodded. “The last time was for his funeral. I just…never found the right time to see him again.” It felt odd not telling him the full truth, but he didn’t push me to tell more and only told me that my friend will be happy to see me again.
 
-Afterward, I told him that I would take a bouquet of those two flowers. And while I waited, I walked around the store and watched the sunlight rays shine through the store window. They casted a beautiful glow over the flowers. It was also incredibly peaceful. The tranquillity that I felt was surreally different for the busy city noise that would echo in my ear all the time.
+Afterward, I told him that I would take a bouquet of those two flowers. And while I waited, I walked around the store and watched the sunlight rays shine through the store window. They had cast a beautiful glow over the flowers. It was also incredibly peaceful. The tranquillity that I felt was surreally different from the busy city noise that would echo in my ear all the time.
 
-Before I knew it, the old man was finished. I went over to the counter and paid for the pink and white arrangement that was placed in a beautiful design. They were also placed over wires so that it could be set on top of a headstone. I was staring at them in silent awe that I almost didn’t notice another bouquet of flowers being pushed in front of me. They were white flowers and wrapped in traditional bouquet style.
+Before I knew it, the old man was finished. I went over to the counter and paid for the pink and white arrangement that was placed in a beautiful design. They were also placed over wires so that it could be set on top of a headstone. I was staring at them in silent awe that I almost didn’t notice another bouquet of flowers being pushed in front of me. They were white flowers and wrapped in a traditional bouquet style.
 
 Before I could say anything, he spoke. “Take this as a gift. These are peonies. They used to be recognized for their healing powers, but they are also very beautiful.” Then he paused to sigh, “I know the pain that comes from loss, and people often never think to buy flowers for themselves. But take this from someone who is literally surrounded by these beauties all day long, it has the powers to heal the deep wounds in your soul.”
 
 I felt like an open book on display when he spoke those words. But it didn’t feel frightening anymore. What he said only made me feel understood. It made me realize that the pain I endured was recognized and until this moment, I didn’t realize how much I needed to feel that sort of compassion.
 
-___
+- - -
 
 This would have been the third time I had walked on this street in the past year. I could have easily found a detour, but instead, my mind insisted that I visited the place again. The place that changed everything forever.
 
@@ -72,13 +72,13 @@ The painting was referenced from a picture that I chose when the idea was expres
 
 Seeing it again in daylight didn’t make it hurt any less, but the feeling was also different. The pain was often mixed with frustration, guilt, or shock. But this time, it just felt…different. 
 
-Perhaps, it was because I stopped trying to always imagine what it would've been like if he'd been alive. I just stopped putting those thoughts in my head. Instead, as these past few months had gone by, I started to live this new reality where I *had* toaccept how different it would be without him.
+Perhaps, it was because I stopped trying to always imagine what it would've been like if he'd been alive. I just stopped putting those thoughts in my head. Instead, as these past few months had gone by, I started to live this new reality where I had to accept how different it would be without him.
 
 My fingers slowly traced over the outline of his painting before I decided to pull out one of the pink carnations from the arrangement and lean it against the wall. The colors on the flower were bright and alive, standing out brilliantly from the rest of them. The sight made me smile when I thought of how similar it was to Grayson. He always had a natural charisma and spirit that could stand out from any crowd.
 
 Then, I took one last look at it all, before continuing down the street again.
 
-___
+- - -
 
 As I continued down the long road, I began to reminisce about the past couple of months. In the beginning, the year felt like it was passing by excruciatingly slowly. While in these last few months, the days didn't feel as dreadful. And I could say without a shred of doubt that shaking myself out of that guilt-driven nightmare was not accomplished alone.
 
@@ -126,7 +126,7 @@ Afterward, I spent the rest of my time reminiscing the past with him. I retold s
 
 I didn’t believe that I could ever do that again.
 
-___
+- - -
 
 The automatic lights turned on as I closed the apartment door behind me. It must have been nine in the evening since the sun had gone down completely by the time I had made it back here. Being in this place during these past few months had gradually gotten easier. Ever since I took Charlie's advice on doing a thorough clean up, it looked a lot more lived-in. The change even did wonders on my mental space.
 
