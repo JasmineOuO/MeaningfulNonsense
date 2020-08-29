@@ -2,7 +2,7 @@
 templateKey: post
 title: "Solace Part 5: Innocent"
 label: Innocent
-date: 2020-08-10T21:51:09.232Z
+date: 2020-08-29T18:18:15.598Z
 thumbnail: /images/innocent.jpg
 tags:
   - solace
@@ -167,5 +167,11 @@ Sometimes, I’d wonder if I’ll be able to avoid it the next time around.
 But each time I think about it, a part of my mind would challenge it.
 
 Because as a friend once told me, we are not always on the driver’s seat of our life. So, no matter how much we try to fight for control, many of the times we are just innocent victims broken down by uncontrollable variables. So, the answer is most likely no. This feeling, this pain, may never truly go away. But when it does come, you’ll be prepared to endure it. You’ll know how to fight it. So that the next time around, you’ll learn how to live beyond it.
+
+__
+
+We are finally at the end of the series!! As you've probably noticed by now, I created this very long story to reflect the stages of grief that one goes through after losing a loved one. This is just one take on it and people experience grief in different ways but I hope that you enjoyed this journey through Erin's eyes.
+
+Comment down below because I'd love to know your thought about the ending :)
 
 <!--EndFragment-->
