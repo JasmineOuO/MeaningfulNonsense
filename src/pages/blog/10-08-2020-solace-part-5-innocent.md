@@ -3,7 +3,7 @@ templateKey: post
 title: "Solace Part 5: Innocent"
 label: Innocent
 date: 2020-08-29T18:18:15.598Z
-thumbnail: /images/innocent.jpg
+thumbnail: /images/innocent-v2.jpg
 tags:
   - solace
   - stories
