@@ -54,7 +54,7 @@
     "redux": "^3.7.2",
     "rimraf": "^2.6.3",
     "seamless-immutable": "^7.1.4",
-    "sharp": "^0.21.3",
+    "sharp": "^0.30.5",
     "typeface-bentham": "0.0.72",
     "typeface-cutive-mono": "0.0.72",
     "typeface-dancing-script": "0.0.72",
